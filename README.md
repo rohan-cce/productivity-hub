@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 2 Days (13/02/2023 to 14/02/2023)
+Learning Progress Till Now -> 3 Days (13/02/2023 to 15/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 3</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> What is Amazon Web Services? AWS Explained](https://www.youtube.com/watch?v=BSGcQi2WNPg&list=PLfqMhTWNBTe3tN0oKkw_4XojqliD5GA4c)
+- ✔️ Chess.com 
+  - ✔️ Solved Some Puzzles
+  - ✔️ Played Puzzle Rush
+  - ✔️ Solved Daily Puzzle
+  - ✔️ Played puzzle battle with random person
+- 🤨[Case study ~ "Gillette's Billion Dollar Business Strategy that kept it relevant for 120 years"](https://www.youtube.com/watch?v=YRYLPeWCOP0&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What tech companies don’t want you to know about layoffs"](https://finshots.in/archive/tech-company-layoffs/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [Chapter 3 -> Market Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+  
+</p></details>
 <details><summary><u>Day 2</u></summary><p>
 
 - 💻 Technical Learning
@@ -12,11 +29,11 @@ Learning Progress Till Now -> 2 Days (13/02/2023 to 14/02/2023)
   - ✔️ Played puzzle battle with random person
 - 🤨[Case study ~ "Singapore Budget 2023 Wishlist: How Can Business Get On Top Of Rising Costs?"](https://www.youtube.com/watch?v=-2QKAoo8TqM)
 - 📖📈 Book reading
-  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
 - 👂🏻 [Watched a Youtube video "South Korean startup launches AI Chip"](https://www.youtube.com/watch?v=8l1cFDfZ4aY)
 - 💰📈 [Finshots (financial news) ~ "ECONOMY - Phillips Curve Conundrum"](https://finshots.in/archive/the-phillips-curve-problem-for-central-banks/)
 - 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
-  - 💰📈 [Regulators, the guardians of capital markets](https://zerodha.com/varsity/chapter/regulators/)
+  - 💰📈 [Chapter 2 -> Regulators, the guardians of capital markets](https://zerodha.com/varsity/chapter/regulators/)
   
 </p></details>
 <details><summary><u>Day 1</u></summary><p>
@@ -34,7 +51,7 @@ Learning Progress Till Now -> 2 Days (13/02/2023 to 14/02/2023)
 - 👂🏻 [Watched a Youtube video "Renault Nissan alliance to invest $600 million in India | Latest News"](https://www.youtube.com/watch?v=jp3fgEOnA54)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - Is the angel tax back?"](https://finshots.in/archive/is-the-angel-tax-back/)
 - 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
-  - 💰📈 [The Need to Invest](https://zerodha.com/varsity/chapter/the-need-to-invest/)
+  - 💰📈 [Chapter 1 -> The Need to Invest](https://zerodha.com/varsity/chapter/the-need-to-invest/)
   
 </p></details>
 </p></details>
