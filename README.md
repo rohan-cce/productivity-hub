@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 3 Days (13/02/2023 to 15/02/2023)
+Learning Progress Till Now -> 4 Days (13/02/2023 to 16/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 4</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> Why Every Backend Developer Should Know About System Architecture](https://medium.com/@vishalteotia_/why-every-backend-developer-should-know-about-system-architecture-d6e61b8b05a8)
+- ✔️ Chess.com 
+  - ✔️ Solved Some Puzzles
+  - ✔️ Played Puzzle Rush
+  - ✔️ Solved Daily Puzzle
+  - ✔️ Played puzzle battle with random person
+- 🤨[Case study ~ "Kotak's Crazy Growth Strategy "](https://www.youtube.com/shorts/SvTpnXX0jwA)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The problem with the Microsoft-Activision Blizzard merger"](https://finshots.in/archive/the-problem-with-the-microsoft-activision-blizzard-merger/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [Chapter 3 -> Market Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+  
+</p></details>
 <details><summary><u>Day 3</u></summary><p>
 
 - 💻 Technical Learning
