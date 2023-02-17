@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 4 Days (13/02/2023 to 16/02/2023)
+Learning Progress Till Now -> 5 Days (13/02/2023 to 17/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 5</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> Seven things I have learned after 1000 Leetcode challenges](https://medium.com/@stefanel_stan/seven-things-i-have-learned-after-1000-leetcode-challenges-af43edc7e841)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles]()
+  - ✔️ [Played Puzzle Rush](rohan-cce/productivity-hub/images/chess/D1-D50/d5chs2.png)
+  - ✔️ [Played puzzle battle with random person]()
+  - ✔️ [Solved Daily Puzzle]()
+- 🤨[Case study ~ "GOLD destroying Indian economy?"](https://www.youtube.com/shorts/szSEAm3mfWo)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Egypt to sell state assets on Dollar crunch"](https://www.youtube.com/watch?v=MAxSYUvfmIk)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Can India become a Lithium Superpower?"](https://finshots.in/archive/will-india-be-a-lithium-superpower/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [Chapter 3 -> Market Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+  
+</p></details>
 <details><summary><u>Day 4</u></summary><p>
 
 - 💻 Technical Learning
