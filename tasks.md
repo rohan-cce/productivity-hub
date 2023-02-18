@@ -1,15 +1,31 @@
 # productivity-hub
-Learning Progress Till Now -> 5 Days (13/02/2023 to 17/02/2023)
+Learning Progress Till Now -> 6 Days (13/02/2023 to 18/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 6</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> how it works? -> UPI](https://medium.com/authncapture/43-upi-607ac244da59)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d5chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d6chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d6chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d6chs4.png)
+- 🤨[Case study ~ "How Millions Of Jeans Get Recycled Into New Pairs | World Wide Waste | Insider Business"](https://www.youtube.com/watch?v=hV_-yJ6NiP8)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Indian drone startups soar to new heights at Aero India 2023"](https://www.youtube.com/watch?v=-EB8JQx3wPY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Want a FAB!O? Oops, we meant OREO?"](https://finshots.in/archive/want-a-fab-o-oops-we-meant-oreo/)
+
+</p></details>
 <details><summary><u>Day 5</u></summary><p>
 
 - 💻 Technical Learning
   - 💻 [Blog read -> Seven things I have learned after 1000 Leetcode challenges](https://medium.com/@stefanel_stan/seven-things-i-have-learned-after-1000-leetcode-challenges-af43edc7e841)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles]()
-  - ✔️ [Played Puzzle Rush](rohan-cce/productivity-hub/images/chess/D1-D50/d5chs2.png)
-  - ✔️ [Played puzzle battle with random person]()
-  - ✔️ [Solved Daily Puzzle]()
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d5chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d5chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d5chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d5chs4.png)
 - 🤨[Case study ~ "GOLD destroying Indian economy?"](https://www.youtube.com/shorts/szSEAm3mfWo)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
