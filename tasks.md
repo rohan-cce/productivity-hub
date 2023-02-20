@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 7 Days (13/02/2023 to 19/02/2023)
+Learning Progress Till Now -> 8 Days (13/02/2023 to 20/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 8</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d8chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d8chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d8chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d8chs4.png)
+- 🤨[Case study ~ "How Singapore Airlines Makes 50,000 In-Flight Meals A Day "](https://www.youtube.com/watch?v=b7YgXassC3c)
+- 👂🏻 [Watched a Youtube video "India's Forex Reserves fall biggest in 11 months"](https://www.youtube.com/watch?v=hfppKY5Kyxg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Adani-Hindenburg, a billion-dollar detergent and the story of Scotch Whisky"](https://finshots.in/archive/adani-hindenburg-sunny-side-up/)
+
+</p></details>
 <details><summary><u>Day 7</u></summary><p>
 
 - 💻 Technical Learning
