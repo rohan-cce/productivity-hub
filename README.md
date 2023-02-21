@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 8 Days (13/02/2023 to 20/02/2023)
+Learning Progress Till Now -> 9 Days (13/02/2023 to 21/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 9</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> Load Balancers](https://medium.com/@iamsantoshmishra/load-balancers-11281e314199)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d9chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d9chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d9chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d9chs4.png)
+- 🤨[Case study ~ "How Used Hotel Soap Gets Recycled Into Brand New Bars | World Wide Waste | Insider Business"](https://www.youtube.com/watch?v=6qJV34pcOaw)
+- 👂🏻 [Watched a Youtube video "India, Singapore PMs Launch First-Of-Its-Kind Linkage Of Real-Time Payments Systems"](https://www.youtube.com/watch?v=OB-JU_u4_Bc)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 💰📈 [Finshots ~ "BUSINESS - What's wrong with e-pharmacies?"](https://finshots.in/archive/whats-wrong-with-e-pharmacies/)
+
+</p></details>
 <details><summary><u>Day 8</u></summary><p>
 
 - ✔️ Chess.com 
