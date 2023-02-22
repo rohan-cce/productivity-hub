@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 9 Days (13/02/2023 to 21/02/2023)
+Learning Progress Till Now -> 10 Days (13/02/2023 to 22/02/2023)
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
+<details><summary><u>Day 10</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> UPI Lite](https://medium.com/authncapture/73-upi-lite-d002ea05864d)
+  - 💻 [DSA -> What is an Algorithm?](https://www.programiz.com/dsa/algorithm)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d10chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d10chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d10chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d10chs4.png)
+- 🤨[Case study ~ "Are Chinese Loans destabilizing Africa? | Africa's Debt Exceeds $700 Bn"](https://www.youtube.com/watch?v=-7x1TJLtR6U)
+- 👂🏻 [Watched a Youtube video "The Tesla Competitor Dominating China’s EV Market | U.S. vs. China "](https://www.youtube.com/watch?v=6bTMAkd-EJc)
+- 💰📈 [Finshots ~ "POLICY - Can forever chemicals last forever?"](https://finshots.in/archive/can-forever-chemicals-last-forever/)
+
+</p></details>
 <details><summary><u>Day 9</u></summary><p>
 
 - 💻 Technical Learning
