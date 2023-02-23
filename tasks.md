@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 10 Days (13/02/2023 to 22/02/2023)
+Learning Progress Till Now -> 11 Days (13/02/2023 to 23/02/2023)
+<details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 11</u></summary><p>
+
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d101chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs4.png)
+- 🤨[Case study ~ "Explained: What does CCI's order to Google mean to the sale of Android phones?"](https://www.youtube.com/watch?v=gDwvGDq4cNc)
+- 👂🏻 [Watched a Youtube video "South Korea Bids To Lead Global 6G Race"](https://www.youtube.com/watch?v=5p3-gseWkrY)
+- 💰📈 [Finshots ~ "BUSINESS - An explainer on Transfer Pricing](https://finshots.in/archive/an-explainer-on-transfer-pricing/)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 1 - Day 10 ~ February 13, 2023 - February 22, 2023</u></summary><p>
 <details><summary><u>Day 10</u></summary><p>
 
