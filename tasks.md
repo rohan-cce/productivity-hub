@@ -1,8 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 11 Days (13/02/2023 to 23/02/2023)
+Learning Progress Till Now -> 12 Days (13/02/2023 to 24/02/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
-<details><summary><u>Day 11</u></summary><p>
+<details><summary><u>Day 12</u></summary><p>
 
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs4.png)
+- 🤨[Case study ~ "Is your Android phone about to get costlier? Google-CCI row explained"](https://www.youtube.com/watch?v=xdJ3gaDa_JA)
+- 👂🏻 [Watched a Youtube video "Why are shelves empty in the UK?"](https://www.youtube.com/watch?v=5ATqPALl7_c)
+- 💰📈 [Finshots ~ "BUSINESS - An explainer on Transfer Pricing"](https://finshots.in/archive/an-explainer-on-transfer-pricing/)
+</p></details>
+<details><summary><u>Day 11</u></summary><p>
 
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d101chs1.png)
