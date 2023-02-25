@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 12 Days (13/02/2023 to 24/02/2023)
+Learning Progress Till Now -> 13 Days (13/02/2023 to 25/02/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 13</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs4.png)
+- 🤨[Case study ~ "How Bricks Made From Trash Help Build Schools In Ivory Coast"](https://www.youtube.com/watch?v=kB-_BBMCq1g)
+- 👂🏻 [Watched a Youtube video "Virtual Reality In A Tribunal. Colombia Tests A Court Hearing in The Metaverse"](https://www.youtube.com/watch?v=KIUmJkAq-qg)
+- 💰📈 [Finshots ~ "BUSINESS - A court case that could change the internet forever?"](https://finshots.in/archive/the-story-of-section-230/)
+</p></details>
 <details><summary><u>Day 12</u></summary><p>
 
 - ✔️ Chess.com 
