@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 13 Days (13/02/2023 to 25/02/2023)
+Learning Progress Till Now -> 14 Days (13/02/2023 to 26/02/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 14</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> UPI Lite](https://medium.com/authncapture/73-upi-lite-d002ea05864d)
+  - 💻 [DSA -> What is an Algorithm?](https://www.programiz.com/dsa/algorithm)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "How Domino's Became The World's Biggest Pizza Chain"](https://www.youtube.com/watch?v=yEnDZcX3xc8)
+- 👂🏻 [Watched a Youtube video "Meta rolls out new AI language model, steps up Chatbot buzz "](https://www.youtube.com/watch?v=FZ06NZcshC4)
+- 💰📈 [Finshots ~ "BUSINESS - The quick death of quick commerce?"](https://finshots.in/archive/the-quick-death-of-quick-commerce/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [Chapter 3 -> Market Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+  
 <details><summary><u>Day 13</u></summary><p>
 
 - ✔️ Chess.com 
