@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 14 Days (13/02/2023 to 26/02/2023)
+Learning Progress Till Now -> 15 Days (13/02/2023 to 27/02/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 15</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [Blog read -> Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+  - 💻 [DSA -> Data Structure and Types](https://www.programiz.com/dsa/data-structure-types)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Why McDonald’s Is Thriving In China"](https://www.youtube.com/watch?v=dD5ac-e2SO8)
+- 👂🏻 [Watched a Youtube video "Meet 8 Young Founders Turning Trash Into Cash | World Wide Waste"](https://www.youtube.com/watch?v=_XTYv-AP4Jk)
+- 💰📈 [Finshots ~ "Sunny Side Up 🍳: Instamart’s real fake marketing, hawala gold & the story of trams"](https://finshots.in/archive/sunny-side-up-instamarts-real-fake-marketing-hawala-gold-and-the-story-of-trams/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [Chapter 3 -> Market Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+  
+</p></details>
 <details><summary><u>Day 14</u></summary><p>
 
 - 💻 Technical Learning
