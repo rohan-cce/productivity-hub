@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 15 Days (13/02/2023 to 27/02/2023)
+Learning Progress Till Now -> 16 Days (13/02/2023 to 28/02/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 16</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs4.png)
+- 🤨[Case study ~ "The poles are warming up!"](https://www.youtube.com/watch?v=07VZ21b_kWA)
+- 👂🏻 [Watched a Youtube video "Nokia's new entry-level repairable phone"](https://www.youtube.com/watch?v=NDU7wKAs3M4)
+- 💰📈 [Finshots ~ "ECONOMY - Understanding Pakistan’s economic crisis"](https://finshots.in/archive/pakistans-economic-crisis/)
+
+</p></details>
 <details><summary><u>Day 15</u></summary><p>
 
 - 💻 Technical Learning
