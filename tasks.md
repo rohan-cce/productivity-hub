@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 16 Days (13/02/2023 to 28/02/2023)
+Learning Progress Till Now -> 17 Days (13/02/2023 to 01/03/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 17</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs4.png)
+- 🤨[Case study ~ "Why Architects Put Trees on Buildings"](https://www.youtube.com/watch?v=wFNDfSa7Ak8)
+- 👂🏻 [Watched a Youtube video "Environmental impact of Nord stream leaks | WION Climate Tracker"](https://www.youtube.com/watch?v=0B7XRWbCw6A)
+- 💰📈 [Finshots ~ "BUSINESS - How FreeDish is killing Cable and DTH"](https://finshots.in/archive/how-freedish-is-killing-cable-and-dth/)
+
+</p></details>
 <details><summary><u>Day 16</u></summary><p>
 
 - ✔️ Chess.com 
