@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 17 Days (13/02/2023 to 01/03/2023)
+Learning Progress Till Now -> 18 Days (13/02/2023 to 02/03/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 18</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs4.png)
+- 🤨[Case study ~ "Can Indian Seaweed Replace Plastic? | World Wide Waste"](https://www.youtube.com/watch?v=-mzNkl9RQvI)
+- 👂🏻 [Watched a Youtube video "Will Chinese AI be better than ChatGPT?"](https://www.youtube.com/watch?v=HhBpCJSXsTA)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - The debate over stock buybacks"](https://finshots.in/archive/the-debate-over-stock-buybacks/)
+
+</p></details>
 <details><summary><u>Day 17</u></summary><p>
 
 - ✔️ Chess.com 
