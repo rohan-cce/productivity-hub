@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 18 Days (13/02/2023 to 02/03/2023)
+Learning Progress Till Now -> 19 Days (13/02/2023 to 03/03/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 19</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Why Learn Data Structures and Algorithms?](https://www.programiz.com/dsa/why-algorithms)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs4.png)
+- 🤨[Case study ~ "How Big Oil More Than Doubled Their Profits In 2022"](https://www.youtube.com/watch?v=7KleWiR2-G0)
+- 👂🏻 [Watched a Youtube video "2022: Record-breaking carbon emissions as more countries switch to coal"](https://www.youtube.com/watch?v=lZPJJ-g0vyM)
+- 💰📈 [Finshots ~ "POLICY - An export visa for Goan Feni?"](https://finshots.in/archive/the-story-of-goan-feni/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [The IPO Markets (Part 1)](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
+  
+</p></details>
 <details><summary><u>Day 18</u></summary><p>
 
 - ✔️ Chess.com 
