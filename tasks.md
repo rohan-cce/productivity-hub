@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 19 Days (13/02/2023 to 03/03/2023)
+Learning Progress Till Now -> 20 Days (13/02/2023 to 04/03/2023)
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
+<details><summary><u>Day 20</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Asymptotic Analysis: Big-O Notation and More](https://www.programiz.com/dsa/asymptotic-notations)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Turning privacy into profit: Is data the death of democracy? | Business Beyond"](https://www.youtube.com/watch?v=OfNjRj4wWAg)
+- 👂🏻 [Watched a Youtube video "What is actual application of AI by businesses"](https://www.youtube.com/watch?v=JNzzSonysAs)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Axis Mutual Fund Saga: Why do some people cheat?"](https://finshots.in/archive/axis-mutual-fund-saga-explained/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [The IPO Markets (Part 2)](https://zerodha.com/varsity/chapter/the-ipo-markets-part-2/)
+  
+</p></details>
 <details><summary><u>Day 19</u></summary><p>
 
 - 💻 Technical Learning
