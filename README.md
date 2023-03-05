@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 20 Days (13/02/2023 to 04/03/2023)
+Learning Progress Till Now -> 201 Days (13/02/2023 to 05/03/2023)
+<details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 21</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs4.png)
+- 🤨[Case study ~ "Inside Sri Lanka’s Deadly Underground Mines Filled With Rare Jewels"](https://www.youtube.com/watch?v=z2JEulhxcns)
+- 👂🏻 [Watched a Youtube video "Bengaluru's civic agency doesn't pay its garbage collectors. Who does?"](https://www.youtube.com/watch?v=XC6UAW2QXVI)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Brand Colours and Their Hidden Meanings](https://finshots.in/infographic/brand-colours-and-their-hidden-meaning/)
+  
+</p></details>
+</p></details>
+
 <details><summary><u>Day 11 - Day 20 ~ February 23, 2023 - March 04, 2023</u></summary><p>
 <details><summary><u>Day 20</u></summary><p>
 
