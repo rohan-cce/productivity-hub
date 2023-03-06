@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 201 Days (13/02/2023 to 05/03/2023)
+Learning Progress Till Now -> 22 Days (13/02/2023 to 06/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 22</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d212hs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs4.png)
+- 🤨[Case study ~ "Does The Tesla Semi Live Up To The Hype?"](https://www.youtube.com/watch?v=l-BVM673pDs)
+- 👂🏻 [Watched a Youtube video "Gravitas Plus: Pakistan's Economic Crisis Explained"](https://www.youtube.com/watch?v=bCuQJEy3JA8)
+- 💰📈 [Finshots ~ "ECONOMY - An explainer on El Niño"](https://finshots.in/archive/what-is-el-nino/)
+  
+</p></details>
 <details><summary><u>Day 21</u></summary><p>
 
 - ✔️ Chess.com 
