@@ -1,10 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 22 Days (13/02/2023 to 06/03/2023)
+Learning Progress Till Now -> 23 Days (13/02/2023 to 07/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 23</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs4.png)
+- 🤨[Case study ~ "What's behind the vegetable shortages in the UK "](https://www.youtube.com/watch?v=0c4uNZKxG6M)
+- 👂🏻 [Watched a Youtube video "Twitter Revenue Drops 40% After Elon Musk's Buyout"](https://www.youtube.com/watch?v=hzPQWKgn8Go)
+- 💰📈 [Finshots ~ "BUSINESS - 3 things from the Blume Ventures report"](https://finshots.in/archive/blume-report-analysis/)
+  
+</p></details>
 <details><summary><u>Day 22</u></summary><p>
 
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d212hs1.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs3.png1)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs4.png)
