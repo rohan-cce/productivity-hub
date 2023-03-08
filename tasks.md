@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 23 Days (13/02/2023 to 07/03/2023)
+Learning Progress Till Now -> 24 Days (13/02/2023 to 08/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 24</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Master Theorem](https://www.programiz.com/dsa/master-theorem)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Why Single-Origin Coffee Is So Expensive"](https://www.youtube.com/watch?v=Dmpnrtey3YU)
+- 👂🏻 [Watched a Youtube video "India's Rush For Luxurious Lifestyle | Luxury Housing Market Boom"](https://www.youtube.com/watch?v=Fca5CyH5bu0)
+- 💰📈 [Finshots ~ "MARKETS - How to avoid a YouTube pump and dump"](https://finshots.in/markets/how-to-avoid-a-youtube-pump-and-dump/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [The IPO Markets (Part 2)](https://zerodha.com/varsity/chapter/the-ipo-markets-part-2/)
+  
+</p></details>
 <details><summary><u>Day 23</u></summary><p>
 
 - ✔️ Chess.com 
