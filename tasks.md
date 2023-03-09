@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 24 Days (13/02/2023 to 08/03/2023)
+Learning Progress Till Now -> 25 Days (13/02/2023 to 09/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 25</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs4.png)
+- 💰📈 [Finshots ~ "POLICY - The Jan Aushadhi Revolution?"](https://finshots.in/archive/the-jan-aushadhi-revolution/)
+  
+</p></details>
 <details><summary><u>Day 24</u></summary><p>
 
 - 💻 Technical Learning
