@@ -1,13 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 25 Days (13/02/2023 to 09/03/2023)
+Learning Progress Till Now -> 26 Days (13/02/2023 to 10/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 26</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs4.png)
+- 🤨[Case study ~ "Can anything challenge the almighty dollar's dominance?"](https://www.youtube.com/watch?v=m7CvPewbTyQ)
+- 👂🏻 [Watched a Youtube video "How A Japanese Mega-Kitchen Prepares Thousands Of School Lunches Everyday"](https://www.youtube.com/watch?v=ITzRFAfJsLA)
+- 💰📈 [Finshots ~ "ECONOMY - The Yield Curve is Scaring Everyone"](https://finshots.in/archive/the-yield-curve-is-scaring-everyone/)
+  
+</p></details>
 <details><summary><u>Day 25</u></summary><p>
 
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs4.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs4.png)
 - 💰📈 [Finshots ~ "POLICY - The Jan Aushadhi Revolution?"](https://finshots.in/archive/the-jan-aushadhi-revolution/)
   
 </p></details>
