@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 26 Days (13/02/2023 to 10/03/2023)
+Learning Progress Till Now -> 27 Days (13/02/2023 to 11/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 27</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs4.png)
+- 💰📈 [Finshots ~ "MARKETS - India’s love for fried chicken?"](https://finshots.in/markets/the-fried-chicken-story/)
+  
+</p></details>
 <details><summary><u>Day 26</u></summary><p>
 
 - ✔️ Chess.com 
