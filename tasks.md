@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 27 Days (13/02/2023 to 11/03/2023)
+Learning Progress Till Now -> 28 Days (13/02/2023 to 12/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 28</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs4.png)
+- 🤨[Case study ~ "How the failure of US banks will impact India | Silicon Vally Bank (#SVB) Crisis Explained"](https://www.youtube.com/watch?v=9U4wRZ7y7lI)
+- 👂🏻 [Watched a Youtube video "Shivaram Karanth Layout: How this project by Bengaluru Development Authority is a threat to farmers"](https://www.youtube.com/watch?v=enTbWR1Xw9k)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Tata’s Business Empire! 🤯"](https://finshots.in/infographic/tatas-business-empire/)
+  
+</p></details>
 <details><summary><u>Day 27</u></summary><p>
 
 - ✔️ Chess.com 
