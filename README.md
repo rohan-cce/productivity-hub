@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 28 Days (13/02/2023 to 12/03/2023)
+Learning Progress Till Now -> 29 Days (13/02/2023 to 13/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 29</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs4.png)
+- 💰📈 [Finshots ~ "BUSINESS - The Death of Silicon Valley Bank](https://finshots.in/archive/the-death-of-silicon-valley-bank/)
+  
+</p></details>
 <details><summary><u>Day 28</u></summary><p>
 
 - ✔️ Chess.com 
