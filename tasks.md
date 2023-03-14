@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 29 Days (13/02/2023 to 13/03/2023)
+Learning Progress Till Now -> 30 Days (13/02/2023 to 14/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 30</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Stack Data Structure](https://www.programiz.com/dsa/stack)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "US bank failures: What is being done to avoid another 2008 financial crisis? "](https://www.youtube.com/watch?v=lsFz1b-zGak)
+- 👂🏻 [Watched a Youtube video "The future of Vistara-Air India | What to expect"](https://www.youtube.com/watch?v=Ozb-klhjKmk)
+- 💰📈 [Finshots ~ "BUSINESS - The Swiss knife cutting through Toblerone"](https://finshots.in/archive/changes-within-toblerone/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [The Stock Markets](https://zerodha.com/varsity/chapter/the-stock-markets/)
+  
+</p></details>
 <details><summary><u>Day 29</u></summary><p>
 
 - ✔️ Chess.com 
