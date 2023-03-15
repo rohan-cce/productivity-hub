@@ -1,6 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 30 Days (13/02/2023 to 14/03/2023)
+Learning Progress Till Now -> 31 Days (13/02/2023 to 15/03/2023)
 <details><summary><u>Day 21 - Day 30 ~ March 05, 2023 - March 14, 2023</u></summary><p>
+<details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 31</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Stack Data Structure](https://www.programiz.com/dsa/stack)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "How a Traded-In Apple iPhone Gets Refurbished"](https://www.youtube.com/watch?v=WHqxBlFuIXA)
+- 👂🏻 [Watched a Youtube video "America's Banking Crisis Is Snowballing"](https://www.youtube.com/watch?v=B4pYYv-qMF8)
+- 💰📈 [Finshots ~ "POLICY - India’s pension problem"](https://finshots.in/archive/indias-pension-problem/)
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+  - 💰📈 [The Stock Markets Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+  
+</p></details>
+</p></details>
 <details><summary><u>Day 30</u></summary><p>
 
 - 💻 Technical Learning
