@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 32 Days (13/02/2023 to 16/03/2023)
+Learning Progress Till Now -> 33 Days (13/02/2023 to 17/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 33</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "U.S. Banks Are Fighting For Survival"](https://www.youtube.com/watch?v=DgZD70djcKY)
+- 💰📈 [Finshots ~ "POLICY - An explainer on the High Seas Treaty"](https://finshots.in/archive/high-seas-treaty/)
+  
+</p></details>
 <details><summary><u>Day 32</u></summary><p>
 
 - ✔️ Chess.com 
