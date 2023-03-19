@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 34 Days (13/02/2023 to 18/03/2023)
+Learning Progress Till Now -> 35 Days (13/02/2023 to 19/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 35</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Why Ford And VW Shut Down Their Multi-Billion Dollar Self-Driving Project"](https://www.youtube.com/watch?v=NIvbrZ2BWTg)
+- 👂🏻 [Watched a Youtube video "India’s elite K9 squad | How the CRPF trains its combat dogs"](https://www.youtube.com/watch?v=AIVvdQfDsyE)
+- 💰📈 [Finshots ~ "MARKETS - Who controls the computer in your car?"](https://finshots.in/markets/who-controls-the-computer-in-your-car/)
+  
+</p></details>
 <details><summary><u>Day 34</u></summary><p>
 
 - ✔️ Chess.com 
