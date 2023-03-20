@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 35 Days (13/02/2023 to 19/03/2023)
+Learning Progress Till Now -> 36 Days (13/02/2023 to 20/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 36</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs4.png)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Baba Ramdev can't sell his Patanjali shares?"](https://finshots.in/archive/baba-ramdev-cant-sell-his-patanjali-shares/)
+  
+</p></details>
 <details><summary><u>Day 35</u></summary><p>
 
 - ✔️ Chess.com 
