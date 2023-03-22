@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 37 Days (13/02/2023 to 21/03/2023)
+Learning Progress Till Now -> 38 Days (13/02/2023 to 22/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 38</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Why Millions Of Fish Died In An Australian River"](https://www.youtube.com/watch?v=AGF4pbing2g)
+- 👂🏻 [Watched a Youtube video "Inside The Lab That Tests Elevator Free-Falls"](https://www.youtube.com/watch?v=IRse3W-glVs)
+- 💰📈 [Finshots ~ "POLICY - An explainer on the Black Sea Grain Initiative"](https://finshots.in/archive/an-explainer-on-the-black-sea-grain-initiative/)
+  
+</p></details>
 <details><summary><u>Day 37</u></summary><p>
 
 - ✔️ Chess.com 
