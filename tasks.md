@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 38 Days (13/02/2023 to 22/03/2023)
+Learning Progress Till Now -> 39 Days (13/02/2023 to 23/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 39</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [DSA -> Queue Data Structure](https://www.programiz.com/dsa/queue)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Why Retailers Are Spending Billions On Anti-Theft Technology"](https://www.youtube.com/watch?v=FclSidWwL0E)
+- 👂🏻 [Watched a Youtube video "Google unveils ChatGPT’s rival Bard in UK and U.S."](https://www.youtube.com/watch?v=T4sN44Bv7PQ)
+- 💰📈 [Finshots ~ "POLICY - India's post harvest loss problem"](https://finshots.in/archive/indias-post-harvest-loss-problem/)
+  
+</p></details>
 <details><summary><u>Day 38</u></summary><p>
 
 - ✔️ Chess.com 
