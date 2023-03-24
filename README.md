@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 39 Days (13/02/2023 to 23/03/2023)
+Learning Progress Till Now -> 40 Days (13/02/2023 to 24/03/2023)
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
+<details><summary><u>Day 40</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs4.png)
+- 💰📈 [Finshots ~ "BUSINESS - Why did top Bollywood songs disappear from Spotify?"](https://finshots.in/archive/zee-music-cut-ties-with-spotify/)
+  
+</p></details>
 <details><summary><u>Day 39</u></summary><p>
 
 - 💻 Technical Learning
