@@ -1,66 +1,10 @@
 # productivity-hub
-Learning Progress Till Now -> 40 Days (13/02/2023 to 24/03/2023)
-<details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
-<details><summary><u>Day 40</u></summary><p>
-
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs4.png)
-- 💰📈 [Finshots ~ "BUSINESS - Why did top Bollywood songs disappear from Spotify?"](https://finshots.in/archive/zee-music-cut-ties-with-spotify/)
-  
-</p></details>
-<details><summary><u>Day 39</u></summary><p>
-
-- 💻 Technical Learning
-  - 💻 [DSA -> Queue Data Structure](https://www.programiz.com/dsa/queue)
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs4.png)
-- 📖📈 Book reading
-  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
-- 🤨[Case study ~ "Why Retailers Are Spending Billions On Anti-Theft Technology"](https://www.youtube.com/watch?v=FclSidWwL0E)
-- 👂🏻 [Watched a Youtube video "Google unveils ChatGPT’s rival Bard in UK and U.S."](https://www.youtube.com/watch?v=T4sN44Bv7PQ)
-- 💰📈 [Finshots ~ "POLICY - India's post harvest loss problem"](https://finshots.in/archive/indias-post-harvest-loss-problem/)
-  
-</p></details>
-<details><summary><u>Day 38</u></summary><p>
-
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs4.png)
-- 💰📈 [Finshots ~ "POLICY - An explainer on the Black Sea Grain Initiative"](https://finshots.in/archive/an-explainer-on-the-black-sea-grain-initiative/)
-  
-</p></details>
-<details><summary><u>Day 37</u></summary><p>
-
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs4.png)
-- 💰📈 [Finshots ~ "POLICY - A story about artificially ripening real fruits"](https://finshots.in/archive/a-story-about-artificially-ripening-real-fruits/)
-  
-</p></details>
-<details><summary><u>Day 36</u></summary><p>
-
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs4.png)
-- 💰📈 [Finshots ~ "CAPITAL MARKETS - Baba Ramdev can't sell his Patanjali shares?"](https://finshots.in/archive/baba-ramdev-cant-sell-his-patanjali-shares/)
-  
-</p></details>
+Learning Progress Till NDaysDaysNDaysDaysNDaysDaysNDaysDaysNDaysDaysNDaysDaysNDaysDaysNDaysDays DaysDaysDaysDays (13/02/2023 to 20/03/2023)
+<details><summary><u>Day 31 - Day 41 ~ MarcMarchh 15, 2023 - March 24, 2023</u></summary><p>
 <details><summary><u>Day 35</u></summary><p>
 
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs1.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/Marchmain/images/chess/D1-D50/d35chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs3.png1)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs4.png)
