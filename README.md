@@ -1,5 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 40 Days (13/02/2023 to 24/03/2023)
+Learning Progress Till Now -> 42 Days (13/02/2023 to 26/03/2023)
+<details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 42</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs4.png)
+- 💰📈 [Finshots ~ "MARKETS - Are Indian banks out of trouble?"](https://finshots.in/markets/are-indian-banks-out-of-trouble/)
+  
+</p></details>
+<details><summary><u>Day 41</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs4.png)
+- 💰📈 [Finshots ~ "BUSINESS - Weekly Wrapup: How are Indian Banks holding up"](https://finshots.in/archive/weekly-wrapup-how-are-indian-banks-holding-up/)
+  
+</p></details>
+</p></details>
 <details><summary><u>Day 31 - Day 40 ~ March 15, 2023 - March 24, 2023</u></summary><p>
 <details><summary><u>Day 40</u></summary><p>
 
