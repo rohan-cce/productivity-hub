@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 45 Days (13/02/2023 to 29/03/2023)
+Learning Progress Till Now -> 46 Days (13/02/2023 to 30/03/2023)
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 46</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Green hydrogen: Is the Global South paying for Germany's energy transition?"](https://www.youtube.com/watch?v=75dXFyQ5m9Y)
+- 💰📈 [Finshots ~ "BUSINESS - India’s biggest startup scam ever?!"](https://finshots.in/archive/indias-biggest-startup-scam-ever/)
+  
+</p></details>
 <details><summary><u>Day 45</u></summary><p>
 
 - ✔️ Chess.com 
