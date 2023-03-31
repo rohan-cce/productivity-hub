@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 46 Days (13/02/2023 to 30/03/2023)
+Learning Progress Till Now -> 47 Days (13/02/2023 to 31/03/2023)
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 47</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs4.png)
+- 👂🏻 [Watched a Youtube video "Can Pineapple Skins Replace Soap? | World Wide Waste "](https://www.youtube.com/watch?v=v8QnB5q9aGo)
+- 💰📈 [Finshots ~ "BUSINESS - Is Air India's pilot shortage a sign of things to come?"](https://finshots.in/archive/is-air-indias-pilot-shortage-a-sign-of-things-to-come/)
+  
+</p></details>
 <details><summary><u>Day 46</u></summary><p>
 
 - ✔️ Chess.com 
