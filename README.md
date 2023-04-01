@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 47 Days (13/02/2023 to 31/03/2023)
+Learning Progress Till Now -> 48 Days (13/02/2023 to 01/04/2023)
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 48</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs4.png)
+- 👂🏻 [Watched a Youtube video "India unveils new Foreign Trade Policy | Eyes $2 trillion exports by 2030"](https://www.youtube.com/watch?v=9MzaLwcEvTs)
+- 💰📈 [Finshots ~ "MARKETS - Tata Technologies IPO Review and why SEBI doesn't like rumours"](https://finshots.in/markets/tata-technologies-ipo-review/)
+  
+</p></details>
 <details><summary><u>Day 47</u></summary><p>
 
 - ✔️ Chess.com 
