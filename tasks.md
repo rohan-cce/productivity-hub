@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 48 Days (13/02/2023 to 01/04/2023)
+Learning Progress Till Now -> 49 Days (13/02/2023 to 02/04/2023)
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 49</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs4.png)
+- 👂🏻 [Watched a Youtube video "This Indian institute is fighting farm pests with friendly insects"](https://www.youtube.com/watch?v=_Aaw5cTFhPI)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - ITC revenue breakdown"](https://finshots.in/infographic/itc-revenue-breakdown/)
+  
+</p></details>
 <details><summary><u>Day 48</u></summary><p>
 
 - ✔️ Chess.com 
