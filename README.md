@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 49 Days (13/02/2023 to 02/04/2023)
+Learning Progress Till Now -> 50 Days (13/02/2023 to 03/04/2023)
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
+<details><summary><u>Day 50</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs4.png)
+- 👂🏻 [Watched a Youtube video "Japanese Defence firms introduce high-energy laser anti-drone weapons"](https://www.youtube.com/watch?v=hflW3QvXggw)
+- 💰📈 [Finshots ~ "POLICY - An explainer on the National List of Essential Medicines"](https://finshots.in/archive/an-explainer-on-the-national-list-of-essential-medicines/)
+  
+</p></details>
 <details><summary><u>Day 49</u></summary><p>
 
 - ✔️ Chess.com 
