@@ -1,5 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 50 Days (13/02/2023 to 03/04/2023)
+Learning Progress Till Now -> 51 Days (13/02/2023 to 04/04/2023)
+<details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 51</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs4.png)
+- 👂🏻 [Watched a Youtube video "8 Km Under Ocean Surface, Scientists Discover Deepest Fish Ever"](https://www.youtube.com/watch?v=XTywBm_3lgw)
+- 💰📈 [Finshots ~ "BUSINESS - Time for KGF to shine again?"](https://finshots.in/archive/time-for-kgf-to-shine-again/)
+  
+</p></details>
+</p></details>
 <details><summary><u>Day 41 - Day 50 ~ March 25, 2023 - April 03, 2023</u></summary><p>
 <details><summary><u>Day 50</u></summary><p>
 
