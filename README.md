@@ -1,13 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 51 Days (13/02/2023 to 04/04/2023)
+Learning Progress Till Now -> 52 Days (13/02/2023 to 05/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 52</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs4.png)
+- 👂🏻 [Watched a Youtube video "Asian Monetary Fund In The Making? | India Rejects China's New Dare"](https://www.youtube.com/watch?v=wPZmmehk9_k)
+- 💰📈 [Finshots ~ "BUSINESS - Can Namma Yatri disrupt Ola and Uber?"](https://finshots.in/archive/the-namma-yatri-story/)
+  
+</p></details>
 <details><summary><u>Day 51</u></summary><p>
 
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs3.png1)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d50chs4.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs4.png)
 - 👂🏻 [Watched a Youtube video "8 Km Under Ocean Surface, Scientists Discover Deepest Fish Ever"](https://www.youtube.com/watch?v=XTywBm_3lgw)
 - 💰📈 [Finshots ~ "BUSINESS - Time for KGF to shine again?"](https://finshots.in/archive/time-for-kgf-to-shine-again/)
   
