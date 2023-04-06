@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 52 Days (13/02/2023 to 05/04/2023)
+Learning Progress Till Now -> 53 Days (13/02/2023 to 06/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 53</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs4.png)
+- 👂🏻 [Watched a Youtube video "El Salvador removes all taxes related to tech innovation for economic growth"](https://www.youtube.com/watch?v=8bovTEQCOIE)
+- 💰📈 [Finshots ~ "BUSINESS - OPEC’s oil price manipulation?"](https://finshots.in/archive/opecs-oil-price-manipulation/)
+  
+</p></details>
 <details><summary><u>Day 52</u></summary><p>
 
 - ✔️ Chess.com 
