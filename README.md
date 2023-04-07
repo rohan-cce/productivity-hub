@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 53 Days (13/02/2023 to 06/04/2023)
+Learning Progress Till Now -> 54 Days (13/02/2023 to 07/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 54</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs4.png)
+- 👂🏻 [Watched a Youtube video "India: Skyroot Aerospace Successfully Test Fires its 3D-Printed Cryogenic Engine"](https://www.youtube.com/watch?v=bptJekmw4cg)
+- 💰📈 [Finshots ~ "BUSINESS - An explainer on Rajasthan’s Right to Health"](https://finshots.in/archive/rajasthan-right-to-health/)
+  
+</p></details>
 <details><summary><u>Day 53</u></summary><p>
 
 - ✔️ Chess.com 
