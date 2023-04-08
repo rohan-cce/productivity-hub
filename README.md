@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 54 Days (13/02/2023 to 07/04/2023)
+Learning Progress Till Now -> 55 Days (13/02/2023 to 08/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 55</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Tata Power Sustainable Is Attainable: Focus On India’s Solar Energy Sector"](https://www.youtube.com/watch?v=CJpGM_Mzr2I)
+- 🤨[Case study ~ "Why Damascus Knives Are So Expensive"](https://www.youtube.com/watch?v=QIwpNKfy4sg)
+  
+</p></details>
 <details><summary><u>Day 54</u></summary><p>
 
 - ✔️ Chess.com 
