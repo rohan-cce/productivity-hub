@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 57 Days (13/02/2023 to 10/04/2023)
+Learning Progress Till Now -> 58 Days (13/02/2023 to 11/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 58</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Bacteria that can RESIST ANTIBIOTICS found in Los Angeles water treatment plant"](https://www.youtube.com/watch?v=nEbqDHvA1PA)
+- 🤨[Case study ~ "Juice Jacking: How Hackers can steal your Info when you charge device"](https://www.youtube.com/watch?v=yYOQSHafh10)
+- 💰📈 [Finshots ~ "BUSINESS - Understanding India’s $300 billion services exports"](https://finshots.in/archive/indias-300-billion-services-export/)
+  
+</p></details>
 <details><summary><u>Day 57</u></summary><p>
 
 - ✔️ Chess.com 
