@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 58 Days (13/02/2023 to 11/04/2023)
+Learning Progress Till Now -> 59 Days (13/02/2023 to 12/04/2023)
 <details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+<details><summary><u>Day 59</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "This Is Why Your Taps Could Run Dry Soon"](https://www.youtube.com/watch?v=fe0D4Fv6i5w)
+- 🤨[Case study ~ "Why Korean Rice Syrup Is So Expensive"](https://www.youtube.com/watch?v=V0zT3N3MnY8)
+- 💰📈 [Finshots ~ "POLICY - The big bad world of antiquities smuggling"](https://finshots.in/archive/antiquities-smuggling/)
+  
+</p></details>
 <details><summary><u>Day 58</u></summary><p>
 
 - ✔️ Chess.com 
