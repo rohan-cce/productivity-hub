@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 59 Days (13/02/2023 to 12/04/2023)
-<details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 13, 2023</u></summary><p>
+Learning Progress Till Now -> 60 Days (13/02/2023 to 13/04/2023)
+<details><summary><u>Day 51 - Day 60 ~ April 04, 2023 - April 14, 2023</u></summary><p>
+<details><summary><u>Day 60</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Governments mulls ways to regulate AI Technologies like ChatGPT"](https://www.youtube.com/watch?v=HXLYdyPja_o)
+- 🤨[Case study ~ "How Silicon Anode Batteries Will Bring Better Range To EVs"](https://www.youtube.com/watch?v=vj0siYi4h0o)
+- 💰📈 [Finshots ~ "BUSINESS - Tupperware’s Party is over"](https://finshots.in/archive/tupperwares-party-is-over/)
+  
+</p></details>
 <details><summary><u>Day 59</u></summary><p>
 
 - ✔️ Chess.com 
