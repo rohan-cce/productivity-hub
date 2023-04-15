@@ -1,7 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 61 Days (13/02/2023 to 14/04/2023)
+Learning Progress Till Now -> 62 Days (13/02/2023 to 15/04/2023)
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
-<details><summary><u>Day 60</u></summary><p>
+<details><summary><u>Day 62</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "A Brand New Sun, Brought to You by China "](https://www.youtube.com/watch?v=3eBn1bkJaOI)
+- 🤨[Case study ~ "Is India preparing its own missile defence system like Russia’s S-400?"](https://www.youtube.com/watch?v=AFB7iPIizy0)
+- 💰📈 [Finshots ~ "MARKETS - Breaking down ITC’s businesses"](https://finshots.in/markets/breaking-down-itc-businesses/)
+  
+</p></details>
+<details><summary><u>Day 61</u></summary><p>
 
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs1.png)
