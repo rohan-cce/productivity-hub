@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 64 Days (13/02/2023 to 17/04/2023)
+Learning Progress Till Now -> 65 Days (13/02/2023 to 18/04/2023)
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
+<details><summary><u>Day 65</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Bottom of The Ocean Is Leaking Water Upwards"](https://www.youtube.com/watch?v=iDAHFe2W01o)
+- 🤨[Case study ~ "Serbian scientists create LIQUID TREES to take on urban pollution"](https://www.youtube.com/watch?v=VY9kh140gnw)
+- 💰📈 [Finshots ~ "BUSINESS - Cadbury’s Streisand Moment?"](https://finshots.in/archive/why-is-cadbury-in-the-spotlight/)
+  
+</p></details>
 <details><summary><u>Day 64</u></summary><p>
 
 - ✔️ Chess.com 
