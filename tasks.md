@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 65 Days (13/02/2023 to 18/04/2023)
+Learning Progress Till Now -> 66 Days (13/02/2023 to 19/04/2023)
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
+<details><summary><u>Day 66</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Great Pacific Garbage Patch is now home to coastal species"](https://www.youtube.com/watch?v=HD6kOJsGblQ)
+- 🤨[Case study ~ "Can Pineapple Skins Replace Soap?"](https://www.youtube.com/watch?v=v8QnB5q9aGo)
+- 💰📈 [Finshots ~ "BUSINESS - Is Premiumization the new Sachetization?"](https://finshots.in/archive/the-world-of-premium-products/)
+  
+</p></details>
 <details><summary><u>Day 65</u></summary><p>
 
 - ✔️ Chess.com 
