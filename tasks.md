@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 66 Days (13/02/2023 to 19/04/2023)
+Learning Progress Till Now -> 67 Days (13/02/2023 to 20/04/2023)
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
+<details><summary><u>Day 67</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "AI chatbot helps Snap Inc bring more users"](https://www.youtube.com/watch?v=u9pFII72Qjw)
+- 🤨[Case study ~ "The Great Pacific Garbage Patch: How Trash Is Attracting Marine Species"](https://www.youtube.com/watch?v=bvZiIowQzNE)
+- 💰📈 [Finshots ~ "ECONOMY - The Great Nicobar Trade-Off"](https://finshots.in/archive/the-great-nicobar-trade-off/)
+  
+</p></details>
 <details><summary><u>Day 66</u></summary><p>
 
 - ✔️ Chess.com 
