@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 67 Days (13/02/2023 to 20/04/2023)
+Learning Progress Till Now -> 68 Days (13/02/2023 to 21/04/2023)
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
+<details><summary><u>Day 68</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Gold heist at Toronto airport; Cybercriminals using Netflix to scam users"](https://www.youtube.com/watch?v=RhAgN2gc_mI)
+- 🤨[Case study ~ "Freight Trains Keep Derailing. Why?"](https://www.youtube.com/watch?v=SRzVFIEA0mc)
+- 💰📈 [Finshots ~ "BUSINESS - Can Thrive knock out Zomato and Swiggy?"](https://finshots.in/archive/is-thrive-going-to-thrive-in-the-foodtech-space/)
+  
+</p></details>
 <details><summary><u>Day 67</u></summary><p>
 
 - ✔️ Chess.com 
