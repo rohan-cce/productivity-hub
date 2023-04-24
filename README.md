@@ -1,6 +1,40 @@
 # productivity-hub
-Learning Progress Till Now -> 69 Days (13/02/2023 to 22/04/2023)
+Learning Progress Till Now -> 71 Days (13/02/2023 to 24/04/2023)
+<details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 71</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [REST API and OpenAPI](https://www.youtube.com/watch?v=pRS9LRBgjYg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "UK Government Tests Emergency Phone Alert System"](https://www.youtube.com/watch?v=AfpRW4o-LMQ)
+- 🤨[Case study ~ "Scientists Warn of AI's Limitations: Can Artificial Intelligence Replace Human Intelligence?"](https://www.youtube.com/watch?v=SueLmhw2GnM)
+- 💰📈 [Finshots ~ "POLICY - India’s sand mafia menace"](https://finshots.in/archive/indias-sand-mafia-menace/)
+  
+</p></details>
+</p></details>
 <details><summary><u>Day 61 - Day 70 ~ April 14, 2023 - April 23, 2023</u></summary><p>
+<details><summary><u>Day 70</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [How Login Works at Netflix ? | Netflix system design](https://www.youtube.com/watch?v=LEL7DkjpfzI)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "How Robots Could Help Retailers Save Billions"](https://www.youtube.com/watch?v=LscylAtY98U)
+- 🤨[Case study ~ "Why are Indian Trains So Slow?"](https://www.youtube.com/watch?v=24wmfyCY6PA)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Tata’s Business Empire! 🤯"](https://finshots.in/infographic/tatas-business-empire/)
+  
+</p></details>
 <details><summary><u>Day 69</u></summary><p>
 
 - ✔️ Chess.com 
