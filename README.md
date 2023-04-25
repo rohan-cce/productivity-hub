@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 71 Days (13/02/2023 to 24/04/2023)
+Learning Progress Till Now -> 72 Days (13/02/2023 to 25/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 72</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 [ChatGPT costs OpenAI and Microsoft 700.000$ a Day](https://medium.com/@christianlauer90/chatgpt-costs-openai-and-microsoft-700-000-a-day-7ff35e6ce413)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "South Koreans Use Money Generating Apps Amid Economic Slump"](https://www.youtube.com/watch?v=OP47UvRW7kc)
+- 🤨[Case study ~ "How Rolexes Became More Valuable Than Stocks And Gold"](https://www.youtube.com/watch?v=BgdxjmGN7B4)
+- 💰📈 [Finshots ~ "BUSINESS - Is it time for a mutual fund shakeup?"](https://finshots.in/archive/is-it-time-for-a-mutual-fund-shakeup/)
+  
+</p></details>
 <details><summary><u>Day 71</u></summary><p>
 
 - 💻 Technical Learning
