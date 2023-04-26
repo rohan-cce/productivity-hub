@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 72 Days (13/02/2023 to 25/04/2023)
+Learning Progress Till Now -> 73 Days (13/02/2023 to 26/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 73</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Snapchat under fire for releasing AI chatbot"](https://www.youtube.com/watch?v=wTu_dmeFg7I)
+- 🤨[Case study ~ "freight Trains Keep Derailing. Why?"](https://www.youtube.com/watch?v=SRzVFIEA0mc)
+- 💰📈 [Finshots ~ "BUSINESS - Are flying taxis the future?"](https://finshots.in/archive/air-taxis-and-their-future/)
+  
+</p></details>
 <details><summary><u>Day 72</u></summary><p>
 
 - 💻 Technical Learning
