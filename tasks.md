@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 73 Days (13/02/2023 to 26/04/2023)
+Learning Progress Till Now -> 74 Days (13/02/2023 to 27/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 74</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "European Union Tightens the Screws on American Big Tech"](https://www.youtube.com/watch?v=vXeP8VKqwpI)
+- 🤨[Case study ~ "The Genius Marketing Strategy of Marlboro Cigarettes | Business Marketing Case study"](https://www.youtube.com/watch?v=6-tS7-IhCbI&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=2)
+- 💰📈 [Finshots ~ "BUSINESS - Can PhonePe topple Google Play?"](https://finshots.in/archive/can-phonepe-topple-google-play/)
+  
+</p></details>
 <details><summary><u>Day 73</u></summary><p>
 
 - ✔️ Chess.com 
