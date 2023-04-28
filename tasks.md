@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 74 Days (13/02/2023 to 27/04/2023)
+Learning Progress Till Now -> 75 Days (13/02/2023 to 28/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 75</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs4.png)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Argentina Joins the Dedollarisation Club as it Joins Hands with China"](https://www.youtube.com/watch?v=dOtB2aJS978)
+- 🤨[Case study ~ "How NYC’s Sewage System Treats 1.3 Billion Gallons Of Wastewater - NYC Revealed"](https://www.youtube.com/watch?v=-jmyGxb2JCc)
+- 💰📈 [Finshots ~ "BUSINESS - How to solve the US debt crisis!"](https://finshots.in/archive/how-to-solve-the-us-debt-crisis/)
+  
+</p></details>
 <details><summary><u>Day 74</u></summary><p>
 
 - ✔️ Chess.com 
