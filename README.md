@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 75 Days (13/02/2023 to 28/04/2023)
+Learning Progress Till Now -> 76 Days (13/02/2023 to 29/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 76</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs4.png)
+- 👂🏻 [Watched a Youtube video "Why League of Nations Failed | The Outbreak of World War 2"](https://www.youtube.com/watch?v=RVPM_QodWP0)
+- 🤨[Case study ~ "What Is The Ultimate Safe Haven Strategy During Market Volatility?"](https://www.youtube.com/watch?v=LPmV9c73Nvg)
+- 💰📈 [Finshots ~ "MARKETS - Riding the Titagarh ‘Band’Wagon"](https://finshots.in/markets/riding-the-titagard-bandwagon/)
+  
+</p></details>
 <details><summary><u>Day 75</u></summary><p>
 
 - ✔️ Chess.com 
