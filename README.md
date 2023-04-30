@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 76 Days (13/02/2023 to 29/04/2023)
+Learning Progress Till Now -> 77 Days (13/02/2023 to 30/04/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 77</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs4.png)
+- 👂🏻 [Watched a Youtube video "Evasive Panda APT group delivers malware via updates for popular Chinese software"](https://www.youtube.com/watch?v=iL7CuKLm_0U)
+- 🤨[Case study ~ "How NASA Reinvented The Wheel"](https://www.youtube.com/watch?v=vSNtifE0Z2Q)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: The BEST public rule, detergent dilemmas and the CPU money hack"](https://finshots.in/archive/sunny-side-up-detergent-problems/)
+  
+</p></details>
 <details><summary><u>Day 76</u></summary><p>
 
 - ✔️ Chess.com 
