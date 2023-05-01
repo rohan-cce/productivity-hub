@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 77 Days (13/02/2023 to 30/04/2023)
+Learning Progress Till Now -> 78 Days (13/02/2023 to 01/05/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 78</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs4.png)
+- 👂🏻 [Watched a Youtube video "G7 members united on regulating AI"](https://www.youtube.com/watch?v=kcVsARqqWss)
+- 🤨[Case study / Documentary ~ "How People In Nepal Risk Their Lives To Find 'Mad Honey'"](https://www.youtube.com/watch?v=ajG3eMB5AJM)
+- 💰📈 [Finshots ~ "POLICY - Why is India’s public bus system in a mess?"](https://finshots.in/archive/indias-public-bus-system-problems/)
+  
+</p></details>
 <details><summary><u>Day 77</u></summary><p>
 
 - ✔️ Chess.com 
