@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 78 Days (13/02/2023 to 01/05/2023)
+Learning Progress Till Now -> 79 Days (13/02/2023 to 02/05/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 79</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs4.png)
+- 👂🏻 [Watched a Youtube video "IBM's mega push for artificial intelligence"](https://www.youtube.com/watch?v=YcdCHfDJD4I)
+- 🤨[Case study / Documentary ~ "Most Ocean Plastic Flows From Rivers. Can Giant Trash Barriers Stop It?"](https://www.youtube.com/watch?v=L8pEdHzQcik)
+- 💰📈 [Finshots ~ "POLICY - Is a controversial subsidy scheme setting India's EV dreams on fire?"](https://finshots.in/archive/whats-wrong-with-ev-subsidies/)
+  
+</p></details>
 <details><summary><u>Day 78</u></summary><p>
 
 - ✔️ Chess.com 
