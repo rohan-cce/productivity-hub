@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 79 Days (13/02/2023 to 02/05/2023)
+Learning Progress Till Now -> 80 Days (13/02/2023 to 03/05/2023)
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
+<details><summary><u>Day 80</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs4.png)
+- 👂🏻 [Watched a Youtube video "Hollywood writers and studios battle over the future of AI"](https://www.youtube.com/watch?v=oh-XkVftYvk)
+- 🤨[Case study / Documentary ~ "Why Bilona Ghee (A2 Desi Ghee) Is So Expensive"](https://www.youtube.com/watch?v=59w2G_L1OMo)
+- 💰📈 [Finshots ~ "BUSINESS - What is de-dollarization, anyway?"](https://finshots.in/archive/what-is-de-dollarization-anyway/)
+  
+</p></details>
 <details><summary><u>Day 79</u></summary><p>
 
 - ✔️ Chess.com 
