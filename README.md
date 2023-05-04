@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 80 Days (13/02/2023 to 03/05/2023)
+Learning Progress Till Now -> 81 Days (13/02/2023 to 04/05/2023)
+<details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 81</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs4.png)
+- 👂🏻 [Watched a Youtube video "Google Revolutionizes Online Security with Passkeys: Say Goodbye to Passwords"](https://www.youtube.com/watch?v=FPDkZwOcPek)
+- 🤨[Case study / Documentary ~ "Transforming Israel's Desert: Innovative Agriculture"](https://www.youtube.com/watch?v=gMua6elTmHg)
+- 💰📈 [Finshots ~ "BUSINESS - Go First joins India’s airline graveyard?"](https://finshots.in/archive/what-happened-to-gofirst/)
+  
+</p></details>
+</p></details>
 <details><summary><u>Day 71 - Day 80 ~ April 24, 2023 - May 03, 2023</u></summary><p>
 <details><summary><u>Day 80</u></summary><p>
 
