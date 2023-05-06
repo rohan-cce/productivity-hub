@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 82 Days (13/02/2023 to 05/05/2023)
+Learning Progress Till Now -> 83 Days (13/02/2023 to 06/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 83</u></summary><p>
+
+- 💻 Technical Learning
+  - 💻 ["Attended workshop on Apache Kafka"]()
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs4.png)
+- 👂🏻 [Watched a Youtube video "Hackers use Chatgpt to spread malware on Facebook, Instagram, and Whatsapp"](https://www.youtube.com/watch?v=KfNakRklvoI)
+- 🤨[Case study / Documentary ~ "Role of AI in early cancer diagnosis"](https://www.youtube.com/watch?v=10JjRHrcNVM)
+- 💰📈 [Finshots ~ "MARKETS - Godrej has a new playbook"](https://finshots.in/markets/godrej-has-a-new-playbook/)
+  
+</p></details>
 <details><summary><u>Day 82</u></summary><p>
 
 - ✔️ Chess.com 
