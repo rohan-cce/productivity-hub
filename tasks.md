@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 83 Days (13/02/2023 to 06/05/2023)
+Learning Progress Till Now -> 84 Days (13/02/2023 to 07/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 84</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs4.png)
+- 👂🏻 [Watched a Youtube video "Why Inflation Is So Sticky"](https://www.youtube.com/watch?v=2npFHrmUCps)
+- 🤨[Case study / Documentary ~ "Why Kampot White Pepper Is So Expensive"](https://www.youtube.com/watch?v=0YekHftrSy0)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: AI ftw?, Right to Repair & 60 second finance"](https://finshots.in/archive/ai-fight-and-60-second-finance/)
+  
+</p></details>
 <details><summary><u>Day 83</u></summary><p>
 
 - 💻 Technical Learning
