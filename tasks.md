@@ -1,6 +1,18 @@
 # productivity-hub
 Learning Progress Till Now -> 84 Days (13/02/2023 to 07/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 85</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs4.png)
+- 👂🏻 [Watched a Youtube video "India's third-largest airline leaves 100,000 passengers stranded"](https://www.youtube.com/watch?v=bplcbFJMYnY)
+- 🤨[Case study / Documentary ~ "Nigeria Is The Biggest Cassava Producer In The World. Why Isn’t It Cashing In On The Global Market?"](https://www.youtube.com/watch?v=zVtlR4cwqRs)
+- 💰📈 [Finshots ~ "ECONOMY - Hard truths about India’s population"](https://finshots.in/archive/hard-truths-about-indias-population/)
+  
+</p></details>
 <details><summary><u>Day 84</u></summary><p>
 
 - ✔️ Chess.com 
