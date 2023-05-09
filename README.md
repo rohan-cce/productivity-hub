@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 85 Days (13/02/2023 to 08/05/2023)
+Learning Progress Till Now -> 86 Days (13/02/2023 to 09/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 86</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs4.png)
+- 👂🏻 [Watched a Youtube video "Apple co-founder says AI may make scams harder to spot"](https://www.youtube.com/watch?v=jlbH2EQLDdI)
+- 🤨[Case study / Documentary ~ "Construction of ‘Europe’s largest 3D-printed building’ in Germany to take only 140 hours to finish"](https://www.youtube.com/watch?v=sSFXMGazve8)
+- 💰📈 [Finshots ~ "POLICY - What the RBI* thinks about climate change"](https://finshots.in/archive/what-rbi-thinks-about-climate-change/)
+  
+</p></details>
 <details><summary><u>Day 85</u></summary><p>
 
 - ✔️ Chess.com 
