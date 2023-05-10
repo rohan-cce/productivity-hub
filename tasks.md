@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 86 Days (13/02/2023 to 09/05/2023)
+Learning Progress Till Now -> 87 Days (13/02/2023 to 10/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 87</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs4.png)
+- 👂🏻 [Watched a Youtube video "Twitter to Add Calls and Encrypted Messaging: Elon Musk Reveals Future Plans"](https://www.youtube.com/watch?v=EqQqp3hB1CM)
+- 🤨[Case study / Documentary ~ "New Hyundai e-Corner system on IONIQ 5: Say goodbye to parking problems!"](https://www.youtube.com/watch?v=T1VQXo2ipNA)
+- 💰📈 [Finshots ~ "POLICY - The Indian Shrimp Story"](https://finshots.in/archive/indias-shrimp-story/)
+  
+</p></details>
 <details><summary><u>Day 86</u></summary><p>
 
 - ✔️ Chess.com 
