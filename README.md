@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 88 Days (13/02/2023 to 11/05/2023)
+Learning Progress Till Now -> 89 Days (13/02/2023 to 12/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 89</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs4.png)
+- 👂🏻 [Watched a Youtube video "Governments across the world race to regulate AI tools"](https://www.youtube.com/watch?v=BtFsfsOjxBA)
+- 🤨[Case study / Documentary ~ "Grain-surfing robot aims to revolutionise crop management"](https://www.youtube.com/watch?v=HiRUtr3G13Y)
+- 💰📈 [Finshots ~ "BUSINESS - The ONDC Infatuation: Food Wars Edition"](https://finshots.in/archive/the-ondc-infatuation-food-wars-edition/)
+  
+</p></details>
 <details><summary><u>Day 88</u></summary><p>
 
 - ✔️ Chess.com 
