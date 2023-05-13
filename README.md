@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 89 Days (13/02/2023 to 12/05/2023)
+Learning Progress Till Now -> 90 Days (13/02/2023 to 13/05/2023)
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
+<details><summary><u>Day 90</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs4.png)
+- 👂🏻 [Watched a Youtube video "Why Does Rice Sink Ships?"](https://www.youtube.com/watch?v=H--YF-7mx3s)
+- 🤨[Case study / Documentary ~ "How Huawei's use of 5G and AI is transforming China’s coal mining industry"](https://www.youtube.com/watch?v=uImlzZUw5bQ)
+- 💰📈 [Finshots ~ "MARKETS - India’s first retail REIT is here!"](https://finshots.in/markets/indias-first-retail-reit-is-here/)
+  
+</p></details>
 <details><summary><u>Day 89</u></summary><p>
 
 - ✔️ Chess.com 
