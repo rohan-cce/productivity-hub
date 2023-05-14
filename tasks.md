@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 90 Days (13/02/2023 to 13/05/2023)
+Learning Progress Till Now -> 91 Days (13/02/2023 to 14/05/2023)
+<details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 91</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs4.png)
+- 👂🏻 [Watched a Youtube video "Amazon is incentivizing its customers"](https://www.youtube.com/watch?v=SVRiVwdmaD4)
+- 🤨[Case study / Documentary ~ "Why Royal Jelly is So Expensive"](https://www.youtube.com/watch?v=L4cth57-66k)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Taxing Sodas and Netflix & how not to go broke"](https://finshots.in/archive/sunny-taxing-sodas/)
+  
+</p></details>
+</p></details>
+
 <details><summary><u>Day 81 - Day 90 ~ May 04, 2023 - May 13, 2023</u></summary><p>
 <details><summary><u>Day 90</u></summary><p>
 
