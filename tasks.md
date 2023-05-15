@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 91 Days (13/02/2023 to 14/05/2023)
+Learning Progress Till Now -> 92 Days (13/02/2023 to 15/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 92</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs4.png)
+- 👂🏻 [Watched a Youtube video "Shanghai Cooperation Organisation gives India's UPI plan a thumbs up"](https://www.youtube.com/watch?v=AggwlNRNlgM)
+- 🤨[Case study / Documentary ~ "How Millions Are Trapped In Modern-Day Slavery At Brick Kilns In Pakistan"](https://www.youtube.com/watch?v=oAOypGQdzGU)
+- 💰📈 [Finshots ~ "POLICY - Is India’s semiconductor dream under threat?"](https://finshots.in/archive/is-indias-semiconductor-dream-under-threat/)
+  
+</p></details>
 <details><summary><u>Day 91</u></summary><p>
 
 - ✔️ Chess.com 
