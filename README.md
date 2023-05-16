@@ -1,7 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 92 Days (13/02/2023 to 15/05/2023)
-
+Learning Progress Till Now -> 93 Days (13/02/2023 to 16/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 93</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs4.png)
+- 👂🏻 [Watched a Youtube video "Food Expiry Dates Are Not What You Think"](https://www.youtube.com/watch?v=j9Pj2iNi6mY)
+- 🤨[Case study / Documentary ~ "Exposing 5 LIES about 3D Printed Concrete Homes"](https://www.youtube.com/watch?v=sz1LM9kwRLY)
+- 💰📈 [Finshots ~ "BUSINESS - Will Google kill ChatGPT?"](https://finshots.in/archive/will-google-kill-chatgpt/)
+  
+</p></details>
 <details><summary><u>Day 92</u></summary><p>
 
 - ✔️ Chess.com 
