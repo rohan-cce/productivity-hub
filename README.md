@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 93 Days (13/02/2023 to 16/05/2023)
+Learning Progress Till Now -> 94 Days (13/02/2023 to 17/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 94</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs4.png)
+- 👂🏻 [Watched a Youtube video "ChatGPT Creator Himself is Worried About AI"](https://www.youtube.com/watch?v=TL_EuLtiQZg)
+- 🤨[Case study / Documentary ~ "How Extreme Dust Buildup Is Deep Cleaned From Dryer Vents"](https://www.youtube.com/watch?v=iIEaH_qcdbU)
+- 💰📈 [Finshots ~ "How Extreme Dust Buildup Is Deep Cleaned From Dryer Vents"](https://www.youtube.com/watch?v=iIEaH_qcdbU)
+  
+</p></details>
 <details><summary><u>Day 93</u></summary><p>
 
 - ✔️ Chess.com 
