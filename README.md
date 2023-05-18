@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 94 Days (13/02/2023 to 17/05/2023)
+Learning Progress Till Now -> 95 Days (13/02/2023 to 18/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 95</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs4.png)
+- 👂🏻 [Watched a Youtube video "Who Regulates AI? | ChatGPT’s Creator Calls for AI Regulation"](https://www.youtube.com/watch?v=Xqe1ORn46Cg)
+- 🤨[Case study / Documentary ~ "How LVMH Became A $500 Billion Luxury Powerhouse"](https://www.youtube.com/watch?v=NBmIFTyiGos)
+- 💰📈 [Finshots ~ "BUSINESS - Can OSOP give artisans a new lease of life?"](https://finshots.in/archive/can-osop-give-artisans-a-new-lease-of-life/)
+  
+</p></details>
 <details><summary><u>Day 94</u></summary><p>
 
 - ✔️ Chess.com 
