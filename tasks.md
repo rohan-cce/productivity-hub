@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 95 Days (13/02/2023 to 18/05/2023)
+Learning Progress Till Now -> 96 Days (13/02/2023 to 19/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 96</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs4.png)
+- 👂🏻 [Watched a Youtube video "Google Strikes Back (The AI Wars)"](https://www.youtube.com/watch?v=Qa4K7XsRO0g)
+- 🤨[Case study / Documentary ~ "Exclusive: Air India’s $70 Billion Makeover - Can They Make it?"](https://www.youtube.com/watch?v=T-5ZWKrxB20)
+- 💰📈 [Finshots ~ "BUSINESS - TCS on international credit card spends - Why your holidays just got more expensive?"](https://finshots.in/archive/understanding-tcs-on-credit-card-transactions/)
+  
+</p></details>
 <details><summary><u>Day 95</u></summary><p>
 
 - ✔️ Chess.com 
