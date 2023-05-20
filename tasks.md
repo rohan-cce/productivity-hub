@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 96 Days (13/02/2023 to 19/05/2023)
+Learning Progress Till Now -> 97 Days (13/02/2023 to 20/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 97</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs4.png)
+- 👂🏻 [Watched a Youtube video "NASA’S Perseverance Rover Captures New Images of Ancient River Evidence on Mars"](https://www.youtube.com/watch?v=eKZ32C2RLf0)
+- 🤨[Case study / Documentary ~ "Why Lightbulbs Might Be The Best Invention Ever"](https://www.youtube.com/watch?v=FU_YFpfDqqA)
+- 💰📈 [Finshots ~ "MARKETS - The Absurdity of Bengaluru rent prices and a cool summer stock everybody is talking about"](https://finshots.in/markets/bengaluru-rent-prices-and-cool-summer-stock/)
+  
+</p></details>
 <details><summary><u>Day 96</u></summary><p>
 
 - ✔️ Chess.com 
