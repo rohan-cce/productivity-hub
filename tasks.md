@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 98 Days (13/02/2023 to 21/05/2023)
+Learning Progress Till Now -> 99 Days (13/02/2023 to 22/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 99</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs4.png)
+- 👂🏻 [Watched a Youtube video "China Bans Micron Chips As Tensions With US Escalates"](https://www.youtube.com/watch?v=I73ABNPRNnc)
+- 🤨[Case study / Documentary ~ "How People Profit Off Pineapple Scraps"](https://www.youtube.com/watch?v=Ustm5PQpl5Q)
+- 💰📈 [Finshots ~ "POLICY - India’s diamond woes"](https://finshots.in/archive/indias-diamond-problems/)
+  
+</p></details>
 <details><summary><u>Day 98</u></summary><p>
 
 - ✔️ Chess.com 
