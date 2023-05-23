@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 99 Days (13/02/2023 to 22/05/2023)
+Learning Progress Till Now -> 100 Days (13/02/2023 to 23/05/2023)
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
+<details><summary><u>Day 100</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs4.png)
+- 👂🏻 [Watched a Youtube video "Italy watchdog Garante to review other AI systems "](https://www.youtube.com/watch?v=CnQutAgDqWU)
+- 🤨[Case study / Documentary ~ "Will India Outpace China As The World's Top Source Of Tourists? "](https://www.youtube.com/watch?v=YoXOAqsrE7k)
+- 💰📈 [Finshots ~ "POLICY - What’s the shoe leather cost of ₹2000?"](https://finshots.in/archive/whats-the-impact-of-2000-rupee-withdrawal/)
+  
+</p></details>
 <details><summary><u>Day 99</u></summary><p>
 
 - ✔️ Chess.com 
