@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 100 Days (13/02/2023 to 23/05/2023)
+Learning Progress Till Now -> 101 Days (13/02/2023 to 24/05/2023)
+<details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 101</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs4.png)
+- 👂🏻 [Watched a Youtube video "Egypt's Economic Crisis: Devaluation or Investments? IMF Loan Hangs in the Balance"](https://www.youtube.com/watch?v=inySY5D8wrQ)
+- 🤨[Case study / Documentary ~ "US Debt Ceiling: How a Default Could Affect You"](https://www.youtube.com/watch?v=2Vk1aF47y60)
+- 💰📈 [Finshots ~ "POLICY - Should India regulate beedis?"](https://finshots.in/archive/should-india-regulate-beedis/)
+  
+</p></details>
+</p></details>
+
 <details><summary><u>Day 91 - Day 100 ~ May 14, 2023 - May 23, 2023</u></summary><p>
 <details><summary><u>Day 100</u></summary><p>
 
