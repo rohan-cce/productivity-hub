@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 103 Days (13/02/2023 to 26/05/2023)
+Learning Progress Till Now -> 104 Days (13/02/2023 to 27/05/2023)
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 104</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs4.png)
+- 👂🏻 [Watched a Youtube video "Taking a daily multivitamin may protect your memory later in life"](https://www.youtube.com/watch?v=5G8yEGX6dG4)
+- 🤨[Case study / Documentary ~ "AI: A double-edged sword | Tech It Out"](https://www.youtube.com/watch?v=TPodPXVSLkE)
+- 💰📈 [Finshots ~ "MARKETS - Maybe Delhivery should buy Gati?"](https://finshots.in/markets/maybe-delhivery-should-buy-gati/)
+  
+</p></details>
 <details><summary><u>Day 103</u></summary><p>
 
 - ✔️ Chess.com 
