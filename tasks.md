@@ -1,7 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 105 Days (13/02/2023 to 28/05/2023)
-xf/05/2023)
+Learning Progress Till Now -> 106 Days (13/02/2023 to 29/05/2023)
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 106</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs4.png)
+- 👂🏻 [Watched a Youtube video "ISRO successfully launches next-generation navigation satellite NVS-1"](https://www.youtube.com/watch?v=-HTjr24gJ6c)
+- 🤨[Case study / Documentary ~ "Who Actually Pays For Credit Card Rewards?"](https://www.youtube.com/watch?v=bkYx9R2k5pk)
+- 💰📈 [Finshots ~ "BUSINESS - NVIDIA is an AI company now"](https://finshots.in/archive/nvidia-is-an-ai-company-now/)
+  
+</p></details>
 <details><summary><u>Day 105</u></summary><p>
 
 - ✔️ Chess.com 
