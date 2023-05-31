@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 107 Days (13/02/2023 to 30/05/2023)
+Learning Progress Till Now -> 108 Days (13/02/2023 to 31/05/2023)
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 108</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs4.png)
+- 👂🏻 [Watched a Youtube video "Top executives warn threats against AI: Threat from AI at par with nuclear threat"](https://www.youtube.com/watch?v=GFa1aKqYPCM)
+- 🤨[Case study / Documentary ~ "How Miners Use War Weapons To Hunt Rare Jewels In Afghanistan"](https://www.youtube.com/watch?v=EKOa-kFRbBU)
+- 💰📈 [Finshots ~ "POLICY - Snowball effect — is this India’s decade?"](https://finshots.in/archive/snowball-effect-india-decade/)
+  
+</p></details>
 <details><summary><u>Day 107</u></summary><p>
 
 - ✔️ Chess.com 
