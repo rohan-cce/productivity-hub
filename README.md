@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 108 Days (13/02/2023 to 31/05/2023)
+Learning Progress Till Now -> 109 Days (13/02/2023 to 01/06/2023)
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 109</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs4.png)
+- 👂🏻 [Watched a Youtube video "The US is set to allow GE to make engines in India"](https://www.youtube.com/watch?v=S67nDl83xEU)
+- 🤨[Case study / Documentary ~ "Apple vs. Samsung’s Strategies to Move Manufacturing Away From China"](https://www.youtube.com/watch?v=NIH6kvYJwK4)
+- 💰📈 [Finshots ~ "POLICY - How does the RBI make money?"](https://finshots.in/archive/how-rbi-makes-money/)
+  
+</p></details>
 <details><summary><u>Day 108</u></summary><p>
 
 - ✔️ Chess.com 
