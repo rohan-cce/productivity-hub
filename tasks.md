@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 109 Days (13/02/2023 to 01/06/2023)
+Learning Progress Till Now -> 110 Days (13/02/2023 to 02/06/2023)
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
+<details><summary><u>Day 110</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs4.png)
+- 👂🏻 [Watched a Youtube video "US: AI-controlled drone turns against its human operator"](https://www.youtube.com/watch?v=eDNjeTwGi5E)
+- 🤨[Case study / Documentary ~ "Investing in Gold: Re-discovering a hidden treasure"](https://www.youtube.com/watch?v=3eZ-7Un4keY)
+- 💰📈 [Finshots ~ "ECONOMY - Is the Japanese sun finally rising?"](https://finshots.in/archive/is-the-japanese-sun-finally-rising/)
+  
+</p></details>
 <details><summary><u>Day 109</u></summary><p>
 
 - ✔️ Chess.com 
