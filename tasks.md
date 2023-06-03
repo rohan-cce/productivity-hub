@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 110 Days (13/02/2023 to 02/06/2023)
+Learning Progress Till Now -> 111 Days (13/02/2023 to 03/06/2023)
+<details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 111</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs4.png)
+- 👂🏻 [Watched a Youtube video "New BRICS Currency Can be a Severe Challenge for the US Dollar"](https://www.youtube.com/watch?v=u277P1K7Lrk)
+- 🤨[Case study / Documentary ~ "Why 1% Polished Rice Sake Is So Expensive"](https://www.youtube.com/watch?v=4bFJZZNp4Bg)
+- 💰📈 [Finshots ~ "MARKETS - Is Wonderla finally making a splash?"](https://finshots.in/markets/is-wonderla-finally-making-a-splash/)
+  
+</p></details>
+</p></details>
+
 <details><summary><u>Day 101 - Day 110 ~ May 24, 2023 - June 02, 2023</u></summary><p>
 <details><summary><u>Day 110</u></summary><p>
 
