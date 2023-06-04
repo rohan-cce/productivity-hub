@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 111 Days (13/02/2023 to 03/06/2023)
+Learning Progress Till Now -> 112 Days (13/02/2023 to 04/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 112</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs4.png)
+- 👂🏻 [Watched a Youtube video "2023: India in the space age"](https://www.youtube.com/watch?v=EEJBph58jD4)
+- 🤨[Case study / Documentary ~ "Why are countries pushing for de-dollarization?"](https://www.youtube.com/watch?v=6PTJCctA394)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Tobacco troubles, regulating finfluencers and luck & risk"](https://finshots.in/archive/tobacco-troubles-finfluencers/)
+  
+</p></details>
 <details><summary><u>Day 111</u></summary><p>
 
 - ✔️ Chess.com 
