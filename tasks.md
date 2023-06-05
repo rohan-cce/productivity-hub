@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 112 Days (13/02/2023 to 04/06/2023)
+Learning Progress Till Now -> 113 Days (13/02/2023 to 05/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 113</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs4.png)
+- 👂🏻 [Watched a Youtube video "Criminals exploit cybersecurity once again, MOVEit tool exploited to steal data"](https://www.youtube.com/watch?v=JcplQtU2dJ0)
+- 🤨[Case study / Documentary ~ "Kavach: What’s the Automatic Train Protection System?"](https://www.youtube.com/watch?v=hFTQO39dGb0)
+- 💰📈 [Finshots ~ "POLICY - Understanding the debate about the PLI scheme for mobile phones"](https://finshots.in/archive/understanding-the-debate-about-the-pli-scheme-for-mobile-phones/)
+  
+</p></details>
 <details><summary><u>Day 112</u></summary><p>
 
 - ✔️ Chess.com 
