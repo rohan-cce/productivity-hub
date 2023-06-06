@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 113 Days (13/02/2023 to 05/06/2023)
+Learning Progress Till Now -> 114 Days (13/02/2023 to 06/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 114</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs4.png)
+- 👂🏻 [Watched a Youtube video "Aviation Industry's profitability reaches new altitudes, soars toward $9.8 billion net profit"](https://www.youtube.com/watch?v=ON_WTuaWg1o)
+- 🤨[Case study / Documentary ~ "Apple bites into A-R pie"](https://www.youtube.com/watch?v=bkNhXFZMYY8)
+- 💰📈 [Finshots ~ "BUSINESS - Rahul Yadav's house of cards"](https://finshots.in/archive/rahul-yadavs-house-of-cards/)
+  
+</p></details>
 <details><summary><u>Day 113</u></summary><p>
 
 - ✔️ Chess.com 
