@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 114 Days (13/02/2023 to 06/06/2023)
+Learning Progress Till Now -> 115 Days (13/02/2023 to 07/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 115</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs4.png)
+- 👂🏻 [Watched a Youtube video "Indian Cabinet approves revival package of ₹89,047 Crore for BSNL"](https://www.youtube.com/watch?v=i11kJ4gI57I)
+- 🤨[Case study / Documentary ~ "Chandrayaan-3: India gears up to make history"](https://www.youtube.com/watch?v=eR2Svx27btU)
+- 💰📈 [Finshots ~ "BUSINESS - Tata is building a giga factory to fuel its EV dreams"](https://finshots.in/archive/tata-giga-factory/)
+  
+</p></details>
 <details><summary><u>Day 114</u></summary><p>
 
 - ✔️ Chess.com 
