@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 115 Days (13/02/2023 to 07/06/2023)
+Learning Progress Till Now -> 116 Days (13/02/2023 to 08/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 116</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs4.png)
+- 👂🏻 [Watched a Youtube video "India skips rate hike in June policy meet | RBI keen on getting inflation down to 4%"](https://www.youtube.com/watch?v=RZeO3qLRYOg)
+- 🤨[Case study / Documentary ~ "From Breezy to Powerful: The Inner Workings of Fan Regulators"](https://www.youtube.com/watch?v=uIYbd01c_Pc)
+- 💰📈 [Finshots ~ "BUSINESS - Byju's refuses to repay its $1.2 billion loan"](https://finshots.in/archive/byjus-refuses-to-repay-its-1-2-billion-loan/)
+  
+</p></details>
 <details><summary><u>Day 115</u></summary><p>
 
 - ✔️ Chess.com 
