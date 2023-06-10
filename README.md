@@ -1,8 +1,15 @@
 # productivity-hub
 Learning Progress Till Now -> 118 Days (13/02/2023 to 10/06/2023)
-<details><summary><u>Day 118</u></summary><p>
-</p></details>
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 118</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs4.png)
+  
+</p></details>
 <details><summary><u>Day 117</u></summary><p>
 
 - ✔️ Chess.com 
