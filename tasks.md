@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 119 Days (13/02/2023 to 11/06/2023)
+Learning Progress Till Now -> 120 Days (13/02/2023 to 12/06/2023)
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
+<details><summary><u>Day 120</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs4.png)
+- 👂🏻 [Watched a Youtube video "Ola electric's $1 billion IPO to accelerate EV market dominance"](https://www.youtube.com/watch?v=RD_sp6NqRC8)
+- 🤨[Case study / Documentary ~ "Hydroponics | How farming without soil can be a commercial success"](https://www.youtube.com/watch?v=4Hji_ZCtG54)
+- 💰📈 [Finshots ~ "BUSINESS - WhatTheFLDG?"](https://finshots.in/archive/what-are-the-new-fldg-guidelines/)
+
+</p></details>
 <details><summary><u>Day 119</u></summary><p>
 
 - ✔️ Chess.com 
