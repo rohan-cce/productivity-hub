@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 120 Days (13/02/2023 to 12/06/2023)
+Learning Progress Till Now -> 121 Days (13/02/2023 to 13/06/2023)
+<details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 121</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs4.png)
+- 👂🏻 [Watched a Youtube video "US: Nasdaq to acquire software firm Adenza"](https://www.youtube.com/watch?v=iNtN4XoW6oc)
+- 🤨[Case study / Documentary ~ "From value to volume: India's digital payments success "](https://www.youtube.com/watch?v=Ly7_FJZGaTA)
+- 💰📈 [Finshots ~ "BUSINESS - Is Saudi Arabia 'sportswashing'?"](https://finshots.in/archive/is-saudi-arabia-sportswashing/)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 111 - Day 120 ~ June 03, 2023 - June 12, 2023</u></summary><p>
 <details><summary><u>Day 120</u></summary><p>
 
