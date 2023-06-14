@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 120 Days (13/02/2023 to 13/06/2023)
+Learning Progress Till Now -> 122 Days (13/02/2023 to 14/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 122</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs4.png)
+- 👂🏻 [Watched a Youtube video "European Union Parliament passes world's first law on A-I rules"](https://www.youtube.com/watch?v=jra9Xvw6YZM)
+- 🤨[Case study / Documentary ~ "Trail of flames: Wildfires"](https://www.youtube.com/watch?v=bT2hvaWmGeo)
+- 💰📈 [Finshots ~ "POLICY - The great Indian electric dream ― Cooking without fire"](https://finshots.in/archive/the-great-indian-electric-dream-cooking-without-fire/)
+
+</p></details>
 <details><summary><u>Day 121</u></summary><p>
 
 - ✔️ Chess.com 
