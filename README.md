@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 123 Days (13/02/2023 to 15/06/2023)
+Learning Progress Till Now -> 124 Days (13/02/2023 to 16/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 124</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs4.png)
+- 👂🏻 [Watched a Youtube video "Mandiant: Chinese hackers attack several government agencies"](https://www.youtube.com/watch?v=Jb7JhoFZ5JQ)
+- 🤨[Case study / Documentary ~ "AI: Microsoft's ticket to prosperity | World DNA"](https://www.youtube.com/watch?v=72d0rRusUxo)
+- 💰📈 [Finshots ~ "BUSINESS - How to (almost) get away with fraud?"](https://finshots.in/archive/how-to-almost-get-away-with-fraud/)
+
+</p></details>
 <details><summary><u>Day 123</u></summary><p>
 
 - ✔️ Chess.com 
