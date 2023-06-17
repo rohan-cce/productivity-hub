@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 124 Days (13/02/2023 to 16/06/2023)
+Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 125</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs3.png1)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs4.png)
+- 👂🏻 [Watched a Youtube video "A Microscopic Louis Vuitton? Art Collective MSCHF Creates Bag “Smaller than Grain of Salt”"](https://www.youtube.com/watch?v=iC3T_InuHzc)
+- 🤨[Case study / Documentary ~ "South Africa businesses recycle food waste to reduce methane emissions"](https://www.youtube.com/watch?v=oaDVOkrfHu4)
+- 💰📈 [Finshots ~ "MARKETS - MRF hits ₹1,00,000. So???"](https://finshots.in/markets/mrf-hits-100000/)
+
+</p></details>
 <details><summary><u>Day 124</u></summary><p>
 
 - ✔️ Chess.com 
