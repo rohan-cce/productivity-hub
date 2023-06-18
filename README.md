@@ -1,12 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
+Learning Progress Till Now -> 126 Days (13/02/2023 to 18/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 126</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d126chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d126chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d126chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d126chs4.png)
+- 👂🏻 [Watched a Youtube video "EU's crackdown on big tech "](https://www.youtube.com/watch?v=N_P5VWrYxoY)
+- 🤨[Case study / Documentary ~ "India: Global leader in digital payments"](https://www.youtube.com/watch?v=GvhZSALYdpo)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Fleeing millionaires, library hopes and gratitude"](https://finshots.in/archive/sunny-side-up-fleeing-millionaires-library-hopes-gratitude/)
+
+</p></details>
 <details><summary><u>Day 125</u></summary><p>
 
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d125chs4.png)
 - 👂🏻 [Watched a Youtube video "A Microscopic Louis Vuitton? Art Collective MSCHF Creates Bag “Smaller than Grain of Salt”"](https://www.youtube.com/watch?v=iC3T_InuHzc)
 - 🤨[Case study / Documentary ~ "South Africa businesses recycle food waste to reduce methane emissions"](https://www.youtube.com/watch?v=oaDVOkrfHu4)
@@ -18,7 +30,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d124chs4.png)
 - 👂🏻 [Watched a Youtube video "Mandiant: Chinese hackers attack several government agencies"](https://www.youtube.com/watch?v=Jb7JhoFZ5JQ)
 - 🤨[Case study / Documentary ~ "AI: Microsoft's ticket to prosperity | World DNA"](https://www.youtube.com/watch?v=72d0rRusUxo)
@@ -30,7 +42,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d123chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d123chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d123chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d123chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d123chs4.png)
 - 👂🏻 [Watched a Youtube video "Google Charged with EU Antitrust Violations: Undermining Rivals in Online Advertising"](https://www.youtube.com/watch?v=2i9oeFFEZr8)
 - 🤨[Case study / Documentary ~ "Numerous Communities Go Dark On Reddit"](https://www.youtube.com/watch?v=bbP2ZSGJqGk)
@@ -42,7 +54,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d122chs4.png)
 - 👂🏻 [Watched a Youtube video "European Union Parliament passes world's first law on A-I rules"](https://www.youtube.com/watch?v=jra9Xvw6YZM)
 - 🤨[Case study / Documentary ~ "Trail of flames: Wildfires"](https://www.youtube.com/watch?v=bT2hvaWmGeo)
@@ -54,7 +66,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d121chs4.png)
 - 👂🏻 [Watched a Youtube video "US: Nasdaq to acquire software firm Adenza"](https://www.youtube.com/watch?v=iNtN4XoW6oc)
 - 🤨[Case study / Documentary ~ "From value to volume: India's digital payments success "](https://www.youtube.com/watch?v=Ly7_FJZGaTA)
@@ -69,7 +81,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d120chs4.png)
 - 👂🏻 [Watched a Youtube video "Ola electric's $1 billion IPO to accelerate EV market dominance"](https://www.youtube.com/watch?v=RD_sp6NqRC8)
 - 🤨[Case study / Documentary ~ "Hydroponics | How farming without soil can be a commercial success"](https://www.youtube.com/watch?v=4Hji_ZCtG54)
@@ -81,7 +93,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d119chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d119chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d119chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d119chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d119chs4.png)
   
 </p></details>
@@ -90,7 +102,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d118chs4.png)
   
 </p></details>
@@ -99,7 +111,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d117chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d117chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d117chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d117chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d117chs4.png)
   
 </p></details>
@@ -108,7 +120,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d116chs4.png)
 - 👂🏻 [Watched a Youtube video "India skips rate hike in June policy meet | RBI keen on getting inflation down to 4%"](https://www.youtube.com/watch?v=RZeO3qLRYOg)
 - 🤨[Case study / Documentary ~ "From Breezy to Powerful: The Inner Workings of Fan Regulators"](https://www.youtube.com/watch?v=uIYbd01c_Pc)
@@ -120,7 +132,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d115chs4.png)
 - 👂🏻 [Watched a Youtube video "Indian Cabinet approves revival package of ₹89,047 Crore for BSNL"](https://www.youtube.com/watch?v=i11kJ4gI57I)
 - 🤨[Case study / Documentary ~ "Chandrayaan-3: India gears up to make history"](https://www.youtube.com/watch?v=eR2Svx27btU)
@@ -132,7 +144,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d114chs4.png)
 - 👂🏻 [Watched a Youtube video "Aviation Industry's profitability reaches new altitudes, soars toward $9.8 billion net profit"](https://www.youtube.com/watch?v=ON_WTuaWg1o)
 - 🤨[Case study / Documentary ~ "Apple bites into A-R pie"](https://www.youtube.com/watch?v=bkNhXFZMYY8)
@@ -144,7 +156,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d113chs4.png)
 - 👂🏻 [Watched a Youtube video "Criminals exploit cybersecurity once again, MOVEit tool exploited to steal data"](https://www.youtube.com/watch?v=JcplQtU2dJ0)
 - 🤨[Case study / Documentary ~ "Kavach: What’s the Automatic Train Protection System?"](https://www.youtube.com/watch?v=hFTQO39dGb0)
@@ -156,7 +168,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d112chs4.png)
 - 👂🏻 [Watched a Youtube video "2023: India in the space age"](https://www.youtube.com/watch?v=EEJBph58jD4)
 - 🤨[Case study / Documentary ~ "Why are countries pushing for de-dollarization?"](https://www.youtube.com/watch?v=6PTJCctA394)
@@ -168,7 +180,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d111chs4.png)
 - 👂🏻 [Watched a Youtube video "New BRICS Currency Can be a Severe Challenge for the US Dollar"](https://www.youtube.com/watch?v=u277P1K7Lrk)
 - 🤨[Case study / Documentary ~ "Why 1% Polished Rice Sake Is So Expensive"](https://www.youtube.com/watch?v=4bFJZZNp4Bg)
@@ -182,7 +194,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d110chs4.png)
 - 👂🏻 [Watched a Youtube video "US: AI-controlled drone turns against its human operator"](https://www.youtube.com/watch?v=eDNjeTwGi5E)
 - 🤨[Case study / Documentary ~ "Investing in Gold: Re-discovering a hidden treasure"](https://www.youtube.com/watch?v=3eZ-7Un4keY)
@@ -194,7 +206,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d109chs4.png)
 - 👂🏻 [Watched a Youtube video "The US is set to allow GE to make engines in India"](https://www.youtube.com/watch?v=S67nDl83xEU)
 - 🤨[Case study / Documentary ~ "Apple vs. Samsung’s Strategies to Move Manufacturing Away From China"](https://www.youtube.com/watch?v=NIH6kvYJwK4)
@@ -206,7 +218,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d108chs4.png)
 - 👂🏻 [Watched a Youtube video "Top executives warn threats against AI: Threat from AI at par with nuclear threat"](https://www.youtube.com/watch?v=GFa1aKqYPCM)
 - 🤨[Case study / Documentary ~ "How Miners Use War Weapons To Hunt Rare Jewels In Afghanistan"](https://www.youtube.com/watch?v=EKOa-kFRbBU)
@@ -218,7 +230,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d107chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d107chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d107chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d107chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d107chs4.png)
 - 👂🏻 [Watched a Youtube video "Nvidia to build Israeli supercomputer"](https://www.youtube.com/watch?v=570CVxHGuxQ)
 - 🤨[Case study / Documentary ~ "Solar energy is new oil? World pushes for clean energy potential reasons"](https://www.youtube.com/watch?v=6WsTQxd-w_o)
@@ -230,7 +242,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d106chs4.png)
 - 👂🏻 [Watched a Youtube video "ISRO successfully launches next-generation navigation satellite NVS-1"](https://www.youtube.com/watch?v=-HTjr24gJ6c)
 - 🤨[Case study / Documentary ~ "Who Actually Pays For Credit Card Rewards?"](https://www.youtube.com/watch?v=bkYx9R2k5pk)
@@ -242,7 +254,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d105chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d105chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d105chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d105chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d105chs4.png)
 - 👂🏻 [Watched a Youtube video "China suspends 1.4 million media posts"](https://www.youtube.com/watch?v=YUt7vF0hF1s)
 - 🤨[Case study / Documentary ~ "Grass Is The Most Wasteful Crop In The US. Should We Ban It?"](https://www.youtube.com/watch?v=XpqY-2VC7DE)
@@ -254,7 +266,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d104chs4.png)
 - 👂🏻 [Watched a Youtube video "Taking a daily multivitamin may protect your memory later in life"](https://www.youtube.com/watch?v=5G8yEGX6dG4)
 - 🤨[Case study / Documentary ~ "AI: A double-edged sword | Tech It Out"](https://www.youtube.com/watch?v=TPodPXVSLkE)
@@ -266,7 +278,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d103chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d103chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d103chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d103chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d103chs4.png)
 - 👂🏻 [Watched a Youtube video "Red sea corals threatened by mass sea urchin die-off"](https://www.youtube.com/watch?v=LSJ3rfuUcLE)
 - 🤨[Case study / Documentary ~ "Science behind Hail Rain"](https://www.youtube.com/watch?v=_I14WPMr8D4)
@@ -278,7 +290,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d102chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d102chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d102chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d102chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d102chs4.png)
 - 👂🏻 [Watched a Youtube video "What is India's National Medical Devices Policy 2023?"](https://www.youtube.com/watch?v=S_2arHlJOak)
 - 🤨[Case study / Documentary ~ "These 5 scary things will happen if the US defaults on its debt"](https://www.youtube.com/watch?v=MNoLNyYZgio)
@@ -290,7 +302,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d101chs4.png)
 - 👂🏻 [Watched a Youtube video "Egypt's Economic Crisis: Devaluation or Investments? IMF Loan Hangs in the Balance"](https://www.youtube.com/watch?v=inySY5D8wrQ)
 - 🤨[Case study / Documentary ~ "US Debt Ceiling: How a Default Could Affect You"](https://www.youtube.com/watch?v=2Vk1aF47y60)
@@ -304,7 +316,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d100chs4.png)
 - 👂🏻 [Watched a Youtube video "Italy watchdog Garante to review other AI systems "](https://www.youtube.com/watch?v=CnQutAgDqWU)
 - 🤨[Case study / Documentary ~ "Will India Outpace China As The World's Top Source Of Tourists? "](https://www.youtube.com/watch?v=YoXOAqsrE7k)
@@ -316,7 +328,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d99chs4.png)
 - 👂🏻 [Watched a Youtube video "China Bans Micron Chips As Tensions With US Escalates"](https://www.youtube.com/watch?v=I73ABNPRNnc)
 - 🤨[Case study / Documentary ~ "How People Profit Off Pineapple Scraps"](https://www.youtube.com/watch?v=Ustm5PQpl5Q)
@@ -328,7 +340,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d98chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d98chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d98chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d98chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d98chs4.png)
 - 👂🏻 [Watched a Youtube video "From ChatGPT to “Killer Robots”, is AI Too Powerful?"](http://youtube.com/watch?v=pnpq69WaRsM)
 - 🤨[Case study / Documentary ~ "Why Walmart And Alphabet Are Beating Amazon In Drone Delivery"](https://www.youtube.com/watch?v=yMqbj4Kj-z0)
@@ -340,7 +352,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d97chs4.png)
 - 👂🏻 [Watched a Youtube video "NASA’S Perseverance Rover Captures New Images of Ancient River Evidence on Mars"](https://www.youtube.com/watch?v=eKZ32C2RLf0)
 - 🤨[Case study / Documentary ~ "Why Lightbulbs Might Be The Best Invention Ever"](https://www.youtube.com/watch?v=FU_YFpfDqqA)
@@ -352,7 +364,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d96chs4.png)
 - 👂🏻 [Watched a Youtube video "Google Strikes Back (The AI Wars)"](https://www.youtube.com/watch?v=Qa4K7XsRO0g)
 - 🤨[Case study / Documentary ~ "Exclusive: Air India’s $70 Billion Makeover - Can They Make it?"](https://www.youtube.com/watch?v=T-5ZWKrxB20)
@@ -364,7 +376,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d95chs4.png)
 - 👂🏻 [Watched a Youtube video "Who Regulates AI? | ChatGPT’s Creator Calls for AI Regulation"](https://www.youtube.com/watch?v=Xqe1ORn46Cg)
 - 🤨[Case study / Documentary ~ "How LVMH Became A $500 Billion Luxury Powerhouse"](https://www.youtube.com/watch?v=NBmIFTyiGos)
@@ -376,7 +388,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d94chs4.png)
 - 👂🏻 [Watched a Youtube video "ChatGPT Creator Himself is Worried About AI"](https://www.youtube.com/watch?v=TL_EuLtiQZg)
 - 🤨[Case study / Documentary ~ "How Extreme Dust Buildup Is Deep Cleaned From Dryer Vents"](https://www.youtube.com/watch?v=iIEaH_qcdbU)
@@ -388,7 +400,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d93chs4.png)
 - 👂🏻 [Watched a Youtube video "Food Expiry Dates Are Not What You Think"](https://www.youtube.com/watch?v=j9Pj2iNi6mY)
 - 🤨[Case study / Documentary ~ "Exposing 5 LIES about 3D Printed Concrete Homes"](https://www.youtube.com/watch?v=sz1LM9kwRLY)
@@ -400,7 +412,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d92chs4.png)
 - 👂🏻 [Watched a Youtube video "Shanghai Cooperation Organisation gives India's UPI plan a thumbs up"](https://www.youtube.com/watch?v=AggwlNRNlgM)
 - 🤨[Case study / Documentary ~ "How Millions Are Trapped In Modern-Day Slavery At Brick Kilns In Pakistan"](https://www.youtube.com/watch?v=oAOypGQdzGU)
@@ -412,7 +424,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d91chs4.png)
 - 👂🏻 [Watched a Youtube video "Amazon is incentivizing its customers"](https://www.youtube.com/watch?v=SVRiVwdmaD4)
 - 🤨[Case study / Documentary ~ "Why Royal Jelly is So Expensive"](https://www.youtube.com/watch?v=L4cth57-66k)
@@ -427,7 +439,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d90chs4.png)
 - 👂🏻 [Watched a Youtube video "Why Does Rice Sink Ships?"](https://www.youtube.com/watch?v=H--YF-7mx3s)
 - 🤨[Case study / Documentary ~ "How Huawei's use of 5G and AI is transforming China’s coal mining industry"](https://www.youtube.com/watch?v=uImlzZUw5bQ)
@@ -439,7 +451,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d89chs4.png)
 - 👂🏻 [Watched a Youtube video "Governments across the world race to regulate AI tools"](https://www.youtube.com/watch?v=BtFsfsOjxBA)
 - 🤨[Case study / Documentary ~ "Grain-surfing robot aims to revolutionise crop management"](https://www.youtube.com/watch?v=HiRUtr3G13Y)
@@ -451,7 +463,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d88chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d88chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d88chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d88chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d88chs4.png)
 - 👂🏻 [Watched a Youtube video "Microsoft-Activision set to get EU green signal"](https://www.youtube.com/watch?v=IXFA0gMeSNs)
 - 🤨[Case study / Documentary ~ "Can viruses worsen ecosystem responses?"](https://www.youtube.com/watch?v=LIs5eKtcO8Y)
@@ -463,7 +475,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d87chs4.png)
 - 👂🏻 [Watched a Youtube video "Twitter to Add Calls and Encrypted Messaging: Elon Musk Reveals Future Plans"](https://www.youtube.com/watch?v=EqQqp3hB1CM)
 - 🤨[Case study / Documentary ~ "New Hyundai e-Corner system on IONIQ 5: Say goodbye to parking problems!"](https://www.youtube.com/watch?v=T1VQXo2ipNA)
@@ -475,7 +487,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d86chs4.png)
 - 👂🏻 [Watched a Youtube video "Apple co-founder says AI may make scams harder to spot"](https://www.youtube.com/watch?v=jlbH2EQLDdI)
 - 🤨[Case study / Documentary ~ "Construction of ‘Europe’s largest 3D-printed building’ in Germany to take only 140 hours to finish"](https://www.youtube.com/watch?v=sSFXMGazve8)
@@ -487,7 +499,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d85chs4.png)
 - 👂🏻 [Watched a Youtube video "India's third-largest airline leaves 100,000 passengers stranded"](https://www.youtube.com/watch?v=bplcbFJMYnY)
 - 🤨[Case study / Documentary ~ "Nigeria Is The Biggest Cassava Producer In The World. Why Isn’t It Cashing In On The Global Market?"](https://www.youtube.com/watch?v=zVtlR4cwqRs)
@@ -499,7 +511,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d84chs4.png)
 - 👂🏻 [Watched a Youtube video "Why Inflation Is So Sticky"](https://www.youtube.com/watch?v=2npFHrmUCps)
 - 🤨[Case study / Documentary ~ "Why Kampot White Pepper Is So Expensive"](https://www.youtube.com/watch?v=0YekHftrSy0)
@@ -513,7 +525,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d83chs4.png)
 - 👂🏻 [Watched a Youtube video "Hackers use Chatgpt to spread malware on Facebook, Instagram, and Whatsapp"](https://www.youtube.com/watch?v=KfNakRklvoI)
 - 🤨[Case study / Documentary ~ "Role of AI in early cancer diagnosis"](https://www.youtube.com/watch?v=10JjRHrcNVM)
@@ -525,7 +537,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d82chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d82chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d82chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d82chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d82chs4.png)
 - 👂🏻 [Watched a Youtube video "Big tech companies go all-in to hire AI workers in India"](https://www.youtube.com/watch?v=NL3CShF9HGk)
 - 🤨[Case study / Documentary ~ "Toyota CEO: "This New Engine Will Destroy The Entire EV Industry!"](https://www.youtube.com/watch?v=rTawvzH0MQ4)
@@ -537,7 +549,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d81chs4.png)
 - 👂🏻 [Watched a Youtube video "Google Revolutionizes Online Security with Passkeys: Say Goodbye to Passwords"](https://www.youtube.com/watch?v=FPDkZwOcPek)
 - 🤨[Case study / Documentary ~ "Transforming Israel's Desert: Innovative Agriculture"](https://www.youtube.com/watch?v=gMua6elTmHg)
@@ -551,7 +563,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d80chs4.png)
 - 👂🏻 [Watched a Youtube video "Hollywood writers and studios battle over the future of AI"](https://www.youtube.com/watch?v=oh-XkVftYvk)
 - 🤨[Case study / Documentary ~ "Why Bilona Ghee (A2 Desi Ghee) Is So Expensive"](https://www.youtube.com/watch?v=59w2G_L1OMo)
@@ -563,7 +575,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d79chs4.png)
 - 👂🏻 [Watched a Youtube video "IBM's mega push for artificial intelligence"](https://www.youtube.com/watch?v=YcdCHfDJD4I)
 - 🤨[Case study / Documentary ~ "Most Ocean Plastic Flows From Rivers. Can Giant Trash Barriers Stop It?"](https://www.youtube.com/watch?v=L8pEdHzQcik)
@@ -575,7 +587,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d78chs4.png)
 - 👂🏻 [Watched a Youtube video "G7 members united on regulating AI"](https://www.youtube.com/watch?v=kcVsARqqWss)
 - 🤨[Case study / Documentary ~ "How People In Nepal Risk Their Lives To Find 'Mad Honey'"](https://www.youtube.com/watch?v=ajG3eMB5AJM)
@@ -587,7 +599,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d77chs4.png)
 - 👂🏻 [Watched a Youtube video "Evasive Panda APT group delivers malware via updates for popular Chinese software"](https://www.youtube.com/watch?v=iL7CuKLm_0U)
 - 🤨[Case study / Documentary ~ "How NASA Reinvented The Wheel"](https://www.youtube.com/watch?v=vSNtifE0Z2Q)
@@ -599,7 +611,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d76chs4.png)
 - 👂🏻 [Watched a Youtube video "Why League of Nations Failed | The Outbreak of World War 2"](https://www.youtube.com/watch?v=RVPM_QodWP0)
 - 🤨[Case study / Documentary ~ "What Is The Ultimate Safe Haven Strategy During Market Volatility?"](https://www.youtube.com/watch?v=LPmV9c73Nvg)
@@ -611,7 +623,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d75chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -625,7 +637,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d74chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -639,7 +651,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d73chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -655,7 +667,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d72chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -671,7 +683,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d71chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -689,7 +701,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d70chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -703,7 +715,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d69chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d69chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d69chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d69chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d69chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -717,7 +729,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d68chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -731,7 +743,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d67chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -745,7 +757,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d66chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -759,7 +771,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d65chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -773,7 +785,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d64chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d64chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d64chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d64chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d64chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -787,7 +799,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d63chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d63chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d63chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d63chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d63chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -801,7 +813,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d62chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -815,7 +827,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d61chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -831,7 +843,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d60chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -845,7 +857,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d59chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -859,7 +871,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d58chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -873,7 +885,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d57chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d57chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d57chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d57chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d57chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -887,7 +899,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d56chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d56chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d56chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d56chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d56chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -900,7 +912,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d55chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -913,7 +925,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d54chs4.png)
 - 👂🏻 [Watched a Youtube video "India: Skyroot Aerospace Successfully Test Fires its 3D-Printed Cryogenic Engine"](https://www.youtube.com/watch?v=bptJekmw4cg)
 - 💰📈 [Finshots ~ "BUSINESS - An explainer on Rajasthan’s Right to Health"](https://finshots.in/archive/rajasthan-right-to-health/)
@@ -924,7 +936,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d53chs4.png)
 - 👂🏻 [Watched a Youtube video "El Salvador removes all taxes related to tech innovation for economic growth"](https://www.youtube.com/watch?v=8bovTEQCOIE)
 - 💰📈 [Finshots ~ "BUSINESS - OPEC’s oil price manipulation?"](https://finshots.in/archive/opecs-oil-price-manipulation/)
@@ -935,7 +947,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d52chs4.png)
 - 👂🏻 [Watched a Youtube video "Asian Monetary Fund In The Making? | India Rejects China's New Dare"](https://www.youtube.com/watch?v=wPZmmehk9_k)
 - 💰📈 [Finshots ~ "BUSINESS - Can Namma Yatri disrupt Ola and Uber?"](https://finshots.in/archive/the-namma-yatri-story/)
@@ -946,7 +958,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D50-D100/d51chs4.png)
 - 👂🏻 [Watched a Youtube video "8 Km Under Ocean Surface, Scientists Discover Deepest Fish Ever"](https://www.youtube.com/watch?v=XTywBm_3lgw)
 - 💰📈 [Finshots ~ "BUSINESS - Time for KGF to shine again?"](https://finshots.in/archive/time-for-kgf-to-shine-again/)
@@ -959,7 +971,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d50chs4.png)
 - 👂🏻 [Watched a Youtube video "Japanese Defence firms introduce high-energy laser anti-drone weapons"](https://www.youtube.com/watch?v=hflW3QvXggw)
 - 💰📈 [Finshots ~ "POLICY - An explainer on the National List of Essential Medicines"](https://finshots.in/archive/an-explainer-on-the-national-list-of-essential-medicines/)
@@ -970,7 +982,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d49chs4.png)
 - 👂🏻 [Watched a Youtube video "This Indian institute is fighting farm pests with friendly insects"](https://www.youtube.com/watch?v=_Aaw5cTFhPI)
 - 💰📈 [Finshots ~ "INFOGRAPHIC - ITC revenue breakdown"](https://finshots.in/infographic/itc-revenue-breakdown/)
@@ -981,7 +993,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d48chs4.png)
 - 👂🏻 [Watched a Youtube video "India unveils new Foreign Trade Policy | Eyes $2 trillion exports by 2030"](https://www.youtube.com/watch?v=9MzaLwcEvTs)
 - 💰📈 [Finshots ~ "MARKETS - Tata Technologies IPO Review and why SEBI doesn't like rumours"](https://finshots.in/markets/tata-technologies-ipo-review/)
@@ -992,7 +1004,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d47chs4.png)
 - 👂🏻 [Watched a Youtube video "Can Pineapple Skins Replace Soap? | World Wide Waste "](https://www.youtube.com/watch?v=v8QnB5q9aGo)
 - 💰📈 [Finshots ~ "BUSINESS - Is Air India's pilot shortage a sign of things to come?"](https://finshots.in/archive/is-air-indias-pilot-shortage-a-sign-of-things-to-come/)
@@ -1003,7 +1015,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d46chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1016,7 +1028,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d45chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d45chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d45chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d45chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d45chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1029,7 +1041,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d44chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d44chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d44chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d44chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d44chs4.png)
 - 💰📈 [Finshots ~ "BUSINESS - Amul, Cola and Atta???"](https://finshots.in/archive/amul-cola-and-atta/)
   
@@ -1039,7 +1051,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d43chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d43chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d43chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d43chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d43chs4.png)
 - 💰📈 [Finshots ~ "CAPITAL MARKETS - 1-minute silence for debt mutual funds?"](https://finshots.in/archive/silence-for-debt-mutual-funds/)
   
@@ -1049,7 +1061,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d42chs4.png)
 - 💰📈 [Finshots ~ "MARKETS - Are Indian banks out of trouble?"](https://finshots.in/markets/are-indian-banks-out-of-trouble/)
   
@@ -1059,7 +1071,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d41chs4.png)
 - 💰📈 [Finshots ~ "BUSINESS - Weekly Wrapup: How are Indian Banks holding up"](https://finshots.in/archive/weekly-wrapup-how-are-indian-banks-holding-up/)
   
@@ -1071,7 +1083,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d40chs4.png)
 - 💰📈 [Finshots ~ "BUSINESS - Why did top Bollywood songs disappear from Spotify?"](https://finshots.in/archive/zee-music-cut-ties-with-spotify/)
   
@@ -1083,7 +1095,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d39chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1097,7 +1109,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d38chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1111,7 +1123,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d37chs4.png)
 - 💰📈 [Finshots ~ "POLICY - A story about artificially ripening real fruits"](https://finshots.in/archive/a-story-about-artificially-ripening-real-fruits/)
   
@@ -1121,7 +1133,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d36chs4.png)
 - 💰📈 [Finshots ~ "CAPITAL MARKETS - Baba Ramdev can't sell his Patanjali shares?"](https://finshots.in/archive/baba-ramdev-cant-sell-his-patanjali-shares/)
   
@@ -1131,7 +1143,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d35chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1145,7 +1157,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d34chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d34chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d34chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d34chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d34chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1158,7 +1170,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d33chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1171,7 +1183,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d32chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d32chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d32chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d32chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d32chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1186,7 +1198,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d31chs4.png)
 - 📖📈 Book reading
   - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1207,7 +1219,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d30chs4.png)
 - 📖📈 Book reading
   - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1223,7 +1235,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d29chs4.png)
 - 💰📈 [Finshots ~ "BUSINESS - The Death of Silicon Valley Bank](https://finshots.in/archive/the-death-of-silicon-valley-bank/)
   
@@ -1233,7 +1245,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d28chs4.png)
 - 🤨[Case study / Documentary ~ "How the failure of US banks will impact India | Silicon Vally Bank (#SVB) Crisis Explained"](https://www.youtube.com/watch?v=9U4wRZ7y7lI)
 - 👂🏻 [Watched a Youtube video "Shivaram Karanth Layout: How this project by Bengaluru Development Authority is a threat to farmers"](https://www.youtube.com/watch?v=enTbWR1Xw9k)
@@ -1245,7 +1257,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d27chs4.png)
 - 💰📈 [Finshots ~ "MARKETS - India’s love for fried chicken?"](https://finshots.in/markets/the-fried-chicken-story/)
   
@@ -1255,7 +1267,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d26chs4.png)
 - 🤨[Case study / Documentary ~ "Can anything challenge the almighty dollar's dominance?"](https://www.youtube.com/watch?v=m7CvPewbTyQ)
 - 👂🏻 [Watched a Youtube video "How A Japanese Mega-Kitchen Prepares Thousands Of School Lunches Everyday"](https://www.youtube.com/watch?v=ITzRFAfJsLA)
@@ -1267,7 +1279,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d25chs4.png)
 - 💰📈 [Finshots ~ "POLICY - The Jan Aushadhi Revolution?"](https://finshots.in/archive/the-jan-aushadhi-revolution/)
   
@@ -1279,7 +1291,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d24chs4.png)
 - 📖📈 Book reading
   - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1295,7 +1307,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d23chs4.png)
 - 🤨[Case study / Documentary ~ "What's behind the vegetable shortages in the UK "](https://www.youtube.com/watch?v=0c4uNZKxG6M)
 - 👂🏻 [Watched a Youtube video "Twitter Revenue Drops 40% After Elon Musk's Buyout"](https://www.youtube.com/watch?v=hzPQWKgn8Go)
@@ -1307,7 +1319,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d22chs4.png)
 - 🤨[Case study / Documentary ~ "Does The Tesla Semi Live Up To The Hype?"](https://www.youtube.com/watch?v=l-BVM673pDs)
 - 👂🏻 [Watched a Youtube video "Gravitas Plus: Pakistan's Economic Crisis Explained"](https://www.youtube.com/watch?v=bCuQJEy3JA8)
@@ -1319,7 +1331,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d21chs4.png)
 - 🤨[Case study / Documentary ~ "Inside Sri Lanka’s Deadly Underground Mines Filled With Rare Jewels"](https://www.youtube.com/watch?v=z2JEulhxcns)
 - 👂🏻 [Watched a Youtube video "Bengaluru's civic agency doesn't pay its garbage collectors. Who does?"](https://www.youtube.com/watch?v=XC6UAW2QXVI)
@@ -1336,7 +1348,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d20chs4.png)
 - 📖📈 Book reading
   - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1354,7 +1366,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d19chs4.png)
 - 🤨[Case study / Documentary ~ "How Big Oil More Than Doubled Their Profits In 2022"](https://www.youtube.com/watch?v=7KleWiR2-G0)
 - 👂🏻 [Watched a Youtube video "2022: Record-breaking carbon emissions as more countries switch to coal"](https://www.youtube.com/watch?v=lZPJJ-g0vyM)
@@ -1368,7 +1380,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d18chs4.png)
 - 🤨[Case study / Documentary ~ "Can Indian Seaweed Replace Plastic? | World Wide Waste"](https://www.youtube.com/watch?v=-mzNkl9RQvI)
 - 👂🏻 [Watched a Youtube video "Will Chinese AI be better than ChatGPT?"](https://www.youtube.com/watch?v=HhBpCJSXsTA)
@@ -1380,7 +1392,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d17chs4.png)
 - 🤨[Case study / Documentary ~ "Why Architects Put Trees on Buildings"](https://www.youtube.com/watch?v=wFNDfSa7Ak8)
 - 👂🏻 [Watched a Youtube video "Environmental impact of Nord stream leaks | WION Climate Tracker"](https://www.youtube.com/watch?v=0B7XRWbCw6A)
@@ -1392,7 +1404,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d16chs4.png)
 - 🤨[Case study / Documentary ~ "The poles are warming up!"](https://www.youtube.com/watch?v=07VZ21b_kWA)
 - 👂🏻 [Watched a Youtube video "Nokia's new entry-level repairable phone"](https://www.youtube.com/watch?v=NDU7wKAs3M4)
@@ -1407,7 +1419,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d15chs4.png)
 - 📖📈 Book reading
   - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1426,7 +1438,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d14chs4.png)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
@@ -1442,7 +1454,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d13chs4.png)
 - 🤨[Case study / Documentary ~ "How Bricks Made From Trash Help Build Schools In Ivory Coast"](https://www.youtube.com/watch?v=kB-_BBMCq1g)
 - 👂🏻 [Watched a Youtube video "Virtual Reality In A Tribunal. Colombia Tests A Court Hearing in The Metaverse"](https://www.youtube.com/watch?v=KIUmJkAq-qg)
@@ -1453,7 +1465,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d12chs4.png)
 - 🤨[Case study / Documentary ~ "Is your Android phone about to get costlier? Google-CCI row explained"](https://www.youtube.com/watch?v=xdJ3gaDa_JA)
 - 👂🏻 [Watched a Youtube video "Why are shelves empty in the UK?"](https://www.youtube.com/watch?v=5ATqPALl7_c)
@@ -1464,7 +1476,7 @@ Learning Progress Till Now -> 125 Days (13/02/2023 to 17/06/2023)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs3.png1)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1-D50/d11chs4.png)
 - 🤨[Case study / Documentary ~ "Explained: What does CCI's order to Google mean to the sale of Android phones?"](https://www.youtube.com/watch?v=gDwvGDq4cNc)
 - 👂🏻 [Watched a Youtube video "South Korea Bids To Lead Global 6G Race"](https://www.youtube.com/watch?v=5p3-gseWkrY)
