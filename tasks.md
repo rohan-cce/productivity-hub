@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 126 Days (13/02/2023 to 18/06/2023)
+Learning Progress Till Now -> 127 Days (13/02/2023 to 19/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 127</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d127chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d127chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d127chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d127chs4.png)
+- 👂🏻 [Watched a Youtube video "Airbus mega aviation deal likely on Monday"](https://www.youtube.com/watch?v=RAhQKsFYyDw)
+- 🤨[Case study / Documentary ~ "How safe is your data in 'Digital India'?"](https://www.youtube.com/watch?v=6NIo2o2087s)
+- 💰📈 [Finshots ~ "ECONOMY - India wants a credit rating upgrade!"](https://finshots.in/archive/india-wants-a-credit-rating-upgrade/)
+
+</p></details>
 <details><summary><u>Day 126</u></summary><p>
 
 - ✔️ Chess.com 
