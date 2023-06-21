@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 128 Days (13/02/2023 to 20/06/2023)
+Learning Progress Till Now -> 129 Days (13/02/2023 to 21/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 129</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d129chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d129chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d129chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d129chs4.png)
+- 👂🏻 [Watched a Youtube video "Himalayan Glaciers May Lose 75% of Their Ice Soon. Here’s Why"](https://www.youtube.com/watch?v=pxKTVABqghk)
+- 🤨[Case study / Documentary ~ "What makes the Eiffel Tower grow several inches taller in summer?"](https://www.youtube.com/watch?v=8Gvux9T6j_A)
+- 💰📈 [Finshots ~ "BUSINESS - The hidden problem in Indian startups"](https://finshots.in/archive/the-hidden-problem-in-indian-startups/)
+
+</p></details>
 <details><summary><u>Day 128</u></summary><p>
 
 - ✔️ Chess.com 
