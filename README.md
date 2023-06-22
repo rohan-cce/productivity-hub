@@ -1,6 +1,18 @@
 # productivity-hub
 Learning Progress Till Now -> 129 Days (13/02/2023 to 21/06/2023)
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
+<details><summary><u>Day 130</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d130chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d130chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d130chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d130chs4.png)
+- 👂🏻 [Watched a Youtube video "GE aerospace signs deal with HAL to produce fighter jet engines"](https://www.youtube.com/watch?v=5UUD-V0QCqE)
+- 🤨[Case study / Documentary ~ "Why sea sponges are so expensive"](https://www.youtube.com/watch?v=aogoloumUVs)
+- 💰📈 [Finshots ~ "BUSINESS - HDFC bids farewell to its ₹10,000 crore education loan company"](https://finshots.in/archive/hdfc-bids-farewell-to-its-10-000-crore-education-loan-company/)
+
+</p></details>
 <details><summary><u>Day 129</u></summary><p>
 
 - ✔️ Chess.com 
