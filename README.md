@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 129 Days (13/02/2023 to 21/06/2023)
+Learning Progress Till Now -> 131 Days (13/02/2023 to 23/06/2023)
+<details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 131</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d131chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d131chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d131chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d131chs4.png)
+- 👂🏻 [Watched a Youtube video "Air travel of the future: Hydrogen-powered hypersonic airplanes may cover 14,000 km in 4 hours"](https://www.youtube.com/watch?v=lJyeWtdaqDE)
+- 🤨[Case study / Documentary ~ "Why Are Small Waves Worse Than Big Waves?"](https://www.youtube.com/watch?v=S9CHCocE6uI)
+- 💰📈 [Finshots ~ "ECONOMY - Taylor Swift and the Baumol Effect"](https://finshots.in/archive/taylor-swift-and-the-baumol-effect/)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 121 - Day 130 ~ June 13, 2023 - June 22, 2023</u></summary><p>
 <details><summary><u>Day 130</u></summary><p>
 
