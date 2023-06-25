@@ -1,6 +1,17 @@
 # productivity-hub
 Learning Progress Till Now -> 132 Days (13/02/2023 to 24/06/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 133</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d133chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d133chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d133chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d133chs4.png)
+- 👂🏻 [Watched a Youtube video "Twitter Faces Lawsuit Over Unpaid Employee Bonus"](https://www.youtube.com/watch?v=7Js0b_7PVmE)
+- 💰📈 [Finshots ~ "ECONOMY - Taylor Swift and the Baumol Effect"](https://finshots.in/archive/taylor-swift-and-the-baumol-effect/)
+
+</p></details>
 <details><summary><u>Day 132</u></summary><p>
 
 - ✔️ Chess.com 
