@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 132 Days (13/02/2023 to 24/06/2023)
+Learning Progress Till Now -> 134 Days (13/02/2023 to 26/06/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 134</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d134chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d134chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d134chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d134chs4.png)
+- 👂🏻 [Watched a Youtube video "Japanese military considers adopting Elon Musk's Starlink satellite service"](https://www.youtube.com/watch?v=Z_sYGg5fAE8)
+- 🤨[Case study / Documentary ~ "Why Stockfish Is So Expensive"](youtube.com/watch?v=1CHt6Yo6sVE)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Why did SEBI ban IIFL Securities?"](https://finshots.in/archive/why-did-sebi-ban-iifl-securities/)
+
+</p></details>
 <details><summary><u>Day 133</u></summary><p>
 
 - ✔️ Chess.com 
