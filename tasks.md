@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 135 Days (13/02/2023 to 27/06/2023)
+Learning Progress Till Now -> 136 Days (13/02/2023 to 28/06/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 136</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d136chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d136chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d136chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d136chs4.png)
+- 👂🏻 [Watched a Youtube video "Neuroscientist debunks ‘lizard brain’ myth"](https://www.youtube.com/watch?v=7STmcKCBI_0)
+- 🤨[Case study / Documentary ~ "How People Risk Their Lives Hunting For Gems, Pearls, and Gold?"](https://www.youtube.com/watch?v=L3e-D1Gocps)
+- 💰📈 [Finshots ~ "BUSINESS - YouTube has a controversial newspaper ad"](https://finshots.in/archive/youtube-has-a-controversial-newspaper-ad/)
+
+</p></details>
 <details><summary><u>Day 135</u></summary><p>
 
 - ✔️ Chess.com 
