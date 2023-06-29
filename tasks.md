@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 136 Days (13/02/2023 to 28/06/2023)
+Learning Progress Till Now -> 137 Days (13/02/2023 to 29/06/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 137</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d137chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d137chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d137chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d137chs4.png)
+- 👂🏻 [Watched a Youtube video "Tarang shakti, India's largest multilateral air exercise to be held this year "](https://www.youtube.com/watch?v=AOf74FE4a-Y)
+- 🤨[Case study / Documentary ~ "The Astronomical Wonder of Ladakh"](https://www.youtube.com/watch?v=5W8AA0ANRL4)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - What is Modern Portfolio Theory?"](https://finshots.in/archive/what-is-modern-portfolio-theory/)
+
+</p></details>
 <details><summary><u>Day 136</u></summary><p>
 
 - ✔️ Chess.com 
