@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 137 Days (13/02/2023 to 29/06/2023)
+Learning Progress Till Now -> 138 Days (13/02/2023 to 30/06/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 138</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d138chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d138chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d138chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d138chs4.png)
+- 👂🏻 [Watched a Youtube video "Climate change is turning snow to rain, raising risk of floods"](https://www.youtube.com/watch?v=jfw-zSc7ERo)
+- 🤨[Case study / Documentary ~ "A robot fish that collects environmental DNA"](https://www.youtube.com/watch?v=TJ68aeT4szQ)
+- 💰📈 [Finshots ~ "BUSINESS - Is Apple's credit card coming to India?"](https://finshots.in/archive/is-apples-credit-card-coming-to-india/)
+
+</p></details>
 <details><summary><u>Day 137</u></summary><p>
 
 - ✔️ Chess.com 
