@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 138 Days (13/02/2023 to 30/06/2023)
+Learning Progress Till Now -> 139 Days (13/02/2023 to 01/07/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 139</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d139chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d139chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d139chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d139chs4.png)
+- 👂🏻 [Watched a Youtube video "Google to deploy laser Internet technology in India"](https://www.youtube.com/watch?v=Hlyy4MKwSUE)
+- 🤨[Case study / Documentary ~ "How Beauty Waste Is Recycled Into Furniture"](https://www.youtube.com/watch?v=fYFkDnN8IIo)
+- 💰📈 [Finshots ~ "MARKETS - ideaForge is ready to fly drones over Dalal Street!"](https://finshots.in/markets/ideaforge-is-ready-to-fly-drones-over-dalal-street/)
+
+</p></details>
 <details><summary><u>Day 138</u></summary><p>
 
 - ✔️ Chess.com 
