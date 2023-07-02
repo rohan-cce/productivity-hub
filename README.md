@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 139 Days (13/02/2023 to 01/07/2023)
+Learning Progress Till Now -> 140 Days (13/02/2023 to 02/07/2023)
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 140</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d140chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d140chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d140chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d140chs4.png)
+- 👂🏻 [Watched a Youtube video "Airless Tyres"](https://www.youtube.com/watch?v=fQRXl0P922k)
+- 🤨[Case study / Documentary ~ "Is the Internet a Right or Privilege?"](https://www.youtube.com/watch?v=P0StRL4shOA)
+- 💰📈 [Finshots ~ "MARKETS - MCX is in a complicated relationship with 63 Moons"](https://finshots.in/markets/mcx-is-in-a-complicated-relationship-with-63-moons/)
+
+</p></details>
 <details><summary><u>Day 139</u></summary><p>
 
 - ✔️ Chess.com 
