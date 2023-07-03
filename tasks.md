@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 140 Days (13/02/2023 to 02/07/2023)
+Learning Progress Till Now -> 141 Days (13/02/2023 to 03/07/2023)
+<details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 141</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d141chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d141chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d141chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d141chs4.png)
+- 👂🏻 [Watched a Youtube video "Twitter imposes curbs on reading tweets"](https://www.youtube.com/watch?v=UU7rkqgldhI)
+- 🤨[Case study / Documentary ~ "How Mica From Illegal Mines In Madagascar Ends Up in Our Tech Products"](https://www.youtube.com/watch?v=iZbVjNbnlNI)
+- 💰📈 [Finshots ~ "BUSINESS - The mad rise of adventure tourism"](https://finshots.in/archive/the-mad-rise-of-adventure-tourism/)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 131 - Day 140 ~ June 23, 2023 - July 02, 2023</u></summary><p>
 <details><summary><u>Day 140</u></summary><p>
 
