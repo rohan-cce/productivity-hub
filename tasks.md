@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 141 Days (13/02/2023 to 03/07/2023)
+Learning Progress Till Now -> 142 Days (13/02/2023 to 04/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 142</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d142chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d142chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d142chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d142chs4.png)
+- 👂🏻 [Watched a Youtube video "China restricts exports of two key metals"](https://www.youtube.com/watch?v=1wkAG85HiT8)
+- 🤨[Case study / Documentary ~ "Apple's AirPods may include hearing health and body temperature features in the future"](https://www.youtube.com/watch?v=y4duwcKKqOk)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS.- Goodbye SGX Nifty. Hello GIFT Nifty."](https://finshots.in/archive/goodbye-sgx-nifty-hello-gift-nifty/)
+
+</p></details>
 <details><summary><u>Day 141</u></summary><p>
 
 - ✔️ Chess.com 
