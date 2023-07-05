@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 142 Days (13/02/2023 to 04/07/2023)
+Learning Progress Till Now -> 143 Days (13/02/2023 to 05/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 143</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d143chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d143chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d143chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d143chs4.png)
+- 👂🏻 [Watched a Youtube video "Meta to Launch New Microblogging Site, Threads"](https://www.youtube.com/watch?v=UcxN_Jpa3Ws)
+- 🤨[Case study / Documentary ~ "Elon Musk’s New Reading Limits on Twitter Could Discourage Advertisers"](https://youtu.be/FeE3R3H5NdA)
+- 💰📈 [Finshots ~ "POLICY - An explainer on Time-of-Day electricity tariff"](https://finshots.in/archive/an-explainer-on-time-of-day-electricity-tariff/)
+
+</p></details>
 <details><summary><u>Day 142</u></summary><p>
 
 - ✔️ Chess.com 
