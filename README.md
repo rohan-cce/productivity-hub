@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 145 Days (13/02/2023 to 07/07/2023)
+Learning Progress Till Now -> 146 Days (13/02/2023 to 08/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 146</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d146chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d146chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d146chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d146chs4.png)
+- 👂🏻 [Watched a Youtube video "Twitter threatens to sue Meta over rival Threads app"](http://youtube.com/watch?v=WLSrKDoqVts)
+- 🤨[Case study / Documentary ~ "The impact of AI on Hollywood"](https://www.youtube.com/watch?v=97kg6jcJOlI)
+- 💰📈 [Finshots ~ "BUSINESS - Why Threads is unlikely to kill Twitter…"](https://finshots.in/archive/why-threads-is-unlikely-to-kill-twitter/)
+
+</p></details>
 <details><summary><u>Day 145</u></summary><p>
 
 - ✔️ Chess.com 
