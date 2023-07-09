@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 146 Days (13/02/2023 to 08/07/2023)
+Learning Progress Till Now -> 147 Days (13/02/2023 to 09/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 147</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d147chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d147chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d147chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d147chs4.png)
+- 👂🏻 [Watched a Youtube video "A Global Rupee: India’s Central Bank Panel Gives Go Ahead"](https://www.youtube.com/watch?v=SBY-5jzmCeI)
+- 🤨[Case study / Documentary ~ "How The Oldest Crystal Factory In France Makes $13,000 Paperweights"](https://www.youtube.com/watch?v=CR28G17eNbg)
+- 💰📈 [Finshots ~ "MARKETS - Hero and Bajaj are racing after Royal Enfield"](https://finshots.in/markets/hero-and-bajaj-are-racing-after-royal-enfield/)
+</p></details>
 <details><summary><u>Day 146</u></summary><p>
 
 - ✔️ Chess.com 
