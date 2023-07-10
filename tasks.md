@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 147 Days (13/02/2023 to 09/07/2023)
+Learning Progress Till Now -> 148 Days (13/02/2023 to 10/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 148</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d148chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d148chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d148chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d148chs4.png)
+- 👂🏻 [Watched a Youtube video "Chinese investments spark EV revolution in Thailand"](https://www.youtube.com/watch?v=hqBKJF7tE_k)
+- 🤨[Case study / Documentary ~ "How Tabasco Fills Up To 700,000 Hot Sauce Bottles A Day"](https://www.youtube.com/watch?v=hqBKJF7tE_k)
+- 💰📈 [Finshots ~ "ECONOMY - Tomato trouble"](https://finshots.in/archive/tomato-trouble/)
+</p></details>
 <details><summary><u>Day 147</u></summary><p>
 
 - ✔️ Chess.com 
