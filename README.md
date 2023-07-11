@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 148 Days (13/02/2023 to 10/07/2023)
+Learning Progress Till Now -> 149 Days (13/02/2023 to 11/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 149</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d149chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d149chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d149chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d149chs4.png)
+- 👂🏻 [Watched a Youtube video "'Make in India' campaign impacted by Foxconn withdrawing from Indian venture"](https://www.youtube.com/watch?v=layLwQmzlC0)
+- 🤨[Case study / Documentary ~ "Huge selloff expected in Chinese stocks amid uncertain economy"](https://www.youtube.com/watch?v=JXw9L01ycXQ)
+- 💰📈 [Finshots ~ "POLICY - RBI's magical mileage for RuPay?"](https://finshots.in/archive/rbi-push-for-rupay/)
+</p></details>
 <details><summary><u>Day 148</u></summary><p>
 
 - ✔️ Chess.com 
