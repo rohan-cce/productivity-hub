@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 149 Days (13/02/2023 to 11/07/2023)
+Learning Progress Till Now -> 150 Days (13/02/2023 to 12/07/2023)
 <details><summary><u>Day 141 - Day 150 ~ June 23, 2023 - July 02, 2023</u></summary><p>
+<details><summary><u>Day 150</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d150chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d150chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/1lob/main/images/chess/D101-D150/d150chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D101-D150/d150chs4.png)
+- 👂🏻 [Watched a Youtube video "Weaponising daffodils to reduce methane emissions by cows"](https://www.youtube.com/watch?v=k_MzlifGS0c)
+- 🤨[Case study / Documentary ~ "Why Ayam Cemani Chickens Are So Expensive"](https://www.youtube.com/watch?v=OsDuXBMOdNs)
+- 💰📈 [Finshots ~ "BUSINESS - Did Reliance really cheat its shareholders?"](https://finshots.in/archive/did-reliance-really-cheat-its-shareholders/)
+</p></details>
 <details><summary><u>Day 149</u></summary><p>
 
 - ✔️ Chess.com 
