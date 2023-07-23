@@ -1,5 +1,15 @@
 # productivity-hub
-Learning Progress Till Now -> 160 Days (13/02/2023 to 22/07/2023)
+Learning Progress Till Now -> 161 Days (13/02/2023 to 23/07/2023)
+<details><summary><u>Day 161 - Day 170 ~ July 23, 2023 - August 01, 2023</u></summary><p>
+<details><summary><u>Day 161</u></summary><p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d161chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d161chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d161chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d161chs4.jpeg)
+</p></details>
+</p></details>
 <details><summary><u>Day 151 - Day 160 ~ July 13, 2023 - July 22, 2023</u></summary><p>
 <details><summary><u>Day 160</u></summary><p>
 
