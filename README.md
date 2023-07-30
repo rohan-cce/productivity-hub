@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 167 Days (13/02/2023 to 29/07/2023)
+Learning Progress Till Now -> 168 Days (13/02/2023 to 30/07/2023)
 <details><summary><u>Day 161 - Day 170 ~ July 23, 2023 - August 01, 2023</u></summary><p>
+<details><summary><u>Day 168</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d168e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d168ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d168chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d168chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d168chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d168chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 2 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> Target-date funds](https://qz.com/emails/quartz-obsession/1850686604/target-date-funds-will-they-free-you-from-the-9-to-5)
+- 👂🏻 [Watched a Youtube video "AMD announces world's largest R&D centre in Bengaluru"](https://www.youtube.com/watch?v=SCd1bj-q33A&ab_channel=DeccanHerald)
+- 🤨[Case study / Documentary ~ "Why Grade A Maple Syrup Is So Expensive?"](https://www.youtube.com/watch?v=rCzx_MTtb_U&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "POLICY - An explainer on India’s rice ban"](https://finshots.in/archive/an-explainer-on-indias-rice-ban/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [1. Background and Orientation](https://zerodha.com/varsity/chapter/background-and-orientation/)
+</p></details>
 <details><summary><u>Day 167</u></summary><p>
 
 - ✔️ Chess.com 
