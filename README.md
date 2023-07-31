@@ -1,6 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 168 Days (13/02/2023 to 30/07/2023)
+Learning Progress Till Now -> 169 Days (13/02/2023 to 31/07/2023)
 <details><summary><u>Day 161 - Day 170 ~ July 23, 2023 - August 01, 2023</u></summary><p>
+<details><summary><u>Day 169</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d169e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d169ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d169chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d169chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d169chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d169chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> The great chip race](https://qz.com/emails/daily-brief/1850690642/the-great-chip-race)
+- 👂🏻 [Watched a Youtube video "ISRO Successfully Launches PSLV-C56 Carrying Seven Singaporean Satellites"](https://www.youtube.com/watch?v=WzB2u4KAcCg&ab_channel=Firstpost)
+- 🤨[Case study / Documentary ~ "CRED's Genius Business Model EXPLAINED"](https://youtu.be/EUcVBDtJo5M?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG)
+- 💰📈 [Finshots ~ "BUSINESS - The rise and stall of Xiaomi India"](https://finshots.in/archive/the-rise-and-stall-of-xiaomi-india/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [2. Personal Finance Math (Part 1)](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+- 💻 Technical Learning
+  - 💻 [Java Strings](https://www.educative.io/courses/learn-java-from-scratch/RMLProkpDVY#Immutability)
+</p></details>
 <details><summary><u>Day 168</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d168e1.jpeg)
