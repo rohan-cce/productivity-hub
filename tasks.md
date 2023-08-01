@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 169 Days (13/02/2023 to 31/07/2023)
+Learning Progress Till Now -> 170 Days (13/02/2023 to 01/08/2023)
 <details><summary><u>Day 161 - Day 170 ~ July 23, 2023 - August 01, 2023</u></summary><p>
+<details><summary><u>Day 170</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d170e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d170ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d170chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d170chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d169chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d170chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> Uber's cost cuts and layoffs have yielded its first operating profit ever](https://qz.com/ubers-cost-cuts-and-layoffs-have-yielded-its-first-oper-1850695269)
+- 👂🏻 [Watched a Youtube video "NASA loses contact with Voyager-2, spacecraft is travelling in interstellar space"](https://www.youtube.com/watch?v=j9xWdkStnEQ&ab_channel=WION)
+- 🤨[Case study / Documentary ~ Why Coconut Farmers Risk Their Lives To Feed The World's Superfood Obsession"](https://www.youtube.com/watch?v=vEA8HpR_Azw&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "MARKETS - Will Reliance disrupt the world of money?"](https://finshots.in/markets/will-reliance-disrupt-the-world-of-money/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [3. Personal Finance Math (Part 2)](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+</p></details>
 <details><summary><u>Day 169</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d169e1.jpeg)
