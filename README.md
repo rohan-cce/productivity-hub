@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 173 Days (13/02/2023 to 04/08/2023)
+Learning Progress Till Now -> 174 Days (13/02/2023 to 05/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 174</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d174e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d174ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d174chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d174chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d174chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d174chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Amazon’s cloud revenue is up 12% amid AI demand"](https://qz.com/amazon-earnings-cloud-revenue-ai-demand-1850709218)
+- 👂🏻 [Watched a Youtube video "US tech rally at risk due to China?"](https://www.youtube.com/watch?v=xMF0rkZ1DZM&ab_channel=WION)
+- 🤨[Case study / Documentary ~ "The $24 Million SIM-Swapping Hack"](https://www.youtube.com/watch?v=dM5BJxoa_q0&ab_channel=BloombergOriginals)
+- 💰📈 [Finshots ~ "BUSINESS - Byju needs Aakash"](https://finshots.in/archive/byju-needs-aakash/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [7. Concept of fund & NAV](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
+</p></details>
 <details><summary><u>Day 173</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d173e1.jpeg)
