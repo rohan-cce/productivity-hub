@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 175 Days (13/02/2023 to 06/08/2023)
+Learning Progress Till Now -> 176 Days (13/02/2023 to 07/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 176</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d176e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d176ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d176chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d176chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d176chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d176chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "India delays laptop ban"](https://qz.com/emails/daily-brief/1850711879/india-delays-laptop-ban)
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3: First images of moon as captured by Chandrayaan-3 during lunar orbit"](https://www.youtube.com/watch?v=91oWqRmKOI4&ab_channel=WION)
+- 🤨[Case study / Documentary ~ "UPI Payments Through CREDIT CARD"](https://www.youtube.com/watch?v=zDPrNOEvpu4&ab_channel=FinnovationZbyPrasad)
+- 💰📈 [Finshots ~ "MARKETS - A profitable Zomato is finally here...but for how long?"](https://finshots.in/markets/a-profitable-zomato-is-finally-here/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [8. The mutual fund fact-sheet](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+</p></details>
 <details><summary><u>Day 175</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d175e1.jpeg)
