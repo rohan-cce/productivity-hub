@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 176 Days (13/02/2023 to 07/08/2023)
+Learning Progress Till Now -> 177 Days (13/02/2023 to 08/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 177</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d177e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d177ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d177chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d177chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d177chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d177chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "It’s no surprise Zoom wants workers back in the office"](https://qz.com/zoom-ironic-remote-work-office-policy-1850714718)
+- 👂🏻 [Watched a Youtube video "India's Lunar Mission Chandrayaan-3 Enters Moon's Orbit, Captures the Moon | Chandrayaan 3 Updates"](https://youtu.be/MxffG8kPpqg)
+- 🤨[Case study / Documentary ~ "How Lebanon’s Oldest Soap Factory Makes 30,000 Olive Oil Bars"](https://youtu.be/2YVb4s1DGzw)
+- 💰📈 [Finshots ~ "BUSINESS - An explainer on Worldcoin"](https://finshots.in/archive/an-explainer-on-worldcoin/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [9. The Equity scheme (Part 1)](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+</p></details>
 <details><summary><u>Day 176</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d176e1.jpeg)
