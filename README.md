@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 177 Days (13/02/2023 to 08/08/2023)
+Learning Progress Till Now -> 178 Days (13/02/2023 to 09/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 178</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d178e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d178ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d178chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d178chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d178chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d178chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Earnings revisions won't tick up in 2024?"](https://qz.com/earnings-revisions-wont-tick-up-in-2024-1850718366)
+- 👂🏻 [Watched a Youtube video "Digital Personal Data Protection Bill | Why RTI activists are worried"](https://www.youtube.com/watch?v=n5Owq8yw3kk&ab_channel=DeccanHerald)
+- 🤨[Case study / Documentary ~ "ChatGPT is Changing Classrooms Forever"](https://www.youtube.com/watch?v=eCa-JCr0v9c&ab_channel=ABCScience\)
+- 💰📈 [Finshots ~ "POLICY - What's 'Direct-To-Mobile' that everyone's talking about?"](https://finshots.in/archive/whats-direct-to-mobile-that-everyones-talking-about/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [9. The Equity scheme (Part 1)](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+</p></details>
 <details><summary><u>Day 177</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d177e1.jpeg)
