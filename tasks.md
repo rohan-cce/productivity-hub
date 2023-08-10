@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 178 Days (13/02/2023 to 09/08/2023)
+Learning Progress Till Now -> 179 Days (13/02/2023 to 10/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 179</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d179e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d179ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d179chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d179chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d179chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d179chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Amazon isn’t prepared for the incoming tide of AI-authored books. Jane Friedman has proof"](https://qz.com/amazon-ai-generated-books-using-real-authors-names-1850720961)
+- 👂🏻 [Watched a Youtube video "China Consumer Prices Dip in July Dragging Country into Deflation"](https://www.youtube.com/watch?v=-Oa1z7Rqa14&ab_channel=Firstpost)
+- 🤨[Case study / Documentary ~ "Why White Asparagus (Spargel) Is So Expensive"](https://www.youtube.com/watch?v=OnDov0FCZk8&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "BUSINESS - PC Jeweller: From shining star to insolvency?"](https://finshots.in/archive/pc-jeweller-from-shining-star-to-insolvency/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [10. Equity Scheme (Part 2)](https://zerodha.com/varsity/chapter/equity-scheme-part-2/)
+</p></details>
 <details><summary><u>Day 178</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d178e1.jpeg)
