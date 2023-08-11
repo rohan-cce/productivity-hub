@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 179 Days (13/02/2023 to 10/08/2023)
+Learning Progress Till Now -> 179 Days (13/02/2023 to 11/08/2023)
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
+<details><summary><u>Day 180</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d180e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d180ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d180chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d180chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d180chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d180chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "WhatsApp is invading Zoom's turf—just as Zoom is facing an AI backlash"](https://qz.com/meta-whatsapp-zoom-video-call-market-share-competition-1850723895)
+- 👂🏻 [Watched a Youtube video "Does India have too few or too many pilots?"](https://www.youtube.com/watch?v=IuNLbMADy4c&ab_channel=TheHindu)
+- 🤨[Case study / Documentary ~ How Taiwan Secretly Became an Economic Superpower"](https://www.youtube.com/watch?v=xT17zi_4Oas&ab_channel=CasualScholar)
+- 💰📈 [Finshots ~ "POLICY - 3 things about the Digital Personal Data Protection Bill"](https://finshots.in/archive/3-things-about-the-digital-personal-data-protection-bill/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [11. The Debt funds (Part 1)](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
+</p></details>
 <details><summary><u>Day 179</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d179e1.jpeg)
