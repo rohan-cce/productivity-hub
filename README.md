@@ -1,5 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 180 Days (13/02/2023 to 11/08/2023)
+Learning Progress Till Now -> 181 Days (13/02/2023 to 11/08/2023)
+<details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 181</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d181e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d181ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d181chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d181chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d181chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d181chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "An Uber-backed robot delivery company is going public—but the industry has yet to really deliver"](https://qz.com/an-uber-backed-robot-delivery-company-is-going-public-b-1850729598)
+- 👂🏻 [Watched a Youtube video "Tech helps wheelchair users move around independently"](https://www.youtube.com/watch?v=olwoz_sVNbA&ab_channel=WION)
+- 🤨[Case study / Documentary ~ "Why 6 Of The World's Priciest Seafoods Are So Expensive"](https://www.youtube.com/watch?v=z_ED02KFhP4&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "MARKETS - A TVS IPO after 29 years and an NSDL IPO that could be coming soon!"](https://finshots.in/markets/a-tvs-ipo-after-29-years/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [11. The Debt funds (Part 1)](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 171 - Day 180 ~ August 02, 2023 - August 11, 2023 </u></summary><p>
 <details><summary><u>Day 180</u></summary><p>
 
