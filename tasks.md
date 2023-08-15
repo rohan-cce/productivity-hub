@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 183 Days (13/02/2023 to 14/08/2023)
+Learning Progress Till Now -> 184 Days (13/02/2023 to 15/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 184</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d184e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d184ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d184chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d184chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d184chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d184chs4.jpeg)
+- 📰 [Daily English News -> "A weak yen is throwing a lifeline to Japanese carmakers struggling in China"](https://qz.com/a-weak-yen-is-throwing-a-lifeline-to-japanese-carmakers-1850737260)
+- 👂🏻 [Watched a Youtube video "World’s oldest moss could go extinct as a result of climate crisis "](https://www.youtube.com/watch?v=B7arQevhSlA&ab_channel=WION)
+- 💰📈 [Finshots ~ "MARKETS - Sheela Foam Kurls On Furlenco’s Bed"](https://finshots.in/markets/sheela-foam-kurls-on-furlencos-bed/)
+</p></details>
 <details><summary><u>Day 183</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d183e1.jpeg)
