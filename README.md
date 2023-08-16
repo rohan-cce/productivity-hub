@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 184 Days (13/02/2023 to 15/08/2023)
+Learning Progress Till Now -> 185 Days (13/02/2023 to 16/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 185</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d185e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d185ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d185chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d185chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d185chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d185chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "What sectors may be affected by the 'dramatic' growth of AI"](https://qz.com/what-sectors-may-be-affected-by-the-dramatic-growth-of-1850740766)
+- 👂🏻 [Watched a Youtube video "Singapore Researchers Develop AI That Can Read Minds Through Brain Scans"](https://www.youtube.com/watch?v=gCVOxyr4GNY&ab_channel=Firstpost)
+- 🤨[Case study / Documentary ~ "Why are World Powers Rushing to the Moon Again?|"](https://www.youtube.com/watch?v=fALviqSI2ws&ab_channel=Firstpost)
+- 💰📈 [Finshots ~ "BUSINESS - 3 brands and their Partition story: A post-Independence Day Finshots Special"](https://finshots.in/archive/3-brands-and-their-partition-story-independence-day-2023/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [14. The Debt Funds (Part 4)](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+</p></details>
 <details><summary><u>Day 184</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d184e1.jpeg)
