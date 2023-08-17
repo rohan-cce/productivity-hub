@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 185 Days (13/02/2023 to 16/08/2023)
+Learning Progress Till Now -> 186 Days (13/02/2023 to 17/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 186</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d187e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d187ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d187chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d187chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d187chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d187chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Intel called off the $5.4 billion Tower deal after failing to secure approval from Chinese regulators"](https://qz.com/intel-tower-china-us-tech-wars-semiconductors-deal-1850742582)
+- 👂🏻 [Watched a Youtube video "Vietnamese EV Maker Beats Ford and GM"](https://www.youtube.com/watch?v=r_lI98AlNHs&ab_channel=Firstpost)
+- 🤨[Case study / Documentary ~ "Why New Zealand's Golden Kiwis Are So Expensive"](https://www.youtube.com/watch?v=hD4xsk1vxqU&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "POLICY - RBI is firefighting cash"](https://finshots.in/archive/rbi-is-firefighting-cash/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [15. Investing in Bonds](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+</p></details>
 <details><summary><u>Day 185</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d185e1.jpeg)
