@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 186 Days (13/02/2023 to 17/08/2023)
+Learning Progress Till Now -> 187 Days (13/02/2023 to 18/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 187</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d186e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d186ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d186chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d186chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d186chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d186chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Snapchat's AI hallucination caused a privacy scare"](https://qz.com/snapchat-my-ai-snaps-hallucination-data-privacy-1850747179)
+- 💰📈 [Finshots ~ "ECONOMY - Is this China's 'Japanification' moment?"](https://finshots.in/archive/is-this-chinas-japanification-moment/)
+</p></details>
 <details><summary><u>Day 186</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d187e1.jpeg)
