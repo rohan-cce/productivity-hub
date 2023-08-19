@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 187 Days (13/02/2023 to 18/08/2023)
+Learning Progress Till Now -> 188 Days (13/02/2023 to 19/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 188</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d188e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d188ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d188chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d188chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d188chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d188chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3 | Vikram lander successfully separates from spacecraft"](https://www.youtube.com/watch?v=w4ekXwj1BhQ&ab_channel=DeccanHerald)
+- 🤨[Case study / Documentary ~ "India's first 3D-printed post office opens in Bengaluru"](https://www.youtube.com/watch?v=_dO-DBYVIcg&ab_channel=DeccanHerald)
+- 📰 [Daily English News -> "A $40,000 Nvidia chip has become the world's most sought-after hardware"](https://qz.com/a-40-000-nvidia-chip-has-become-the-worlds-most-sought-1850746956)
+- 💰📈 [Finshots ~ "MARKETS - Can Adidas breathe new life into Bata?"](https://finshots.in/markets/can-adidas-breathe-new-life-into-bata/)
+- 💰📈 [Financial education ~ Personal Finance - Mutual Funds](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [15. Investing in Bonds](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+</p></details>
 <details><summary><u>Day 187</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d186e1.jpeg)
