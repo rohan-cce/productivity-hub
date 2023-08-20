@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 188 Days (13/02/2023 to 19/08/2023)
+Learning Progress Till Now -> 189 Days (13/02/2023 to 20/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 189</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d189e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d189ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles]()
+  - ✔️ [Played Puzzle Rush]()
+  - ✔️ [Played puzzle battle with random person]()
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d189chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Russian Spacecraft Luna-25 Crashes Into Moon's Surface"](https://www.youtube.com/watch?v=OREh6SkZ_5I&ab_channel=Firstpost)
+- 📰 [Daily English News -> "SUNNY SIDE UP - Sunny Side Up 🍳: Celebrities sued over bored apes, fading fitness bands and philanthropic happiness"](https://finshots.in/archive/sunny-side-up-bored-apes-fitness-bands-and-philanthropic-happiness/)
+- 💰📈 [Finshots ~ "China’s debt-laden Evergrande has sought bankruptcy protection in the US"](https://qz.com/china-evergrande-chapter-15-bankruptcy-protection-us-1850750946)
+</p></details>
 <details><summary><u>Day 188</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d188e1.jpeg)
