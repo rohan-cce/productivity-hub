@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 189 Days (13/02/2023 to 20/08/2023)
+Learning Progress Till Now -> 190 Days (13/02/2023 to 21/08/2023)
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
+<details><summary><u>Day 190</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d190e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d190ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d190chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d190chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d190chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d190chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3 maps currently mapping lunar south pole for landing"](https://www.youtube.com/watch?v=NmwIRYN00NU&ab_channel=WION)
+- 🤨[Case study / Documentary ~ "Has China's growth story hit a roadblock?"](https://www.youtube.com/watch?v=_Sv5gWePHPc&ab_channel=WION)
+- 📰 [Daily English News -> "Lab-grown diamonds may not be forever—but their rise is driving down prices"](https://qz.com/lab-grown-diamonds-may-not-be-forever-but-their-rise-is-1850743711)
+- 💰📈 [Finshots ~ "BUSINESS - Is Indian - craft beer fizzing out?"](https://finshots.in/archive/is-indian-craft-beer-fizzing-out/)
+</p></details>
 <details><summary><u>Day 189</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d189e1.jpeg)
