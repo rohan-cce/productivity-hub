@@ -1,5 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 190 Days (13/02/2023 to 21/08/2023)
+Learning Progress Till Now -> 191 Days (13/02/2023 to 22/08/2023)
+
+<details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 191</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d191e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d191ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d191chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d191chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d191chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d191chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3: ISRO aims for the moon, mars and beyond"](https://www.youtube.com/watch?v=gwXF0VzGtVc&ab_channel=WION)
+- 🤨[Case study / Documentary ~ "Why Hanji (Korean Paper) Is So Expensive"](https://www.youtube.com/watch?v=36dy4nMR0X8&ab_channel=InsiderBusiness)
+- 📰 [Daily English News -> "A cargo ship that harnesses wind power has set sail on its maiden journey"](https://qz.com/cargill-pyxis-ocean-cargo-ship-wing-power-windwings-1850756956)
+- 💰📈 [Finshots ~ "POLICY - India doesn't want to share onions"](https://finshots.in/archive/india-doesnt-want-to-share-onions/)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 181 - Day 190 ~ August 12, 2023 - August 21, 2023 </u></summary><p>
 <details><summary><u>Day 190</u></summary><p>
 
