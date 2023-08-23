@@ -1,7 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 191 Days (13/02/2023 to 22/08/2023)
+Learning Progress Till Now -> 192 Days (13/02/2023 to 23/08/2023)
 
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 192</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d192e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d192ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d192chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d192chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d192chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d192chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Chandrayaan 3 Lander Makes A Successful And Safe Soft Landing"](https://www.youtube.com/watch?v=92sDjg8OGhg&ab_channel=TheIndianExpress)
+- 🤨[Case study / Documentary ~ "Denmark's Economy is Booming Thanks to the US. Here's How"](https://www.youtube.com/watch?v=V4yL1H4pOy4&ab_channel=Firstpost)
+- 📰 [Daily English News -> "Ecuador's runoff election is pitting a socialist against a banana baron"](https://qz.com/ecuadors-runoff-election-is-pitting-a-socialist-against-1850756871)
+- 💰📈 [Finshots ~ "POLICY - How an imposter has been threatening the champagne of teas"](https://finshots.in/archive/darjeeling-tea-crisis-nepal-tea/)
+</p></details>
 <details><summary><u>Day 191</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d191e1.jpeg)
