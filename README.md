@@ -1,7 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 192 Days (13/02/2023 to 23/08/2023)
-
+Learning Progress Till Now -> 193 Days (13/02/2023 to 24/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 193</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d193e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d193ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d193chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d193chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d193chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d193chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Pragyan rover takes a walk on moon"](https://www.youtube.com/watch?v=Rg5xxRE7LFk&ab_channel=DeccanHerald)
+- 🤨[Case study / Documentary ~ "Moonquakes, soil composition & temperature | Vikram & Pragyan get to work | Chandrayaan-3 Payloads"](https://www.youtube.com/watch?v=NZSODywgVfk&ab_channel=DeccanHerald)
+- 📰 [Daily English News -> "Not just AI: Nvidia's profits boomed on the back of a recovery in gaming"](https://qz.com/nvidia-revenue-gpu-gaming-chip-market-china-ai-1850769457)
+- 💰📈 [Finshots ~ "POLICY - The rise of municipal bonds"](https://finshots.in/archive/the-rise-of-municipal-bonds/)
+</p></details>
 <details><summary><u>Day 192</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d192e1.jpeg)
