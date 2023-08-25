@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 193 Days (13/02/2023 to 24/08/2023)
+Learning Progress Till Now -> 194 Days (13/02/2023 to 25/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 194</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d194e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d194ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d194chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d194chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d194chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d194chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Getting over the summer of lost luggage"](https://finshots.in/archive/getting-over-the-summer-of-lost-luggage/)
+</p></details>
 <details><summary><u>Day 193</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d193e1.jpeg)
