@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 195 Days (13/02/2023 to 25608/2023)
+Learning Progress Till Now -> 196 Days (13/02/2023 to 27/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 196</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d196e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d196ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d196chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d196chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d196chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d196chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3: ISRO Gets Temperature Profile Of Moon's South Pole From Vikram For The First Time"](https://www.youtube.com/watch?v=FKsCl1LPWT0&ab_channel=HindustanTimes)
+- 💰📈 [Finshots ~ "MARKETS - The Titan-CaratLane Story"](https://finshots.in/markets/the-titan-caratlane-story/)
+</p></details>
 <details><summary><u>Day 195</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d195e1.jpeg)
@@ -10,7 +22,7 @@ Learning Progress Till Now -> 195 Days (13/02/2023 to 25608/2023)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d195chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d195chs4.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d195chs4.jpeg)
-- 💰📈 [Finshots ~ ""]()
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: India’s new Unicorn, the Reynolds 045 emotion and why France is destroying wine"](https://finshots.in/archive/sunny-side-up-zepto-unicorn-reynolds-045-and-why-france-is-destroying-wine/)
 - 💻[Technical Learning - Attended a Tech Meetup]
 </p></details>
 <details><summary><u>Day 194</u></summary><p>
