@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 196 Days (13/02/2023 to 27/08/2023)
+Learning Progress Till Now -> 197 Days (13/02/2023 to 28/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 197</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d197e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d197ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d197chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d197chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d197chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d197chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study / Documentary ~ "Reality check: Are Bengaluru’s metro feeder buses helping with last mile connectivity?"](https://www.youtube.com/watch?v=cgc6iBxkImk&ab_channel=DeccanHerald)
+- 👂🏻 [Watched a Youtube video "British researchers conduct AI-assisted study in healthcare"](https://www.youtube.com/watch?v=X6IEM5KCYVA&ab_channel=WION)
+- 📰 [Daily English News -> "How Europe's new digital privacy act will change Big Tech regulation"](https://qz.com/how-europes-new-digital-privacy-act-will-change-big-tec-1850766372)
+- 💰📈 [Finshots ~ "BIT OF EVERYTHING - Chess has cracked the algorithm"](https://finshots.in/archive/chess-has-cracked-the-algorithm/)
+</p></details>
 <details><summary><u>Day 196</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d196e1.jpeg)
