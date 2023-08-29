@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 197 Days (13/02/2023 to 28/08/2023)
+Learning Progress Till Now -> 198 Days (13/02/2023 to 29/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 198</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d198e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d198ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d198chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d198chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d198chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d198chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "After moon landing venture, ISRO's Aditya-L1 all set to explore the sun | Solar Mission News"](https://www.youtube.com/watch?v=t6cF8VOQGWI&ab_channel=DeccanHerald)
+- 📰 [Daily English News -> "Instacart, readying an IPO, is a rare gig-economy company to turn a profit"](https://qz.com/instacart-readying-an-ipo-is-a-rare-gig-economy-compa-1850776152)
+- 💰📈 [Finshots ~ "ECONOMY - More BRICS in the wall?"](https://finshots.in/archive/more-brics-in-the-wall/)
+</p></details>
 <details><summary><u>Day 197</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d197e1.jpeg)
