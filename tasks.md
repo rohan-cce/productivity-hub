@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 198 Days (13/02/2023 to 29/08/2023)
+Learning Progress Till Now -> 199 Days (13/02/2023 to 30/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 199</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d199e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d199ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d199chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d199chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d199chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d199chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study / Documentary ~ "Can the space industry help bolster the economy?"](https://www.youtube.com/watch?v=AAs22juE_Eg&ab_channel=TheHindu)
+- 👂🏻 [Watched a Youtube video "India’s Chandrayaan-3 Rover Detects Sulphur, Other Elements on the Moon"](https://www.youtube.com/watch?v=KGqeBJ-IwzE&ab_channel=Firstpost)
+- 📰 [Daily English News -> "Tech IPOs are returning—this time with profits"](https://qz.com/tech-ipos-are-returning-this-time-with-profits-1850781855)
+- 💰📈 [Finshots ~ "BUSINESS - The rise and fall of Subway"](https://finshots.in/archive/the-rise-and-fall-of-subway/)
+</p></details>
 <details><summary><u>Day 198</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d198e1.jpeg)
