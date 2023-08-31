@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 199 Days (13/02/2023 to 30/08/2023)
+Learning Progress Till Now -> 200 Days (13/02/2023 to 31/08/2023)
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
+<details><summary><u>Day 200</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d200e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D151-D200/d200ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d200chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d200chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d200chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D151-D200/d200chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study / Documentary ~ "Aditya-L1 Solar Mission Launch: ISRO completes launch rehearsal, vehicle internal checks"](https://www.youtube.com/watch?v=iW5BGMinTZU&ab_channel=DeccanHerald)
+- 👂🏻 [Watched a Youtube video "Typical hurricane season coming sooner than expected"](https://www.youtube.com/watch?v=1KzawB-1Xww&ab_channel=WION)
+- 📰 [Daily English News -> "Microsoft to stop packaging Teams and Office software in Europe to head off EU antitrust action"](https://qz.com/microsoft-to-stop-packaging-teams-and-office-software-i-1850791098)
+- 💰📈 [Finshots ~ "BUSINESS - The secret article on Tiger Global?"](https://finshots.in/archive/the-secret-article-on-tiger-global/)
+</p></details>
 <details><summary><u>Day 199</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D151-D200/d199e1.jpeg)
