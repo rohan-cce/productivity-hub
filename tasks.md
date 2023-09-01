@@ -1,5 +1,22 @@
 # productivity-hub
 Learning Progress Till Now -> 200 Days (13/02/2023 to 31/08/2023)
+<details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 201</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d201e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d201ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d201chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d201chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d201chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d201chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 📰 [Daily English News -> "Hyundai and LG will invest an additional $2B into making batteries at Georgia electric vehicle plant"](https://qz.com/hyundai-and-lg-will-invest-an-additional-2b-into-makin-1850793620)
+- 💰📈 [Finshots ~ "POLICY - The economics of protecting endangered animals"](https://finshots.in/archive/the-economics-of-protecting-endangered-animals/)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 191 - Day 200 ~ August 22, 2023 - August 31, 2023 </u></summary><p>
 <details><summary><u>Day 200</u></summary><p>
 
