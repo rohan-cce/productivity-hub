@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 203 Days (13/02/2023 to 03/09/2023)
+Learning Progress Till Now -> 204 Days (13/02/2023 to 04/09/2023)
 <details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 204</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d204e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d204ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d204chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d204chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d204chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d204chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - The index fund attack on Jio Financial Services is over. Almost."](https://finshots.in/archive/the-index-fund-attack-on-jio-financial-services/)
+</p></details>
 <details><summary><u>Day 203</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d203e1.jpeg)
