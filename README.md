@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 204 Days (13/02/2023 to 04/09/2023)
+Learning Progress Till Now -> 205 Days (13/02/2023 to 05/09/2023)
 <details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 205</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d205e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d205ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d205chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d205chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d205chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d205chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study / Documentary ~ "Microplastics Could Enter Your Brain. Here's How"](https://www.youtube.com/watch?v=44KE0M--IqI&ab_channel=Firstpost)
+- 👂🏻 [Watched a Youtube video "Chandrayaan-3 | Vikram lander, Pragyan rover in sleep mode till September 22"](https://www.youtube.com/watch?v=b9cCfsfzlNU&ab_channel=DeccanHerald)
+- 📰 [Daily English News -> "A new metro system is pushing back against the worst traffic in the world"](https://qz.com/a-new-metro-system-is-pushing-back-against-the-worst-tr-1850803398)
+- 💰📈 [Finshots ~ "ECONOMY - Forget GDP. Look at ICOR."](https://finshots.in/archive/forget-gdp-look-at-icor/)
+</p></details>
 <details><summary><u>Day 204</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d204e1.jpeg)
