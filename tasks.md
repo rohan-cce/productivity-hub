@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 205 Days (13/02/2023 to 05/09/2023)
+Learning Progress Till Now -> 206 Days (13/02/2023 to 06/09/2023)
 <details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 206</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d206e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d206ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d206chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d206chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d206chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d206chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 👂🏻 [Watched a Youtube video "Cancer spikes by nearly 80% in nearly 20 years"](https://www.youtube.com/watch?v=N7TzhNMoy6g&ab_channel=WION)
+- 📰 [Daily English News -> "The Great Salt Lake is shrinking rapidly and Utah has failed to stop it, a new lawsuit says"](https://qz.com/the-great-salt-lake-is-shrinking-rapidly-and-utah-has-f-1850808707)
+- 💰📈 [Finshots ~ "ECONOMY - Finshots Special: Do we really need central banks???"](https://finshots.in/archive/do-we-really-need-central-banks/)
+</p></details>
 <details><summary><u>Day 205</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d205e1.jpeg)
