@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 206 Days (13/02/2023 to 06/09/2023)
+Learning Progress Till Now -> 207 Days (13/02/2023 to 07/09/2023)
 <details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 207</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d207e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d207ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d207chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d207chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d207chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d207chs4.jpeg)
+- 📖📈 Book reading
+  - 📖 Read 4 pages in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study / Documentary ~ "How Tokyo Metro Keeps Its Trains And Stations Clean | Deep Cleaned | Insider"](https://www.youtube.com/watch?v=L90CpRdjMJU&ab_channel=Insider)
+- 👂🏻 [Watched a Youtube video "ISRO’s Aditya-L1 Takes Picture of Earth and Moon"](https://www.youtube.com/watch?v=BzuLZgGANWo&ab_channel=Firstpost)
+- 📰 [Daily English News -> "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"](https://qz.com/ai-used-to-alter-imagery-or-sounds-in-political-ads-wil-1850812080)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Can Zerodha disrupt the mutual fund industry?"](https://finshots.in/archive/can-zerodha-disrupt-the-mutual-fund-industry/)
+</p></details>
 <details><summary><u>Day 206</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d206e1.jpeg)
