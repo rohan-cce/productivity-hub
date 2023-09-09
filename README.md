@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 208 Days (13/02/2023 to 08/09/2023)
+Learning Progress Till Now -> 209 Days (13/02/2023 to 09/09/2023)
 <details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+<details><summary><u>Day 209</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d209e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d209ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d209chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d209chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d209chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d209chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Is Biocon making a comeback?"](https://finshots.in/markets/is-biocon-making-a-comeback/)
+</p></details>
 <details><summary><u>Day 208</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d208e1.jpeg)
