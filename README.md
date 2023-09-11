@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 210 Days (13/02/2023 to 10/09/2023)
-<details><summary><u>Day 201 - Day 220 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
+Learning Progress Till Now -> 211 Days (13/02/2023 to 11/09/2023)
+<details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 211</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d211e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d211ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d211chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d211chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d211chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d211chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "How India Forged the New Delhi G20 Declaration"](https://www.youtube.com/watch?v=lebeHOwLs5E&ab_channel=Firstpost)
+- 📰 [Daily English News -> "The streaming wars have made it more expensive than ever to be a sports fan"](https://qz.com/the-streaming-wars-have-made-it-more-expensive-than-eve-1850810008)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI says, “Get your shares in 1 hour!""](https://finshots.in/archive/sebi-faster-trade-settlement/)
+</p></details>
+</p></details>
+
+<details><summary><u>Day 201 - Day 210 ~ September 01, 2023 - September 10, 2023 </u></summary><p>
 <details><summary><u>Day 210</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d210e1.jpeg)
