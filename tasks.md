@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 211 Days (13/02/2023 to 11/09/2023)
+Learning Progress Till Now -> 212 Days (13/02/2023 to 12/09/2023)
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 212</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d212e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d212ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d212chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d212chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d212chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d212chs4.jpeg)
+- 📰 [Daily English News -> "Cybersecurity issue prompts computer shutdowns at MGM Resorts properties across US"](https://qz.com/cybersecurity-issue-prompts-computer-shutdowns-at-mgm-r-1850826505)
+- 💰📈 [Finshots ~ "ECONOMY - Is the RBI defending the Rupee?"](https://finshots.in/archive/is-the-rbi-defending-the-rupee/)
+</p></details>
 <details><summary><u>Day 211</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d211e1.jpeg)
