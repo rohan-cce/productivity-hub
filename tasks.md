@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 213 Days (13/02/2023 to 13/09/2023)
+Learning Progress Till Now -> 214 Days (13/02/2023 to 14/09/2023)
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 214</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d214e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d214ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d214chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d214chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d214chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d214chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY India cracks down on dark patterns"](https://finshots.in/archive/india-cracks-down-on-dark-patterns/)
+</p></details>
 <details><summary><u>Day 213</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d213e1.jpeg)
