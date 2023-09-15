@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 214 Days (13/02/2023 to 14/09/2023)
+Learning Progress Till Now -> 215 Days (13/02/2023 to 15/09/2023)
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 215</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d215e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d215ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d215chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d215chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d215chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d215chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Indian Ed-Tech Giant Byju's Hid $533 Million in a Hedge Fund?"](https://www.youtube.com/watch?v=XHyDkkrehlc&ab_channel=Firstpost)
+- 📰 [Daily English News -> "TikTok is hit with $368 million fine under Europe's strict data privacy rules"](https://qz.com/tiktok-is-hit-with-368-million-fine-under-europes-stri-1850841853)
+- 💰📈 [Finshots ~ "POLICY - What is Net Neutrality?"](https://finshots.in/archive/what-is-net-neutrality/)
+</p></details>
 <details><summary><u>Day 214</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d214e1.jpeg)
