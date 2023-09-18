@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 217 Days (13/02/2023 to 17/09/2023)
+Learning Progress Till Now -> 218 Days (13/02/2023 to 18/09/2023)
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 218</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d218e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d218ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d218chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d218chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d218chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d218chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Do we need a Global Biofuel Alliance?"](https://finshots.in/archive/do-we-need-a-global-biofuel-alliance/)
+</p></details>
 <details><summary><u>Day 217</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d217e1.jpeg)
