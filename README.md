@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 219 Days (13/02/2023 to 19/09/2023)
+Learning Progress Till Now -> 220 Days (13/02/2023 to 20/09/2023)
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
+<details><summary><u>Day 220</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d220e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d220ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d220chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d220chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d220chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d220chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Elon Musk's Neuralink to test its brain chip in paralysis patients"](https://www.youtube.com/watch?v=naVtrTqXP9c&ab_channel=WION)
+- 📰 [Daily English News -> "TikTok is launching new tool that will help creators label AI content on the app"](https://qz.com/tiktok-is-launching-new-tool-that-will-help-creators-la-1850854202s)
+- 💰📈 [Finshots ~ "BUSINESS - How brands can reverse nature loss"](https://finshots.in/archive/how-brands-can-reverse-nature-loss/)
+</p></details>
 <details><summary><u>Day 219</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d219e1.jpeg)
