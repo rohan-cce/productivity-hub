@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 220 Days (13/02/2023 to 20/09/2023)
+Learning Progress Till Now -> 221 Days (13/02/2023 to 21/09/2023)
+<details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
+<details><summary><u>Day 221</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d221e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d221ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs4.jpeg)
+- 👂🏻 [Watched a Youtube video "Study: Ultra-processed food can worsen chronic depression "](Study: Ultra-processed food can worsen chronic depression )
+- 📰 [Daily English News -> "Sweden's central bank hikes key interest rate, saying inflation is still too high"](https://qz.com/swedens-central-bank-hikes-key-interest-rate-saying-in-1850860033)
+- 💰📈 [Finshots ~ "POLICY - An explainer on Off-Budget Borrowings"](https://finshots.in/archive/an-explainer-on-off-budget-borrowings/)
+</p></details>
 <details><summary><u>Day 211 - Day 220 ~ September 11, 2023 - September 20, 2023 </u></summary><p>
 <details><summary><u>Day 220</u></summary><p>
 
