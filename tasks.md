@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 221 Days (13/02/2023 to 21/09/2023)
+Learning Progress Till Now -> 222 Days (13/02/2023 to 22/09/2023)
 <details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
+<details><summary><u>Day 222</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d222e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d222ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d222chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d222chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d222chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d222chs4.jpeg)
+- 🤨[Case study / Documentary ~ "How Haggis Made It Big In Japan"](https://www.youtube.com/watch?v=wjNLoDZg1gg&ab_channel=GreatBigStory)
+- 👂🏻 [Watched a Youtube video "UK urges Meta not to roll out end-to-end encryption on Messenger and Instagram"](https://www.youtube.com/watch?v=SGt2NH_i9yk&ab_channel=WION)
+- 📰 [Daily English News -> "EU hits Intel with $400 million antitrust fine in long-running computer chip case"](https://qz.com/eu-hits-intel-with-400-million-antitrust-fine-in-long-1850864142)
+- 💰📈 [Finshots ~ "POLICY - India wants a bigger bite of the MICE tourism pie"](https://finshots.in/archive/india-wants-a-bigger-bite-of-the-mice-tourism-pie/)
+</p></details>
 <details><summary><u>Day 221</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d221e1.jpeg)
@@ -10,7 +24,7 @@ Learning Progress Till Now -> 221 Days (13/02/2023 to 21/09/2023)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d221chs4.jpeg)
-- 👂🏻 [Watched a Youtube video "Study: Ultra-processed food can worsen chronic depression "](Study: Ultra-processed food can worsen chronic depression )
+- 👂🏻 [Watched a Youtube video "Study: Ultra-processed food can worsen chronic depression"](https://www.youtube.com/watch?v=vgjsIAd6574&ab_channel=WION)
 - 📰 [Daily English News -> "Sweden's central bank hikes key interest rate, saying inflation is still too high"](https://qz.com/swedens-central-bank-hikes-key-interest-rate-saying-in-1850860033)
 - 💰📈 [Finshots ~ "POLICY - An explainer on Off-Budget Borrowings"](https://finshots.in/archive/an-explainer-on-off-budget-borrowings/)
 </p></details>
