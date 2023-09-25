@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 224 Days (13/02/2023 to 24/09/2023)
+Learning Progress Till Now -> 225 Days (13/02/2023 to 25/09/2023)
 <details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
+<details><summary><u>Day 225</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d225e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d225ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d225chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d225chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d225chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d225chs4.jpeg)
+</p></details>
 <details><summary><u>Day 224</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d224e1.jpeg)
