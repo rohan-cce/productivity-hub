@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 225 Days (13/02/2023 to 25/09/2023)
+Learning Progress Till Now -> 226 Days (13/02/2023 to 26/09/2023)
 <details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
+<details><summary><u>Day 226</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d226e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d226ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d226chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d226chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d226chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d226chs4.jpeg)
+- 📰 [Daily English News -> "AI companies are hiring creative writers—and here's what they're looking for"](https://qz.com/ai-companies-hiring-creative-writers-1850873456)
+- 💰📈 [Finshots ~ "POLICY - The impact of long notice periods"](https://finshots.in/archive/the-impact-of-long-notice-periods/)
+</p></details>
 <details><summary><u>Day 225</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d225e1.jpeg)
