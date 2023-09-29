@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 228 Days (13/02/2023 to 28/09/2023)
+Learning Progress Till Now -> 229 Days (13/02/2023 to 29/09/2023)
 <details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
+<details><summary><u>Day 229</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d229e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d229ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d229chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d229chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d229chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d229chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Is the US Government shutting down?"](https://finshots.in/archive/is-the-us-government-shutting-down/)
+</p></details>
 <details><summary><u>Day 228</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d228e1.jpeg)
