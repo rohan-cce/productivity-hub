@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 230 Days (13/02/2023 to 30/09/2023)
+Learning Progress Till Now -> 231 Days (13/02/2023 to 01/10/2023)
+<details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023 </u></summary><p>
+<details><summary><u>Day 231</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d231e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d231ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d231chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d231chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d231chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d231chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Worldcup economics, Nissan-Renault overhaul and no shortcuts"](https://finshots.in/archive/worldcup-economics-nissan-renault-overhaul/)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 221 - Day 230 ~ September 21, 2023 - September 30, 2023 </u></summary><p>
 <details><summary><u>Day 230</u></summary><p>
 
