@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 236 Days (13/02/2023 to 06/10/2023)
-<details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023 </u></summary><p>
+Learning Progress Till Now -> 237 Days (13/02/2023 to 07/10/2023)
+<details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023</u></summary><p>
+<details><summary><u>Day 237</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d237e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d237ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d237chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d237chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d237chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d237chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Will Affordable Housing Finance Companies stage a recovery?"](https://finshots.in/markets/will-affordable-housing-finance-companies-stage-a-recovery/)
+</p></details>
 <details><summary><u>Day 236</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d236e1.jpeg)
