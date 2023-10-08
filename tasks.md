@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 237 Days (13/02/2023 to 07/10/2023)
+Learning Progress Till Now -> 238 Days (13/02/2023 to 08/10/2023)
 <details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023</u></summary><p>
+<details><summary><u>Day 238</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d238e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d238ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d238chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d238chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d238chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d238chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Panda diplomacy, pizza wars and toxic money thoughts"](https://finshots.in/archive/sunny-side-up-panda-diplomacy-dominos-colgate-toxic-money-thoughts/)
+</p></details>
 <details><summary><u>Day 237</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d237e1.jpeg)
