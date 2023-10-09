@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 238 Days (13/02/2023 to 08/10/2023)
+Learning Progress Till Now -> 239 Days (13/02/2023 to 09/10/2023)
 <details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023 </u></summary><p>
+<details><summary><u>Day 239</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d239e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d239ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d239chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d239chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d239chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d239chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Can a tax solve Bengaluru’s traffic woes"](https://finshots.in/archive/can-a-congestion-tax-solve-bengalurus-traffic-woes/)
+- 📰 [Daily English News -> "From Coke floats to Cronuts, going viral can have a lasting effect on a small business"](https://qz.com/from-coke-floats-to-cronuts-going-viral-can-have-a-las-1850910514)
+</p></details>
 <details><summary><u>Day 238</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d238e1.jpeg)
