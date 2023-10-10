@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 239 Days (13/02/2023 to 09/10/2023)
+Learning Progress Till Now -> 240 Days (13/02/2023 to 10/10/2023)
 <details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023 </u></summary><p>
+<details><summary><u>Day 240</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d240e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d240ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d240chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d240chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d240chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d240chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Is Airbnb broken?"](https://finshots.in/archive/is-airbnb-broken/)
+- 📰 [Daily English News -> "Developed nations pledge $9.3 billion to global climate fund at gathering in Germany"](https://qz.com/developed-nations-pledge-9-3-billion-to-global-climate-1850903272)
+</p></details>
 <details><summary><u>Day 239</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d239e1.jpeg)
