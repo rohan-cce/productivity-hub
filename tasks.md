@@ -1,5 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 240 Days (13/02/2023 to 10/10/2023)
+Learning Progress Till Now -> 240 Days (13/02/2023 to 11/10/2023)
+<details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 241</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d241e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d241ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d241chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d241chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d241chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d241chs4.jpeg)
+- 🤨[Case study / Documentary ~ "Why Red Palm Oil Is So Expensive"](https://www.youtube.com/watch?v=3CZKZDpd3F4&ab_channel=InsiderBusiness)
+- 💰📈 [Finshots ~ "ECONOMY - Why Claudia Goldin won the Nobel Prize in Economics"](https://finshots.in/archive/why-claudia-goldin-won-the-nobel-prize-in-economics/)
+- 📰 [Daily English News -> "PepsiCo hikes prices by double digits for the 7th consecutive quarter and profits jump 14%"](https://qz.com/pepsico-hikes-prices-by-double-digits-for-the-7th-conse-1850913937)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 231 - Day 240 ~ October 01, 2023 - October 10, 2023</u></summary><p>
 <details><summary><u>Day 240</u></summary><p>
 
