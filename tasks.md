@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 242 Days (13/02/2023 to 12/10/2023)
+Learning Progress Till Now -> 243 Days (13/02/2023 to 13/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 243</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d243e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d243ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d243chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d243chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d243chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d243chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - What ails LIC?"](https://finshots.in/archive/what-ails-lic/)
+- 📰 [Daily English News -> "Microsoft thinks it can succeed where Google failed with AR glasses"](https://qz.com/microsoft-ar-glasses-consumers-battery-patent-1850923158)
+</p></details>
 <details><summary><u>Day 242</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d242e1.jpeg)
