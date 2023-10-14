@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 243 Days (13/02/2023 to 13/10/2023)
+Learning Progress Till Now -> 244 Days (13/02/2023 to 14/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 244</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d244e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d244ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d244chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d244chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d244chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d244chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Vedanta takes a U-Turn"](https://finshots.in/markets/vedanta-takes-a-u-turn/)
+- 📰 [Daily English News -> "AI in Focus: Investors hit snooze"](https://qz.com/emails/daily-brief/1850926694/ai-in-focus-investors-hit-snooze)
+</p></details>
 <details><summary><u>Day 243</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d243e1.jpeg)
