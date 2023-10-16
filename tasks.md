@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 244 Days (13/02/2023 to 14/10/2023)
+Learning Progress Till Now -> 246 Days (13/02/2023 to 16/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 246</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d246e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d246ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d246chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d246chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d246chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d246chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Vedanta takes a U-Turn"](https://finshots.in/markets/vedanta-takes-a-u-turn/)
+- 📰 [Daily English News -> "Amex partners with F1 in 1st new sports sponsorship for payment company in more than a decade"](https://qz.com/amex-partners-with-f1-in-1st-new-sports-sponsorship-for-1850929084)
+</p></details>
 <details><summary><u>Day 245</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d245e1.jpeg)
