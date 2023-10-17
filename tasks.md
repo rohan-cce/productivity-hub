@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 246 Days (13/02/2023 to 16/10/2023)
+Learning Progress Till Now -> 247 Days (13/02/2023 to 17/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 247</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d247e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d247ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d247chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d247chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d247chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d247chs4.jpeg)
+- 🤨[Case study / Documentary ~ "Zerodha Case Study: Bootstrapped to Billion dollar valuation startup without advertisements!"](https://www.youtube.com/watch?v=vguLPoLiFNg&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=4&ab_channel=ThinkSchool)
+- 💰📈 [Finshots ~ "BUSINESS - Bank of Baroda is involved in fraud?"](https://finshots.in/archive/bank-of-baroda-is-involved-in-fraud/)
+- 📰 [Daily English News -> "Chinese search engine company Baidu unveils Ernie 4.0 AI model, claims that it rivals GPT-4"](https://qz.com/chinese-search-engine-company-baidu-unveils-ernie-4-0-a-1850932686)
+</p></details>
 <details><summary><u>Day 246</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d246e1.jpeg)
