@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 247 Days (13/02/2023 to 17/10/2023)
+Learning Progress Till Now -> 248 Days (13/02/2023 to 18/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 248</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d248e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d248ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d248chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d248chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d248chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d248chs4.jpeg)
+- 🤨[Case study / Documentary ~ "Zerodha Case Study: Bootstrapped to Billion dollar valuation startup without advertisements!"](https://www.youtube.com/watch?v=vguLPoLiFNg&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=4&ab_channel=ThinkSchool)
+- 💰📈 [Finshots ~ "POLICY - Will India’s new mining rules be a gamechanger?"](https://finshots.in/archive/will-indias-new-mining-rules-be-a-gamechanger/)
+- 📰 [Daily English News -> "Amazon will start testing drones that will drop prescriptions on your doorstep, literally"](https://qz.com/amazon-will-start-testing-drones-that-will-drop-prescri-1850936715)
+</p></details>
 <details><summary><u>Day 247</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d247e1.jpeg)
