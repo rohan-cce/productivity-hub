@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 248 Days (13/02/2023 to 18/10/2023)
+Learning Progress Till Now -> 249 Days (13/02/2023 to 19/10/2023)
 <details><summary><u>Day 241 - Day 250 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 249</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d249e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D201-D250/d249ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d249chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d249chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d249chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D201-D250/d249chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - When a CEO moonlighted as a DJ"](https://finshots.in/archive/when-a-ceo-moonlighted-as-a-dj/)
+- 📰 [Daily English News -> "X is piloting a program where humans pay $1 to prove they’re “Not A Bot”"](https://qz.com/x-is-piloting-a-program-where-humans-pay-1-to-prove-th-1850936587)
+</p></details>
 <details><summary><u>Day 248</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D201-D250/d248e1.jpeg)
