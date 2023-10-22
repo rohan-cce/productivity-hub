@@ -3,13 +3,13 @@ Learning Progress Till Now -> 251 Days (13/02/2023 to 21/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
 <details><summary><u>Day 251</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d250e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d250ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d251e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d251ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs4.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs4.jpeg)
 - 💰📈 [Finshots ~ "MARKETS - Jindal vs Adani in a battle of the ports?"](https://finshots.in/markets/jindal-vs-adani-in-a-battle-of-the-ports/)
 - 📰 [Daily English News -> "How Amazon became the first tech giant in space"](https://qz.com/how-amazon-became-the-first-tech-giant-in-space-1850941332)
 </p></details>

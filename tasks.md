@@ -1,15 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 251 Days (13/02/2023 to 21/10/2023)
+Learning Progress Till Now -> 252 Days (13/02/2023 to 22/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 252</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d252e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d252ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d252chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d252chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d252chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d252chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: The Chetak spell, a valuable weight loss drug and the passion principle"](https://finshots.in/archive/sunny-side-up-the-chetak-spell-a-valuable-weight-loss-drug-and-the-passion-principle/)
+- 📰 [Daily English News -> "AI in Focus: No such thing as a free AI lunch"](https://qz.com/emails/daily-brief/1850946851/ai-in-focus-no-such-thing-as-a-free-ai-lunch)
+</p></details>
 <details><summary><u>Day 251</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d250e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d250ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d251e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d251ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d250chs4.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d251chs4.jpeg)
 - 💰📈 [Finshots ~ "MARKETS - Jindal vs Adani in a battle of the ports?"](https://finshots.in/markets/jindal-vs-adani-in-a-battle-of-the-ports/)
 - 📰 [Daily English News -> "How Amazon became the first tech giant in space"](https://qz.com/how-amazon-became-the-first-tech-giant-in-space-1850941332)
 </p></details>
