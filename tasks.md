@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 252 Days (13/02/2023 to 22/10/2023)
+Learning Progress Till Now -> 253 Days (13/02/2023 to 23/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 253</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d253e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d253ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d253chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d253chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d253chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d253chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Subscribe to PVR Inox?!"](https://finshots.in/archive/subscribe-to-pvr-inox/)
+- 📰 [Daily English News -> "Apple supplier Foxconn subjected to tax inspections by Chinese authorities"](https://qz.com/apple-supplier-foxconn-subjected-to-tax-inspections-by-1850948274)
+</p></details>
 <details><summary><u>Day 252</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d252e1.jpeg)
