@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 254 Days (13/02/2023 to 24/10/2023)
+Learning Progress Till Now -> 255 Days (13/02/2023 to 25/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 255</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d255e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d255ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d255chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d255chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d255chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d255chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Telcos are in a tax soup"](https://finshots.in/archive/telcos-are-in-a-tax-soup/)
+- 📰 [Daily English News -> "Google Cloud's big bet on Gen AI disappoints as business customers pull back on spending"](https://qz.com/google-clouds-big-bet-on-gen-ai-disappoints-as-business-1850955788)
+</p></details>
 <details><summary><u>Day 254</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d254e1.jpeg)
