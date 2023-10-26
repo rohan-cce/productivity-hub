@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 255 Days (13/02/2023 to 25/10/2023)
+Learning Progress Till Now -> 256 Days (13/02/2023 to 26/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 256</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d256e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d256ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d256chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d256chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d256chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d256chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Car Companies that Drive the World"](https://finshots.in/infographic/car-companies-that-drive-the-world/)
+- 📰 [Daily English News -> Southwest Airlines quarterly profit slides 30% and says growth will slow next year"](https://qz.com/southwest-airlines-quarterly-profit-slides-30-and-says-1850961479)
+</p></details>
 <details><summary><u>Day 255</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d255e1.jpeg)
