@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 256 Days (13/02/2023 to 26/10/2023)
+Learning Progress Till Now -> 257 Days (13/02/2023 to 27/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 257</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d257e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d257ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d257chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d257chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d257chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d257chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Dear Bill — should we worry about inflation or a recession?"](https://finshots.in/archive/dear-bill-should-we-worry-about-inflation-or-a-recession/)
+- 📰 [Daily English News -> "Amazon’s AI cloud dominance is getting chipped away by rivals"](https://qz.com/amazon-is-losing-some-of-its-ai-cloud-dominance-to-riva-1850964894)
+</p></details>
 <details><summary><u>Day 256</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d256e1.jpeg)
