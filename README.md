@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 257 Days (13/02/2023 to 27/10/2023)
+Learning Progress Till Now -> 258 Days (13/02/2023 to 28/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 258</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d258e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d258ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d258chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d258chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d258chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d258chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - The Mamaearth IPO. Finally."](https://finshots.in/markets/the-mamaearth-ipo-finally/)
+- 📰 [Daily English News -> "Stocks drop again on Wall Street, pulling the S&P 500 index 10% below the peak it reached in July"](https://qz.com/stocks-drop-again-on-wall-street-pulling-the-s-p-500-i-1850968179)
+</p></details>
 <details><summary><u>Day 257</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d257e1.jpeg)
