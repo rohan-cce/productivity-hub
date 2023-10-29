@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 258 Days (13/02/2023 to 28/10/2023)
+Learning Progress Till Now -> 259 Days (13/02/2023 to 29/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 259</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d259e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d259ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d259chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d259chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d259chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d259chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Women’s sports shining, the flight seat fiasco and a common money dilemma"](https://finshots.in/archive/sunny-side-up-womens-sports-shining-the-flight-seat-fiasco-and-a-common-money-dilemma/)
+</p></details>
 <details><summary><u>Day 258</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d258e1.jpeg)
