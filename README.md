@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 259 Days (13/02/2023 to 29/10/2023)
+Learning Progress Till Now -> 260 Days (13/02/2023 to 30/10/2023)
 <details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 260</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d260e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d260ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d260chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d260chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d260chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d260chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Delhi GRAPples with air pollution"](https://finshots.in/archive/delhi-grapples-with-air-pollution/)
+- 📰 [Daily English News -> "What is SIM-Swap Scam? Check how victims can lose lakhs of rupees even without sharing OTP, personal information"](https://www.businesstoday.in/technology/news/story/sim-swap-scam-delhi-woman-loses-lakhs-after-getting-3-missed-calls-from-unknown-number-403772-2023-10-30)
+</p></details>
 <details><summary><u>Day 259</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d259e1.jpeg)
