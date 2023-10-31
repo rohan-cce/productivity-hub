@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 260 Days (13/02/2023 to 30/10/2023)
-<details><summary><u>Day 251 - Day 260 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+Learning Progress Till Now -> 261 Days (13/02/2023 to 31/10/2023)
+<details><summary><u>Day 261 - Day 270 ~ October 11, 2023 - October 20, 2023</u></summary><p>
+<details><summary><u>Day 261</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d261e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d261ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d261chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d261chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d261chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d261chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Baap of Chart gets a call from SEBI"](https://finshots.in/archive/baap-of-chart-sebi/)
+- 📰 [Daily English News -> "India-led alliance set to fund solar projects in Africa in a boost to the energy transition"](https://qz.com/india-led-alliance-set-to-fund-solar-projects-in-africa-1850975849)
+</p></details>
+</p></details>
+
+<details><summary><u>Day 251 - Day 260 ~ October 21, 2023 - October 30, 2023</u></summary><p>
 <details><summary><u>Day 260</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d260e1.jpeg)
