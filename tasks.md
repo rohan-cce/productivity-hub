@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 262 Days (13/02/2023 to 01/11/2023)
+Learning Progress Till Now -> 263 Days (13/02/2023 to 02/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 263</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d263e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d263ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d263chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d263chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d263chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d263chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The government wants money from PSUs?"](https://finshots.in/archive/the-government-wants-money-from-psus/)
+- 📰 [Daily English News -> "Fukushima Daiichi nuclear plant starts 3rd release of treated radioactive wastewater into the sea"](https://qz.com/fukushima-daiichi-nuclear-plant-starts-3rd-release-of-t-1850984002)
+</p></details>
 <details><summary><u>Day 262</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d262e1.jpeg)
