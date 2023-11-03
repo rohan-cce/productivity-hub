@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 263 Days (13/02/2023 to 02/11/2023)
+Learning Progress Till Now -> 264 Days (13/02/2023 to 03/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 264</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d264e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d264ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d264chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d264chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d264chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d264chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - SEBI’s commodity trading ban enters Year 3!"](https://finshots.in/archive/sebis-commodity-trading-ban/)
+- 📰 [Daily English News -> "Amazon and Meta settle UK investigations with pledges to refrain from unfair practices"](https://qz.com/amazon-and-meta-settle-uk-investigations-with-pledges-t-1850989187)
+</p></details>
 <details><summary><u>Day 263</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d263e1.jpeg)
