@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 264 Days (13/02/2023 to 03/11/2023)
+Learning Progress Till Now -> 265 Days (13/02/2023 to 04/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 265</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d265e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d265ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d265chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d265chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d265chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d265chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Maruti Suzuki’s fighting back. Again."](https://finshots.in/markets/maruti-suzukis-fighting-back-again/)
+- 📰 [Daily English News -> "Warren Buffett's firm reports $12.8 billion loss as investments fall but its insurers performed well"](https://qz.com/warren-buffetts-firm-reports-12-8-billion-loss-as-inve-1850992440)
+</p></details>
 <details><summary><u>Day 264</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d264e1.jpeg)
