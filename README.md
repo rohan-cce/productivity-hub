@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 266 Days (13/02/2023 to 05/11/2023)
+Learning Progress Till Now -> 267 Days (13/02/2023 to 06/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 267</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d267e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d267ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d267chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d267chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d267chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d267chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Indian companies get a foreign stock exchange visa"](https://finshots.in/archive/indian-companies-get-a-foreign-stock-exchange-visa/)
+- 📰 [Daily English News -> "Does an AI tool help boost adoptions? Key takeaways from an AP Investigation"](https://qz.com/does-an-ai-tool-help-boost-adoptions-key-takeaways-fro-1850994217)
+</p></details>
 <details><summary><u>Day 266</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d266e1.jpeg)
