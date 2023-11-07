@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 267 Days (13/02/2023 to 06/11/2023)
+Learning Progress Till Now -> 268 Days (13/02/2023 to 07/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 268</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d268e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d268ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d268chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d268chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d268chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d268chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The hidden cost of free foodgrains"](https://finshots.in/archive/the-hidden-cost-of-free-foodgrains/)
+- 📰 [Daily English News -> "Can we take Elon Musk's new chatbot seriously?"](https://qz.com/can-we-take-elon-musks-new-chatbot-seriously-1850996029)
+</p></details>
 <details><summary><u>Day 267</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d267e1.jpeg)
