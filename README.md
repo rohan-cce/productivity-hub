@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 268 Days (13/02/2023 to 07/11/2023)
+Learning Progress Till Now -> 269 Days (13/02/2023 to 08/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 269</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d269e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d269ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d269chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d269chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d269chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d269chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Why did South Korea ban short-selling?"](https://finshots.in/archive/why-did-south-korea-ban-short-selling/)
+- 📰 [Daily English News -> "Microsoft's record high stock price was about more than OpenAI"](https://qz.com/microsofts-record-high-stock-price-more-than-openai-1851001842)
+</p></details>
 <details><summary><u>Day 268</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d268e1.jpeg)
