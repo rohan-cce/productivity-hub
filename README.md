@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 269 Days (13/02/2023 to 08/11/2023)
+Learning Progress Till Now -> 270 Days (13/02/2023 to 09/11/2023)
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
+<details><summary><u>Day 270</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d270e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d270ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d270chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d270chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d270chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d270chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - What's this Global South, anyway?"](https://finshots.in/archive/whats-this-global-south-anyway/)
+- 📰 [Daily English News -> "Amazon takes another shot at health care, this one a virtual care service that costs $9 per month"](https://qz.com/amazon-takes-another-shot-at-health-care-this-one-a-vi-1851007399)
+</p></details>
 <details><summary><u>Day 269</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d269e1.jpeg)
