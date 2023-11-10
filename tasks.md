@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 270 Days (13/02/2023 to 09/11/2023)
+Learning Progress Till Now -> 271 Days (13/02/2023 to 10/11/2023)
+<details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 271</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d271e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d271ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d271chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d271chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d271chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d271chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - The great Indian IPO boom"](https://finshots.in/archive/the-great-indian-ipo-boom/)
+- 📰 [Daily English News -> "Oil companies attending climate talks have minimal green energy transition plans, AP analysis finds"](https://qz.com/oil-companies-attending-climate-talks-have-minimal-gree-1851011195)
+</p></details>
+</p></details>
 <details><summary><u>Day 261 - Day 270 ~ October 31, 2023 - November 09, 2023</u></summary><p>
 <details><summary><u>Day 270</u></summary><p>
 
