@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 271 Days (13/02/2023 to 10/11/2023)
+Learning Progress Till Now -> 271 Days (13/02/2023 to 11/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 272</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d272e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d272ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d272chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d272chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d272chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d272chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Dabur has a war chest to rewrite its script"](https://finshots.in/markets/dabur-has-a-war-chest-to-rewrite-its-script/)
+- 📰 [Daily English News -> "Moody's lowers US credit outlook, though keeps triple-A rating"](https://qz.com/moodys-lowers-us-credit-outlook-though-keeps-triple-a-1851013148)
+</p></details>
 <details><summary><u>Day 271</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d271e1.jpeg)
