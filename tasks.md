@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 272 Days (13/02/2023 to 11/11/2023)
+Learning Progress Till Now -> 273 Days (13/02/2023 to 12/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 273</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d273e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d273ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d273chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d273chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d273chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d273chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Brand Empire of Pernod Ricard"](https://finshots.in/infographic/brand-empire-of-pernod-ricard/)
+- 📰 [Daily English News -> "AI in Focus: DIY GPTs"](https://qz.com/emails/daily-brief/1851013168/ai-in-focus-diy-gpts)
+</p></details>
 <details><summary><u>Day 272</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d272e1.jpeg)
