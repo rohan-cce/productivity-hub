@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 273 Days (13/02/2023 to 12/11/2023)
+Learning Progress Till Now -> 274 Days (13/02/2023 to 13/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 274</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d274e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d274ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d274chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d274chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d274chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d274chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Warren Buffett’s secret life?"](https://finshots.in/archive/warren-buffett-secret-life/)
+- 📰 [Daily English News -> "Low-cost carrier FlyDubai says it will buy 30 Boeing 787-9 Dreamliners, the first wide-body aircraft in its fleet"](https://qz.com/low-cost-carrier-flydubai-says-it-will-buy-30-boeing-78-1851016205)
+</p></details>
 <details><summary><u>Day 273</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d273e1.jpeg)
