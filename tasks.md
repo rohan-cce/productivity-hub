@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 274 Days (13/02/2023 to 13/11/2023)
+Learning Progress Till Now -> 275 Days (13/02/2023 to 14/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 275</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d275e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d275ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d275chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d275chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d275chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d275chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - When will India's firecracker industry celebrate Diwali?"](https://finshots.in/archive/when-will-indias-firecracker-industry-celebrate-diwali/)
+- 📰 [Daily English News -> "YouTube creators will soon have to disclose use of gen AI in videos or risk suspension"](https://qz.com/youtube-creators-will-soon-have-to-disclose-use-of-gen-1851020381)
+</p></details>
 <details><summary><u>Day 274</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d274e1.jpeg)
