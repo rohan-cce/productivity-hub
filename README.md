@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 275 Days (13/02/2023 to 14/11/2023)
+Learning Progress Till Now -> 276 Days (13/02/2023 to 15/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 276</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d276e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d276ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d276chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d276chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d276chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d276chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Will Tata’s Apple ambitions hit a roadblock?"](https://finshots.in/archive/will-tatas-apple-ambitions-hit-a-roadblock/)
+- 📰 [Daily English News -> "Renault says combining electric cars and software in one company will 'democratize' EVs for Europe"](https://qz.com/renault-says-combining-electric-cars-and-software-in-on-1851023904)
+</p></details>
 <details><summary><u>Day 275</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d275e1.jpeg)
