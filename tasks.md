@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 276 Days (13/02/2023 to 15/11/2023)
+Learning Progress Till Now -> 277 Days (13/02/2023 to 16/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 277</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d277e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d277ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d277chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d277chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d277chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d277chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - What’s going on at Dunzo?"](https://finshots.in/archive/whats-going-on-at-dunzo/)
+- 📰 [Daily English News -> "Gaming brands are learning the right lessons from enthusiast mechanical keyboards"](https://www.theverge.com/23960337/asus-razer-gaming-keyboards-rog-azoth-blackwidow-v4-75-percent-gasket-mount-hot-swap)
+</p></details>
 <details><summary><u>Day 276</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d276e1.jpeg)
