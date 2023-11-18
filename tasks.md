@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 278 Days (13/02/2023 to 17/11/2023)
+Learning Progress Till Now -> 279 Days (13/02/2023 to 18/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 279</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d279e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d279ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d279chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d279chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d279chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d279chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Tata Technologies drives into an IPO"](https://finshots.in/markets/tata-technologies-drives-into-an-ipo/)
+- 📰 [Daily English News -> "Elon Musk's "cool" new job search feature doesn't offer much"](https://qz.com/elon-musk-x-twitter-job-search-feature-1851031875)
+</p></details>
 <details><summary><u>Day 278</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d278e1.jpeg)
