@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 279 Days (13/02/2023 to 18/11/2023)
+Learning Progress Till Now -> 280 Days (13/02/2023 to 19/11/2023)
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
+<details><summary><u>Day 280</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d280e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d280ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d280chs4.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d280chs4.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d280chs4.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d280chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Oreo scandals, Hyundai’s bet, and a Rich Life"](https://finshots.in/archive/sunny-side-up-oreo-scandals-hyundais-bet-and-a-rich-life/)
+- 📰 [Daily English News -> "Sugar prices are rising worldwide after bad weather tied to El Nino damaged crops in Asia"](https://qz.com/sugar-prices-are-rising-worldwide-after-bad-weather-tie-1851034219)
+</p></details>
 <details><summary><u>Day 279</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d279e1.jpeg)
