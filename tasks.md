@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 280 Days (13/02/2023 to 19/11/2023)
+Learning Progress Till Now -> 280 Days (13/02/2023 to 20/11/2023)
+<details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 281</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d281e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d281ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - The mystery of Sahara’s ₹25,000 crores"](https://finshots.in/archive/the-mystery-of-saharas-25-000-crores/)
+- 📰 [Daily English News -> "AI in Focus: Sam Altman’s OpenABye"](https://qz.com/emails/daily-brief/1851032570/ai-in-focus-sam-altman-s-openabye)
+</p></details>
+</p></details>
 <details><summary><u>Day 271 - Day 280 ~ November 10, 2023 - November 19, 2023</u></summary><p>
 <details><summary><u>Day 280</u></summary><p>
 
