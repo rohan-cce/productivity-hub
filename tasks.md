@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 280 Days (13/02/2023 to 20/11/2023)
+Learning Progress Till Now -> 280 Days (13/02/2023 to 21/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 282</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d282e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d282ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs4.jpeg)
+- 🤨[Case study / Documentary ~ "Zerodha Case Study: Bootstrapped to Billion dollar valuation startup without advertisements!"](https://www.youtube.com/watch?v=vguLPoLiFNg&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=4&ab_channel=ThinkSchool)
+- 💰📈 [Finshots ~ "BUSINESS - Succession: Exploring the many theories behind Sam Altman’s OpenAI Exit"](https://finshots.in/archive/the-great-mystery-exploring-the-many-theories-behind-sam-altmans-openai-exit/)
+- 📰 [Daily English News -> "How AI is changing videoconferencing | What's Next for Zoom?"](https://qz.com/how-ai-is-changing-videoconferencing-whats-next-for-z-1850995725)
+</p></details>
 <details><summary><u>Day 281</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d281e1.jpeg)
