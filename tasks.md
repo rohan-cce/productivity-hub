@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 280 Days (13/02/2023 to 21/11/2023)
+Learning Progress Till Now -> 283 Days (13/02/2023 to 22/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 283</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d283e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d283ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d283chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d283chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d283chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d283chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - RBI hikes interest rates without hiking interest rates"](https://finshots.in/archive/rbi-hikes-interest-rates-without-hiking-interest-rates/)
+- 📰 [Daily English News -> "Fund to compensate developing nations for climate change is unfinished business at COP28"](https://qz.com/fund-to-compensate-developing-nations-for-climate-chang-1851040973)
+</p></details>
 <details><summary><u>Day 282</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d282e1.jpeg)
@@ -10,19 +22,24 @@ Learning Progress Till Now -> 280 Days (13/02/2023 to 21/11/2023)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d282chs4.jpeg)
-- 🤨[Case study / Documentary ~ "Zerodha Case Study: Bootstrapped to Billion dollar valuation startup without advertisements!"](https://www.youtube.com/watch?v=vguLPoLiFNg&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=4&ab_channel=ThinkSchool)
 - 💰📈 [Finshots ~ "BUSINESS - Succession: Exploring the many theories behind Sam Altman’s OpenAI Exit"](https://finshots.in/archive/the-great-mystery-exploring-the-many-theories-behind-sam-altmans-openai-exit/)
 - 📰 [Daily English News -> "How AI is changing videoconferencing | What's Next for Zoom?"](https://qz.com/how-ai-is-changing-videoconferencing-whats-next-for-z-1850995725)
 </p></details>
 <details><summary><u>Day 281</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d281e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d281ls1.jpeg)
+- ✔️ [Completed Daily WorkoutWorkout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d281ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs1.jpeg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d281chs4.jpeg)
+- 💻⚙️ Tech
+  - [Watched Youtube Video - "Time and Space Complexity"](https://www.youtube.com/watch?v=FPu9Uld7W-E&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3&ab_channel=takeUforward)
+  - [Observations/Notes Taken](https://carpal-pajama-583.notion.site/Time-Complexity-03d477b646b8457db8b74df2893b5924?pvs=4)
+- 🤨 Case study / Documentary
+  - [Watched Youtube Video - "Zerodha Case Study: Bootstrapped to Billion dollar valuation startup without advertisements!"](https://www.youtube.com/watch?v=vguLPoLiFNg&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=4&ab_channel=ThinkSchool)
+  - [Observation/Notes Taken](https://carpal-pajama-583.notion.site/Zerodha-Case-Study-Bootstrapped-to-Billion-dollar-valuation-startup-without-advertisements-24bad009af4a432cbaa989bd5163d1fa?pvs=4)
 - 💰📈 [Finshots ~ "BUSINESS - The mystery of Sahara’s ₹25,000 crores"](https://finshots.in/archive/the-mystery-of-saharas-25-000-crores/)
 - 📰 [Daily English News -> "AI in Focus: Sam Altman’s OpenABye"](https://qz.com/emails/daily-brief/1851032570/ai-in-focus-sam-altman-s-openabye)
 </p></details>
