@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 283 Days (13/02/2023 to 22/11/2023)
+Learning Progress Till Now -> 284 Days (13/02/2023 to 23/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 284</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d284e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d284ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d284chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d284chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d284chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d284chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Will Argentina trash the Peso?"](https://finshots.in/archive/will-argentina-trash-the-peso/)
+- 📰 [Daily English News -> "Slovakia's government signs a memorandum with China's Gotion High-Tech to build a car battery plant"](https://qz.com/slovakias-government-signs-a-memorandum-with-chinas-got-1851044974)
+</p></details>
 <details><summary><u>Day 283</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d283e1.jpeg)
