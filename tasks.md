@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 284 Days (13/02/2023 to 23/11/2023)
+Learning Progress Till Now -> 285 Days (13/02/2023 to 24/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 285</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d285e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d285ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d285chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d285chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d285chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d285chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - A beginner's guide to stubble burning"](https://finshots.in/archive/a-beginners-guide-to-stubble-burning/)
+- 📰 [Daily English News -> "Amazon and NFL hoping to establish a tradition with the first Black Friday game"](https://qz.com/amazon-and-nfl-hoping-to-establish-a-tradition-with-the-1851045282)
+</p></details>
 <details><summary><u>Day 284</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d284e1.jpeg)
