@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 285 Days (13/02/2023 to 24/11/2023)
+Learning Progress Till Now -> 286 Days (13/02/2023 to 25/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 286</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d286e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d286ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d286chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d286chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d286chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d286chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - CDSL is rich thanks to the stock market boom!"](https://finshots.in/markets/cdsl-is-rich-thanks-to-the-stock-market-boom/)
+- 📰 [Daily English News -> Buyers worldwide go for bigger cars, erasing gains from cleaner tech. EVs would help"](https://qz.com/buyers-worldwide-go-for-bigger-cars-erasing-gains-from-1851047154)
+</p></details>
 <details><summary><u>Day 285</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d285e1.jpeg)
