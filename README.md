@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 286 Days (13/02/2023 to 25/11/2023)
+Learning Progress Till Now -> 287 Days (13/02/2023 to 25611/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 287</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d287e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d287ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d287chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d287chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d287chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d287chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Black Friday, stubble trouble and your future financial self"](https://finshots.in/archive/sunny-side-up-black-friday-stubble-trouble-and-your-future-financial-self/)
+- 📰 [Daily English News -> "Skyscraper-studded Dubai has flourished during regional crises. Could it benefit from hosting COP28?"](https://qz.com/skyscraper-studded-dubai-has-flourished-during-regional-1851047771)
+</p></details>
 <details><summary><u>Day 286</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d286e1.jpeg)
