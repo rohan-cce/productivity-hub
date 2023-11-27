@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 287 Days (13/02/2023 to 26/11/2023)
+Learning Progress Till Now -> 288 Days (13/02/2023 to 27/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 288</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d288e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d288ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d288chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d288chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d288chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d288chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI wants to make ‘insider' trading easier?"](https://finshots.in/archive/sebi-insider-trading-consultation/)
+- 📰 [Daily English News -> "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."](https://qz.com/pentagons-ai-initiatives-accelerate-hard-decisions-on-l-1851047226)
+</p></details>
 <details><summary><u>Day 287</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d287e1.jpeg)
