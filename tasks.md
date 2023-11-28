@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 288 Days (13/02/2023 to 27/11/2023)
+Learning Progress Till Now -> 289 Days (13/02/2023 to 28/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 289</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d289e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d289ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d289chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d289chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d289chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d289chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - India is stepping on the ‘Bio’gas"](https://finshots.in/archive/india-is-stepping-on-the-biogas/)
+- 📰 [Daily English News -> "AI poses less of a threat to jobs than it does to wages"](https://qz.com/ai-poses-less-of-a-threat-to-jobs-than-it-does-to-wages-1851052544)
+</p></details>
 <details><summary><u>Day 288</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d288e1.jpeg)
