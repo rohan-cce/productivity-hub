@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 289 Days (13/02/2023 to 28/11/2023)
+Learning Progress Till Now -> 290 Days (13/02/2023 to 29/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
+<details><summary><u>Day 290</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d290e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d290ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d290chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d290chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d290chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d290chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Did copy-paste really cost TCS $200 million?"](https://finshots.in/archive/did-copy-paste-really-cost-tcs-200-million/)
+- 📰 [Daily English News -> "Sri Lanka says it struck a deal with creditors on debt restructuring to clear way for IMF funds"](https://qz.com/sri-lanka-says-it-struck-a-deal-with-creditors-on-debt-1851057248)
+</p></details>
 <details><summary><u>Day 289</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d289e1.jpeg)
