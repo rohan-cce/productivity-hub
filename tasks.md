@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 290 Days (13/02/2023 to 29/11/2023)
+Learning Progress Till Now -> 291 Days (13/02/2023 to 30/11/2023)
 <details><summary><u>Day 281 - Day 290 ~ November 20, 2023 - November 29, 2023</u></summary><p>
 <details><summary><u>Day 290</u></summary><p>
 
