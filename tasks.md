@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 297 Days (13/02/2023 to 06/12/2023)
+Learning Progress Till Now -> 298 Days (13/02/2023 to 07/12/2023)
 <details><summary><u>Day 291 - Day 300 ~ November 30, 2023 - December 09, 2023</u></summary><p>
+<details><summary><u>Day 298</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d298e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d298ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d298chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d298chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d298chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d298chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Decoding India’s 7.6% GDP"](https://finshots.in/archive/decoding-indias-7-6-gdp/)
+- 📰 [Daily English News -> "Europe's talks on world-leading AI rules paused after 22 hours and will start again Friday"](https://qz.com/europes-talks-on-world-leading-ai-rules-paused-after-22-1851080070)
+</p></details>
 <details><summary><u>Day 297</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d297e1.jpeg)
