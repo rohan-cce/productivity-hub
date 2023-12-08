@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 298 Days (13/02/2023 to 07/12/2023)
+Learning Progress Till Now -> 299 Days (13/02/2023 to 08/12/2023)
 <details><summary><u>Day 291 - Day 300 ~ November 30, 2023 - December 09, 2023</u></summary><p>
+<details><summary><u>Day 299</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d299e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d299ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d299chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d299chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d299chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d299chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why is Apollo Hospitals in the midst of a controversy?"](https://finshots.in/archive/apollo-hospitals-organ-trade-controversy/)
+- 📰 [Daily English News -> "Honeywell is buying Carrier Global's security division for $4.95 billion"](https://qz.com/honeywell-is-buying-carrier-globals-security-division-f-1851083898)
+</p></details>
 <details><summary><u>Day 298</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d298e1.jpeg)
