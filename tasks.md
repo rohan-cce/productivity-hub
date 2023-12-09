@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 299 Days (13/02/2023 to 08/12/2023)
+Learning Progress Till Now -> 300 Days (13/02/2023 to 09/12/2023)
 <details><summary><u>Day 291 - Day 300 ~ November 30, 2023 - December 09, 2023</u></summary><p>
+<details><summary><u>Day 300</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d300e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D251-D300/d300ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d300chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d300chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d300chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D251-D300/d300chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY Why is the RBI going after Cooperative Banks?"](https://finshots.in/archive/why-is-the-rbi-going-after-cooperative-banks/)
+- 📰 [Daily English News -> "Technology built the cashless society. Advances are helping the unhoused so they're not left behind"](https://qz.com/technology-built-the-cashless-society-advances-are-hel-1851087184)
+</p></details>
 <details><summary><u>Day 299</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D251-D300/d299e1.jpeg)
