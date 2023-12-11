@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 301 Days (13/02/2023 to 10/12/2023)
+Learning Progress Till Now -> 302 Days (13/02/2023 to 11/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 302</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d302e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d302ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d302chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d302chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d302chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d302chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Can we survive without animal drug testing?"](https://finshots.in/archive/can-we-survive-without-animal-drug-testing/)
+- 📰 [Daily English News -> "The Dodgers gave Shohei Ohtani $700 million to hit and pitch — but also because he can sell"](https://qz.com/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-1851088069)
+</p></details>
 <details><summary><u>Day 301</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d300e1.jpeg)
