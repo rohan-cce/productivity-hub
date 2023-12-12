@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 301 Days (13/02/2023 to 11/12/2023)
+Learning Progress Till Now -> 303 Days (13/02/2023 to 12/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 303</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d303e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d303ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d303chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d303chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d303chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d303chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - India stands up to the WTO on agricultural subsidies"](https://finshots.in/archive/india-stands-up-to-the-wto-on-agricultural-subsidies/)
+- 📰 [Daily English News -> "The metaverse economy: Is it real?"](https://qz.com/emails/quartz-obsession/1851061482/the-metaverse-economy-is-it-real)
+</p></details>
 <details><summary><u>Day 302</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d302e1.jpeg)
