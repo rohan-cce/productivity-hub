@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 303 Days (13/02/2023 to 12/12/2023)
+Learning Progress Till Now -> 304 Days (13/02/2023 to 13/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 304</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d304e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d304ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d304chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d304chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d304chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d304chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP Sunny Side Up 🍳: Grand Theft Auto, preowned Enfields & your relationship with money"](https://finshots.in/archive/sunny-side-up-grand-theft-auto-preowned-enfields-and-your-relationship-with-money/)
+- 📰 [Daily English News -> "What small businesses need to know about new regulations going into 2024"](https://qz.com/what-small-businesses-need-to-know-about-new-regulation-1851095194)
+</p></details>
 <details><summary><u>Day 303</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d303e1.jpeg)
