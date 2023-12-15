@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 305 Days (13/02/2023 to 14/12/2023)
+Learning Progress Till Now -> 306 Days (13/02/2023 to 15/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 306</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d306e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d306ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d306chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d306chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d306chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d306chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - What went wrong with Doubtnut?"](https://finshots.in/archive/what-killed-doubtnut/)
+</p></details>
 <details><summary><u>Day 305</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d305e1.jpeg)
