@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 308 Days (13/02/2023 to 17/12/2023)
+Learning Progress Till Now -> 309 Days (13/02/2023 to 18/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 309</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d309e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d309ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d309chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d309chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d309chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d309chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The F-Word stirs up COP28!"](https://finshots.in/archive/the-f-word-stirs-up-cop28/)
+</p></details>
 <details><summary><u>Day 308</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d308e1.jpeg)
