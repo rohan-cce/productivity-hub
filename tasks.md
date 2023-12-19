@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 309 Days (13/02/2023 to 18/12/2023)
+Learning Progress Till Now -> 310 Days (13/02/2023 to 19/12/2023)
 <details><summary><u>Day 301 - Day 310 ~ December 10, 2023 - December 19, 2023</u></summary><p>
+<details><summary><u>Day 310</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d310e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d310ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d310chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d310chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d310chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d310chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Microsoft Excel is a sport?, spammers & spellings and stinginess"](https://finshots.in/archive/sunny-side-up-microsoft-excel-is-a-sport-spammers-spellings-and-stinginess/)
+</p></details>
 <details><summary><u>Day 309</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d309e1.jpeg)
