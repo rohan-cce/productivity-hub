@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 311 Days (13/02/2023 to 20/12/2023)
+Learning Progress Till Now -> 312 Days (13/02/2023 to 20/12/2023)
 <details><summary><u>Day 311 - Day 320 ~ December 20, 2023 - December 29, 2023</u></summary><p>
+<details><summary><u>Day 312</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d312e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d312ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d312chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d312chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d312chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d312chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Indian companies have an innovation problem"](https://finshots.in/archive/indian-companies-have-an-innovation-problem/)
+</p></details>
 <details><summary><u>Day 311</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d311e1.jpeg)
