@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 312 Days (13/02/2023 to 21/12/2023)
+Learning Progress Till Now -> 313 Days (13/02/2023 to 22/12/2023)
 <details><summary><u>Day 311 - Day 320 ~ December 20, 2023 - December 29, 2023</u></summary><p>
 <details><summary><u>Day 312</u></summary><p>
 
