@@ -1,5 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 320 Days (13/02/2023 to 29/12/2023)
+Learning Progress Till Now -> 321 Days (13/02/2023 to 30/12/2023)
+<details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - December 29, 2023</u></summary><p>
+<details><summary><u>Day 321</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d321e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d321ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d321chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d321chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d321chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d321chs4.jpeg)
+</p></details>
+</p></details>
 <details><summary><u>Day 311 - Day 320 ~ December 20, 2023 - December 29, 2023</u></summary><p>
 <details><summary><u>Day 320</u></summary><p>
 
