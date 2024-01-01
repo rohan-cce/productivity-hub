@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 322 Days (13/02/2023 to 31/12/2023)
-<details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - December 29, 2023</u></summary><p>
+Learning Progress Till Now -> 323 Days (13/02/2023 to 01/01/2024)
+<details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 323</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d323e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d323ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d323chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d323chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d323chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d323chs4.jpeg)
+</p></details>
 <details><summary><u>Day 322</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d322e1.jpeg)

@@ -1,6 +1,6 @@
 # productivity-hub
-Learning Progress Till Now -> 322 Days (13/02/2023 to 31/12/2023)
-<details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - December 29, 2023</u></summary><p>
+Learning Progress Till Now -> 323 Days (13/02/2023 to 01/01/2024)
+<details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
 <details><summary><u>Day 322</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d322e1.jpeg)
