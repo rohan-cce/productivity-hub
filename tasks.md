@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 324 Days (13/02/2023 to 02/01/2024)
+Learning Progress Till Now -> 325 Days (13/02/2023 to 03/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 325</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d325e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d325ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d325chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d325chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d325chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d325chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Does Tata ‘own’ Jamshedpur?"](https://finshots.in/archive/does-tata-own-jamshedpur/)
+- 📰 [Daily English News -> "A New Year’s resolution for tech companies: knock it off with the CAPTCHAs"](https://www.theverge.com/2024/1/2/24022948/captcha-test-bots-puzzle-grid-google)
+- 📰 [Daily English News -> "Microsoft’s Copilot Rises From the Ashes of Bob and Clippy"](https://www.technewsworld.com/story/microsofts-copilot-rises-from-the-ashes-of-bob-and-clippy-178799.html)
+</p></details>
 <details><summary><u>Day 324</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d324e1.jpeg)
@@ -10,7 +23,7 @@ Learning Progress Till Now -> 324 Days (13/02/2023 to 02/01/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d324chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d324chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d324chs4.jpeg)
-  - 💰📈 [Finshots ~ "BUSINESS - Is the Apple Watch just a sly copycat?"](https://finshots.in/archive/is-apple-just-a-sly-copycat/)
+- 💰📈 [Finshots ~ "BUSINESS - Is the Apple Watch just a sly copycat?"](https://finshots.in/archive/is-apple-just-a-sly-copycat/)
 </p></details>
 <details><summary><u>Day 323</u></summary><p>
 
