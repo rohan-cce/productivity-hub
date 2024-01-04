@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 325 Days (13/02/2023 to 03/01/2024)
+Learning Progress Till Now -> 326 Days (13/02/2023 to 04/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 326</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d326e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d326ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d326chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d326chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d326chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d326chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - What the heck is eSoil?"](https://finshots.in/archive/what-the-heck-is-esoil/)
+- 📰 [Daily English News -> "Samsung’s OLED gaming monitors now come in more shapes, sizes, and up to 360Hz"](https://www.theverge.com/2024/1/3/24023513/samsung-ces-2024-gaming-monitors-odyssey-oled-g6-g8-g9)
+- 📰 [Daily English News -> "California senator files bill prohibiting agencies from working with unethical AI companies"](https://www.theverge.com/2024/1/3/24024258/ai-bill-unethical-ai-california-ban-regulation)
+</p></details>
 <details><summary><u>Day 325</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d325e1.jpeg)
