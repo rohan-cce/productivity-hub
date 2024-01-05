@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 326 Days (13/02/2023 to 04/01/2024)
+Learning Progress Till Now -> 327 Days (13/02/2023 to 05/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 327</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d327e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d327ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why can't continents be single markets like the EU?"](https://finshots.in/archive/why-cant-contintents-be-single-markets-like-the-eu/)
+- 📰 [Daily English News -> "OpenAI code suggests ChatGPT could sub in for Google Assistant on Android phones soon."](https://www.theverge.com/2024/1/4/24025963/openai-code-suggests-chatgpt-could-sub-in-for-google-assistant-on-android-phones-soon)
+- 📰 [Daily English News -> "Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years"](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs)
+</p></details>
 <details><summary><u>Day 326</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d326e1.jpeg)
