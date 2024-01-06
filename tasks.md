@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 327 Days (13/02/2023 to 05/01/2024)
+Learning Progress Till Now -> 328 Days (13/02/2023 to 06/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 328</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d328e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d328ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - How do Japan's businesses survive disasters?"](https://finshots.in/archive/how-do-japans-businesses-survive-disasters/)
+- 📰 [Daily English News -> "Microsoft’s observer has reportedly joined the OpenAI board"](https://www.theverge.com/2024/1/5/24027245/microsofts-observer-has-reportedly-joined-the-openai-board)
+- 📰 [Daily English News -> "Apple revives old fight with Hey after rejecting new calendar app"](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)
+</p></details>
 <details><summary><u>Day 327</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d327e1.jpeg)
