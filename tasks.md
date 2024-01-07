@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 328 Days (13/02/2023 to 06/01/2024)
+Learning Progress Till Now -> 329 Days (13/02/2023 to 07/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 329</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d329e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d329ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Is Inox’s IPO a frozen asset with hot potential?"](https://finshots.in/markets/is-inoxs-ipo-a-frozen-asset-with-hot-potential/)
+- 📰 [Daily English News -> "Apple is sending out checks for ‘batterygate’ class action claims"](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)
+</p></details>
 <details><summary><u>Day 328</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d328e1.jpeg)
