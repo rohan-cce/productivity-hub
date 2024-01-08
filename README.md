@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 329 Days (13/02/2023 to 07/01/2024)
+Learning Progress Till Now -> 330 Days (13/02/2023 to 07/01/2024)
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
+<details><summary><u>Day 330</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d330e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d330ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d330chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d330chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d330chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d330chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Is Aladdin Jio’s secret weapon to disrupt mutual funds?"](https://finshots.in/archive/is-aladdin-jios-secret-weapon-to-disrupt-mutual-funds/)
+- 📰 [Daily English News -> "Acer is bringing its glasses-free 3D screen to a more affordable laptop"](https://www.theverge.com/2024/1/7/24022614/acer-aspire-3d-15-spatial-labs-predator-view-ces)
+- 📰 [Daily English News -> "Medium’s third-party API has been down for over a week"](https://www.theverge.com/2024/1/7/24029208/mediums-third-party-api-has-been-down-for-over-a-week)
+- 🤨 Case study / Documentary
+  - [Watched Youtube Video - "This simple idea changed FMCG Market forever | CHIK Shampoo Case Study"](https://www.youtube.com/watch?v=A1k62pSQ7so&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=5&ab_channel=ThinkSchool)
+  - [Observation/Notes Taken](https://carpal-pajama-583.notion.site/This-simple-idea-changed-FMCG-Market-forever-CHIK-Shampoo-Case-Study-78bbd505b559478e8c6024a75448aa1e?pvs=74)
+- 🤨 Puzzles
+ - [Puzzle observation](https://carpal-pajama-583.notion.site/puzzle-1-882d500a9fe64f13ad30d8c039a46d2f?pvs=4)
+</p></details>
 <details><summary><u>Day 329</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d329e1.jpeg)
@@ -9,7 +27,7 @@ Learning Progress Till Now -> 329 Days (13/02/2023 to 07/01/2024)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs1.jpeg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs4.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d329chs4.jpeg)
 - 💰📈 [Finshots ~ "MARKETS - Is Inox’s IPO a frozen asset with hot potential?"](https://finshots.in/markets/is-inoxs-ipo-a-frozen-asset-with-hot-potential/)
 - 📰 [Daily English News -> "Apple is sending out checks for ‘batterygate’ class action claims"](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)
 </p></details>
@@ -21,7 +39,7 @@ Learning Progress Till Now -> 329 Days (13/02/2023 to 07/01/2024)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs1.jpeg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d327chs4.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d328chs4.jpeg)
 - 💰📈 [Finshots ~ "ECONOMY - How do Japan's businesses survive disasters?"](https://finshots.in/archive/how-do-japans-businesses-survive-disasters/)
 - 📰 [Daily English News -> "Microsoft’s observer has reportedly joined the OpenAI board"](https://www.theverge.com/2024/1/5/24027245/microsofts-observer-has-reportedly-joined-the-openai-board)
 - 📰 [Daily English News -> "Apple revives old fight with Hey after rejecting new calendar app"](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)
