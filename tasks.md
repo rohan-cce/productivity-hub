@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 330 Days (13/02/2023 to 08/01/2024)
+Learning Progress Till Now -> 331 Days (13/02/2023 to 09/01/2024)
+<details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 331</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d331e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d331ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d331chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d331chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d331chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d331chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Is there a problem with India's Metro Rail?"](https://finshots.in/archive/is-indias-metro-rail-a-failure/)
+- 📰 [Daily English News -> "Samsung’s Ballie robot is now a projector that follows you around"](https://www.theverge.com/2024/1/8/24030713/samsung-ballie-robot-projector-ai-ces)
+</p></details>
+</p></details>
 <details><summary><u>Day 321 - Day 330 ~ December 30, 2023 - January 08, 2024</u></summary><p>
 <details><summary><u>Day 330</u></summary><p>
 
