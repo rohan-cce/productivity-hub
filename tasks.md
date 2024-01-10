@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 331 Days (13/02/2023 to 09/01/2024)
+Learning Progress Till Now -> 332 Days (13/02/2023 to 10/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 332</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d332e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d332ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d332chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d332chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d332chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d332chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Did a 1997 merger ruin Boeing?"](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
+- 📰 [Daily English News -> "Asus’ new laptop has two screens and a removable keyboard"](https://www.theverge.com/2024/1/9/24031220/asus-zenbook-duo-dual-oled-screen-laptop-vivobook-pro-tuf-gaming)
+</p></details>
 <details><summary><u>Day 331</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d331e1.jpeg)
