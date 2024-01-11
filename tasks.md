@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 332 Days (13/02/2023 to 10/01/2024)
+Learning Progress Till Now -> 333 Days (13/02/2023 to 11/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 333</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d333e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d333ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d333chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d333chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d333chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d333chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Should we blame immigration for Canada’s economic woes?"](https://finshots.in/archive/should-we-blame-immigration-for-canadas-economic-woes/)
+- 📰 [Daily English News -> "Humane lays off 4 percent of employees before releasing its AI Pin"](https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin)
+</p></details>
 <details><summary><u>Day 332</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d332e1.jpeg)
