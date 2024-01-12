@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 333 Days (13/02/2023 to 11/01/2024)
+Learning Progress Till Now -> 334 Days (13/02/2023 to 12/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 334</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d334e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d334ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d334chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d334chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d334chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d334chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - An explainer on the Carta scandal"](https://finshots.in/archive/an-explainer-on-the-carta-scandal/)
+- 📰 [Daily English News -> Tesla’s upgraded 2024 Model 3 is now available in the US"](https://www.theverge.com/2024/1/10/24032562/tesla-model-3-2024-refresh-us-available-highland)
+</p></details>
 <details><summary><u>Day 333</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d333e1.jpeg)
