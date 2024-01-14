@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 335 Days (13/02/2023 to 13/01/2024)
+Learning Progress Till Now -> 336 Days (13/02/2023 to 14/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 336</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d336e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d336ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d336chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d336chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d336chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d336chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Is EbixCash’s IPO dead and buried?"](https://finshots.in/markets/is-ebixcash-ipo-dead-and-buried/)
+- 📰 [Daily English News -> "First Bitcoin ETFs approved by US regulators"](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
+</p></details>
 <details><summary><u>Day 335</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d335e1.jpeg)
