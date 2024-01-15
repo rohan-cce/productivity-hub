@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 336 Days (13/02/2023 to 14/01/2024)
+Learning Progress Till Now -> 337 Days (13/02/2023 to 15/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 337</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d337e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d337ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d337chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d337chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d337chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d337chs4.jpeg)
+- 📰 [Daily English News -> "Don’t hold your breath for Apple’s EU App Store changes to be available globally"](https://www.theverge.com/2024/1/15/24038684/dont-hold-your-breath-for-apples-eu-app-store-changes-to-be-available-globally)
+</p></details>
 <details><summary><u>Day 336</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d336e1.jpeg)
