@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 337 Days (13/02/2023 to 15/01/2024)
+Learning Progress Till Now -> 338 Days (13/02/2023 to 16/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
 <details><summary><u>Day 337</u></summary><p>
 
