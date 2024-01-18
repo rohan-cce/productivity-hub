@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 339 Days (13/02/2023 to 17/01/2024)
+Learning Progress Till Now -> 340 Days (13/02/2023 to 18/01/2024)
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
+<details><summary><u>Day 340</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d340e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d340ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d340chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d340chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d340chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d340chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - How to bring back Vijay Mallya and Nirav Modi"](https://finshots.in/archive/how-to-bring-back-vijay-mallya-and-nirav-modi/)
+- 📰 [Daily English News -> "Netflix’s app won’t work on the Vision Pro"](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
+</p></details>
 <details><summary><u>Day 339</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d339e1.jpeg)
