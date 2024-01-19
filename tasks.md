@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 340 Days (13/02/2023 to 18/01/2024)
+Learning Progress Till Now -> 341 Days (13/02/2023 to 19/01/2024)
+<details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 341</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d341e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d341ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d341chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d341chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d341chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d341chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Is the RBI targeting banking executives?"](https://finshots.in/archive/is-the-rbi-targeting-banking-executives/)
+- 📰 [Daily English News -> "The Rabbit R1 will receive live info from Perplexity’s AI ‘answer engine’"](https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers)
+</p></details>
+</p></details>
 <details><summary><u>Day 331 - Day 340 ~ January 09, 2024 - January 18, 2024</u></summary><p>
 <details><summary><u>Day 340</u></summary><p>
 
