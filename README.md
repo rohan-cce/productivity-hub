@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 341 Days (13/02/2023 to 19/01/2024)
+Learning Progress Till Now -> 342 Days (13/02/2023 to 20/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 342</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d342e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d342ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d342chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d342chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d342chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d342chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Finshots is a stock-picking genius. But…"](https://finshots.in/markets/finshots-is-a-stock-picking-genius-but/)
+- 📰 [Daily English News -> "MagSafe chargers and S-Pens don’t play well together"](https://www.theverge.com/2024/1/19/24044717/magsafe-chargers-and-s-pens-dont-play-well-together)
+</p></details>
 <details><summary><u>Day 341</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d341e1.jpeg)
