@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 343 Days (13/02/2023 to 21/01/2024)
+Learning Progress Till Now -> 344 Days (13/02/2023 to 22/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 344</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d344e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d344ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d344chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d344chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d344chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d344chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - An explainer on Multidimensional Poverty"](https://finshots.in/archive/an-explainer-on-multidimensional-poverty/)
+- 📰 [Daily English News -> "Web apps: maybe not coming to a Vision Pro homescreen near you?"](https://www.theverge.com/2024/1/22/24046807/web-apps-maybe-not-coming-to-a-vision-pro-homescreen-near-youf)
+</p></details>
 <details><summary><u>Day 343</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d343e1.jpeg)
