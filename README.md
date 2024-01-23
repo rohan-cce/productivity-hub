@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 344 Days (13/02/2023 to 22/01/2024)
+Learning Progress Till Now -> 345 Days (13/02/2023 to 23/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 345</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d345e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d345ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d345chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d345chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d345chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d345chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Coaching Centre Crackdown?!"](https://finshots.in/archive/coaching-centre-crackdown/)
+- 📰 [Daily English News -> "A more seamless way to voice type could be on the way for Android"](https://www.theverge.com/2024/1/23/24047764/a-more-seamless-way-to-voice-type-could-be-on-the-way-for-android)
+</p></details>
 <details><summary><u>Day 344</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d344e1.jpeg)
