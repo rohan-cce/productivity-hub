@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 346 Days (13/02/2023 to 24/01/2024)
+Learning Progress Till Now -> 346 Days (13/02/2023 to 25/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 347</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d347e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d347ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d347chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d347chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d347chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d347chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The ‘1 crore’ solar home dream!"](https://finshots.in/archive/the-1-crore-solar-home-dream/)
+- 📰 [Daily English News -> "Microsoft Teams now supports 3D and VR meetings"](https://www.theverge.com/2024/1/24/24048895/microsoft-teams-microsoft-mesh-launch-vr-meetings-3d-immersive)
+</p></details>
 <details><summary><u>Day 346</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d346e1.jpeg)
