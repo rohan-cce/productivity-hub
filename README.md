@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 348 Days (13/02/2023 to 26/01/2024)
+Learning Progress Till Now -> 349 Days (13/02/2023 to 27/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 349</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d349e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d349ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - A Diamond Chip on Haldiram’s Shelf?"](https://finshots.in/markets/a-diamond-chip-on-haldirams-shelf/)
+- 📰 [Daily English News -> "Google’s Hugging Face deal puts ‘supercomputer’ power behind open-source AI"](https://www.theverge.com/2024/1/25/24050445/google-cloud-hugging-face-ai-developer-access)
+</p></details>
 <details><summary><u>Day 348</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d348e1.jpeg)
