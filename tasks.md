@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 349 Days (13/02/2023 to 27/01/2024)
+Learning Progress Till Now -> 350 Days (13/02/2023 to 28/01/2024)
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
+<details><summary><u>Day 350</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d350e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d350ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Global Stock Market Capitalization"](https://finshots.in/infographic/global-stock-market-capitalization/)
+- 📰 [Daily English News -> "This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15"](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
+</p></details>
 <details><summary><u>Day 349</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D301-D350/d349e1.jpeg)
