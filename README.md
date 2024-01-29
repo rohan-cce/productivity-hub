@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 350 Days (13/02/2023 to 28/01/2024)
+Learning Progress Till Now -> 351 Days (13/02/2023 to 29/01/2024)
+<details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 351</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d351e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d351ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d351chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d351chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d351chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d351chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Google’s cookie is crumbling. Finally."](https://finshots.in/archive/googles-cookie-is-crumbling-finally/)
+- 📰 [Daily English News -> "Google’s Lumiere brings AI video closer to real than unreal"](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)
+</p></details>
+</p></details>
 <details><summary><u>Day 341 - Day 350 ~ January 19, 2024 - January 28, 2024</u></summary><p>
 <details><summary><u>Day 350</u></summary><p>
 
@@ -7,7 +21,7 @@ Learning Progress Till Now -> 350 Days (13/02/2023 to 28/01/2024)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D301-D350/d350ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d349chs2.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D301-D350/d350chs4.jpeg)
 - 💰📈 [Finshots ~ "INFOGRAPHIC - Global Stock Market Capitalization"](https://finshots.in/infographic/global-stock-market-capitalization/)
