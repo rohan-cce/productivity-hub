@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 351 Days (13/02/2023 to 29/01/2024)
+Learning Progress Till Now -> 352 Days (13/02/2023 to 30/01/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 352</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d352e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d352ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d352chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d352chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d352chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d352chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - VC firms play musical chairs"](https://finshots.in/archive/vc-firms-play-musical-chairs/)
+- 📰 [Daily English News -> "Yelp will use AI to tell you if that burger’s any good"](https://www.theverge.com/2024/1/30/24054806/yelp-ai-business-summary-reviews)
+</p></details>
 <details><summary><u>Day 351</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d351e1.jpeg)
