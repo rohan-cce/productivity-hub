@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 352 Days (13/02/2023 to 30/01/2024)
+Learning Progress Till Now -> 353 Days (13/02/2023 to 31/01/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 353</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d353e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d353ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d353chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d353chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d353chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d353chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI cracks the whip on an agri-investment startup?"](https://finshots.in/archive/sebi-cracks-the-whip-on-an-agri-investment-startup/)
+- 📰 [Daily English News -> "Your home network might soon get a new — and simpler — name"](https://www.theverge.com/2024/1/30/24055534/web-private-network-internal-icann-name)
+</p></details>
 <details><summary><u>Day 352</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d352e1.jpeg)
