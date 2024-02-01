@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 353 Days (13/02/2023 to 31/01/2024)
+Learning Progress Till Now -> 354 Days (13/02/2023 to 01/02/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 354</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d354e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d354ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d354chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d354chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d354chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d354chs4.jpeg)
+- 💰📈 [Finshots ~ "A BIT OF EVERYTHING - The mystery of disappearing languages"](https://finshots.in/archive/the-mystery-of-disappearing-languages/)
+- 📰 [Daily English News -> "Google inks major new offshore wind deal"](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)
+</p></details>
 <details><summary><u>Day 353</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d353e1.jpeg)
