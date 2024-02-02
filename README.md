@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 354 Days (13/02/2023 to 01/02/2024)
+Learning Progress Till Now -> 355 Days (13/02/2023 to 02/02/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 355</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d355e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d355ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d355chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d355chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d355chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d355chs4.jpeg)
+- 💰📈 [Finshots ~ "Interim Budget explained in 5 minutes"](https://finshots.in/archive/interim-budget-explained-in-5-minutes-2/)
+- 📰 [Daily English News -> "Google Search’s cache links are officially being retired"](https://www.youtube.com/watch?v=EvMS73TWIQA&list=RDEvMS73TWIQA&start_radio=1&ab_channel=ThinkMusicIndia)
+</p></details>
 <details><summary><u>Day 354</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d354e1.jpeg)
