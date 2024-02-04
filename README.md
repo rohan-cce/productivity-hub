@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 356 Days (13/02/2023 to 03/02/2024)
+Learning Progress Till Now -> 357 Days (13/02/2023 to 04/02/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 357</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d357e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d357ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d357chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d357chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d357chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d357chs4.jpeg)
+- 📰 [Daily English News -> "How independent are the boards of Musk’s companies"](https://www.theverge.com/2024/2/4/24061090/how-independent-are-the-boards-of-musks-companies)
+</p></details>
 <details><summary><u>Day 356</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d356e1.jpeg)
