@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 358 Days (13/02/2023 to 05/02/2024)
+Learning Progress Till Now -> 359 Days (13/02/2023 to 06/02/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 359</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d359e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d359ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs4.jpeg)
+- 🏃 [Walking -> 14630 Steps ~ 10.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d359w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - ☕ The downfall of 23andMe?"](https://finshots.in/archive/the-downfall-of-23andme/#:~:text=BUSINESS,downfall%20of%2023andMe%3F)
+- 📰 [Daily English News -> "Huawei just retasked a factory to prioritize AI over its bestselling phone"](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)
+</p></details>
 <details><summary><u>Day 358</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d358e1.jpeg)
