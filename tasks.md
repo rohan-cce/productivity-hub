@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 359 Days (13/02/2023 to 06/02/2024)
+Learning Progress Till Now -> 360 Days (13/02/2023 to 07/02/2024)
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
+<details><summary><u>Day 360</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d360e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d360ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d360chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d360chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d360chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d360chs4.jpeg)
+- 🏃 [Walking -> 14609 Steps ~ 10.47 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d360w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - ☕Who pays for damages in Ukraine?"](https://finshots.in/archive/who-pays-for-damages-in-ukraine/)
+- 📰 [Daily English News -> "YouTube says a Vision Pro app is ‘on the roadmap’"](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video)
+</p></details>
 <details><summary><u>Day 359</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d359e1.jpeg)
@@ -11,6 +24,12 @@ Learning Progress Till Now -> 359 Days (13/02/2023 to 06/02/2024)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d359chs4.jpeg)
 - 🏃 [Walking -> 14630 Steps ~ 10.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d359w1.jpeg)
+- 💻⚙️ Tech
+  - [Watched Youtube Video - "Solve any Pattern Question"](https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=6&ab_channel=takeUforward)
+  - [handson practice](https://github.com/rohan-cce/DSACodeHandsOnDiary/pull/1)
+- 🤨 Case study / Documentary
+  - [Watched Youtube Video - "This simple idea changed FMCG Market forever | CHIK Shampoo Case Study"](https://www.youtube.com/watch?v=A1k62pSQ7so&list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG&index=5&ab_channel=ThinkSchool)
+  - [Observation/Notes Taken](https://carpal-pajama-583.notion.site/This-simple-idea-changed-FMCG-Market-forever-CHIK-Shampoo-Case-Study-3371eacfa24544b7b264b020882ef595?pvs=74)
 - 💰📈 [Finshots ~ "BUSINESS - ☕ The downfall of 23andMe?"](https://finshots.in/archive/the-downfall-of-23andme/#:~:text=BUSINESS,downfall%20of%2023andMe%3F)
 - 📰 [Daily English News -> "Huawei just retasked a factory to prioritize AI over its bestselling phone"](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)
 </p></details>
