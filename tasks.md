@@ -1,5 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 360 Days (13/02/2023 to 07/02/2024)
+Learning Progress Till Now -> 361 Days (13/02/2023 to 08/02/2024)
+<details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 361</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d361e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d361ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d361chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d361chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d361chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d361chs4.jpeg)
+- 🏃 [Walking -> 14609 Steps ~ 10.47 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d361w1.jpeg)
+- 💻⚙️ Tech
+  - [Watched Youtube Video - "Solve any Pattern Question"](https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=6&ab_channel=takeUforward)
+  - [handson practice](https://github.com/rohan-cce/DSACodeHandsOnDiary/pull/2)
+- 💰📈 [Finshots ~ ""BUSINESS - A new dawn for Tata Motors’ JLR?""](https://finshots.in/archive/new-dawn-tata-motors-jlr/#:~:text=BUSINESS,Tata%20Motors%E2%80%99%20JLR%3F)
+- 📰 [Daily English News -> "It’s Snap versus the world"](https://www.theverge.com/2024/2/8/24065821/snap-versus-the-world)
+</p></details>
+</p></details>
 <details><summary><u>Day 351 - Day 360 ~ January 29, 2024 - February 07, 2024</u></summary><p>
 <details><summary><u>Day 360</u></summary><p>
 
