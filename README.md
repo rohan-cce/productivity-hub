@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 361 Days (13/02/2023 to 08ˀ/02/2024)
+Learning Progress Till Now -> 362 Days (13/02/2023 to 09/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 362</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d362e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d362ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d362chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d362chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d362chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d362chs4.jpeg)
+- 🏃 [Walking ->  Steps ~  km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d362w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Can China save its stock market from India?"](https://finshots.in/archive/can-china-save-its-stock-market-from-india/)
+- 📰 [Daily English News -> "Apple moves away from iTunes on PC with new Windows apps"](https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes)
+</p></details>
 <details><summary><u>Day 361</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d361e1.jpeg)
