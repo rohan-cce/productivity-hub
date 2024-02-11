@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 363 Days (13/02/2023 to 10/02/2024)
+Learning Progress Till Now -> 364 Days (13/02/2023 to 11/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
 <details><summary><u>Day 363</u></summary><p>
 
