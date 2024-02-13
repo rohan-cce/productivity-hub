@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 365 Days (13/02/2023 to 12/02/2024)
+Learning Progress Till Now -> 366 Days (13/02/2023 to 13/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 366</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d366e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d366ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d366chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d366chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d366chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d366chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Will RBI make money dance to its tunes?"](https://finshots.in/archive/will-rbi-make-money-dance-to-its-tunes/)
+- 📰 [Daily English News -> "Google One hits 100 million subscribers"](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini)
+</p></details>
 <details><summary><u>Day 365</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d365e1.jpeg)
