@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 366 Days (13/02/2023 to 13/02/2024)
+Learning Progress Till Now -> 367 Days (13/02/2023 to 14/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 367</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d367e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d367ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d367chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d367chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d367chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d367chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - The rise and rise of GIFT City"](https://finshots.in/archive/the-rise-and-rise-of-gift-city/)
+- 📰 [Daily English News -> "ChatGPT is getting ‘memory’ to remember who you are and what you like"](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
+</p></details>
 <details><summary><u>Day 366</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d366e1.jpeg)
