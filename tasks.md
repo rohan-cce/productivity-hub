@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 367 Days (13/02/2023 to 14/02/2024)
+Learning Progress Till Now -> 368 Days (13/02/2023 to 15/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 368</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d368e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d368ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d368chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d368chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d368chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d368chs4.jpeg)
+- 🏃 [Walking -> 13989 Steps ~ 10.11 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d368w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is Karnataka protesting against the Central Government?"](https://finshots.in/archive/why-is-karnataka-protesting-against-the-central-government/)
+- 📰 [Daily English News -> "Spotify’s layoffs doomed its best (unofficial) music discovery resource"](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)
+</p></details>
 <details><summary><u>Day 367</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d367e1.jpeg)
