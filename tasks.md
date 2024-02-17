@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 369 Days (13/02/2023 to 16/02/2024)
+Learning Progress Till Now -> 370 Days (13/02/2023 to 17/02/2024)
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
+<details><summary><u>Day 370</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d370e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d370ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d370chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d370chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d370chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d370chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Can Nirma make the jump from suds to pills?"](https://finshots.in/markets/can-nirma-make-the-jump-from-suds-to-pills/)
+- 📰 [Daily English News -> "OpenAI can’t register ‘GPT’ as a trademark — yet"](https://www.theverge.com/2024/2/16/24075304/trademark-pto-openai-gpt-deny)
+</p></details>
 <details><summary><u>Day 369</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d369e1.jpeg)
