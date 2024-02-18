@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 370 Days (13/02/2023 to 17/02/2024)
+Learning Progress Till Now -> 371 Days (13/02/2023 to 18/02/2024)
+<details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 371</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d371e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d371ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d371chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d371chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d371chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d371chs4.jpeg)
+- 💰📈 [Finshots ~ "FINSHOTS MONEY - 🎯 Introducing Finshots Money Milestones"](https://finshots.in/archive/introducing-finshots-money-milestones/)
+- 📰 [Daily English News -> "Sora can create video collages, too."](https://www.theverge.com/2024/2/17/24075972/sora-can-create-video-collages-too)
+</p></details>
+</p></details>
 <details><summary><u>Day 361 - Day 370 ~ February 08, 2024 - February 17, 2024</u></summary><p>
 <details><summary><u>Day 370</u></summary><p>
 
