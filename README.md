@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 371 Days (13/02/2023 to 18/02/2024)
+Learning Progress Till Now -> 372 Days (13/02/2023 to 19/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 372</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d372e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d372ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d372chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d372chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d372chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d372chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - An explainer on MSP and the farmers' protest"](https://finshots.in/archive/an-explainer-on-msp-and-farmers-protest/)
+- 📰 [Daily English News -> "Wyze says camera breach let 13,000 customers briefly see into other people’s homes"](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
+</p></details>
 <details><summary><u>Day 371</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d371e1.jpeg)
