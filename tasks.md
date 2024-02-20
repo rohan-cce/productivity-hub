@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 372 Days (13/02/2023 to 19/02/2024)
+Learning Progress Till Now -> 373 Days (13/02/2023 to 20/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 373</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d373e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d373ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs4.jpeg)
+- 🏃 [Walking -> 10165 Steps ~ 8.12 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d369w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - The Indian Railways just got a bigger electricity bill!"](https://finshots.in/archive/the-indian-railways-just-got-a-bigger-electricity-bill-aptel/)
+- 📰 [Daily English News -> "Cambridge University and other UK universities were hit with a DDoS attack"](https://www.theverge.com/2024/2/19/24077699/cambridge-university-and-other-uk-universities-were-hit-with-a-ddos-attack)
+</p></details>
 <details><summary><u>Day 372</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d372e1.jpeg)
