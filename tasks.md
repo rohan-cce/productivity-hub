@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 373 Days (13/02/2023 to 20/02/2024)
+Learning Progress Till Now -> 374 Days (13/02/2023 to 21/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 374</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d374e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d374ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs4.jpeg)
+- 🏃 [Walking -> 11783 Steps ~ 11.3 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d369w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Do investors love Byju’s again?"](https://finshots.in/archive/do-investors-love-byjus-again/)
+- 📰 [Daily English News -> "Adobe Acrobat adds generative AI to ‘easily chat with documents’"](https://www.theverge.com/2024/2/20/24077217/adobe-acrobat-generative-ai-assistant-chatbot-pdf-document)
+</p></details>
 <details><summary><u>Day 373</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d373e1.jpeg)
