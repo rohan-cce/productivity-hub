@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 374 Days (13/02/2023 to 21/02/2024)
+Learning Progress Till Now -> 375 Days (13/02/2023 to 22/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 375</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d375e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d375ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d375chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d375chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d375chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d375chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Can the BRICS have a common currency?"](https://finshots.in/archive/can-the-brics-have-a-common-currency/)
+- 📰 [Daily English News -> "AT&T wireless service is down for many people nationwide"](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
+</p></details>
 <details><summary><u>Day 374</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d374e1.jpeg)
@@ -10,7 +22,7 @@ Learning Progress Till Now -> 374 Days (13/02/2023 to 21/02/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d374chs4.jpeg)
-- 🏃 [Walking -> 11783 Steps ~ 11.3 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d369w1.jpeg)
+- 🏃 [Walking -> 11783 Steps ~ 11.3 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d374w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - Do investors love Byju’s again?"](https://finshots.in/archive/do-investors-love-byjus-again/)
 - 📰 [Daily English News -> "Adobe Acrobat adds generative AI to ‘easily chat with documents’"](https://www.theverge.com/2024/2/20/24077217/adobe-acrobat-generative-ai-assistant-chatbot-pdf-document)
 </p></details>
@@ -23,7 +35,7 @@ Learning Progress Till Now -> 374 Days (13/02/2023 to 21/02/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d373chs4.jpeg)
-- 🏃 [Walking -> 10165 Steps ~ 8.12 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d363w1.jpeg)
+- 🏃 [Walking -> 10165 Steps ~ 8.12 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d373w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - The Indian Railways just got a bigger electricity bill!"](https://finshots.in/archive/the-indian-railways-just-got-a-bigger-electricity-bill-aptel/)
 - 📰 [Daily English News -> "Cambridge University and other UK universities were hit with a DDoS attack"](https://www.theverge.com/2024/2/19/24077699/cambridge-university-and-other-uk-universities-were-hit-with-a-ddos-attack)
 </p></details>
