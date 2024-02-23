@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 375 Days (13/02/2023 to 22/02/2024)
+Learning Progress Till Now -> 376 Days (13/02/2023 to 23/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 376</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d376e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d376ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d376chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d376chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d376chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d376chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - What’s a forest, anyway?"](https://finshots.in/archive/whats-a-forest-anyway/)
+- 📰 [Daily English News -> "The AIs are officially out of control"](https://www.theverge.com/2024/2/23/24080579/gemini-chatgpt-problems-images-reddit-ipo-vergecast)
+</p></details>
 <details><summary><u>Day 375</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d375e1.jpeg)
