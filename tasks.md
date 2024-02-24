@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 376 Days (13/02/2023 to 23/02/2024)
+Learning Progress Till Now -> 377 Days (13/02/2023 to 24/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 377</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d377e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d377ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d377chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d377chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d377chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d377chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Who fulfills India's Internet needs?"](https://finshots.in/infographic/who-fulfills-indias-internet-needs/)
+- 📰 [Daily English News -> "Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data"](https://www.theverge.com/2024/2/22/24080135/avast-security-privacy-software-ftc-fine-data-harvesting)
+</p></details>
 <details><summary><u>Day 376</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d376e1.jpeg)
