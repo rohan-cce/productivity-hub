@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 377 Days (13/02/2023 to 24/02/2024)
+Learning Progress Till Now -> 378 Days (13/02/2023 to 25/02/2024)
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
+<details><summary><u>Day 378</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d378e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d378ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d378chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d378chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d378chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d378chs4.jpeg)
+- 💰📈 [Finshots ~ "FINSHOTS MONEY - 🎯 Finshots Money Milestones #2 — Buy or Rent?"](https://finshots.in/archive/finshots-money-milestones-2-buy-or-rent/)
+- 📰 [Daily English News -> "Nvidia’s role in the AI wave has made it a $2 trillion company"](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)
+</p></details>
 <details><summary><u>Day 377</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d377e1.jpeg)
