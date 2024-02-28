@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 380 Days (13/02/2023 to 27/02/2024)
+Learning Progress Till Now -> 381 Days (13/02/2023 to 28/02/2024)
+<details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 381</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity]()
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles]()
+  - ✔️ [Played Puzzle Rush]()
+  - ✔️ [Played puzzle battle with random person]()
+  - ✔️ [Solved Daily Puzzle]()
+- 🏃 [Walking -> 18887 Steps ~ 14.68 km (Physical activity)]()
+- 💰📈 [Finshots ~ "BUSINESS - A new regulator for nutraceuticals?"](https://finshots.in/archive/a-new-regulator-for-nutraceuticals/)
+- 📰 [Daily English News -> "Netflix confirms it’s cutting off Apple billing for legacy subscribers"](https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions)
+</p></details>
+</p></details>
 <details><summary><u>Day 371 - Day 380 ~ February 18, 2024 - February 27, 2024</u></summary><p>
 <details><summary><u>Day 380</u></summary><p>
 
@@ -10,7 +25,7 @@ Learning Progress Till Now -> 380 Days (13/02/2023 to 27/02/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d380chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d380chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d380chs4.jpeg)
-- 🏃 [Walking -> 16072 Steps ~ 12.37 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d379w1.jpeg)
+- 🏃 [Walking -> 16072 Steps ~ 12.37 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d380w1.jpeg)
 - 💰📈 [Finshots ~ "POLICY - An explainer on the Household Consumption Expenditure Survey"](https://finshots.in/archive/an-explainer-on-the-household-consumption-expenditure-survey/)
 - 📰 [Daily English News -> "Meta is defending its end-to-end encryption in a Nevada federal court."](https://www.theverge.com/2024/2/27/24084492/meta-is-defending-its-end-to-end-encryption-in-a-nevada-federal-court)
 </p></details>
