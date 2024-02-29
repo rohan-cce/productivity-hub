@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 381 Days (13/02/2023 to 28/02/2024)
+Learning Progress Till Now -> 382 Days (13/02/2023 to 29/02/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 382</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d382e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d382ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d382chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d382chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d382chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d382chs4.jpeg)
+- 🏃 [Walking -> 16072 Steps ~ 12.37 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d382w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - A ULIP in Mutual Fund clothing!"](https://finshots.in/archive/a-ulip-in-mutual-fund-clothing/)
+- 📰 [Daily English News -> "This DIY AirPods Max mod means you can stop waiting for a USB-C upgrade"](https://www.theverge.com/2024/2/28/24085141/apple-airpods-max-usb-c-ken-pillonel-mod)
+</p></details>
 <details><summary><u>Day 381</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate]()
