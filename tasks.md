@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 382 Days (13/02/2023 to 29/02/2024)
+Learning Progress Till Now -> 383 Days (13/02/2023 to 01/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 383</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d383e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d383ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d383chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d383chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d383chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d383chs4.jpeg)
+- 🏃 [Walking -> 15549 Steps ~ 12.74 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d383w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Will paints be Birla's Magnum Opus?"](https://finshots.in/archive/will-paints-be-birlas-magnum-opus/)
+- 📰 [Daily English News -> "Microsoft is working with Nvidia, AMD, and Intel to improve upscaling support in PC games"](https://www.theverge.com/2024/2/29/24086443/microsoft-directsr-super-resolution-api)
+</p></details>
 <details><summary><u>Day 382</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d382e1.jpeg)
