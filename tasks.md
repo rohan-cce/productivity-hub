@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 383 Days (13/02/2023 to 01/03/2024)
+Learning Progress Till Now -> 384 Days (13/02/2023 to 02/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 384</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d384e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d384ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d384chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d384chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d384chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d384chs4.jpeg)
+- 🏃 [Walking -> 14275 Steps ~ 11.06 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d384w1.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Will the advertising ban on Patanjali shake things up?"](https://finshots.in/markets/will-the-advertising-ban-on-patanjali-shake-things-up/)
+- 📰 [Daily English News -> "Attention English majors: now you can add handwritten notes to Google Docs"](https://www.theverge.com/2024/2/28/24084808/google-docs-annotations-markups-handwritten-notes)
+- 💻[Technical Learning - Attended a Tech Meetup - ]
+</p></details>
 <details><summary><u>Day 383</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d383e1.jpeg)
