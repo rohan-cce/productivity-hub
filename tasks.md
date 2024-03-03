@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 384 Days (13/02/2023 to 02/03/2024)
+Learning Progress Till Now -> 385 Days (13/02/2023 to 03/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 385</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d385e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d385ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d385chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d385chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d385chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d385chs4.jpeg)
+- 💰📈 [Finshots ~ "FINSHOTS MONEY - 🎯Finshots Money Milestones #3 - Price of Parenthood"](https://finshots.in/archive/finshots-money-milestones-3-price-of-parenthood/)
+- 📰 [Daily English News -> "Apple may not do a spring event this year"](https://www.theverge.com/2024/3/3/24089196/apple-no-spring-event-planned-macbook-air-ipad)
+</p></details>
 <details><summary><u>Day 384</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d384e1.jpeg)
