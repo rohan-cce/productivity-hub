@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 385 Days (13/02/2023 to 03/03/2024)
+Learning Progress Till Now -> 386 Days (13/02/2023 to 04/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 386</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d386e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d386ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d386chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d386chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d386chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d386chs4.jpeg)
+- 🏃 [Walking -> 14432 Steps ~ 11.43 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d386w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why did Google kick Indian apps off the Play Store?"](https://finshots.in/archive/why-did-google-kick-indian-apps-off-the-play-store/)
+- 📰 [Daily English News -> "Google Drive search on iOS gets better filtering options"](https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update)
+</p></details>
 <details><summary><u>Day 385</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d385e1.jpeg)
