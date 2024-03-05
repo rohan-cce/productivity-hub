@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 386 Days (13/02/2023 to 04/03/2024)
+Learning Progress Till Now -> 387 Days (13/02/2023 to 05/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 387</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d387e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d387ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d387chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d387chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d387chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d387chs4.jpeg)
+- 🏃 [Walking -> 20542 Steps ~ 15.74 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d387w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - A V-Marc stock rigging scandal?"](https://finshots.in/archive/a-v-marc-stock-rigging-scandal/)
+- 📰 [Daily English News -> "Nintendo Switch emulator Yuzu will utterly fold and pay $2.4M to settle its lawsuit"](https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement)
+</p></details>
 <details><summary><u>Day 386</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d386e1.jpeg)
