@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 387 Days (13/02/2023 to 05/03/2024)
+Learning Progress Till Now -> 388 Days (13/02/2023 to 06/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+details><summary><u>Day 388</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d388e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d388ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d388chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d388chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d388chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d388chs4.jpeg)
+- 🏃 [Walking -> 15208 Steps ~ 15.74 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d388w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Is India getting unhealthy by the day?"](https://finshots.in/archive/india-is-getting-fatter-by-the-day/)
+- 📰 [Daily English News -> "Apple Podcasts now includes transcripts"](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
+</p></details>
 <details><summary><u>Day 387</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d387e1.jpeg)
