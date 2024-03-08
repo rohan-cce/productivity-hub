@@ -1,6 +1,19 @@
 # productivity-hub
 Learning Progress Till Now -> 389 Days (13/02/2023 to 07/03/2024)
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
+<details><summary><u>Day 390</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d390e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d390ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d390chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d390chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d390chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d390chs4.jpeg)
+- 🏃 [Walking -> 12035 Steps ~ 9.26 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d390w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - An explainer on IPO financing"](https://finshots.in/archive/an-explainer-on-ipo-financing/)
+- 📰 [Daily English News -> "Google engineer indicted over allegedly stealing AI trade secrets for China"](https://www.theverge.com/2024/3/6/24092750/google-engineer-indictment-ai-trade-secrets-china-doj)
+</p></details>
 <details><summary><u>Day 389</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d389e1.jpeg)
