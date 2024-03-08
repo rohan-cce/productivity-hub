@@ -27,7 +27,7 @@ Learning Progress Till Now -> 389 Days (13/02/2023 to 07/03/2024)
 - 💰📈 [Finshots ~ "POLICY - Price transparency puts hospitals in trouble"](https://finshots.in/archive/price-transparency-puts-hospitals-in-trouble/)
 - 📰 [Daily English News -> "Nikon is acquiring US camera manufacturer RED"](https://www.theverge.com/2024/3/7/24093109/nikon-acquiring-red-cameras-film-motion-picture-tv)
 </p></details>
-details><summary><u>Day 388</u></summary><p>
+<summary><u>Day 388</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d388e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d388ls1.jpeg)
