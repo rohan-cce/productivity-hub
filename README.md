@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 389 Days (13/02/2023 to 07/03/2024)
+Learning Progress Till Now -> 391 Days (13/02/2023 to 09/03/2024)
+<details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 391</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d391e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d391ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d391chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d391chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d391chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d391chs4.jpeg)
+- 🏃 [Walking -> 12035 Steps ~ 9.26 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d391w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - An explainer on IPO financing"](https://finshots.in/archive/an-explainer-on-ipo-financing/)
+- 📰 [Daily English News -> "Google Wallet can now import movie tickets and boarding passes automatically"](https://www.theverge.com/2024/3/9/24095403/google-wallet-can-now-import-movie-tickets-and-boarding-passes-automatically)
+</p></details>
+</p></details>
 <details><summary><u>Day 381 - Day 390 ~ February 28, 2024 - March 08, 2024</u></summary><p>
 <details><summary><u>Day 390</u></summary><p>
 
