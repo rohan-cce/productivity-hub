@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 391 Days (13/02/2023 to 09/03/2024)
+Learning Progress Till Now -> 392 Days (13/02/2023 to 10/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 392</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d392e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d392ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d392chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d392chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d392chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d392chs4.jpeg)
+- 🏃 [Walking -> 12035 Steps ~ 9.26 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d392w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Cheese trouble, telecom frauds and the comparison trap"](https://finshots.in/archive/sunny-side-up-cheese-trouble-telecom-frauds-and-the-comparison-trap/)
+- 📰 [Daily English News -> "Was the Apple Car always going to be a van?"](https://www.theverge.com/2024/3/10/24096212/was-the-apple-car-always-going-to-be-a-van)
+</p></details>
 <details><summary><u>Day 391</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d391e1.jpeg)
