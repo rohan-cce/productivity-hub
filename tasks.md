@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 392 Days (13/02/2023 to 10/03/2024)
+Learning Progress Till Now -> 393 Days (13/02/2023 to 11/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 393</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d393e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d393ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Is the newspaper industry fighting an endless battle?"](https://finshots.in/archive/is-the-newspaper-industry-fighting-an-endless-battle/)
+- 📰 [Daily English News -> "WES DAVIS - GeForce Now is down globally, but Nvidia says it’s on it"](https://www.theverge.com/2024/3/10/24096674/geforce-now-is-down-globally-but-nvidia-says-its-on-it)
+</p></details>
 <details><summary><u>Day 392</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d392e1.jpeg)
