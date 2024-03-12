@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 393 Days (13/02/2023 to 11/03/2024)
+Learning Progress Till Now -> 393 Days (13/02/2023 to 12/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 394</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d394e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d394ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d394chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d394chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d394chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d394chs4.jpeg)
+- 🏃 [Walking -> 16579 Steps ~ 13.02 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d394w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Will we see a Tata Sons IPO?"](https://finshots.in/archive/will-we-see-a-tata-sons-ipo/)
+- 📰 [Daily English News -> "Uber’s posh electric rideshare service is coming to NYC"](https://www.theverge.com/2024/3/11/24094429/uber-electric-ev-nyc-emissions-teen-sustainability)
+</p></details>
 <details><summary><u>Day 393</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d393e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 393 Days (13/02/2023 to 11/03/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d393chs4.jpeg)
+- 🏃 [Walking -> 17350 Steps ~ 13.14 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d393w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - Is the newspaper industry fighting an endless battle?"](https://finshots.in/archive/is-the-newspaper-industry-fighting-an-endless-battle/)
 - 📰 [Daily English News -> "WES DAVIS - GeForce Now is down globally, but Nvidia says it’s on it"](https://www.theverge.com/2024/3/10/24096674/geforce-now-is-down-globally-but-nvidia-says-its-on-it)
 </p></details>
