@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 393 Days (13/02/2023 to 12/03/2024)
+Learning Progress Till Now -> 395 Days (13/02/2023 to 13/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 395</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d395e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d395ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d395chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d395chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d395chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d395chs4.jpeg)
+- 🏃 [Walking ->  Steps ~  km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d395w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - What's the Digital Competition Bill anyway?"](https://finshots.in/archive/whats-the-digital-competition-bill-anyway/)
+- 📰 [Daily English News -> "Tesla’s going back to court over Autopilot’s role in a deadly 2018 crash"](https://www.theverge.com/2024/3/11/24097480/tesla-walter-huang-crash-lawsuit-court-autopilot)
+</p></details>
 <details><summary><u>Day 394</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d394e1.jpeg)
