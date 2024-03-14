@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 395 Days (13/02/2023 to 13/03/2024)
+Learning Progress Till Now -> 396 Days (13/02/2023 to 14/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 396</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d396e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d396ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d396chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d396chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d396chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d396chs4.jpeg)
+- 🏃 [Walking ->  20700 Steps ~ 15.64 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d396w1.jpeg)
+- 💰📈 [Finshots ~ "Why is Bengaluru facing a water crisis?"](https://finshots.in/archive/bengaluru-water-crisis/)
+- 📰 [Daily English News -> "Microsoft Teams is finally moving to a single app for personal and work"](https://www.theverge.com/2024/3/13/24099723/microsoft-teams-unified-app-personal-work-accounts)
+</p></details>
 <details><summary><u>Day 395</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d395e1.jpeg)
