@@ -1,6 +1,19 @@
 # productivity-hub
 Learning Progress Till Now -> 396 Days (13/02/2023 to 14/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 397</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d397e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d397ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d397chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d397chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d397chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d397chs4.jpeg)
+- 🏃 [Walking ->  7968 Steps ~ 5.99 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d397w1.jpeg)
+- 💰📈 [Finshots ~ "What if the world's coral reefs disappeared?"](https://finshots.in/archive/what-if-the-worlds-coral-reefs-disappeared/)
+- 📰 [Daily English News -> "The FCC has finally decreed that 25Mbps and 3Mbps are not ‘broadband’ speed"](https://www.theverge.com/2024/3/14/24101313/fcc-new-broadband-definition-100mbps-20mbps)
+</p></details>
 <details><summary><u>Day 396</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d396e1.jpeg)
