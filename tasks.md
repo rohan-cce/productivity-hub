@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 397 Days (13/02/2023 to 14/03/2024)
+Learning Progress Till Now -> 398 Days (13/02/2023 to 16/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 398</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d398e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d398ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d398chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d398chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d398chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d398chs4.jpeg)
+- 🏃 [Walking ->  9829 Steps ~ 7.37 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d398w1.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Gold Rush"](https://finshots.in/markets/gold-rush/)
+- 📰 [Daily English News -> "Amazon will let sellers paste a link so AI can make a product page"](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)
+</p></details>
 <details><summary><u>Day 397</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d397e1.jpeg)
