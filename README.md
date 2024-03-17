@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 398 Days (13/02/2023 to 16/03/2024)
+Learning Progress Till Now -> 399 Days (13/02/2023 to 17/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 399</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d399e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d399ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Indelible ink, Penicillin’s comeback and price tags"](https://finshots.in/archive/sunny-side-up-indelible-ink-penicillins-comeback-and-price-tags/)
+- 📰 [Daily English News -> PC games start at just $1 in Steam’s spring sale"](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)
+</p></details>
 <details><summary><u>Day 398</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d398e1.jpeg)
