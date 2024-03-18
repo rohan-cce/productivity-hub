@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 399 Days (13/02/2023 to 17/03/2024)
+Learning Progress Till Now -> 400 Days (13/02/2023 to 18/03/2024)
 <details><summary><u>Day 391 - Day 400 ~ March 09, 2024 - March 18, 2024</u></summary><p>
+<details><summary><u>Day 400</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d400e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D351-D400/d400ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d400chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d400chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d400chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d400chs4.jpeg)
+- 🏃 [Walking ->  14856 Steps ~ 7.37 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D351-D400/d398w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Did Hari Shankar Tibrewala crash the stock market???"](https://finshots.in/archive/did-hari-shankar-tibrewala-crash-the-stock-market/)
+- 📰 [Daily English News -> "SpaceX is reportedly building a network of spy satellites for US intelligence"](https://www.theverge.com/2024/3/16/24103172/spacex-starshield-spy-satellite-network-us-intelligence-classified-contract)
+</p></details>
 <details><summary><u>Day 399</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D351-D400/d399e1.jpeg)
@@ -11,7 +24,7 @@ Learning Progress Till Now -> 399 Days (13/02/2023 to 17/03/2024)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D351-D400/d399chs4.jpeg)
 - 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Indelible ink, Penicillin’s comeback and price tags"](https://finshots.in/archive/sunny-side-up-indelible-ink-penicillins-comeback-and-price-tags/)
-- 📰 [Daily English News -> PC games start at just $1 in Steam’s spring sale"](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)
+- 📰 [Daily English News -> "PC games start at just $1 in Steam’s spring sale"](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)
 </p></details>
 <details><summary><u>Day 398</u></summary><p>
 
