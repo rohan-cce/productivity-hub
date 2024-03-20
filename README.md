@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 401 Days (13/02/2023 to 19/03/2024)
+Learning Progress Till Now -> 402 Days (13/02/2023 to 20/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 402</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d402e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d402ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs4.jpeg)
+- 🏃 [Walking -> 15053 Steps ~  km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d402w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Can Fly91 fly where others couldn’t?"](https://finshots.in/archive/can-fly91-fly-where-others-couldnt/)
+- 📰 [Daily English News -> "Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI"](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
+</p></details>
 <details><summary><u>Day 401</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d401e1.jpeg)
@@ -11,8 +24,6 @@ Learning Progress Till Now -> 401 Days (13/02/2023 to 19/03/2024)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d401chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d401chs4.jpeg)
 - 🏃 [Walking ->  15007 Steps ~ 11.41 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d401w1.jpeg)
-
-rohan-cce/productivity-hub/images/walking/D401-D450
 - 💰📈 [Finshots ~ "BUSINESS - What’s a Revolving Door Incentive?"](https://finshots.in/archive/revolving-door-incentives/)
 - 📰 [Daily English News -> "Sony is reportedly pausing PSVR 2 production to clear excess inventory"](https://www.theverge.com/2024/3/18/24104649/sony-pausing-playstation-vr2-production)
 </p></details>
