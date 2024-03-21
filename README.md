@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 402 Days (13/02/2023 to 20/03/2024)
+Learning Progress Till Now -> 403 Days (13/02/2023 to 21/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 403</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d403e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d403ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d403chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d403chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d403chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d403chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - The Soho House frenzy explained"](https://finshots.in/archive/the-soho-house-frenzy-explained/)
+- 📰 [Daily English News -> "Today’s Decoder explains everything you need to know about the EU’s Digital Markets Act."](https://www.theverge.com/2024/3/21/24107646/todays-decoder-explains-everything-you-need-to-know-about-the-eus-digital-markets-act)
+</p></details>
 <details><summary><u>Day 402</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d402e1.jpeg)
@@ -10,7 +22,7 @@ Learning Progress Till Now -> 402 Days (13/02/2023 to 20/03/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d402chs4.jpeg)
-- 🏃 [Walking -> 15053 Steps ~  km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d402w1.jpeg)
+- 🏃 [Walking -> 15053 Steps ~ 11.42 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d402w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - Can Fly91 fly where others couldn’t?"](https://finshots.in/archive/can-fly91-fly-where-others-couldnt/)
 - 📰 [Daily English News -> "Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI"](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
 </p></details>
