@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 403 Days (13/02/2023 to 21/03/2024)
+Learning Progress Till Now -> 404 Days (13/02/2023 to 22/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 404</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d404e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d404ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d404chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d404chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d404chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d404chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Can Delhi clear its garbage dumps ?"](https://finshots.in/archive/can-delhi-clear-its-garbage-dumps/)
+- 📰 [Daily English News -> "How to stop Google’s Smart Compose text suggestions"](https://www.theverge.com/24108630/google-docs-gmail-smart-compose-how-to)
+</p></details>
 <details><summary><u>Day 403</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d403e1.jpeg)
