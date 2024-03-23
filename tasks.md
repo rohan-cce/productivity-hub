@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 404 Days (13/02/2023 to 22/03/2024)
+Learning Progress Till Now -> 405 Days (13/02/2023 to 23/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 405</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d405e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d405ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d405chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d405chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d405chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d405chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Has the rally of Oil Marketing Companies run out of fuel?"](https://finshots.in/markets/omc-rally-run-out-of-fuel/)
+- 📰 [Daily English News -> "Notepad in Windows 11 is finally getting a spellcheck feature"](https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature)
+- 💻 [Technical Learning - Attended a Tech Meetup - AI Roadshow by Google](https://www.linkedin.com/feed/update/urn:li:activity:7177354904896745472/)
+</p></details>
 <details><summary><u>Day 404</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d404e1.jpeg)
