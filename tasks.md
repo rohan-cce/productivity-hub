@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 405 Days (13/02/2023 to 23/03/2024)
+Learning Progress Till Now -> 406 Days (13/02/2023 to 24/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 406</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d406e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d406ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d406chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d406chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d406chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d406chs4.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up 🍳: Cotton candy in trouble, Luna’s nostalgia bet and the 100-age rule"](https://finshots.in/archive/sunny-side-up-cotton-candy-and-gobi-manchurian-in-trouble-lunas-nostalgia-bet-and-the-100-age-rule/)
+- 📰 [Daily English News -> "Qualcomm says most Windows games should ‘just work’ on its unannounced Arm laptops"](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games)
+</p></details>
 <details><summary><u>Day 405</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d405e1.jpeg)
