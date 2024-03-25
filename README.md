@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 406 Days (13/02/2023 to 24/03/2024)
+Learning Progress Till Now -> 407 Days (13/02/2023 to 25/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 407</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d407e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d407ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d407chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d407chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d407chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d407chs4.jpeg)
+- 🏃 [Walking -> 15412 Steps ~ 11.70 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d403w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Much to cheer about India’s PMI!"](https://finshots.in/archive/much-to-cheer-about-indias-pmi/)
+- 📰 [Daily English News -> "United States v. Apple is pure nerd rage"](https://www.theverge.com/2024/3/22/24109168/us-doj-apple-antitrust-complaint-nerd-rage)
+</p></details>
 <details><summary><u>Day 406</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d406e1.jpeg)
