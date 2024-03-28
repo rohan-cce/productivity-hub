@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 409 Days (13/02/2023 to 27/03/2024)
+Learning Progress Till Now -> 410 Days (13/02/2023 to 28/03/2024)
 <details><summary><u>Day 401 - Day 410 ~ March 19, 2024 - March 28, 2024</u></summary><p>
+<details><summary><u>Day 410</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d410e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d410ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d410chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d410chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d410chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d410chs4.jpeg)
+- 🏃 [Walking -> 20264 Steps ~ 15.29 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d410w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - An explainer on Bima Sugam"](https://finshots.in/archive/an-explainer-on-bima-sugam/)
+- 📰 [Daily English News -> "Amazon’s palm-scanning service now lets you sign up from your phone"](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
+</p></details>
 <details><summary><u>Day 409</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d409e1.jpeg)
