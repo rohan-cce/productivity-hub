@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 412 Days (13/02/2023 to 30/03/2024)
+Learning Progress Till Now -> 413 Days (13/02/2023 to 31/03/2024)
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
+<details><summary><u>Day 413</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d413e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d413ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d413chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d413chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d413chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d413chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - An explainer on Bima Sugam"](https://finshots.in/archive/an-explainer-on-bima-sugam/)
+- 📰 [Daily English News -> "The US House banned staffers from using Microsoft Copilot"](https://www.theverge.com/2024/3/30/24116722/the-us-house-banned-staffers-from-using-microsoft-copilot)
+</p></details>
 <details><summary><u>Day 412</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d412e1.jpeg)
