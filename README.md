@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 414 Days (13/02/2023 to 01/04/2024)
+Learning Progress Till Now -> 415 Days (13/02/2023 to 02/04/2024)
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
+<details><summary><u>Day 415</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d415e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d415ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d415chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d415chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d415chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d415chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Amul’s milk in the US, dwindling maple syrup reserves & more"](https://finshots.in/archive/sunny-side-up-amuls-milk-in-the-us-dwindling-maple-syrup-reserves-more/)
+- 📰 [Daily English News -> "Google agrees to destroy browsing data collected in Incognito mode"](https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement)
+</p></details>
 <details><summary><u>Day 414</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d414e1.jpeg)
