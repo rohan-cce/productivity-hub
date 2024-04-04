@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 416 Days (13/02/2023 to 03/04/2024)
+Learning Progress Till Now -> 417 Days (13/02/2023 to 04/04/2024)
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
+<details><summary><u>Day 417</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d417e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d417ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d417chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d417chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d417chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d417chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why the Visa and Mastercard antitrust case isn't over"](https://finshots.in/archive/why-the-visa-and-mastercard-antitrust-case-isnt-over-yet/)
+- 📰 [Daily English News -> "How one volunteer stopped a backdoor from exposing Linux systems worldwide"](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt)
+</p></details>
 <details><summary><u>Day 416</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d416e1.jpeg)
