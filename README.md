@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 418 Days (13/02/2023 to 05/04/2024)
+Learning Progress Till Now -> 419 Days (13/02/2023 to 06/04/2024)
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
+<details><summary><u>Day 419</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d419e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d419ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d419chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d419chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d419chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d419chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - What the heck is AI Washing?"](https://finshots.in/archive/what-the-heck-is-ai-washing/)
+- 📰 [Daily English News -> "X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for"](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark)
+</p></details>
 <details><summary><u>Day 418</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d418e1.jpeg)
