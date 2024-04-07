@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 419 Days (13/02/2023 to 06/04/2024)
+Learning Progress Till Now -> 420 Days (13/02/2023 to 07/04/2024)
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
+<details><summary><u>Day 420</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d420e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d420ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d420chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d420chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d420chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d420chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - RBI’s crackdown on currency trading?"](https://finshots.in/archive/rbis-crackdown-on-currency-trading/)
+- 📰 [Daily English News -> "Gemini is coming to the Android Google app"](https://www.theverge.com/2024/4/7/24123477/gemini-is-coming-to-the-android-google-app)
+</p></details>
 <details><summary><u>Day 419</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d419e1.jpeg)
