@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 420 Days (13/02/2023 to 07/04/2024)
+Learning Progress Till Now -> 421 Days (13/02/2023 to 08/04/2024)
+<details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 421</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d421e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d421ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d421chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d421chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d421chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d421chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: HarperCollins saves trees, HUL’s breakup with ice cream & more"](https://finshots.in/archive/sunny-side-up-harpercollins-saves-trees-huls-breakup-with-icecream-and-the-rule-of-72/)
+- 📰 [Daily English News -> "Why Cloudflare CEO Matthew Prince is the internet’s unlikely defender"](https://www.theverge.com/24121399/cloudflare-matthew-prince-internet-free-speech-8chan-ukraine-aristotle-decoder-interview)
+</p></details>
+</p></details>
 <details><summary><u>Day 411 - Day 420 ~ March 29, 2024 - April 07, 2024</u></summary><p>
 <details><summary><u>Day 420</u></summary><p>
 
