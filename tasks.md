@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 421 Days (13/02/2023 to 08/04/2024)
+Learning Progress Till Now -> 422 Days (13/02/2023 to 09/04/2024)
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 422</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d422e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d422ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d422chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d422chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d422chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d422chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Disney’s billion-dollar Boardroom Battle"](https://finshots.in/archive/disneys-billion-dollar-boardroom-battle/)
+- 📰 [Daily English News -> "Intel launches new AI accelerator to take on Nvidia’s H100."](https://www.theverge.com/2024/4/9/24125308/intel-launches-new-ai-accelerator-to-take-on-nvidias-h100)
+</p></details>
 <details><summary><u>Day 421</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d421e1.jpeg)
