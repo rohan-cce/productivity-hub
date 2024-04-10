@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 422 Days (13/02/2023 to 09/04/2024)
+Learning Progress Till Now -> 423 Days (13/02/2023 to 10/04/2024)
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 423</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d423e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d423ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d423chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d423chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d423chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d423chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - What is Reverse Innovation?"](https://finshots.in/archive/what-is-reverse-innovation/)
+- 📰 [Daily English News -> "How to find any file on macOS"](https://www.theverge.com/24126104/macos-apple-file-find-how-to)
+</p></details>
 <details><summary><u>Day 422</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d422e1.jpeg)
