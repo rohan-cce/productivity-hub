@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 424 Days (13/02/2023 to 11/04/2024)
+Learning Progress Till Now -> 425 Days (13/02/2023 to 12/04/2024)
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 425</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d425e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d425ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d425chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d425chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d425chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d425chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is India leasing out its petroleum reserves?"](https://finshots.in/archive/why-is-india-leasing-out-its-petroleum-reserves/)
+- 📰 [Daily English News -> "Consumers will finally see FCC-mandated ‘nutrition labels’ for most broadband plans"](https://www.theverge.com/2024/4/10/24125572/fcc-broadband-nutrition-labels-isp-deadline-today)
+</p></details>
 <details><summary><u>Day 424</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d424e1.jpeg)
