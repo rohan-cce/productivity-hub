@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 425 Days (13/02/2023 to 12/04/2024)
+Learning Progress Till Now -> 426 Days (13/02/2023 to 13/04/2024)
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 426</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d426e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d426ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d426chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d426chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d426chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d426chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is Kerala in a financial crisis?"](https://finshots.in/archive/why-is-kerala-in-a-financial-crisis/)
+- 📰 [Daily English News -> "WhatsApp’s age requirement in Europe is 13 again"](https://www.theverge.com/2024/4/12/24128826/whatsapps-age-requirement-in-europe-is-13-again)
+</p></details>
 <details><summary><u>Day 425</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d425e1.jpeg)
