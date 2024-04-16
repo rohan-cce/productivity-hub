@@ -1,13 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 428 Days (13/02/2023 to 15/04/2024)
+Learning Progress Till Now -> 429 Days (16/02/2023 to 16/04/2024)
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
+<details><summary><u>Day 429</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d429e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d429ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d429chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d429chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d429chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d429chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - How greenhouse gases are being smuggled into Europe"](https://finshots.in/archive/how-greenhouse-gases-are-being-smuggled-into-europe/)
+- 📰 [Daily English News -> "The CFPB wants to rein in data brokers"](https://www.theverge.com/2024/4/15/24131354/cfpb-data-brokers-fair-credit-reporting-act)
+</p></details>
 <details><summary><u>Day 428</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d428e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d428ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d428chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d427chs2.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d428chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d428chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d428chs4.jpeg)
 - 💰📈 [Finshots ~ "Sunny Side Up 🍳: Ola, Uber’s new plan, Tata Neu’s food delivery experiment and exercising"](https://finshots.in/archive/sunny-side-up-ola-ubers-new-plan-tata-neus-food-delivery-experiment-and-exercising/)
