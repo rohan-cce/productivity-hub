@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 430 Days (16/02/2023 to 17/04/2024)
+Learning Progress Till Now -> 431 Days (16/02/2023 to 18/04/2024)
+<details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 431</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d431e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d431ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d431chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d431chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d431chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d431chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Can Tamil Nadu expand its ‘Detroit of India’ tag to EVs?"](https://finshots.in/archive/tamil-nadu-detroit-of-india-evs/)
+- 📰 [Daily English News -> "Apple is finally rolling out AirPlay in hotel rooms"](https://www.theverge.com/2024/4/18/24133909/apple-airplay-hotel-rooms-iphone-streaming-music-video)
+</p></details>
+</p></details>
 <details><summary><u>Day 421 - Day 430 ~ April 08, 2024 - April 17, 2024</u></summary><p>
 <details><summary><u>Day 430</u></summary><p>
 
