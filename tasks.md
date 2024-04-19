@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 431 Days (13/02/2023 to 18/04/2024)
+Learning Progress Till Now -> 432 Days (13/02/2023 to 19/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 432</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d432e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d432ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d432chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d432chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d432chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d432chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why an India-Mauritius tax amendment triggered a stock market slide"](https://finshots.in/archive/why-an-india-mauritius-tax-amendment-triggered-a-stock-market-slide/)
+- 📰 [Daily English News -> "Boston Dynamics Atlas robot: a full history"](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
+</p></details>
 <details><summary><u>Day 431</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d431e1.jpeg)
