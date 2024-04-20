@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 432 Days (13/02/2023 to 19/04/2024)
+Learning Progress Till Now -> 433 Days (13/02/2023 to 20/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 433</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d433e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d433ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d433chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d433chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d433chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d433chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why an India-Mauritius tax amendment triggered a stock market slide"](https://finshots.in/archive/why-an-india-mauritius-tax-amendment-triggered-a-stock-market-slide/)
+- 📰 [Daily English News -> "Gmail’s tabs are actually useful now that I’ve found this extension"](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
+</p></details>
 <details><summary><u>Day 432</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d432e1.jpeg)
