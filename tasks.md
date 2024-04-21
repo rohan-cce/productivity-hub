@@ -1,6 +1,18 @@
 # productivity-hub
 Learning Progress Till Now -> 433 Days (13/02/2023 to 20/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 434</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d434e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d434ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d434chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d434chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d4334hs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d433chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - A Landmark moment for Mercedes-Benz?"](https://finshots.in/markets/landmark-moment-mercedes-benz/)
+- 📰 [Daily English News -> "Linus Torvalds on the attempted XZ Utils hack."](https://www.theverge.com/2024/4/20/24135657/linus-torvalds-on-the-attempted-xz-utils-hack)
+</p></details>
 <details><summary><u>Day 433</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d433e1.jpeg)
