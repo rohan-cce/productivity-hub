@@ -1,15 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 435 Days (13/02/2023 to 22/04/2024)
+Learning Progress Till Now -> 436 Days (13/02/2023 to 23/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 436</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d436e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d436ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d436chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d436chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d436hs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d436chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Should DMart sell gold?"](https://finshots.in/markets/should-dmart-sell-gold/)
+- 📰 [Daily English News -> "Why is Windows 11 so annoying?"](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
+</p></details>
 <details><summary><u>Day 435</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d434e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d434ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d435e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d435ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d434chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d434chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d4334hs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d434chs4.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d435chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d435chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d435chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d435chs4.jpeg)
 - 💰📈 [Finshots ~ "MARKETS - Should DMart sell gold?"](https://finshots.in/markets/should-dmart-sell-gold/)
 - 📰 [Daily English News -> "Why is Windows 11 so annoying?"](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
 </p></details>
