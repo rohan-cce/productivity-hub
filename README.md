@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 437 Days (16/02/2023 to 24/04/2024)
+Learning Progress Till Now -> 438 Days (16/02/2023 to 25/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 438</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d438e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d438ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d438chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d438chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d438chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d438chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Lloyd cooked the books?"](https://finshots.in/archive/lloyd-cooked-the-books/)
+- 📰 [Daily English News -> "Microsoft needs to win back trust"](https://www.theverge.com/2024/4/25/24139914/microsoft-cyber-security-incidents-trust-report)
+</p></details>
 <details><summary><u>Day 437</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d437e1.jpeg)
