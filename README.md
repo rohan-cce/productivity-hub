@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 439 Days (16/02/2023 to 26/04/2024)
+Learning Progress Till Now -> 440 Days (16/02/2023 to 27/04/2024)
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
+<details><summary><u>Day 440</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d440e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d440ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d440chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d440chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d440chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d440chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Who owns a hedge fund’s algorithm?"](https://finshots.in/archive/jane-street-millennium-management-hedge-fund-algorithm/)
+- 📰 [Daily English News -> "Gym teacher accused of using AI voice clone to try to get a high school principal fired"](https://www.theverge.com/2024/4/25/24140556/ai-voice-cloning-baltimore-school-misuse)
+</p></details>
 <details><summary><u>Day 439</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d439e1.jpeg)
