@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 440 Days (13/02/2023 to 27/04/2024)
+Learning Progress Till Now -> 441 Days (13/02/2023 to 28/04/2024)
+<details><summary><u>Day 441 - Day 440 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 441</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d441e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d441ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d441chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d441chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d441chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d441chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Vi’s happiness is Indus Towers’ happiness"](https://finshots.in/markets/vis-happiness-is-indus-towers-happiness/)
+- 📰 [Daily English News -> "The OLED iPad Pro could launch with an M4 chip"](https://www.theverge.com/2024/4/28/24143526/apple-oled-ipad-pro-11-13-inch-m4-ai-tablet)
+</p></details>
+</p></details>
 <details><summary><u>Day 431 - Day 440 ~ April 18, 2024 - April 27, 2024</u></summary><p>
 <details><summary><u>Day 440</u></summary><p>
 
