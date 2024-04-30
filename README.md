@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 442 Days (16/02/2023 to 29/04/2024)
+Learning Progress Till Now -> 443 Days (16/02/2023 to 30/04/2024)
 <details><summary><u>Day 441 - Day 440 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 443</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d443e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d443ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d443chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d443chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d443chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d443chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Let's talk about inheritance tax"](https://finshots.in/archive/lets-talk-about-inheritance-tax/)
+- 📰 [Daily English News -> "The Arc browser arrives on Windows to take on Chrome and Edge"](https://www.theverge.com/2024/4/30/24144183/arc-browser-windows-launch-features-availability)
+</p></details>
 <details><summary><u>Day 442</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d442e1.jpeg)
