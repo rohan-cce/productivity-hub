@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 443 Days (16/02/2023 to 30/04/2024)
-<details><summary><u>Day 441 - Day 440 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+Learning Progress Till Now -> 444 Days (16/02/2023 to 01/05/2024)
+<details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 444</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d444e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d444ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d444chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d444chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d444chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d444chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Dal-onomics"](https://finshots.in/archive/dalonomics/)
+- 📰 [Daily English News -> "The Rabbit R1’s first software update addresses its dismal battery life"](https://www.theverge.com/2024/4/30/24145442/rabbit-r1-ota-software-update-battery-drain-fix)
+</p></details>
 <details><summary><u>Day 443</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d443e1.jpeg)
