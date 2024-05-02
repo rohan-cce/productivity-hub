@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 444 Days (16/02/2023 to 01/05/2024)
+Learning Progress Till Now -> 445 Days (16/02/2023 to 02/05/2024)
 <details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 445</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d445e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d445ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d445chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d445chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d445chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d445chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - How safe are your masalas?"](https://finshots.in/archive/how-safe-are-your-masalas/)
+- 📰 [Daily English News -> "Microsoft’s OpenAI investment was triggered by Google fears, emails reveal"](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails)
+</p></details>
 <details><summary><u>Day 444</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d444e1.jpeg)
