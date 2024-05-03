@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 445 Days (16/02/2023 to 02/05/2024)
+Learning Progress Till Now -> 446 Days (16/02/2023 to 03/05/2024)
 <details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 446</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d446e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d446ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Do ATMs need a pay rise?"](https://finshots.in/archive/do-atms-need-a-pay-rise/)
+- 📰 [Daily English News -> "Microsoft says it did a lot for responsible AI in inaugural transparency report"](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario)
+</p></details>
 <details><summary><u>Day 445</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d445e1.jpeg)
