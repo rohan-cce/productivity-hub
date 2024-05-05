@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 446 Days (13/02/2023 to 03/05/2024)
+Learning Progress Till Now -> 447 Days (13/02/2023 to 04/05/2024)
 <details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 447</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d447e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d447ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Vi’s happiness is Indus Towers’ happiness"](https://finshots.in/markets/vis-happiness-is-indus-towers-happiness/)
+- 📰 [Daily English News -> "When notifications remind us of things we’d rather forget"](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)
+</p></details>
 <details><summary><u>Day 446</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d446e1.jpeg)
