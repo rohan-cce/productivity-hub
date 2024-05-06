@@ -1,13 +1,37 @@
 # productivity-hub
-Learning Progress Till Now -> 447 Days (13/02/2023 to 04/05/2024)
+Learning Progress Till Now -> 449 Days (13/02/2023 to 06/05/2024)
 <details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 449</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d449e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d449ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d449chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d449chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d449chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d449chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The UK's climate plan is unlawful!"](https://finshots.in/archive/the-uk-climate-plan-is-unlawful/)
+- 📰 [Daily English News -> "Google bans advertisers from promoting deepfake porn services"](https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes)
+</p></details>
+<details><summary><u>Day 448</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d448e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d448ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d448chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d448chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d448chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d448chs4.jpeg)
+- 💰📈 [Finshots ~ "MARKETS - Vi’s happiness is Indus Towers’ happiness"](https://finshots.in/markets/vis-happiness-is-indus-towers-happiness/)
+- 📰 [Daily English News -> "WES DAVIS - If Apple doesn’t announce a new Apple Pencil tomorrow, I’ll eat my hat."](https://www.theverge.com/2024/5/6/24150033/if-apple-doesnt-announce-a-new-apple-pencil-tomorrow-ill-eat-my-hat)
+</p></details>
 <details><summary><u>Day 447</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d447e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d447ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d446chs2.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d447chs4.jpeg)
 - 💰📈 [Finshots ~ "MARKETS - Vi’s happiness is Indus Towers’ happiness"](https://finshots.in/markets/vis-happiness-is-indus-towers-happiness/)
