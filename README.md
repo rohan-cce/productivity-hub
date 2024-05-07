@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 449 Days (13/02/2023 to 06/05/2024)
+Learning Progress Till Now -> 450 Days (13/02/2023 to 07/05/2024)
 <details><summary><u>Day 441 - Day 450 ~ April 28, 2024 - May 07, 2024</u></summary><p>
+<details><summary><u>Day 450</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d450e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d450ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d450chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d450chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d450chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d450chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - The Red Sea is still a no-go zone"](https://finshots.in/archive/the-red-sea-is-still-a-no-go-zone/)
+- 📰 [Daily English News -> "Google is changing how you set up 2FA"](https://www.theverge.com/2024/5/6/24150354/google-workspace-2fa-easier-phone-number)
+</p></details>
 <details><summary><u>Day 449</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d449e1.jpeg)
