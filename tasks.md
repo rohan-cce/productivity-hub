@@ -1,16 +1,29 @@
 # productivity-hub
-Learning Progress Till Now -> 451 Days (13/02/2023 to 08/05/2024)
+Learning Progress Till Now -> 452 Days (13/02/2023 to 09/05/2024)
 <details><summary><u>Day 451 - Day 460 ~ May 08, 2024 - May 17, 2024</u></summary><p>
+<details><summary><u>Day 452</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d452e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D451-D500/d452ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d451chs1.png
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d452chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d452chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d452chs4.jpeg)
+- 🏃 [Walking -> 13212 Steps ~ 10.05 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d452w1.jpeg)
+- 💰📈 [Finshots ~ "The life and death of an Indian shopping mall"](https://finshots.in/archive/the-life-and-death-of-an-indian-shopping-mall/)
+- 📰 [Daily English News -> "Intel and motherboard makers disagree on how to stabilize your crashing i9 CPU"](https://www.theverge.com/2024/5/8/24152383/intel-motherboard-manufacturer-i9-stability-bios-update-baseline-profile-default)
+</p></details>
 <details><summary><u>Day 451</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D401-D450/d451e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D401-D450/d451ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d451e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D451-D500/d451ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d451chs1.jpeg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d451chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d451chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D401-D450/d451chs4.jpeg)
-- 🏃 [Walking -> 20264 Steps ~ 15.29 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D401-D450/d410w1.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d451chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d451chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d451chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d451chs4.jpeg)
+- 🏃 [Walking -> 17485 Steps ~ 13.24 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d451w1.jpeg)
 - 💰📈 [Finshots ~ "POLICY - Goobye potholes, hello self-healing roads?"](https://finshots.in/archive/goobye-potholes-hello-self-healing-roads/)
 - 📰 [Daily English News -> "Daimler’s driverless semi trucks will hit the road in 2027"](https://www.theverge.com/2024/5/8/24151391/daimler-truck-autonomous-demonstrator-torc-waymo)
 </p></details>
