@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 453 Days (13/02/2023 to 10/05/2024)
+Learning Progress Till Now -> 454 Days (13/02/2023 to 11/05/2024)
 <details><summary><u>Day 451 - Day 460 ~ May 08, 2024 - May 17, 2024</u></summary><p>
+<details><summary><u>Day 454</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d454e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D451-D500/d454ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d454chs1.png
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d454chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d454chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d454chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Everything You Need to Know About Madhabi Puri Buch"](https://finshots.in/infographic/everything-you-need-to-know-about-madhabi/)
+- 📰 [Daily English News -> "Apple plans to use M2 Ultra chips in the cloud for AI"](https://www.theverge.com/2024/5/9/24153111/apple-m2-ultra-chips-cloud-data-centers-ai)
+</p></details>
 <details><summary><u>Day 453</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d453e1.jpeg)
@@ -11,6 +23,7 @@ Learning Progress Till Now -> 453 Days (13/02/2023 to 10/05/2024)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d453chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d453chs4.jpeg)
 - 💰📈 [Finshots ~ "ECONOMY - Another RBI rule is freaking banks out"](https://finshots.in/archive/another-rbi-rule-is-freaking-banks-out/)
+- 🏃 [Walking -> 10507 Steps ~ 7.90 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d453w1.jpeg)
 - 📰 [Daily English News -> "Motorola’s midrange stylus phone gets wireless charging and a glow-up"](https://www.theverge.com/2024/5/9/24152089/motorola-moto-g-stylus-5g-2024-screen-charging-price-specs)
 </p></details>
 <details><summary><u>Day 452</u></summary><p>
