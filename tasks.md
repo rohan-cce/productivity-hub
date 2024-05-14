@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 456 Days (13/02/2023 to 13/05/2024)
+Learning Progress Till Now -> 457 Days (13/02/2023 to 14/05/2024)
 <details><summary><u>Day 451 - Day 460 ~ May 08, 2024 - May 17, 2024</u></summary><p>
+<details><summary><u>Day 457</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d457e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/images/lumosity/D451-D500/d457ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d457chs1.png
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d457chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d457chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d457chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - How Varanium Cloud rigged its own SME IPO"](https://finshots.in/archive/how-varanium-cloud-rigged-its-own-sme-ipo/)
+- 📰 [Daily English News -> "OpenAI releases GPT-4o, a faster model that’s free for all ChatGPT users"](https://www.theverge.com/2024/5/13/24155493/openai-gpt-4o-launching-free-for-all-chatgpt-users)
+</p></details>
 <details><summary><u>Day 456</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d456e1.jpeg)
@@ -10,7 +22,8 @@ Learning Progress Till Now -> 456 Days (13/02/2023 to 13/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d456chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d456chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d456chs4.jpeg)
-- 💰📈 [Finshots ~ ""ECONOMY - How to bet on the Chinese stock market rally?](https://finshots.in/archive/understanding-the-chinese-stock-market-rally/)
+- 🏃 [Walking -> 10225 Steps ~ 7.68 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d455w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - How to bet on the Chinese stock market rally?"](https://finshots.in/archive/understanding-the-chinese-stock-market-rally/)
 - 📰 [Daily English News -> "Sam Altman shoots down reports of search engine launch ahead of Google I/O"](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)
 </p></details>
 <details><summary><u>Day 455</u></summary><p>
