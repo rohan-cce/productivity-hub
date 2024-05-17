@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 459 Days (13/02/2023 to 16/05/2024)
+Learning Progress Till Now -> 460 Days (13/02/2023 to 17/05/2024)
 <details><summary><u>Day 451 - Day 460 ~ May 08, 2024 - May 17, 2024</u></summary><p>
+<details><summary><u>Day 460</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d460e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d460ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d460chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d460chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d460chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d460chs4.jpeg)
+- 🏃 [Walking -> 12599 Steps ~ 9.44 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d458w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The Guardians of the AI Revolution"](https://finshots.in/archive/the-guardians-of-the-ai-revolution/)
+- 📰 [Daily English News -> "ChatGPT lets users upload from Google Drive and OneDrive directly"](https://www.theverge.com/2024/5/17/24158970/chatgpt-openai-google-drive-microsoft-onedrive-data)
+</p></details>
 <details><summary><u>Day 459</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d459e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 459 Days (13/02/2023 to 16/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d459chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d459chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d459chs4.jpeg)
+- 🏃 [Walking -> 5359 Steps ~ 4.03 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d458w1.jpeg)
 - 💰📈 [Finshots ~ "ECONOMY - Saudi Arabia is hell bent on building futuristic cities... Will it succeed?"](https://finshots.in/archive/saudi-arabia-is-hell-bent-on-building-futuristic-cities-will-it-succeed/)
 - 📰 [Daily English News -> "Intel’s Thunderbolt Share lets two PCs control each other over a USB cable"](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
 </p></details>
