@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 461 Days (13/02/2023 to 18/05/2024)
+Learning Progress Till Now -> 462 Days (13/02/2023 to 19/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 462</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d462e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d462ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d462chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d462chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d462chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d462chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - Sunny Side Up 🍳: Haldiram’s up for sale?, why SME IPOs love September and the first McDonald’s"](https://finshots.in/archive/sunny-side-up-haldrirams-up-for-sale-why-sme-ipos-love-september-and-the-first-mcdonalds/)
+- 📰 [Daily English News -> "Apple reportedly has an AirTag follow-up coming next year"](https://www.theverge.com/2024/5/19/24160115/apple-reportedly-has-an-airtag-follow-up-coming-next-year)
+</p></details>
 <details><summary><u>Day 461</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d461e1.jpeg)
@@ -10,7 +22,7 @@ Learning Progress Till Now -> 461 Days (13/02/2023 to 18/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d461chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d461chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d461chs4.jpeg)
-- 🏃 [Walking -> 12599 Steps ~ 9.44 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d461w1.jpeg)
+- 🏃 [Walking -> 6280 Steps ~ 4.71 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d461w1.jpeg)
 - 💰📈 [Finshots ~ "INFOGRAPHIC - India's Balance Sheet with the World"](https://finshots.in/infographic/indias-balance-sheet/)
 - 📰 [Daily English News -> "Is Samsung’s Snapdragon X ARM laptop imminent?"](https://www.theverge.com/2024/5/18/24159707/is-samsungs-snapdragon-x-arm-laptop-imminent)
 </p></details>
