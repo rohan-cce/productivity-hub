@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 463 Days (13/02/2023 to 20/05/2024)
+Learning Progress Till Now -> 464 Days (13/02/2023 to 21/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 464</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d464e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d464ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d464chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d464chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d464chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d464chs4.jpeg)
+- 🏃 [Walking -> 10942 Steps ~ 8.29 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d464w1.jpeg)
+- 💰📈 [Finshots ~ "India's ambitious journey to becoming a global semiconductor powerhouse"](https://finshots.in/archive/indias-ambitious-journey-to-becoming-a-global-semiconductor-powerhouse/)
+- 📰 [Daily English News -> "Apple needs to explain that bug that resurfaced deleted photos"](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
+</p></details>
 <details><summary><u>Day 463</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d463e1.jpeg)
@@ -10,7 +23,7 @@ Learning Progress Till Now -> 463 Days (13/02/2023 to 20/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d463chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d463chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d463chs4.jpeg)
-- 🏃 [Walking -> 14530 Steps ~ 11.00 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d461w1.jpeg)
+- 🏃 [Walking -> 14530 Steps ~ 11.00 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d463w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - Single screen cinemas are dying... Can we revive them?"](https://finshots.in/archive/single-screen-cinemas-are-dying-can-we-revive-them/)
 - 📰 [Daily English News -> "Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops"](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
 </p></details>
