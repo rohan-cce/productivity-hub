@@ -1,6 +1,19 @@
 # productivity-hub
 Learning Progress Till Now -> 464 Days (13/02/2023 to 21/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 465</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d465e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d465ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d465chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d465chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d465chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d465chs4.jpeg)
+- 🏃 [Walking -> 8400 Steps ~ 6.28 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d465w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Why investors hate royalties that Indian subsidiaries pay foreign MNCs"](https://finshots.in/archive/why-investors-hate-royalties-that-indian-subsidiaries-pay-foreign-mncs/)
+- 📰 [Daily English News -> "Microsoft’s new Copilot AI agents act like virtual employees to automate tasks"](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents)
+</p></details>
 <details><summary><u>Day 464</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d464e1.jpeg)
