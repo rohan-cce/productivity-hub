@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 465 Days (13/02/2023 to 22/05/2024)
+Learning Progress Till Now -> 466 Days (13/02/2023 to 23/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 466</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d466e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d466ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why are tax authorities running after PepsiCo's advertising spends?"](https://finshots.in/archive/why-are-tax-authorities-running-after-pepsicos-advertising-spends/)
+- 📰 [Daily English News -> "Apple needs to explain that bug that resurfaced deleted photos"](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
+</p></details>
 <details><summary><u>Day 465</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d465e1.jpeg)
