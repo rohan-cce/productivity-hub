@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 467 Days (13/02/2023 to 23/05/2024)
+Learning Progress Till Now -> 467 Days (13/02/2023 to 24/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 467</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d467e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d467ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d467chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d467chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d467chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d467chs4.jpeg)
+- 🏃 [Walking -> 9181 Steps ~ 6.87 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d467w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Is the Buffett Indicator foolproof?"](https://finshots.in/archive/is-the-buffett-indicator-foolproof/)
+- 📰 [Daily English News -> "Hyundai is ‘doubling down’ on EVs despite sales slowdown, CEO says"](https://www.theverge.com/24163520/hyundai-randy-parker-interview-ev-sales-ioniq-sales)
+</p></details>
 <details><summary><u>Day 466</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d466e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 467 Days (13/02/2023 to 23/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d466chs4.jpeg)
+- 🏃 [Walking -> 10565 Steps ~ 7.92 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d466w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - Why are tax authorities running after PepsiCo's advertising spends?"](https://finshots.in/archive/why-are-tax-authorities-running-after-pepsicos-advertising-spends/)
 - 📰 [Daily English News -> "Apple needs to explain that bug that resurfaced deleted photos"](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
 </p></details>
