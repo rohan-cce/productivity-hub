@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 469 Days (13/02/2023 to 26/05/2024)
+Learning Progress Till Now -> 470 Days (13/02/2023 to 27/05/2024)
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
+<details><summary><u>Day 470</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d470e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d470ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d470chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d470chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d470chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d470chs4.jpeg)
+- 🏃 [Walking -> 9894 Steps ~ 7.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d470w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳Taj homes, an AI push for RCB, happy birthday to jeans and more."](https://finshots.in/archive/taj-residences-ai-cricket-sports-levi-strauss-blue-chip-stock-france-baguette-stamp/)
+- 📰 [Daily English News -> "The Samsung right-to-repair story just got worse"](https://www.theverge.com/samsung/2024/5/23/24163372/samsung-repair-snitch-aftermarket-parts)
+</p></details>
 <details><summary><u>Day 469</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d469e1.jpeg)
@@ -10,7 +23,6 @@ Learning Progress Till Now -> 469 Days (13/02/2023 to 26/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d469chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d469chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d469chs4.jpeg)
-- 🏃 [Walking -> 19245 Steps ~ 14.55 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d469w1.jpeg)
 - 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳Taj homes, an AI push for RCB, happy birthday to jeans and more."](https://finshots.in/archive/taj-residences-ai-cricket-sports-levi-strauss-blue-chip-stock-france-baguette-stamp/)
 - 📰 [Daily English News -> "The Samsung right-to-repair story just got worse"](https://www.theverge.com/samsung/2024/5/23/24163372/samsung-repair-snitch-aftermarket-parts)
 </p></details>
