@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 470 Days (13/02/2023 to 27/05/2024)
+Learning Progress Till Now -> 471 Days (13/02/2023 to 28/05/2024)
+<details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 471</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d471e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d471ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d471chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d471chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d471chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d471chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - ₹2.1 Lakh Crore Bonanza for the government - Breaking down RBI's record transfer"](https://finshots.in/archive/rbi-record-transfer-to-the-government/)
+- 📰 [Daily English News -> "Opera adds Google’s Gemini to its browsers"](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
+</p></details>
+</p></details>
 <details><summary><u>Day 461 - Day 470 ~ May 18, 2024 - May 27, 2024</u></summary><p>
 <details><summary><u>Day 470</u></summary><p>
 
