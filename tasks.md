@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 471 Days (13/02/2023 to 28/05/2024)
+Learning Progress Till Now -> 472 Days (13/02/2023 to 29/05/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 472</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d472e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d472ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI's crackdown on fantasy stock gaming explained"](https://finshots.in/archive/sebi-crackdown-fantasy-stock-gaming-virtual-trading-explained/)
+- 📰 [Daily English News -> "orsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind"](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
+</p></details>
 <details><summary><u>Day 471</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d471e1.jpeg)
