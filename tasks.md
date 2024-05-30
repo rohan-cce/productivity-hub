@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 472 Days (13/02/2023 to 29/05/2024)
+Learning Progress Till Now -> 473 Days (13/02/2023 to 30/05/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 473</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d473e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d473ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d473chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d473chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d473chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d473chs4.jpeg)
+- 🏃 [Walking -> 7234 Steps ~ 5.49 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d473w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Does Reliance want to take on Airtel in Africa?"](https://finshots.in/archive/does-reliance-want-to-take-on-airtel-in-africa/)
+- 📰 [Daily English News -> "Chromebook Plus laptops are getting Google Gemini"](https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp)
+</p></details>
 <details><summary><u>Day 472</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d472e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 472 Days (13/02/2023 to 29/05/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d472chs4.jpeg)
+- 🏃 [Walking -> 12827 Steps ~ 9.69 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d472w1.jpeg)
 - 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI's crackdown on fantasy stock gaming explained"](https://finshots.in/archive/sebi-crackdown-fantasy-stock-gaming-virtual-trading-explained/)
 - 📰 [Daily English News -> "orsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind"](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
 </p></details>
