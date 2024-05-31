@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 473 Days (13/02/2023 to 30/05/2024)
+Learning Progress Till Now -> 474 Days (13/02/2023 to 31/05/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 474</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d474e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d474ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d474chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d474chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d474chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d474chs4.jpeg)
+- 🏃 [Walking -> 7234 Steps ~ 5.49 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d474w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why is LIC so late to the health insurance party?"](https://finshots.in/archive/why-is-lic-so-late-to-the-health-insurance-party/)
+- 📰 [Daily English News -> "600,000 routers were bricked in a single cyberattack"](https://www.theverge.com/2024/5/31/24168584/cyberattack-us-routers-disabled-2023-windstream)
+</p></details>
 <details><summary><u>Day 473</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d473e1.jpeg)
