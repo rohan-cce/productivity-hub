@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 474 Days (13/02/2023 to 31/05/2024)
+Learning Progress Till Now -> 475 Days (13/02/2023 to 01/06/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 475</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d475e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d475ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d475chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d475chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d475chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d475chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Are flex fuel hybrid EVs the future?"](https://finshots.in/archive/are-flex-fuel-hybrid-evs-the-future/)
+- 📰 [Daily English News -> "Windows 11 is finally getting mouse settings that let you avoid the Control Panel"](https://www.theverge.com/2024/5/30/24168191/microsoft-windows-11-mouse-controls-control-panel)
+</p></details>
 <details><summary><u>Day 474</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d474e1.jpeg)
