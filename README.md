@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 475 Days (13/02/2023 to 01/06/2024)
+Learning Progress Till Now -> 476 Days (13/02/2023 to 02/06/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 476</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d476e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d476ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d476chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d476chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d476chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d476chs4.jpeg)
+- 🏃 [Walking -> 7925 Steps ~ 6.11 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d476w1.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - The Billion $ Cloud Kitchen Empire"](https://finshots.in/infographic/the-billion-cloud-kitchen-empire/)
+- 📰 [Daily English News -> "Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops"](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)
+</p></details>
 <details><summary><u>Day 475</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d475e1.jpeg)
