@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 476 Days (13/02/2023 to 02/06/2024)
+Learning Progress Till Now -> 477 Days (13/02/2023 to 03/06/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 477</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d477e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d477ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d477chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d477chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d477chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d477chs4.jpeg)
+- 🏃 [Walking -> 7373 Steps ~ 5.55 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d477w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - How is Amazon buying MX Player for dirt cheap?"](https://finshots.in/archive/how-is-amazon-buying-mx-player-for-dirt-cheap/)
+- 📰 [Daily English News -> "Nvidia’s small GPU initiative will keep graphics cards large — but I’m glad it exists"](https://www.theverge.com/2024/6/2/24168870/nvidia-sff-ready-enthusiast-geforce-card)
+</p></details>
 <details><summary><u>Day 476</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d476e1.jpeg)
