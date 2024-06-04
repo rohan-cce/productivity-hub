@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 477 Days (13/02/2023 to 03/06/2024)
+Learning Progress Till Now -> 478 Days (13/02/2023 to 04/06/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 478</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d478e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d478ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d478chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d478chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d478chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d478chs4.jpeg)
+- 🏃 [Walking -> 7790 Steps ~ 5.86 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d478w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - The real reason why RBI stores its gold in London"](https://finshots.in/archive/the-real-reason-why-rbi-stores-its-gold-in-london/)
+- 📰 [Daily English News -> "Samsung leak reveals a cheaper Galaxy Watch"](https://www.theverge.com/2024/6/4/24171225/samsung-galaxy-watch-fe-leak-cheaper)
+</p></details>
 <details><summary><u>Day 477</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d477e1.jpeg)
