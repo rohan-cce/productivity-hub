@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 478 Days (13/02/2023 to 04/06/2024)
+Learning Progress Till Now -> 479 Days (13/02/2023 to 05/06/2024)
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
+<details><summary><u>Day 479</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d479e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d479ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d479chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d479chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d479chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d479chs4.jpeg)
+- 🏃 [Walking -> 7343 Steps ~ 5.53 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d479w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Can Zimbabwe's new currency help tackle its hyperinflation?"](https://finshots.in/archive/can-zimbabwes-new-currency-zig-help-tackle-its-hyperinflation/)
+- 📰 [Daily English News -> "Apple just corrected the M2 iPad Air’s core count"](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)
+</p></details>
 <details><summary><u>Day 478</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d478e1.jpeg)
