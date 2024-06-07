@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 480 Days (13/02/2023 to 06/06/2024)
+Learning Progress Till Now -> 481 Days (13/02/2023 to 07/06/2024)
+<details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 481</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d481e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d481ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d481chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d481chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d481chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d481chs4.jpeg)
+- 🏃 [Walking -> 13090 Steps ~ 10.04 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d481w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is India expediting visa applications from China?"](https://finshots.in/archive/why-is-india-expediting-visa-applications-from-china/)
+- 📰 [Daily English News -> "Google acquires Cameyo to integrate Windows app virtualization into ChromeOS"](https://www.theverge.com/2024/6/5/24171900/google-cameyo-acquisition-chromeos-windows-app-virtualization)
+</p></details>
+</p></details>
 <details><summary><u>Day 471 - Day 480 ~ May 28, 2024 - June 06, 2024</u></summary><p>
 <details><summary><u>Day 480</u></summary><p>
 
