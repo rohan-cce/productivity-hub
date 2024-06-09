@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 482 Days (13/02/2023 to 08/06/2024)
+Learning Progress Till Now -> 483 Days (13/02/2023 to 09/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 483</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d483e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d483ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d483chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d483chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d483chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d483chs4.jpeg)
+- 💰📈 [Finshots ~ "🍳India’s newfound love for tequila, the bilateral aviation rights debate & more…"](https://finshots.in/archive/sunny-side-up-miss-ai-beauty-pageant-tequila-india-aviation-hub-bilateral-rights-china-england-britain-opium-wars/)
+- 📰 [Daily English News -> "iOS 18 may let you lock apps with Face ID"](https://www.theverge.com/2024/6/9/24174783/ios-18-may-let-you-lock-specific-apps)
+</p></details>
 <details><summary><u>Day 482</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d482e1.jpeg)
