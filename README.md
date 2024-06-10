@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 483 Days (13/02/2023 to 09/06/2024)
+Learning Progress Till Now -> 484 Days (13/02/2023 to 10/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 484</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d484e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d484ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs4.jpeg)
+- 🏃 [Walking -> 8558 Steps ~ 6.44 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d484w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - McDonald's doesn't own the Big Mac anymore"](https://finshots.in/archive/mcdonalds-loses-the-big-mac-trademark-eu/)
+- 📰 [Daily English News -> "Apple’s next nebulous idea: smart home robots"](https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors)
+</p></details>
 <details><summary><u>Day 483</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d483e1.jpeg)
