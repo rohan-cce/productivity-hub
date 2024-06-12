@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 485 Days (13/02/2023 to 11/06/2024)
+Learning Progress Till Now -> 486 Days (13/02/2023 to 12/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 486</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d486e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d486ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d486chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d486chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d486chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d486chs4.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI unlocks the CDS market for Mutual Funds"](https://finshots.in/archive/sebi-rbi-credit-default-swap-cds-mutual-funds/)
+- 📰 [Daily English News -> "Apple’s standalone Passwords app syncs across iOS, iPad, Mac, and Windows"](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud)
+</p></details>
 <details><summary><u>Day 485</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d485e1.jpeg)
@@ -10,6 +22,7 @@ Learning Progress Till Now -> 485 Days (13/02/2023 to 11/06/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d485chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d485chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d485chs4.jpeg)
+- 🏃 [Walking -> 9253 Steps ~ 6.99 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d485w1.jpeg)
 - 💰📈 [Finshots ~ "ECONOMY - Russia is now the fourth largest economy. But how?"](https://finshots.in/archive/russia-fourth-largest-economy-gdp-ppp-world-bank/)
 - 📰 [Daily English News -> "The Light Phone 3 is a little less light — but a lot more useful"](https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date)
 </p></details>
@@ -22,6 +35,7 @@ Learning Progress Till Now -> 485 Days (13/02/2023 to 11/06/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d484chs4.jpeg)
+- 🏃 [Walking -> 8558 Steps ~ 6.44 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d484w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - McDonald's doesn't own the Big Mac anymore"](https://finshots.in/archive/mcdonalds-loses-the-big-mac-trademark-eu/)
 - 📰 [Daily English News -> "Apple’s next nebulous idea: smart home robots"](https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors)
 </p></details>
