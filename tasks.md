@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 486 Days (13/02/2023 to 12/06/2024)
+Learning Progress Till Now -> 487 Days (13/02/2023 to 13/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 487</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d487e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d487ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d487chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d487chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d487chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d487chs4.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - A daring heist in Dadar"](https://finshots.in/archive/why-are-thieves-after-copper-cables-theft-mumbai-mtnl-copper-price-rise/)
+- 📰 [Daily English News -> "Jabra’s earbuds are going away, but the impact they made isn’t"](https://www.theverge.com/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony)
+</p></details>
 <details><summary><u>Day 486</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d486e1.jpeg)
