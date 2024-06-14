@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 487 Days (13/02/2023 to 13/06/2024)
+Learning Progress Till Now -> 488 Days (13/02/2023 to 14/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 488</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d488e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d488ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d488chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d488chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d488chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d488chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - What's in a state's special category status?"](https://finshots.in/archive/whats-in-a-states-special-category-status-bihar-andhra-pradesh/)
+- 📰 [Daily English News -> "Arc’s live calendar button makes it hard to miss your next meeting"](https://www.theverge.com/2024/6/14/24178381/arc-live-calendar-google-meeting-join-button)
+</p></details>
 <details><summary><u>Day 487</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d487e1.jpeg)
