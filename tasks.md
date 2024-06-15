@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 488 Days (13/02/2023 to 14/06/2024)
+Learning Progress Till Now -> 489 Days (13/02/2023 to 15/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 489</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d489e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d489ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d489chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d489chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d489chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d489chs4.jpeg)
+- 🏃 [Walking -> 9592 Steps ~ 7.26 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d489w1.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - State-wise Inflation in India"](https://finshots.in/infographic/state-wise-inflation-in-india/)
+- 📰 [Daily English News -> "Amazon is reportedly way behind on its new Alexa"](https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune)
+- 💻 [Technical Learning - Attended a Tech Meetup - AI Roadshow by Google](https://www.meetup.com/azure-sql-bangalore-user-group-meetup/events/301299565/)
+</p></details>
 <details><summary><u>Day 488</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d488e1.jpeg)
