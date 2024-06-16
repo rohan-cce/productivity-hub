@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 489 Days (13/02/2023 to 15/06/2024)
+Learning Progress Till Now -> 490 Days (13/02/2023 to 16/06/2024)
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
+<details><summary><u>Day 490</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d490e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d490ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d490chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d490chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d490chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d490chs4.jpeg)
+- 🏃 [Walking -> 15280 Steps ~ 11.52 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d490w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳Aliens next door, 11-digit mobile numbers and more…"](https://finshots.in/archive/sunny-side-up-alien-harvard-11-digit-number-trai-national-numbering-plan-marginal-standing-facility-volkswagen-emissions-scandal/)
+- 📰 [Daily English News -> "Apple won’t wait until next year for some Siri improvements"](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
+</p></details>
 <details><summary><u>Day 489</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d489e1.jpeg)
