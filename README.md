@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 490 Days (13/02/2023 to 16/06/2024)
+Learning Progress Till Now -> 491 Days (13/02/2023 to 17/06/2024)
+<details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 491</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d491e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d491ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d491chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d491chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d491chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d491chs4.jpeg)
+- 🏃 [Walking -> 7835 Steps ~ 5.89 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d491w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳Aliens next door, 11-digit mobile numbers and more…"](https://finshots.in/archive/sunny-side-up-alien-harvard-11-digit-number-trai-national-numbering-plan-marginal-standing-facility-volkswagen-emissions-scandal/)
+- 📰 [Daily English News -> "How Asus claims it’s overhauling customer support after Gamers Nexus investigation"](https://www.theverge.com/2024/6/14/24178785/asus-customer-support-gamers-nexus)
+</p></details>
+</p></details>
 <details><summary><u>Day 481 - Day 490 ~ June 07, 2024 - June 16, 2024</u></summary><p>
 <details><summary><u>Day 490</u></summary><p>
 
