@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 491 Days (13/02/2023 to 17/06/2024)
+Learning Progress Till Now -> 492 Days (13/02/2023 to 18/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 492</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d492e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d492ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d492chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d492chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d492chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d492chs4.jpeg)
+- 🏃 [Walking -> 12327 Steps ~ 9.82 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d492w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Elon Musk is overpaid. But who cares?"](https://finshots.in/archive/elon-musk-pay-approved-shareholders-delaware-court-cancel/)
+- 📰 [Daily English News -> "WWDC 2024 - Finally, the Apple Watch will let you rest"](https://www.theverge.com/2024/6/13/24175506/apple-watch-watchos-11-rest-days-wearables)
+</p></details>
 <details><summary><u>Day 491</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d491e1.jpeg)
