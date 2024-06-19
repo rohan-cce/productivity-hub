@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 492 Days (13/02/2023 to 18/06/2024)
+Learning Progress Till Now -> 493 Days (13/02/2023 to 19/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 493</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d493e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d493ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d493chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d493chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d493chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d493chs4.jpeg)
+- 🏃 [Walking -> 11909 Steps ~ 8.90 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d493w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why is the UK paying Tata Steel £500 million?"](https://finshots.in/archive/why-is-the-uk-paying-tata-steel-500-million/)
+- 📰 [Daily English News -> "Tesla reportedly delays Cybertruck deliveries because of windshield wiper issues"](https://www.theverge.com/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue)
+</p></details>
 <details><summary><u>Day 492</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d492e1.jpeg)
