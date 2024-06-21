@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 494 Days (13/02/2023 to 20/06/2024)
+Learning Progress Till Now -> 494 Days (13/02/2023 to 21/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
 <details><summary><u>Day 494</u></summary><p>
 
@@ -10,7 +10,7 @@ Learning Progress Till Now -> 494 Days (13/02/2023 to 20/06/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs4.jpeg)
-- 🏃 [Walking -> 10652 Steps ~ 8.03 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d494w1.jpeg)
+- 🏃 [Walking -> 9636 Steps ~ 7.23 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d494w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - An HUL decision is creating jitters across Asia"](https://finshots.in/archive/an-hul-palm-oil-reduce-decision-is-creating-jitters-across-asia/)
 - 📰 [Daily English News -> "EU chat control law proposes scanning your messages — even encrypted ones"](https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam)
 </p></details>
