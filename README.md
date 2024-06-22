@@ -1,16 +1,29 @@
 # productivity-hub
-Learning Progress Till Now -> 495 Days (13/02/2023 to 21/06/2024)
+Learning Progress Till Now -> 496 Days (13/02/2023 to 22/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
-<details><summary><u>Day 494</u></summary><p>
+<details><summary><u>Day 496</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d494e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d494ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d496e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d496ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d494chs4.jpeg)
-- 🏃 [Walking -> 9636 Steps ~ 7.23 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d494w1.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d496chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d496chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d496chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d496chs4.jpeg)
+- 🏃 [Walking -> 7298 Steps ~ 5.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d496w1.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - The Rising Cost of Elections"](https://finshots.in/infographic/the-rising-cost-of-elections/)
+- 📰 [Daily English News -> "AT&T is still on the hook for offering landline service in California"](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
+</p></details>
+<details><summary><u>Day 495</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d495e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d495ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d495chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d495chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d495chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d495chs4.jpeg)
+- 🏃 [Walking -> 9636 Steps ~ 7.23 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d495w1.jpeg)
 - 💰📈 [Finshots ~ "BUSINESS - An HUL decision is creating jitters across Asia"](https://finshots.in/archive/an-hul-palm-oil-reduce-decision-is-creating-jitters-across-asia/)
 - 📰 [Daily English News -> "EU chat control law proposes scanning your messages — even encrypted ones"](https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam)
 </p></details>
