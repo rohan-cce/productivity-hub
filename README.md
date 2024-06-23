@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 496 Days (13/02/2023 to 22/06/2024)
+Learning Progress Till Now -> 497 Days (13/02/2023 to 23/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 497</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d497e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d497ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d497chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d497chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d497chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d497chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Zomato’s entertainment bet, why HUL doesn’t make biscuits and more…"](https://finshots.in/archive/zomatos-new-bet-and-more/)
+- 📰 [Daily English News -> "Starlink Mini brings space internet to backpackers"](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
+</p></details>
 <details><summary><u>Day 496</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d496e1.jpeg)
@@ -13,6 +25,7 @@ Learning Progress Till Now -> 496 Days (13/02/2023 to 22/06/2024)
 - 🏃 [Walking -> 7298 Steps ~ 5.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d496w1.jpeg)
 - 💰📈 [Finshots ~ "INFOGRAPHIC - The Rising Cost of Elections"](https://finshots.in/infographic/the-rising-cost-of-elections/)
 - 📰 [Daily English News -> "AT&T is still on the hook for offering landline service in California"](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
+- 💻 [Technical Learning - Attended a Tech Meetup - InnovAI: Shaping the Future with AI Innovation @IIM Bangalore](https://www.meetup.com/azure-sql-bangalore-user-group-meetup/events/301299565/)
 </p></details>
 <details><summary><u>Day 495</u></summary><p>
 
@@ -106,7 +119,7 @@ Learning Progress Till Now -> 496 Days (13/02/2023 to 22/06/2024)
 - 🏃 [Walking -> 9592 Steps ~ 7.26 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d489w1.jpeg)
 - 💰📈 [Finshots ~ "INFOGRAPHIC - State-wise Inflation in India"](https://finshots.in/infographic/state-wise-inflation-in-india/)
 - 📰 [Daily English News -> "Amazon is reportedly way behind on its new Alexa"](https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune)
-- 💻 [Technical Learning - Attended a Tech Meetup - AI Roadshow by Google](https://www.meetup.com/azure-sql-bangalore-user-group-meetup/events/301299565/)
+- 💻 [Technical Learning - Attended a Tech Meetup - Azure SQL Bangalore User Group Meeting @Microsoft](https://www.meetup.com/azure-sql-bangalore-user-group-meetup/events/301299565/)
 </p></details>
 <details><summary><u>Day 488</u></summary><p>
 
