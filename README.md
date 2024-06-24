@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 497 Days (13/02/2023 to 23/06/2024)
+Learning Progress Till Now -> 498 Days (13/02/2023 to 24/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 498</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d498e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d498ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d498chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d498chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d498chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d498chs4.jpeg)
+- 🏃 [Walking -> 12645 Steps ~ 9.54 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D451-D500/d498w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why is there an ATM crunch in the country?"](https://finshots.in/archive/why-is-there-an-atm-crunch-in-the-country/)
+- 📰 [Daily English News -> "The new Final Cut Pro hooked me on iPad video editing"](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)
+</p></details>
 <details><summary><u>Day 497</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d497e1.jpeg)
