@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 499 Days (13/02/2023 to 25/06/2024)
+Learning Progress Till Now -> 500 Days (13/02/2023 to 26/06/2024)
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
+<details><summary><u>Day 500</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d4500e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d4500ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is this year's spectrum auction a dud?"](https://finshots.in/archive/muted-telecom-spectrum-auction-india-jio-airtel-vodafone-idea/)
+- 📰 [Daily English News -> "ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed"](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)
+</p></details>
 <details><summary><u>Day 499</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d499e1.jpeg)
