@@ -1,15 +1,31 @@
 # productivity-hub
-Learning Progress Till Now -> 500 Days (13/02/2023 to 26/06/2024)
+Learning Progress Till Now -> 501 Days (13/02/2023 to 27/06/2024)
+<details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 501</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d501e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d501ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d501chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d501chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d501chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d501chs4.jpeg)
+- 🏃 [Walking -> 7396 Steps ~ 5.62 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d501w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - Why is SEBI after Religare's Rashmi Saluja?"](https://finshots.in/archive/sebi-rbi-irdai-religare-rashmi-saluja-dabur-burman-family-takeover-open-offer/)
+- 📰 [Daily English News -> "Microsoft’s canceled Xbox cloud console gets detailed in new patent"](https://www.theverge.com/2024/6/26/24186639/microsoft-xbox-cloud-console-keystone-patent-images)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 491 - Day 500 ~ June 17, 2024 - June 26, 2024</u></summary><p>
 <details><summary><u>Day 500</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d4500e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d4500ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D451-D500/d500e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D451-D500/d500ls1.jpeg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs2.jpeg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs3.jpeg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d4500chs4.jpeg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d500chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d400chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/d500chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D451-D500/4500chs4.jpeg)
 - 💰📈 [Finshots ~ "POLICY - Why is this year's spectrum auction a dud?"](https://finshots.in/archive/muted-telecom-spectrum-auction-india-jio-airtel-vodafone-idea/)
 - 📰 [Daily English News -> "ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed"](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)
 </p></details>
