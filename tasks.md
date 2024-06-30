@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 503 Days (13/02/2023 to 28/06/2024)
+Learning Progress Till Now -> 504 Days (13/02/2023 to 30/06/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 504</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d504e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d504ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d504chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d504chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d504chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d504chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Pizzas outperform burgers, why ACs may get expensive and more…"](https://finshots.in/archive/sunny-side-up-math-teachers-india-burger-pizza-rising-air-conditioner-prices-first-barcode-standing-deposit-facility/)
+- 📰 [Daily English News -> "The New York Times’ excellent word search game is now in its Games app"](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)
+</p></details>
 <details><summary><u>Day 503</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d503e1.jpeg)
@@ -10,9 +22,6 @@ Learning Progress Till Now -> 503 Days (13/02/2023 to 28/06/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d503chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d503chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d503chs4.jpeg)
-- 🏃 [Walking -> 15206 Steps ~ 11.42 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d503w1.jpeg)
-- 💰📈 [Finshots ~ ""]()
-- 📰 [Daily English News -> ""]()
 </p></details>
 <details><summary><u>Day 502</u></summary><p>
 
