@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 502 Days (13/02/2023 to 28/06/2024)
+Learning Progress Till Now -> 503 Days (13/02/2023 to 29/06/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
 <details><summary><u>Day 502</u></summary><p>
 
