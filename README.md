@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 504 Days (13/02/2023 to 30/06/2024)
+Learning Progress Till Now -> 505 Days (13/02/2023 to 01/07/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 505</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d505e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d505ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d505chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d505chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d505chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d505chs4.jpeg)
+- 🏃 [Walking -> 7358 Steps ~ 5.57 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d505w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - Why is Hyundai India looking to go public?"](https://finshots.in/archive/why-is-hyundai-india-looking-to-go-public/)
+- 📰 [Daily English News -> "Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web"](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
+</p></details>
 <details><summary><u>Day 504</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d504e1.jpeg)
