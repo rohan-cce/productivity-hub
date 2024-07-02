@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 505 Days (13/02/2023 to 01/07/2024)
+Learning Progress Till Now -> 506 Days (13/02/2023 to 02/07/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 506</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d506e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d506ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d506chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d506chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d506chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d506chs4.jpeg)
+- 🏃 [Walking -> 16513 Steps ~ 12.40 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d506w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - SEBI's new move cheers up holding company stock prices"](https://finshots.in/archive/sebis-new-move-cheers-up-holding-company-stock-prices/)
+- 📰 [Daily English News -> "The first Thunderbolt 5 cables are here, but there’s barely anything to plug in"](https://www.theverge.com/2024/7/1/24190263/thunderbolt-5-cable-matters-intel-usb-c)
+</p></details>
 <details><summary><u>Day 505</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d505e1.jpeg)
