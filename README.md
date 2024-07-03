@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 506 Days (13/02/2023 to 02/07/2024)
+Learning Progress Till Now -> 507 Days (13/02/2023 to 03/07/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 507</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d507e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d507ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d507chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d507chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d507chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d507chs4.jpeg)
+- 🏃 [Walking -> 7897 Steps ~ 5.95 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d507w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Will Gabriel Zucman's billionaire tax work?"](https://finshots.in/archive/gabriel-zucmans-global-billionaire-tax-g20/)
+- 📰 [Daily English News -> "Longer-lasting laptops: the modular hardware you can upgrade and repair yourself"](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+</p></details>
 <details><summary><u>Day 506</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d506e1.jpeg)
