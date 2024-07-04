@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 507 Days (13/02/2023 to 03/07/2024)
+Learning Progress Till Now -> 508 Days (13/02/2023 to 04/07/2024)
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
+<details><summary><u>Day 508</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d508e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d508ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d508chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d508chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d508chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d508chs4.jpeg)
+- 🏃 [Walking -> 12422 Steps ~ 9.29 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d508w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - How Rishi Shah pulled off a billion-dollar pharma advertising scheme"](https://finshots.in/archive/rishi-shah-shradha-agarwal-context-media-outcome-health-billion-dollar-scam/)
+- 📰 [Daily English News -> "Figma pulls AI tool after criticism that it ripped off Apple’s design"](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
+</p></details>
 <details><summary><u>Day 507</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d507e1.jpeg)
