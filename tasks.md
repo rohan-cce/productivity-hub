@@ -1,5 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 510 Days (13/02/2023 to 06/07/2024)
+Learning Progress Till Now -> 511 Days (13/02/2023 to 07/07/2024)
+<details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 511</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d511e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d511ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d511chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d511chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d511chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d511chs4.jpeg)
+- 🏃 [Walking -> 17141 Steps ~ 12.91 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d511w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Do we need more fuel stations, the oldest computer and more…"](https://finshots.in/archive/sunny-side-up-do-we-need-more-fuel-stations-oldest-computer-graham-number-linotype-machine/)
+- 📰 [Daily English News -> "Epic says its EU iOS app store is approved but that Apple wants a change"](https://www.theverge.com/2024/7/6/24193182/apple-approved-epic-games-store-notarized-eu-dma-fortnite)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 501 - Day 510 ~ June 27, 2024 - July 06, 2024</u></summary><p>
 <details><summary><u>Day 510</u></summary><p>
 
