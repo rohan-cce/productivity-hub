@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 511 Days (13/02/2023 to 07/07/2024)
+Learning Progress Till Now -> 512 Days (13/02/2023 to 08/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 512</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d512e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d512ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d512chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d512chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d512chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d512chs4.jpeg)
+- 🏃 [Walking -> 10204 Steps ~ 7.62 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d512w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - A postmortem of Koo"](https://finshots.in/archive/a-postmortem-of-koo/)
+- 📰 [Daily English News -> "Police pulled over a Waymo car for driving in the oncoming lane"](https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police)
+</p></details>
 <details><summary><u>Day 511</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d511e1.jpeg)
