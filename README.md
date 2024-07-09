@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 512 Days (13/02/2023 to 08/07/2024)
+Learning Progress Till Now -> 513 Days (13/02/2023 to 09/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 513</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d513e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d513ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d513chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d513chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d513chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d513chs4.jpeg)
+- 🏃 [Walking -> 10102 Steps ~ 7.56 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d513w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Is the IMF responsible for Kenya's tax hike protests?"](https://finshots.in/archive/is-the-imf-responsible-for-kenyas-tax-hike-protests/)
+- 📰 [Daily English News -> "Asus is adding RGB Windows Dynamic Lighting support to its latest motherboards"](https://www.theverge.com/2024/7/8/24194015/asus-windows-dynamic-lighting-support-motherboard-bios-update)
+</p></details>
 <details><summary><u>Day 512</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d512e1.jpeg)
