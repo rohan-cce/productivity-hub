@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 513 Days (13/02/2023 to 09/07/2024)
+Learning Progress Till Now -> 514 Days (13/02/2023 to 10/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 514</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d514e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d514ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d514chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d514chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d514chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d514chs4.jpeg)
+- 🏃 [Walking -> 10412 Steps ~ 7.82 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d514w1.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - The glittering allure ― Why gold smugglers like India"](https://finshots.in/archive/the-glittering-allure-why-gold-smugglers-like-india/)
+- 📰 [Daily English News -> "You can now protect your high-risk Google account with just your phone"](https://www.theverge.com/2024/7/10/24195306/google-accounts-advanced-protection-passkey-enrollment-support-security-key)
+</p></details>
 <details><summary><u>Day 513</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d513e1.jpeg)
