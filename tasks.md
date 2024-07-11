@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 514 Days (13/02/2023 to 10/07/2024)
+Learning Progress Till Now -> 515 Days (13/02/2023 to 11/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 515</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d515e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d515ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d515chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d515chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d515chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d515chs4.jpeg)
+- 🏃 [Walking -> 11514 Steps ~ 8.62 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d515w1.jpeg)
+- 💰📈 [Finshots ~ "ECONOMY - Why is RBI concerned over microfinance credit growth in UP and Bihar?"](https://finshots.in/archive/why-is-the-rbi-worried-about-the-microfinance-credit-growth-in-up-and-bihar/)
+- 📰 [Daily English News -> "Samsung’s new Galaxy Buds are blatant AirPod clones in both form and function"](https://www.theverge.com/24195011/samsung-galaxy-buds-3-pro-hands-on-preview-features)
+</p></details>
 <details><summary><u>Day 514</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d514e1.jpeg)
