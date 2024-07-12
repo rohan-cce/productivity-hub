@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 515 Days (13/02/2023 to 11/07/2024)
+Learning Progress Till Now -> 516 Days (13/02/2023 to 12/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 516</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d516e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d516ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d516chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d516chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d516chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d516chs4.jpeg)
+- 🏃 [Walking -> 10848 Steps ~ 8.21 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d516w1.jpeg)
+- 💰📈 [Finshots ~ "Could SEBI's new proposal unintentionally favour BSE over NSE?"](https://finshots.in/archive/sebi-proposal-derivatives-f-o-bse-nse-market-share/)
+- 📰 [Daily English News -> "Here’s how OpenAI will determine how powerful its AI systems are"](https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are)
+</p></details>
 <details><summary><u>Day 515</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d515e1.jpeg)
