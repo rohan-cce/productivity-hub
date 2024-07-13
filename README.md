@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 516 Days (13/02/2023 to 12/07/2024)
+Learning Progress Till Now -> 517 Days (13/02/2023 to 13/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 517</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d517e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d517ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d517chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d517chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d517chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d517chs4.jpeg)
+- 🏃 [Walking -> 6005 Steps ~ 4.53 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d516w1.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC. - Rise of UPI"](https://finshots.in/infographic/rise-of-upi/)
+- 📰 [Daily English News -> "Tesla Model 3 Long Range with rear-wheel drive reemerges at $42,490"](https://www.theverge.com/2024/7/12/24197130/tesla-model-3-long-range-rwd-price-range)
+</p></details>
 <details><summary><u>Day 516</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d516e1.jpeg)
