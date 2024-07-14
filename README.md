@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 517 Days (13/02/2023 to 13/07/2024)
+Learning Progress Till Now -> 518 Days (13/02/2023 to 14/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 518</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d518e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d518ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d518chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d518chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d518chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d518chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Reliance wants to pull off a Decathlon, lower population-better economy? & more…"](https://finshots.in/archive/sunny-side-up-reliance-decathlon-world-population-economy-openai-strawberry-jargon-hhi-cultured-pearl/)
+- 📰 [Daily English News -> "Android apps like Instagram could soon take brighter, more vivid pictures"](https://www.theverge.com/2024/7/14/24198269/android-apps-like-instagram-could-soon-take-brighter-more-vivid-pictures)
+</p></details>
 <details><summary><u>Day 517</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d517e1.jpeg)
