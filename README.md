@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 518 Days (13/02/2023 to 14/07/2024)
+Learning Progress Till Now -> 519 Days (13/02/2023 to 15/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 519</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d519e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d519ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d519chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d519chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d519chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d519chs4.jpeg)
+- 🏃 [Walking -> 9899 Steps ~ 7.48 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d519w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The Big 4 problem in China"](https://finshots.in/archive/the-big-4-problem-in-china/)
+- 📰 [Daily English News -> "After initially rejecting it, Apple has approved the first PC emulator for iOS"](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
+</p></details>
 <details><summary><u>Day 518</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d518e1.jpeg)
