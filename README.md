@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 519 Days (13/02/2023 to 15/07/2024)
+Learning Progress Till Now -> 520 Days (13/02/2023 to 16/07/2024)
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 520</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d520e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d520ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d520chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d520chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d520chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d520chs4.jpeg)
+- 🏃 [Walking -> 10095 Steps ~ 7.64 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d520w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Can a Bill empower Karnataka's gig workers?"](https://finshots.in/archive/karnataka-draft-gig-workers-bill-swiggy-zomato-blinkit-zepto-amazon-flipkart-delivery-agents-partners/)
+- 📰 [Daily English News -> "Apple, Anthropic, and other companies used YouTube videos to train AI"](https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright)
+</p></details>
 <details><summary><u>Day 519</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d519e1.jpeg)
