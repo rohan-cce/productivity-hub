@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 520 Days (13/02/2023 to 16/07/2024)
+Learning Progress Till Now -> 521 Days (13/02/2023 to 17/07/2024)
+<details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 521</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d521e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d521ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d521chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d521chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d521chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d521chs4.jpeg)
+- 🏃 [Walking -> 5146 Steps ~ 3.89 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d521w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Makhana wants an MSP"](https://finshots.in/archive/makhana-bihar-government-farmers-msp-minimum-support-price-india/)
+- 📰 [Daily English News -> "Lucid claims its Air Pure electric sedan is the most efficient EV ever made"](https://www.theverge.com/2024/7/16/24199185/lucid-air-pure-2025-ev-most-efficient-5-miles-kwh)
+</p></details>
+</p></details>
 <details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
 <details><summary><u>Day 520</u></summary><p>
 
