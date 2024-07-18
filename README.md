@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 521 Days (13/02/2023 to 17/07/2024)
+Learning Progress Till Now -> 522 Days (13/02/2023 to 18/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 522</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d522e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d522ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d522chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d522chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d522chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d522chs4.jpeg)
+- 🏃 [Walking -> 8666 Steps ~ 6.57 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d522w1.jpeg)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - How to get fined by SEBI if you're an Investment Adviser"](https://finshots.in/archive/how-to-get-fined-by-sebi-if-youre-an-investment-advisor/)
+- 📰 [Daily English News -> "Mercedes-Benz’s 400kW EV chargers are coming to Starbucks"](https://www.theverge.com/2024/7/17/24199984/mercedes-benzs-starbucks-ev-charging-stations-400-kw)
+</p></details>
 <details><summary><u>Day 521</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d521e1.jpeg)
