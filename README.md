@@ -1,6 +1,19 @@
 # productivity-hub
 Learning Progress Till Now -> 522 Days (13/02/2023 to 18/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 523</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d523e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d522ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d523chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d523chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d523chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d523chs4.jpeg)
+- 🏃 [Walking -> 9181 Steps ~ 6.91 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d523w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY  - Does reserving jobs for locals make sense?"](https://finshots.in/archive/karnataka-state-job-reservation-local-bill-2024/)
+- 📰 [Daily English News -> "What is CrowdStrike, and what happened?"](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)
+</p></details>
 <details><summary><u>Day 522</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d522e1.jpeg)
