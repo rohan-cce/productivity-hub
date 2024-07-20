@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 522 3ays (13/02/2023 to 18/07/2024)
+Learning Progress Till Now -> 524 days (13/02/2023 to 20/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 524</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d523e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d522ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs4.jpeg)
+- 🏃 [Walking -> 11325 Steps ~ 8.58 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d524w1.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Cash in circulation in India"](https://finshots.in/infographic/currency-in-circulation/)
+- 📰 [Daily English News -> "Google reveals the Pixel 9 Pro Fold before it can leak again"](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)
+</p></details>
 <details><summary><u>Day 523</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d523e1.jpeg)
