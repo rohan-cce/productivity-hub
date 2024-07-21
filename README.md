@@ -1,10 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 524 Days (13/02/2023 to 20/07/2024)
+Learning Progress Till Now -> 525 Days (13/02/2023 to 21/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 525</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d525e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d525ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d525chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d525chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d525chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d525chs4.jpeg)
+- 🏃 [Walking -> 13710 Steps ~ 10.36 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d525w1.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Who stole WazirX's crypto, economy versus Olympics and more…"](https://finshots.in/archive/sunny-side-up-crowdstrike-microsoft-windows-outage-wazirx-crypto-hack-india-paris-olympics-economy-first-parking-metre-neutral-natural-interest-rate)
+- 📰 [Daily English News -> "Microsoft on CrowdStrike outage: have you tried turning it off and on? (15 times)"](https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc)
+</p></details>
 <details><summary><u>Day 524</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d523e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d522ls1.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d524e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d524ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d524chs2.jpeg)
