@@ -1,6 +1,32 @@
 # productivity-hub
-Learning Progress Till Now -> 525 Days (13/02/2023 to 21/07/2024)
+Learning Progress Till Now -> 526 days (13/02/2023 to 22/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 526</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d526e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d526ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs4.jpeg)
+- 🏃 [Walking -> 10293 Steps ~ 7.84 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d526w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Should the EU face a historical polluter tax?"](https://finshots.in/archive/should-the-eu-face-a-historical-polluter-tax/)
+- 📰 [Daily English News -> "NotchNook gives MacBooks their own Dynamic Island"](https://www.theverge.com/2024/7/21/24202914/notchnook-mac-app-dynamic-island-iphone)
+</p></details>
+<details><summary><u>Day 526</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d526e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d526ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d526chs4.jpeg)
+- 🏃 [Walking -> 13710 Steps ~ 10.36 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d526w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Should the EU face a historical polluter tax?"](https://finshots.in/archive/should-the-eu-face-a-historical-polluter-tax/)
+- 📰 [Daily English News -> "NotchNook gives MacBooks their own Dynamic Island"](https://www.theverge.com/2024/7/21/24202914/notchnook-mac-app-dynamic-island-iphone)
+</p></details>
 <details><summary><u>Day 525</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d525e1.jpeg)
