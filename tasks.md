@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 526 days (13/02/2023 to 22/07/2024)
+Learning Progress Till Now -> 527 days (13/02/2023 to 23/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+<details><summary><u>Day 527</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d527e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d527ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d527chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d527chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d527chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d527chs4.jpeg)
+- 🏃 [Walking -> 10719 Steps ~ 8.10 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d527w1.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The Economic Survey 2024 Explained"](https://finshots.in/archive/economic-survey-2024-explained/)
+- 📰 [Daily English News -> "Apple’s first foldable iPhone could arrive in 2026"](https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026)
+</p></details>
 <details><summary><u>Day 526</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d526e1.jpeg)
