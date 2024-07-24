@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 527 days (13/02/2023 to 23/07/2024)
-<details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024/u></summary><p>
+Learning Progress Till Now -> 528 days (13/02/2023 to 24/07/2024)
+<details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024</u></summary><p>
+<details><summary><u>Day 528</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d528e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d528ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d528chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d528chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d528chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d528chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The Budget 2024 explained"](https://finshots.in/archive/the-budget-explained-2024-25-nirmala-sitharaman/)
+- 📰 [Daily English News -> "Amazon’s paid Alexa is coming to fill a $25 billion hole dug by Echo devices"](https://www.theverge.com/2024/7/23/24204260/amazon-25-billion-losses-echo-devices-alexa-subscription)
+</p></details>
 <details><summary><u>Day 527</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d527e1.jpeg)
@@ -106,7 +118,7 @@ Learning Progress Till Now -> 527 days (13/02/2023 to 23/07/2024)
 - 📰 [Daily English News -> "Lucid claims its Air Pure electric sedan is the most efficient EV ever made"](https://www.theverge.com/2024/7/16/24199185/lucid-air-pure-2025-ev-most-efficient-5-miles-kwh)
 </p></details>
 </p></details>
-<details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024/u></summary><p>
+<details><summary><u>Day 511 - Day 520 ~ July 07, 2024 - July 16, 2024</u></summary><p>
 <details><summary><u>Day 520</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d520e1.jpeg)
