@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 528 days (13/02/2023 to 24/07/2024)
+Learning Progress Till Now -> 529 days (13/02/2023 to 25/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024</u></summary><p>
+<details><summary><u>Day 529</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d529e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d529ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d529chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d529chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d529chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d529chs4.jpeg)
+- 💰📈 [Finshots ~ "BUSINESS - The escalating K-Pop crisis"](https://finshots.in/archive/the-escalating-k-pop-crisis/)
+- 📰 [Daily English News -> "Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock"](https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock)
+</p></details>
 <details><summary><u>Day 528</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d528e1.jpeg)
