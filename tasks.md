@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 529 days (13/02/2023 to 25/07/2024)
+Learning Progress Till Now -> 530 days (13/02/2023 to 26/07/2024)
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024</u></summary><p>
+<details><summary><u>Day 530</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d530e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d530ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d530chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d530chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d530chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d530chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The great Indian Chinese conundrum"](https://finshots.in/archive/the-great-india-china-conundrum-economic-survey/)
+- 📰 [Daily English News -> "There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent"](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+</p></details>
 <details><summary><u>Day 529</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d529e1.jpeg)
