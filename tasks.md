@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 530 days (13/02/2023 to 26/07/2024)
+Learning Progress Till Now -> 531 days (13/02/2023 to 27/07/2024)
+<details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 531</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d531e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d531ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d531chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d531chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d531chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d531chs4.jpeg)
+- 💰📈 [Finshots ~ "INFOGRAPHIC - Bulls of India: Ramdeo Agrawal"](https://finshots.in/infographic/bulls-of-india-ramdeo-agrawal/)
+- 📰 [Daily English News -> "Sonos CEO apologizes for disastrous rollout of new app"](https://www.theverge.com/2024/7/25/24206203/sonos-ceo-apology-redesigned-app-controversy)
+</p></details>
+</p></details>
 <details><summary><u>Day 521 - Day 530 ~ July 17, 2024 - July 26, 2024</u></summary><p>
 <details><summary><u>Day 530</u></summary><p>
 
