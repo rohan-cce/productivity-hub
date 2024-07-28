@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 531 days (13/02/2023 to 27/07/2024)
+Learning Progress Till Now -> 532 days (13/02/2023 to 28/07/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 532</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d532e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d532ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d532chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d532chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d532chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d532chs4.jpeg)
+- 💰📈 [Finshots ~ "SUNNY SIDE UP - 🍳 Will the CrowdStrike outage hurt insurance companies and more..."](https://finshots.in/archive/sunny-side-up-crowdstrike-global-it-outage-insurance-amazon-quick-commerce-swiggy-instamart-bengaluru-traffic-byju-downfall/)
+- 📰 [Daily English News -> "iFixit tears into Samsung’s latest foldables"](https://www.theverge.com/2024/7/27/24207705/ifixit-tears-into-samsungs-latest-foldables)
+</p></details>
 <details><summary><u>Day 531</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d531e1.jpeg)
