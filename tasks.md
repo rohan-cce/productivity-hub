@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 532 days (13/02/2023 to 28/07/2024)
+Learning Progress Till Now -> 533 days (13/02/2023 to 29/07/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 533</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d533e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d533ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d533chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d533chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d533chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d533chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - Why is India borrowing in Japanese Yen"](https://finshots.in/archive/why-is-india-borrowing-in-japanese-yen/)
+- 📰 [Daily English News -> "Pixel 9’s ‘Add Me’ feature puts you in a group photo even when you’re not there"](https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak)
+</p></details>
 <details><summary><u>Day 532</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d532e1.jpeg)
