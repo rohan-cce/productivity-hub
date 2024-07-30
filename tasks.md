@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 533 days (13/02/2023 to 29/07/2024)
+Learning Progress Till Now -> 534 days (13/02/2023 to 30/07/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 534</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d534e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d534ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d534chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d534chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d534chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d534chs4.jpeg)
+- 💰📈 [Finshots ~ "POLICY - The mineral tax dispute is over. Or is it?"](https://finshots.in/archive/mineral-tax-dispute-supreme-court-centre-state-chief-justice-d-y-chandrachud-justice-b-v-nagarathna/)
+- 📰 [Daily English News -> "Lawmakers want to carve out intimate AI deepfakes from Section 230 immunity"](https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230)
+</p></details>
 <details><summary><u>Day 533</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d533e1.jpeg)
