@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 534 days (13/02/2023 to 30/07/2024)
+Learning Progress Till Now -> 535 days (13/02/2023 to 31/07/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 535</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d535e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d535ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d535chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d535chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d535chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d535chs4.jpeg)
+- 🏃 [Walking -> 6155 Steps ~ 4.64 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d535w1.jpeg)
+- 💰📈 [Finshots ~ "Business - The jewellery retail market has a new competitor"](https://finshots.in/archive/the-jewellery-retail-market-has-a-new-competitor-aditya-birla-group-novel-jewels-indriya-tanishq-reliance-jewels-senco-kalyan-jewellers-gold/)
+- 📰 [Daily English News -> "Customs agents need a warrant to search your phone now"](https://www.theverge.com/2024/7/29/24209130/customs-border-protection-unlock-phone-warrant-new-york-jfk)
+</p></details>
 <details><summary><u>Day 534</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d534e1.jpeg)
