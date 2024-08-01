@@ -10,7 +10,7 @@ Learning Progress Till Now -> 536 days (13/02/2023 to 01/08/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs4.jpeg)
-- 🏃 [Walking -> 6155 Steps ~ 4.64 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d536w1.jpeg)
+- 🏃 [Walking -> 9411 Steps ~ 7.08 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d536w1.jpeg)
 - 💰📈 [Finshots ~ "Policy - Can India avoid the middle-income trap?"](https://finshots.in/archive/india-middle-income-trap-niti-aayog-viksit-bharat-2047-developed-india/)
 - 📰 [Daily English News -> "Amazon must recall dangerous products properly — even ones sold by third parties"](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
 </p></details>
