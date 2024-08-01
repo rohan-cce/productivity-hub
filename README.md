@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 535 days (13/02/2023 to 31/07/2024)
+Learning Progress Till Now -> 536 days (13/02/2023 to 01/08/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 536</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d536e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d536ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d536chs4.jpeg)
+- 🏃 [Walking -> 6155 Steps ~ 4.64 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d536w1.jpeg)
+- 💰📈 [Finshots ~ "Policy - Can India avoid the middle-income trap?"](https://finshots.in/archive/india-middle-income-trap-niti-aayog-viksit-bharat-2047-developed-india/)
+- 📰 [Daily English News -> "Amazon must recall dangerous products properly — even ones sold by third parties"](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
+</p></details>
 <details><summary><u>Day 535</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d535e1.jpeg)
