@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 536 days (13/02/2023 to 01/08/2024)
+Learning Progress Till Now -> 537 days (13/02/2023 to 02/08/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 537</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d537e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d537ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d537chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d537chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d537chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d537chs4.jpeg)
+- 🏃 [Walking -> 10805 Steps ~ 8.18 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d537w1.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - Inside Paris' insane effort behind the Seine"](https://finshots.in/archive/paris-seine-river-clean-olympics-games-2024-triathlon-marathon-france-climate-change/)
+- 📰 [Daily English News -> "NZXT will rent full gaming PCs, but the costs add up fast"](https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games)
+</p></details>
 <details><summary><u>Day 536</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d536e1.jpeg)
