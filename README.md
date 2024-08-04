@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 538 days (13/02/2023 to 03/08/2024)
+Learning Progress Till Now -> 539 days (13/02/2023 to 04/08/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 539</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d539e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d539ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d539chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d539chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d539chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d539chs4.jpeg)
+- 🏃 [Walking -> 6913 Steps ~ 5.24 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d539w1.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 The Ola Electric IPO, Olympic athletes' financial struggles & more…"](https://finshots.in/archive/sunny-side-up-ola-electric-ipo-olympics-struggling-to-pay-bills-zoom-work-life-balance-patent-jargon-simple-moving-average-disney-first-colour-cartoon-flowers-and-trees/)
+- 📰 [Daily English News -> "Apple has a new leader for its industrial design team"](https://www.theverge.com/2024/8/4/24213052/apple-has-a-new-leader-for-its-industrial-design-team)
+</p></details>
 <details><summary><u>Day 538</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d538e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 538 days (13/02/2023 to 03/08/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d538chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d538chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d538chs4.jpeg)
+- 🏃 [Walking -> 11282 Steps ~ 8.49 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d538w1.jpeg)
 - 💰📈 [Finshots ~ "infographic - Corporate vs Personal Tax Collection"](https://finshots.in/infographic/corporate-vs-personal-tax-collection/)
 - 📰 [Daily English News -> "Nvidia reportedly delays its next AI chip due to a design flaw"](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 </p></details>
