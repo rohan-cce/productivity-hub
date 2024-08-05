@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 539 days (13/02/2023 to 04/08/2024)
+Learning Progress Till Now -> 540 days (13/02/2023 to 05/08/2024)
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
+<details><summary><u>Day 540</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d540e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d540ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d540chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d540chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d540chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d540chs4.jpeg)
+- 🏃 [Walking -> 10673 Steps ~ 8.06 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d540w1.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - What drives us to sites of tragedy"](https://finshots.in/archive/what-drives-us-to-sites-of-tragedy/)
+- 📰 [Daily English News -> "Elon Musk is suing OpenAI and Sam Altman again"](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)
+</p></details>
 <details><summary><u>Day 539</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d539e1.jpeg)
