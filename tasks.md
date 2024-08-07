@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 541 days (13/02/2023 to 06/08/2024)
+Learning Progress Till Now -> 542 days (13/02/2023 to 07/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 542</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d542e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d542ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Can brands survive a surrogate advertising ban?"](https://finshots.in/archive/can-brands-survive-a-surrogate-advertising-ban/)
+- 📰 [Daily English News -> "AMD’s new Ryzen 9000 CPUs are cheaper than its previous-gen chips"](https://www.theverge.com/2024/8/7/24215164/amd-ryzen-9000-series-pricing-launch-dates)
+</p></details>
 <details><summary><u>Day 541</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d541e1.jpeg)
@@ -15,6 +27,7 @@ Learning Progress Till Now -> 541 days (13/02/2023 to 06/08/2024)
 - 📰 [Daily English News -> "Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help"](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
 </p></details>
 </p></details>
+
 <details><summary><u>Day 531 - Day 540 ~ July 27, 2024 - August 05, 2024</u></summary><p>
 <details><summary><u>Day 540</u></summary><p>
 
