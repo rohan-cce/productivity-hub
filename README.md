@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 542 days (13/02/2023 to 07/08/2024)
+Learning Progress Till Now -> 543 days (13/02/2023 to 08/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 543</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d543e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d543ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - India's internship conundrum"](https://finshots.in/archive/indias-internship-conundrum-budget-scheme-1-crore-intern/)
+- 📰 [Daily English News -> "An analysis of 20,000 EV stations concludes that charging is still a massive bummer"](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
+</p></details>
 <details><summary><u>Day 542</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d542e1.jpeg)
