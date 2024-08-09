@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 543 days (13/02/2023 to 08/08/2024)
+Learning Progress Till Now -> 544 days (13/02/2023 to 09/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 544</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d544e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d544ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d544chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d544chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d544chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d544chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Why the AI boom won't burst like the dot com bubble"](https://finshots.in/archive/why-the-ai-boom-wont-burst-like-the-dot-com-bubble/)
+- 📰 [Daily English News -> "Anker redesigned its wall charger so it won’t constantly fall out of the outlet"](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)
+</p></details>
 <details><summary><u>Day 543</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d543e1.jpeg)
@@ -10,6 +22,7 @@ Learning Progress Till Now -> 543 days (13/02/2023 to 08/08/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d543chs4.jpeg)
+- 🏃 [Walking -> 11804 Steps ~ 8.91 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d543w1.jpeg)
 - 💰📈 [Finshots ~ "Policy - India's internship conundrum"](https://finshots.in/archive/indias-internship-conundrum-budget-scheme-1-crore-intern/)
 - 📰 [Daily English News -> "An analysis of 20,000 EV stations concludes that charging is still a massive bummer"](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
 </p></details>
@@ -22,6 +35,7 @@ Learning Progress Till Now -> 543 days (13/02/2023 to 08/08/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d542chs4.jpeg)
+- 🏃 [Walking -> 8409 Steps ~ 6.33 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d542w1.jpeg)
 - 💰📈 [Finshots ~ "Policy - Can brands survive a surrogate advertising ban?"](https://finshots.in/archive/can-brands-survive-a-surrogate-advertising-ban/)
 - 📰 [Daily English News -> "AMD’s new Ryzen 9000 CPUs are cheaper than its previous-gen chips"](https://www.theverge.com/2024/8/7/24215164/amd-ryzen-9000-series-pricing-launch-dates)
 </p></details>
