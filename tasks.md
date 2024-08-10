@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 544 days (13/02/2023 to 09/08/2024)
+Learning Progress Till Now -> 545 days (13/02/2023 to 10/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 545</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d545e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d545ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d545chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d545chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d545chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d545chs4.jpeg)
+- 🏃 [Walking -> 8646 Steps ~ 6.47 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d545w1.jpeg)
+- 💰📈 [Finshots ~ "infographic - Who Dominates Debit Card Market?"](https://finshots.in/infographic/who-dominates-debit-card-market/)
+- 📰 [Daily English News -> "Now Logitech says the ‘forever mouse’ was just an idea"](https://www.theverge.com/2024/8/6/24214857/logitech-subscription-mouse-decoder-podcast-hanneke-faber)
+</p></details>
 <details><summary><u>Day 544</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d544e1.jpeg)
