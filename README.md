@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 544 days (13/02/2023 to 10/08/2024)
+Learning Progress Till Now -> 546 days (13/02/2023 to 11/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 546</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d546e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d546ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d546chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d546chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d546chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d546chs4.jpeg)
+- 🏃 [Walking -> 8651 Steps ~ 6.53 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d546w1.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Can mayonnaise power your home?, NASA’s trust in Boeing & more…"](https://finshots.in/archive/sunny-side-up-mayonnaise-nuclear-fusion-renewable-energy-nasa-boeing-starliner-sunita-williams-barry-butch-wilmore-champagne-trai-spam-calls-india/)
+- 📰 [Daily English News -> "What Google rivals want after DOJ’s antitrust trial win"](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)
+</p></details>
 <details><summary><u>Day 545</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d545e1.jpeg)
