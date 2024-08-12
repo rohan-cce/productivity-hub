@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 546 days (13/02/2023 to 11/08/2024)
+Learning Progress Till Now -> 547 days (13/02/2023 to 12/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 547</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d547e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d547ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d547chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d547chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d547chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d547chs4.jpeg)
+- 🏃 [Walking -> 9323 Steps ~ 6.99 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D501-D550/d547w1.jpeg)
+- 💰📈 [Finshots ~ "Business - Can the Indian garment sector bounce back?"](https://finshots.in/archive/can-the-indian-garment-sector-bounce-back/)
+- 📰 [Daily English News -> "Google’s Pixel Fold one year later: I can’t wait for the sequel"](https://www.theverge.com/24211366/google-pixel-fold-one-year-later-review)
+</p></details>
 <details><summary><u>Day 546</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d546e1.jpeg)
