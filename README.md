@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 547 days (13/02/2023 to 12/08/2024)
+Learning Progress Till Now -> 548 days (13/02/2023 to 13/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 548</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d548e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d548ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d548chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d548chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d548chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d548chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - The search engine wars are intensifying!"](https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/)
+- 📰 [Daily English News -> "Read Intel’s biggest statement yet on how it’s addressing Raptor Lake CPU woes"](https://www.theverge.com/2024/8/9/24216887/intel-13th-14th-gen-raptor-lake-statement)
+</p></details>
 <details><summary><u>Day 547</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d547e1.jpeg)
