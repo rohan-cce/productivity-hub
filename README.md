@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 549 days (13/02/2023 to 14/08/2024)
+Learning Progress Till Now -> 550 days (13/02/2023 to 15/08/2024)
 <details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+<details><summary><u>Day 550</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d550e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d550ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d550chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d550chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d550chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d550chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Akasa Air hits a milestone. But are there reasons to celebrate?"](https://finshots.in/archive/akasa-air-2-year-anniversary-but-are-there-reasons-to-celebrate-indigo-air-india-vistara-spicejet-go-first-boeing/)
+- 📰 [Daily English News -> "Google Pixel 9 launch event live coverage: all the news"](https://www.theverge.com/2024/8/13/24216322/google-pixel-9-launch-event-live-blog-news-announcements-products)
+</p></details>
 <details><summary><u>Day 549</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d549e1.jpeg)
