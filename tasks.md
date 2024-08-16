@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 550 days (13/02/2023 to 15/08/2024)
-<details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 14, 2024</u></summary><p>
+Learning Progress Till Now -> 551 days (13/02/2023 to 16/08/2024)
+<details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 551</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d551e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D501-D550/d551ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d551chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d551chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d551chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D501-D550/d551chs4.jpeg)
+</p></details>
+</p></details>
+
+<details><summary><u>Day 541 - Day 550 ~ August 05, 2024 - August 15, 2024</u></summary><p>
 <details><summary><u>Day 550</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D501-D550/d550e1.jpeg)
