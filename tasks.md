@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 554 days (13/02/2023 to 19/08/2024)
+Learning Progress Till Now -> 555 days (13/02/2023 to 20/08/2024)
 <details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 555</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d555e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d555ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d555chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d555chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d555chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d555chs4.jpeg)
+- 💰📈 [Finshots ~ "Capital Markets - Why are companies rushing for buybacks before October?"](https://finshots.in/archive/why-are-companies-rushing-for-buybacks-before-october/)
+- 📰 [Daily English News -> "Raspberry Pi 5 gets a cheaper 2GB option"](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
+</p></details>
 <details><summary><u>Day 554</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d554e1.jpeg)
