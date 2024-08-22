@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 556 days (13/02/2023 to 21/08/2024)
+Learning Progress Till Now -> 557 days (13/02/2023 to 22/08/2024)
 <details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 557</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d557e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d557ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d557chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d557chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d557chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d557chs4.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - Why climate change might hamper your fish consumption"](https://finshots.in/archive/why-climate-change-might-hamper-your-fish-consumption/)
+- 📰 [Daily English News -> "Microsoft’s latest security update has ruined dual-boot Windows and Linux PCs"](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
+</p></details>
 <details><summary><u>Day 556</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d556e1.jpeg)
