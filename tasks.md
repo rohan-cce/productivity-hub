@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 557 days (13/02/2023 to 22/08/2024)
+Learning Progress Till Now -> 558 days (13/02/2023 to 23/08/2024)
 <details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 558</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d558e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d558ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d558chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d558chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d558chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d558chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - How to tackle stubborn inflation"](https://finshots.in/archive/how-to-tackle-stubborn-inflation-rbi-government-shaktikanta-das/)
+- 📰 [Daily English News -> "EU iPhones will be able to change the default phone and messaging apps soon"](https://www.theverge.com/2024/8/22/24226110/apple-iphone-ipad-default-apps-eu-competition)
+</p></details>
 <details><summary><u>Day 557</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d557e1.jpeg)
