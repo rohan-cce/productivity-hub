@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 558 days (13/02/2023 to 23/08/2024)
+Learning Progress Till Now -> 559 days (13/02/2023 to 24/08/2024)
 <details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 559</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d559e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d559ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d559chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d559chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d559chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d559chs4.jpeg)
+- 💰📈 [Finshots ~ "infographic - Who Dominates Debit Card Market?"](https://finshots.in/infographic/who-dominates-debit-card-market/)
+- 📰 [Daily English News -> "Google is shoving its apps onto new Windows laptops"](https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp)
+</p></details>
 <details><summary><u>Day 558</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d558e1.jpeg)
