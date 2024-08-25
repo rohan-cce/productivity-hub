@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 559 days (13/02/2023 to 24/08/2024)
+Learning Progress Till Now -> 560 days (13/02/2023 to 25/08/2024)
 <details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+<details><summary><u>Day 560</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d560e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d560ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d609chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs4.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - A slightly different Sunny Side Up edition"](https://finshots.in/archive/business-model-of-jio-financial-services-revealed/)
+- 📰 [Daily English News -> "Google Wallet now works for California driver’s licenses"](https://www.theverge.com/2024/8/24/24227385/california-google-wallet-digital-ids-mobile-drivers-license-pilot)
+</p></details>
 <details><summary><u>Day 559</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d559e1.jpeg)
