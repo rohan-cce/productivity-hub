@@ -1,13 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 560 days (13/02/2023 to 25/08/2024)
-<details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 26, 2024</u></summary><p>
+Learning Progress Till Now -> 561 days (13/02/2023 to 26/08/2024)
+<details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 561</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d561e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d561ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d561chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d561chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d561chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d561chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - The economics of India-Nepal power trade"](https://finshots.in/archive/the-economics-of-india-nepal-power-trade/)
+- 📰 [Daily English News -> "A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge"](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)
+</p></details>
+</p></details>
+<details><summary><u>Day 551 - Day 560 ~ August 16, 2024 - August 25, 2024</u></summary><p>
 <details><summary><u>Day 560</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d560e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d560ls1.jpeg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d609chs2.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d560chs4.jpeg)
 - 💰📈 [Finshots ~ "Sunny Side Up - A slightly different Sunny Side Up edition"](https://finshots.in/archive/business-model-of-jio-financial-services-revealed/)
