@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 561 days (13/02/2023 to 26/08/2024)
+Learning Progress Till Now -> 562 days (13/02/2023 to 27/08/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 562</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d562e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d562ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d562chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d562chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d562chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d562chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Why did SEBI bar Anil Ambani from stock markets?"](https://finshots.in/archive/why-did-sebi-bar-anil-ambani-from-the-stock-markets/)
+- 📰 [Daily English News -> "Google denied permission to build data center in Ireland"](https://www.theverge.com/2024/8/27/24229490/google-denied-permission-to-build-data-center-in-ireland)
+</p></details>
 <details><summary><u>Day 561</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d561e1.jpeg)
