@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 562 days (13/02/2023 to 27/08/2024)
+Learning Progress Till Now -> 563 days (13/02/2023 to 28/08/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 563</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d563e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d563ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d563chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d563chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d563chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d563chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Are e-commerce giants really the boon they seem to be?"](https://finshots.in/archive/are-e-commerce-giants-really-the-boon-they-seem-to-be/)
+- 📰 [Daily English News -> "The maker of the Palma has a new cheaper e-reader"](https://www.theverge.com/2024/8/27/24229994/boox-go-6-palma-cheaper-e-reader)
+</p></details>
 <details><summary><u>Day 562</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d562e1.jpeg)
