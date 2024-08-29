@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 563 days (13/02/2023 to 28/08/2024)
+Learning Progress Till Now -> 564 days (13/02/2023 to 29/08/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 564</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d564e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d564ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d564chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d564chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d564chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d564chs4.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - What happens to the economy with fewer men?"](https://finshots.in/archive/what-happens-to-the-economy-with-fewer-men-male-y-chromosome-shrink-decline/)
+- 📰 [Daily English News -> "Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update"](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)
+</p></details>
 <details><summary><u>Day 563</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d563e1.jpeg)
