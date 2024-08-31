@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 565 days (13/02/2023 to 30/08/2024)
+Learning Progress Till Now -> 566 days (13/02/2023 to 31/08/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 566</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d566e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d566ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d566chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d566chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d566chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d566chs4.jpeg)
+- 🏃 [Walking -> 7661 Steps ~ 5.76 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d566w1.jpeg)
+- 💰📈 [Finshots ~ "infographic - India's Real Estate Boom"](https://finshots.in/infographic/indias-real-estate-boom/)
+- 📰 [Daily English News -> "Remember Steam Machines? EmuDeck founder revisits Valve’s TV console idea"](https://www.theverge.com/2024/8/29/24231635/emudeck-machine-steam-machines-crowdfunding)
+</p></details>
 <details><summary><u>Day 565</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d565e1.jpeg)
