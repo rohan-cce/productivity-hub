@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 566 days (13/02/2023 to 31/08/2024)
+Learning Progress Till Now -> 567 days (13/02/2023 to 31/08/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 567</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d567e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d567ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d567chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d567chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d567chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d566chs4.jpeg)
+- 🏃 [Walking -> 6137 Steps ~ 4.87 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d567w1.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Why the US pays tips, can a city go car-free? and more…"](https://finshots.in/archive/sunny-side-up-us-new-york-tip-scam-bengaluru-youtuber-india-adani-insolvency-los-angeles-olympics-2028-car-free-america-oil-rush/)
+- 📰 [Daily English News -> "Apple’s rumored Mac Mini redesign may ditch the USB-A port"](https://www.theverge.com/2024/9/1/24233471/apple-m4-mac-mini-redesign-no-usb-a-ports)
+</p></details>
 <details><summary><u>Day 566</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d566e1.jpeg)
