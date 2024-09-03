@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 568 days (13/02/2023 to 02/09/2024)
+Learning Progress Till Now -> 569 days (13/02/2023 to 03/09/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 569</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d569e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d569ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d569chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d569chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d569chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d569chs4.jpeg)
+- 🏃 [Walking -> 10971 Steps ~ 8.31 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d569w1.jpeg)
+- 💰📈 [Finshots ~ "Economy - Can the Care Economy boost women’s workforce participation?"](https://finshots.in/archive/can-indias-care-economy-boost-womens-workforce-participation/)
+- 📰 [Daily English News -> "Disney blocks ESPN, ABC, and other channels for millions of DirecTV subscribers"](https://www.theverge.com/2024/9/2/24233997/disney-directv-blackout-espn-abc-carriage-dispute)
+</p></details>
 <details><summary><u>Day 568</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d568e1.jpeg)
