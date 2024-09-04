@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 569 days (13/02/2023 to 03/09/2024)
+Learning Progress Till Now -> 570 days (13/02/2023 to 04/09/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
+<details><summary><u>Day 570</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d570e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d570ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d570chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d570chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d570chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d570chs4.jpeg)
+- 🏃 [Walking -> 11977 Steps ~ 9.07 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d570w1.jpeg)
+- 💰📈 [Finshots ~ "Capital Markets - Can new battery tech boost silver’s fortunes?"](https://finshots.in/archive/can-new-battery-tech-boost-silvers-fortunes/)
+- 📰 [Daily English News -> "Qualcomm’s new eight-core Snapdragon X Plus makes these Windows laptops cheaper"](https://www.theverge.com/2024/9/4/24235065/qualcomm-8-core-snapdragon-x-plus-windows-laptops)
+</p></details>
 <details><summary><u>Day 569</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d569e1.jpeg)
