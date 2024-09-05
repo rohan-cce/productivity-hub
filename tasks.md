@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 570 days (13/02/2023 to 04/09/2024)
+Learning Progress Till Now -> 571 days (13/02/2023 to 05/09/2024)
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
 <details><summary><u>Day 570</u></summary><p>
 
