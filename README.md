@@ -1,5 +1,29 @@
 # productivity-hub
-Learning Progress Till Now -> 570 days (13/02/2023 to 04/09/2024)
+Learning Progress Till Now -> 572 days (13/02/2023 to 06/09/2024)
+<details><summary><u>Day 571 - Day 580 ~ September 05, 2024 - September 15, 2024</u></summary><p>
+<details><summary><u>Day 572</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d572e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d572ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d572chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d572chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d572chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d572chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Why is America's blood plasma trade rising?"](https://finshots.in/archive/why-is-america-us-blood-plasma-trade-rising/)
+- 📰 [Daily English News -> "The FTC should stop tech companies from bricking their products, consumer groups say""](https://www.theverge.com/2024/9/5/24236237/ftc-software-tethering-letter-consumer-reports-ifixit)
+</p></details>
+<details><summary><u>Day 571</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d571e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d571ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d571chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d571chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d571chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d571chs4.jpeg)
+</p></details>
+</p></details>
 <details><summary><u>Day 561 - Day 570 ~ August 26, 2024 - September 04, 2024</u></summary><p>
 <details><summary><u>Day 570</u></summary><p>
 
