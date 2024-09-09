@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 574 days (13/02/2023 to 08/09/2024)
+Learning Progress Till Now -> 575 days (13/02/2023 to 09/09/2024)
 <details><summary><u>Day 571 - Day 580 ~ September 05, 2024 - September 15, 2024</u></summary><p>
+<details><summary><u>Day 575</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d575e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d575ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Should India rethink joining RCEP?"](https://finshots.in/archive/should-india-rethink-joining-rcep-regional-comprehensive-economic-partnership/)
+- 📰 [Daily English News -> "An almost five-year internet mystery has been resolved"](https://www.theverge.com/2024/9/9/24239710/an-almost-five-year-internet-mystery-has-been-resolved)
+</p></details>
 <details><summary><u>Day 574</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d574e1.jpeg)

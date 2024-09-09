@@ -1,7 +1,7 @@
 # productivity-hub
-Learning Progress Till Now -> 574 days (13/02/2023 to 08/09/2024)
+Learning Progress Till Now -> 575 days (13/02/2023 to 09/09/2024)
 <details><summary><u>Day 571 - Day 580 ~ September 05, 2024 - September 15, 2024</u></summary><p>
-<details><summary><u>Day 574</u></summary><p>
+<details><summary><u>Day 575</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d574e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d574ls1.jpeg)
