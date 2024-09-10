@@ -1,7 +1,31 @@
 # productivity-hub
-Learning Progress Till Now -> 575 days (13/02/2023 to 09/09/2024)
+Learning Progress Till Now -> 576 days (13/02/2023 to 10/09/2024)
 <details><summary><u>Day 571 - Day 580 ~ September 05, 2024 - September 15, 2024</u></summary><p>
+<details><summary><u>Day 576</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d576e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d576ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d576chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d576chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d576chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d576chs4.jpeg)
+- 💰📈 [Finshots ~ "Capital Markets - Can we avoid another WazirX-style hack?"](https://finshots.in/archive/can-we-avoid-another-wazirx-style-hack/)
+- 📰 [Daily English News -> "Apple’s Visual Intelligence is a built-in take on Google Lens"](https://www.theverge.com/2024/9/9/24240094/apple-visual-intelligence-camera-control-iphone-16-ai-camera-control-google-lens)
+</p></details>
 <details><summary><u>Day 575</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d575e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d575ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d575chs4.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - We've got some exciting news!"](https://finshots.in/archive/announcement-weve-been-working-on-something-special-exciting-news/)
+- 📰 [Daily English News -> "Philips Hue launches a new smart lighting solution for the kitchen"](https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting)
+</p></details>
+<details><summary><u>Day 574</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d574e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d574ls1.jpeg)
