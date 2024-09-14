@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 579 days (13/02/2023 to 13/09/2024)
+Learning Progress Till Now -> 580 days (13/02/2023 to 14/09/2024)
 <details><summary><u>Day 571 - Day 580 ~ September 05, 2024 - September 15, 2024</u></summary><p>
+<details><summary><u>Day 580</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d580e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d580ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d580chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d580chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d580chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d580chs4.jpeg)
+- 🏃 [Walking -> 7665 Steps ~ 5.76 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d580w1.jpeg)
+- 💰📈 [Finshots ~ "Business - The secret behind India’s luxury watch boom"](https://finshots.in/archive/the-secret-behind-indias-luxury-watch-boom/)
+- 📰 [Daily English News -> "Google tests desktop windowing for Android tablets"](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
+</p></details>
 <details><summary><u>Day 579</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d579e1.jpeg)
