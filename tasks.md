@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 581 days (13/02/2023 to 15/09/2024)
+Learning Progress Till Now -> 582 days (13/02/2023 to 16/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 582</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d582e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d582ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d582chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d582chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d582chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d582chs4.jpeg)
+- 🏃 [Walking -> 10179 Steps ~ 7.70 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d582w1.jpeg)
+- 💰📈 [Finshots ~ "Policy - Indian road safety screams for help"](https://finshots.in/archive/indian-road-safety-screams-for-help-nitin-gadkari-road-transport-accident-death/)
+- 📰 [Daily English News -> "Sony reportedly picked AMD over Intel for the PS6"](https://www.theverge.com/2024/9/16/24246234/playstation-6-rumor-sony-intel-amd)
+</p></details>
 <details><summary><u>Day 581</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d581e1.jpeg)
