@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 582 days (13/02/2023 to 16/09/2024)
+Learning Progress Till Now -> 583 days (13/02/2023 to 17/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 583</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d583e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d583ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d583chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d583chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d583chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d583chs4.jpeg)
+- 🏃 [Walking -> 8753 Steps ~ 6.80 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d583w1.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - Is the world running out of coffee?"](https://finshots.in/archive/is-the-world-running-out-of-coffee-shortage-brazil-india-vietnam-durian-colombia-china/)
+- 📰 [Daily English News -> "In defense of the iPhone Action Button"](https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples)
+</p></details>
 <details><summary><u>Day 582</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d582e1.jpeg)
