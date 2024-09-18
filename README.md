@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 583 days (13/02/2023 to 17/09/2024)
+Learning Progress Till Now -> 584 days (13/02/2023 to 18/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 584</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d584e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d584ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d584chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d584chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d584chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d584chs4.jpeg)
+- 🏃 [Walking -> 9560 Steps ~ 7.28 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d584w1.jpeg)
+- 💰📈 [Finshots ~ "Business - Jio’s free storage to beat Google and Apple?"](https://finshots.in/archive/jios-free-storage-to-beat-google-and-apple-100-gb-free-cloud-storage/)
+- 📰 [Daily English News -> "SocialAI: We tried the Twitter clone where no other humans are allowed"](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots)
+</p></details>
 <details><summary><u>Day 583</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d583e1.jpeg)
