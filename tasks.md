@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 584 days (13/02/2023 to 18/09/2024)
+Learning Progress Till Now -> 585 days (13/02/2023 to 19/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 585</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d585e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d585ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d585chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d585chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d585chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d585chs4.jpeg)
+- 🏃 [Walking -> 9248 Steps ~ 7.03 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d585w1.jpeg)
+- 💰📈 [Finshots ~ "Business - The snake venom industry is facing a fatal bite!"](https://finshots.in/archive/the-snake-venom-industry-is-facing-a-fatal-bite-snake-bite-irula-tribe-india-padma-shri-vadivel-gopal-masi-sadaiyan/)
+- 📰 [Daily English News -> "HTC announces the Vive Focus Vision with color passthrough and an eye on gaming"](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)
+</p></details>
 <details><summary><u>Day 584</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d584e1.jpeg)
