@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 586 days (13/02/2023 to 20/09/2024)
+Learning Progress Till Now -> 586 days (13/02/2023 to 21/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 587</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d587e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d587ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d587chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d587chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d587chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d587chs4.jpeg)
+- 🏃 [Walking -> 4914 Steps ~ 3.68 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d587w1.jpeg)
+- 💰📈 [Finshots ~ "markets - Everyone's excited about the NTPC Green Energy IPO!"](https://finshots.in/markets/everyones-excited-about-the-ntpc-green-energy-ipo-ntpc-renewable-energy-solar-coal-issue-price/)
+- 📰 [Daily English News -> "Microsoft launches a Windows app for iPhones, Macs, and Android devices"](https://www.theverge.com/2024/9/19/24249087/microsoft-windows-app-ios-ipados-macos-web-general-availability)
+</p></details>
 <details><summary><u>Day 586</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d586e1.jpeg)
@@ -10,6 +23,7 @@ Learning Progress Till Now -> 586 days (13/02/2023 to 20/09/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d586chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d586chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d586chs4.jpeg)
+- 🏃 [Walking -> 3979 Steps ~ 10.57 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d586w1.jpeg)
 - 💰📈 [Finshots ~ "Economy - Why should you care about the US Fed rate cut?"](https://finshots.in/archive/why-should-you-care-about-the-us-fed-us-federal-reserve-rate-cut-jerome-powell-reserve-bank-of-india-central-bank-inflation-unemployment/)
 - 📰 [Daily English News -> "HTC announces the Vive Focus Vision with color passthrough and an eye on gaming"](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)
 </p></details>
