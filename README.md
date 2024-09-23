@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 588 days (13/02/2023 to 22/09/2024)
+Learning Progress Till Now -> 589 days (13/02/2023 to 23/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 589</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d589e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d589ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d589chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d589chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d589chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d589chs4.jpeg)
+- 🏃 [Walking -> 8522 Steps ~ 6.47 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d589w1.jpeg)
+- 💰📈 [Finshots ~ "Policy - Will renewable energy replace oil?"](https://finshots.in/archive/will-renewable-energy-nuclear-replace-oil-fossil-fuels/)
+- 📰 [Daily English News -> "Jony Ive confirms he’s working on a new device with OpenAI"](https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware)
+</p></details>
 <details><summary><u>Day 588</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d588e1.jpeg)
@@ -10,7 +23,7 @@ Learning Progress Till Now -> 588 days (13/02/2023 to 22/09/2024)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d588chs2.jpeg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d588chs3.jpeg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d588chs4.jpeg)
-- 🏃 [Walking -> 5193 Steps ~ 3.90 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d587w1.jpeg)
+- 🏃 [Walking -> 5193 Steps ~ 3.90 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d588w1.jpeg)
 - 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Flappy Bird’s controversial comeback, can you start a new country? & more…"](https://finshots.in/archive/sunny-side-up-flappy-bird-dong-nguyen-comeback-new-country-crypto-balaji-srinivasan-coinbase-network-state-xerox-914-chester-carlson-haloid-steve-jobs-apple-lisa/)
 - 📰 [Daily English News -> "OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet"](https://www.theverge.com/2024/9/20/24250237/oceangate-titan-submarine-coast-guard-hearing-investigation)
 </p></details>
