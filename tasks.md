@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 589 days (13/02/2023 to 23/09/2024)
+Learning Progress Till Now -> 590 days (13/02/2023 to 24/09/2024)
 <details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+<details><summary><u>Day 590</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d590e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d590ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d590chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d590chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d590chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d590chs4.jpeg)
+- 🏃 [Walking -> 9052 Steps ~ 7.01 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d590w1.jpeg)
+- 💰📈 [Finshots ~ "Business - Is Starbucks leaving India?"](https://finshots.in/archive/is-starbucks-leaving-india-losses-ccd-blue-tokai-third-wave/)
+- 📰 [Daily English News -> "Google is updating Street View images across dozens of countries"](https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images)
+</p></details>
 <details><summary><u>Day 589</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d589e1.jpeg)
