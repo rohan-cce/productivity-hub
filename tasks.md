@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 590 days (13/02/2023 to 24/09/2024)
-<details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 25, 2024</u></summary><p>
+Learning Progress Till Now -> 591 days (13/02/2023 to 25/09/2024)
+<details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 25, 2024</u></summary><p>
+<details><summary><u>Day 591</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d591e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d591ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d591chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d591chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d591chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d591chs4.jpeg)
+- 🏃 [Walking -> 12568 Steps ~ 9.47 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d591w1.jpeg)
+- 💰📈 [Finshots ~ "Economy - The Coldplay and BookMyShow Ticketing Frenzy!"](https://finshots.in/archive/the-coldplay-and-bookmyshow-ticketing-frenzy-nft-dy-patil-tickets-concert/)
+- 📰 [Daily English News -> "Raycast is bringing its super-powerful Mac launcher to iOS and Windows"](https://www.theverge.com/2024/9/25/24253375/raycast-mac-launcher-ios-windows)
+</p></details>
+</p></details>
+<details><summary><u>Day 581 - Day 590 ~ September 15, 2024 - September 24, 2024</u></summary><p>
 <details><summary><u>Day 590</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d590e1.jpeg)
