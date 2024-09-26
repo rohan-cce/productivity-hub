@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 591 days (13/02/2023 to 25/09/2024)
-<details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 25, 2024</u></summary><p>
+Learning Progress Till Now -> 592 days (13/02/2023 to 26/09/2024)
+<details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+<details><summary><u>Day 592</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d592e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d592ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d592chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d592chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d592chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d592chs4.jpeg)
+- 🏃 [Walking -> 13331 Steps ~ 10.16 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d592w1.jpeg)
+- 💰📈 [Finshots ~ "markets - Everyone's excited about the NTPC Green Energy IPO!"](https://finshots.in/markets/everyones-excited-about-the-ntpc-green-energy-ipo-ntpc-renewable-energy-solar-coal-issue-price/)
+- 📰 [Daily English News -> "PlayStation State of Play September 2024: all the biggest news and announcements"](https://www.theverge.com/24253137/playstation-ps5-state-of-play-september-2024)
+</p></details>
 <details><summary><u>Day 591</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d591e1.jpeg)
