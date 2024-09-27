@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 592 days (13/02/2023 to 26/09/2024)
+Learning Progress Till Now -> 593 days (13/02/2023 to 27/09/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+<details><summary><u>Day 593</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d593e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d593ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d593chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d593chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d593chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d593chs4.jpeg)
+- 🏃 [Walking -> 10683 Steps ~ 8.28 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d593w1.jpeg)
+- 💰📈 [Finshots ~ "Business - Why should the Oscars matter to 'Laapataa Ladies', anyway?"](https://finshots.in/archive/why-should-the-oscars-matter-to-laapataa-ladies-anyway-aamir-khan-kiran-rao-academy-awards-all-we-imagine-as-light-jyoti-deshpande-yash-raj-films/)
+- 📰 [Daily English News -> "Meta’s cheaper Quest 3S might just be an upgrade"](https://www.theverge.com/24252316/meta-quest-3s-hands-on-connect-2024)
+</p></details>
 <details><summary><u>Day 592</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d592e1.jpeg)
