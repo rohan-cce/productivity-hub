@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 594 days (13/02/2023 to 28/09/2024)
+Learning Progress Till Now -> 595 days (13/02/2023 to 29/09/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+<details><summary><u>Day 595</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d595e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d595ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d595chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d595chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d595chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d595chs4.jpeg)
+- 🏃 [Walking -> 8537 Steps ~ 6.5 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d595w1.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Japan turning the dead into gold, Chhota Bheem’s audacity and more…"](https://finshots.in/archive/sunny-side-up-japan-turning-the-dead-into-gold-cremation-chhota-bheem-oscar-academy-awards-2025-laapataa-ladies-black-friday-zomato-blinkit-akriti-chopra/)
+- 📰 [Daily English News -> "Transpo - The Toyota Prius and Rav4 are no longer Prime"](https://www.theverge.com/2024/9/26/24254955/toyota-prius-rav4-plug-in-hybrid-drops-prime-2025)
+</p></details>
 <details><summary><u>Day 594</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d594e1.jpeg)
