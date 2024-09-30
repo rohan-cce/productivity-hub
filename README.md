@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 594 days (13/02/2023 to 28/09/2024)
+Learning Progress Till Now -> 596 days (13/02/2023 to 30/09/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+<details><summary><u>Day 596</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d596e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d596ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d596chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d596chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d596chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d596chs4.jpeg)
+- 🏃 [Walking -> 6837 Steps ~ 5.17 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D551-D600/d596w1.jpeg)
+- 💰📈 [Finshots ~ "Policy - Can UP save India’s Mango exports?"](https://finshots.in/archive/can-uttar-pradesh-up-state-save-indias-mango-exports-china-pakistan-apeda-agriculture/)
+- 📰 [Daily English News -> "AMD improves Zen 5 CPU latency and performance with BIOS updates"](https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates)
+</p></details>
 <details><summary><u>Day 595</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d595e1.jpeg)
