@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 596 days (13/02/2023 to 30/09/2024)
+Learning Progress Till Now -> 597 days (13/02/2023 to 01/10/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+details><summary><u>Day 597</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d597e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d597ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d597chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d597chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d597chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d597chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Could we be heading back to the pre-antibiotic era soon?"](https://finshots.in/archive/could-we-be-heading-back-to-the-pre-antibiotic-era-soon-amr/)
+- 📰 [Daily English News -> "Leaked Google Pixel 9A renders reveal a visor-free look"](https://www.theverge.com/2024/9/30/24258413/google-pixel-9a-render-image-leak-rumor)
+</p></details>
 <details><summary><u>Day 596</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d596e1.jpeg)
