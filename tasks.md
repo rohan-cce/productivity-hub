@@ -1,7 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 597 days (13/02/2023 to 01/10/2024)
+Learning Progress Till Now -> 598 days (13/02/2023 to 02/10/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
-details><summary><u>Day 597</u></summary><p>
+<details><summary><u>Day 598</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d598e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d598ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d598chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d598chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d598chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d598chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Why did India reverse the rice export ban?"](https://finshots.in/archive/why-did-india-government-lift-reverse-the-non-basmati-rice-export-ban/)
+- 📰 [Daily English News -> "Verizon says it fixed the outage that brought mobile services down across the country"](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)
+</p></details>
+<details><summary><u>Day 597</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d597e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d597ls1.jpeg)
