@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 598 days (13/02/2023 to 02/10/2024)
+Learning Progress Till Now -> 599 days (13/02/2023 to 03/10/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
+<details><summary><u>Day 599</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d599e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D551-D600/d599ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d599chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d599chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d599chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D551-D600/d599chs4.jpeg)
+</p></details>
 <details><summary><u>Day 598</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D551-D600/d598e1.jpeg)
