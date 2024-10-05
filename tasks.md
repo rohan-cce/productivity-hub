@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 600 days (13/02/2023 to 04/10/2024)
+Learning Progress Till Now -> 601 days (13/02/2023 to 05/10/2024)
 <details><summary><u>Day 591 - Day 600 ~ September 25, 2024 - October 04, 2024</u></summary><p>
 <details><summary><u>Day 600</u></summary><p>
 
