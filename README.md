@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 604 days (13/02/2023 to 07b/10/2024)
+Learning Progress Till Now -> 605 days (13/02/2023 to 09/10/2024)
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
+<details><summary><u>Day 605</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d605e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d605ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - France is in a debt dilemma"](https://finshots.in/archive/france-debt-dilemma-gdp-president-emmanuel-macron-prime-minister-michel-barnier-eu-european-union-public-national-debt/)
+- 📰 [Daily English News -> "The Verge’s guide to moving"](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)
+</p></details>
 <details><summary><u>Day 604</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d604e1.jpeg)

@@ -1,6 +1,31 @@
 # productivity-hub
-Learning Progress Till Now -> 603 days (13/02/2023 to 07/10/2024)
+Learning Progress Till Now -> 605 days (13/02/2023 to 09/10/2024)
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
+<details><summary><u>Day 605</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d605e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d605ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d605chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - France is in a debt dilemma"](https://finshots.in/archive/france-debt-dilemma-gdp-president-emmanuel-macron-prime-minister-michel-barnier-eu-european-union-public-national-debt/)
+- 📰 [Daily English News -> "The Verge’s guide to moving"](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)
+</p></details>
+<details><summary><u>Day 604</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d604e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d604ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d604chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d604chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d604chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d604chs4.jpeg)
+- 🏃 [Walking -> 11181 Steps ~ 8.46 km (Physical activity)](https://github.com/rohan-cce/productivity-hub/images/walking/D601-D650/d604w1.jpeg)
+- 💰📈 [Finshots ~ "Economy - Is the Unified Pension Scheme any better?"](https://finshots.in/archive/is-the-unified-pension-scheme-any-better-ups-ops-nps/)
+- 📰 [Daily English News -> "Instacart’s smart cart helps you navigate to the sauce that’s on sale"](https://www.theverge.com/2024/10/7/24262249/instacart-smart-caper-cart-live-location-map-game-treasure-hunt)
+</p></details>
 <details><summary><u>Day 603</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d603e1.jpeg)
