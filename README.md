@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 605 days (13/02/2023 to 10/10/2024)
+Learning Progress Till Now -> 607 days (13/02/2023 to 11/10/2024)
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
+<details><summary><u>Day 607</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d607e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d607ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d607chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d607chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d607chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d607chs4.jpeg)
+- 💰📈 [Finshots ~ "A bit of Everything - What's up with AI and the 2024 Physics Nobel Prize?"](https://finshots.in/archive/whats-up-with-ai-and-the-2024-physics-nobel-prize/)
+- 📰 [Daily English News -> "Intel’s new flagship CPUs will run cooler and more efficiently for PC gaming"](https://www.theverge.com/2024/10/10/24265928/intel-core-ultra-200s-series-specs-release-date-pricing)
+</p></details>
 <details><summary><u>Day 606</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d606e1.jpeg)
