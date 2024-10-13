@@ -1,6 +1,28 @@
 # productivity-hub
-Learning Progress Till Now -> 608 days (13/02/2023 to 12/10/2024)
+Learning Progress Till Now -> 609 days (13/02/2023 to 13/10/2024)
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
+<details><summary><u>Day 609</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d609e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d609ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d609chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d609chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d609chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d609chs4.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - A slightly different Sunny Side Up edition"](https://finshots.in/archive/a-slightly-different-sunny-side-up-edition-hyundai-ipo-gmp/)
+- 📰 [Daily English News -> "Google tests showing full recipes right in search results"](https://www.theverge.com/2024/10/10/24267119/google-search-recipe-blogs-quick-view?showComments=1)
+</p></details>
+<details><summary><u>Day 608</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d608e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d608ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d608chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d608chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d608chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d608chs4.jpeg)
+</p></details>
 <details><summary><u>Day 607</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d607e1.jpeg)
