@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 609 days (13/02/2023 to 13/10/2024)
+Learning Progress Till Now -> 610 days (13/02/2023 to 14/10/2024)
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
+<details><summary><u>Day 610</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d610e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d610ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d610chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d610chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d610chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d610chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - The problem with AP’s new liquor policy"](https://finshots.in/archive/the-problem-with-andhra-pradesh-new-liquor-policy/)
+- 📰 [Daily English News -> "Adam Mosseri acknowledges ‘mistakes’ in Threads’ broken moderation"](https://www.theverge.com/2024/10/11/24267898/mosseri-acknowledges-mistakes-threads-instagram-broken-moderation)
+</p></details>
 <details><summary><u>Day 609</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d609e1.jpeg)
