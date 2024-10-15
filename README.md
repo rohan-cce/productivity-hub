@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 610 days (13/02/2023 to 14/10/2024)
+Learning Progress Till Now -> 611 days (13/02/2023 to 15/10/2024)
+<details><summary><u>Day 611 - Day 620 ~ October 15, 2024 - October 24, 2024</u></summary><p>
+<details><summary><u>Day 611</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d611e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d611ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d611chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d611chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d611chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d611chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Hollywood and Bollywood's carbon footprint problem!"](https://finshots.in/archive/hollywood-bollywood-carbon-footprint-emission-pollution-climate-change-problem-film-industry/)
+- 📰 [Daily English News -> "The Internet Archive is back as a read-only service after cyberattacks"](https://www.theverge.com/2024/10/14/24269741/internet-archive-online-read-only-data-breach-outage)
+</p></details>
+</p></details>
 <details><summary><u>Day 601 - Day 610 ~ October 05, 2024 - October 14, 2024</u></summary><p>
 <details><summary><u>Day 610</u></summary><p>
 
