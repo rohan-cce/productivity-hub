@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 611 days (13/02/2023 to 15/10/2024)
+Learning Progress Till Now -> 612 days (13/02/2023 to 16/10/2024)
 <details><summary><u>Day 611 - Day 620 ~ October 15, 2024 - October 24, 2024</u></summary><p>
+<details><summary><u>Day 612</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d612e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d612ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d612chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d612chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d612chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d612chs4.jpeg)
+- 💰📈 [Finshots ~ "Macro - Is India 6G ready?"](https://finshots.in/archive/is-india-6g-ready/)
+- 📰 [Daily English News -> "DJI’s Air 3S drone is a low-light all-rounder"](https://www.theverge.com/2024/10/15/24269740/dji-air-3s-drone-specs-price)
+</p></details>
 <details><summary><u>Day 611</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d611e1.jpeg)
