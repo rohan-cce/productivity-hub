@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 612 days (13/02/2023 to 16/10/2024)
+Learning Progress Till Now -> 613 days (13/02/2023 to 17/10/2024)
 <details><summary><u>Day 611 - Day 620 ~ October 15, 2024 - October 24, 2024</u></summary><p>
+<details><summary><u>Day 613</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d613e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d613ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d613chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d613chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d613chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d613chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Why the Nobel Prize in Economics went to Acemoglu, Johnson and Robinson"](https://finshots.in/archive/why-daron-acemoglu-simon-johnson-james-a-robinson-won-the-nobel-prize-economics-2024-sveriges-riksbank-prize-in-economic-sciences/)
+- 📰 [Daily English News -> "Ferrari’s F80 uses ‘Boost optimization’ to give drivers more power where they need it"](https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization)
+</p></details>
 <details><summary><u>Day 612</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d612e1.jpeg)
