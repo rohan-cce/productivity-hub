@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 616 days (13/02/2023 to 20/10/2024)
+Learning Progress Till Now -> 617 days (13/02/2023 to 21/10/2024)
 <details><summary><u>Day 611 - Day 620 ~ October 15, 2024 - October 24, 2024</u></summary><p>
+<details><summary><u>Day 617</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d617e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d617ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d617chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d617chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d617chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d617chs4.jpeg)
+- 💰📈 [Finshots ~ "Capital Markets - Is India’s stock market riding too high?"](https://finshots.in/archive/is-indias-stock-market-riding-too-high/)
+- 📰 [Daily English News -> "How Google is changing to compete with ChatGPT"](https://www.theverge.com/2024/10/18/24273748/google-deepmind-gemini-search-chaptgpt-meta-ai-interview)
+</p></details>
 <details><summary><u>Day 616</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d616e1.jpeg)
