@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 620 days (13/02/2023 to 23/10/2024)
+Learning Progress Till Now -> 621 days (13/02/2023 to 25/10/2024)
+<details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 621</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d621e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d621ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d621chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d621chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d621chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d621chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Is the Global Hunger Index flawed?"](https://finshots.in/archive/is-the-global-hunger-index-ghi-flawed-concern-worldwide-ireland-welthungerhilfe-germany-poverty-malnourishment-children-india/)
+- 📰 [Daily English News -> "Intel’s Core Ultra 9 285K CPU is one step forward, one step back for PC gaming"](https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on)
+</p></details>
+</p></details>
 <details><summary><u>Day 611 - Day 620 ~ October 15, 2024 - October 24, 2024</u></summary><p>
 <details><summary><u>Day 620</u></summary><p>
 
