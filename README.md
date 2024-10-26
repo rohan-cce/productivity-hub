@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 621 days (13/02/2023 to 25/10/2024)
+Learning Progress Till Now -> 622 days (13/02/2023 to 26/10/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 622</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d622e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d622ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d622chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d622chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d622chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d622chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - What the heck is a free economy?"](https://finshots.in/archive/what-the-heck-is-a-free-economy-hongkong-singapore-fraser/)
+- 📰 [Daily English News -> "Intel’s Core Ultra 9 285K CPU is one step forward, one step back for PC gaming"](https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on)
+</p></details>
 <details><summary><u>Day 621</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d621e1.jpeg)
