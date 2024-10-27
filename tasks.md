@@ -1,7 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 622 days (13/02/2023 to 26/10/2024)
+Learning Progress Till Now -> 623 days (13/02/2023 to 27/10/2024)
 
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 623</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d623e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d623ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d623chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d623chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d623chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d623chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - What happened to Netflix's gaming ambitions?"](https://finshots.in/archive/what-happened-to-netflix-gaming-ambitions-aaa-game-studio-california-team-blue-grand-theft-auto/)
+- 📰 [Daily English News -> "company behind Arc is now building a second, much simpler browser"](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)
+</p></details>
 <details><summary><u>Day 622</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d622e1.jpeg)
