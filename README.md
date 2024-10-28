@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 623 days (13/02/2023 to 27/10/2024)
+Learning Progress Till Now -> 624 days (13/02/2023 to 28/10/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 624</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d624e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d624ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d624chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d624chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d624chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d624chs4.jpeg)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Why burgers are sparking outbreaks, a new competitor to UPI & more…"](https://finshots.in/archive/sunny-side-up-mcdonalds-burger-ecoli-bacteria-palm-payment-china-big-bang-london-stock-exchange-doctors/)
+- 📰 [Daily English News -> "Microsoft Teams is getting threads and combined chats and channels"](https://www.theverge.com/2024/10/28/24281619/microsoft-teams-threaded-conversations-combined-chats-channels-ui-design-view)
+</p></details>
 <details><summary><u>Day 623</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d623e1.jpeg)
