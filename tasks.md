@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 624 days (13/02/2023 to 28/10/2024)
+Learning Progress Till Now -> 625 days (13/02/2023 to 29/10/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 625</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d625e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d625ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d625chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d625chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d625chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d625chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Are the southern states running out of babies?"](https://finshots.in/archive/southern-states-running-out-of-babies-ageing-birth-rates-tfr/)
+- 📰 [Daily English News -> "Apple Intelligence is here, but it still has a lot to learn / Apple’s AI could use a little more smarts."](https://www.theverge.com/2024/10/28/24279804/apple-intelligence-ios-18-1-siri-ai)
+</p></details>
 <details><summary><u>Day 624</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d624e1.jpeg)
