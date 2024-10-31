@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 626 days (13/02/2023 to 30/10/2024)
+Learning Progress Till Now -> 627 days (13/02/2023 to 31/10/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 627</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d627e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d627ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d627chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d627chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d627chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d627chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Can diamonds cool the earth?"](https://finshots.in/archive/can-diamonds-cool-the-earth-global-warming-tipping-points-aerosol/)
+- 📰 [Daily English News -> "Nintendo made a music streaming app for Switch Online subscribers"](https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers)
+</p></details>
 <details><summary><u>Day 626</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d626e1.jpeg)
