@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 627 days (13/02/2023 to 31/10/2024)
+Learning Progress Till Now -> 628 days (13/02/2023 to 01/11/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 628</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d628e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d628ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d628chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d628chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d628chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d628chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Is this the end of super shoes"](https://finshots.in/archive/is-this-the-end-of-super-shoes-battle-nike-adidas-puma-on-asics-new-balance/)
+- 📰 [Daily English News -> "Microsoft just delayed Recall again"](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
+</p></details>
 <details><summary><u>Day 627</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d627e1.jpeg)
