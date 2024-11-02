@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 628 days (13/02/2023 to 01/11/2024)
+Learning Progress Till Now -> 629 days (13/02/2023 to 02/11/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 629</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d629e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d629ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d629chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d629chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d629chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d629chs4.jpeg)
+- 💰📈 [Finshots ~ "markets - Is India's priciest stock worth the money?"](https://finshots.in/markets/is-elcid-investments-india-most-expensive-stock-worth-the-price-mrf-multibagger/)
+- 📰 [Daily English News -> "OpenAI’s search engine is now live in ChatGPT"](https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt)
+</p></details>
 <details><summary><u>Day 628</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d628e1.jpeg)
