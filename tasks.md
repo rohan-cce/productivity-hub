@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 629 days (13/02/2023 to 02/11/2024)
+Learning Progress Till Now -> 630 days (13/02/2023 to 03/11/2024)
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
+<details><summary><u>Day 630</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d630e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d630ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d630chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d630chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d630chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d630chs4.jpeg)
+- 💰📈 [Finshots ~ "infographic - Car Ownership Across the World"](https://finshots.in/infographic/car-ownership-across-the-world/)
+- 📰 [Daily English News -> "Google Maps’ enhanced navigation will make sure you’re in the right lane"](https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving)
+</p></details>
 <details><summary><u>Day 629</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d629e1.jpeg)
