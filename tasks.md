@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 630 days (13/02/2023 to 03/11/2024)
+Learning Progress Till Now -> 631 days (13/02/2023 to 04/11/2024)
+<details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 631</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d631e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d631ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d631chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d631chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d631chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d631chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Should RBI let the rupee fall?"](https://finshots.in/archive/should-rbi-reserve-bank-of-india-let-the-rupee-fall-dollar-exchange-rate/)
+- 📰 [Daily English News -> "The AI search engines are here — and getting better"](https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer)
+</p></details>
+</p></details>
 <details><summary><u>Day 621 - Day 630 ~ October 25, 2024 - November 03, 2024</u></summary><p>
 <details><summary><u>Day 630</u></summary><p>
 
