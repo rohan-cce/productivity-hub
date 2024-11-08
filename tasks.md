@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 634 days (13/02/2023 to 07/11/2024)
+Learning Progress Till Now -> 635 days (13/02/2023 to 08/11/2024)
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 635</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d635e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d635ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d635chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d635chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d635chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d635chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Why Trump likes tariffs"](https://finshots.in/archive/why-donald-trump-likes-tariffs-us-president-presidential-election-2024-india-america/)
+- 📰 [Daily English News -> "Here’s the first 240W USB-PD charger you can actually buy"](https://www.theverge.com/2024/11/6/24289498/delta-electronics-240w-usb-c-pd-charger-first-adapter)
+</p></details>
 <details><summary><u>Day 634</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d634e1.jpeg)
