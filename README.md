@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 633 days (13/02/2023 to 06/11/2024)
+Learning Progress Till Now -> 634 days (13/02/2023 to 07/11/2024)
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 634</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d634e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d634ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d634chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d634chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d634chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d634chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Who benefits from farm loan waiv ?"](https://finshots.in/archive/who-benefits-from-farm-loan-waivers-agricultural-agri-loan-farmers-india-government-election-rbi/)
+- 📰 [Daily English News -> "Nvidia to cap game streaming hours on GeForce Now instead of raising fees"](https://www.theverge.com/2024/11/7/24289443/nvidia-geforce-now-monthly-playtime-caps-performance-membership-1440p)
+</p></details>
 <details><summary><u>Day 633</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d633e1.jpeg)
