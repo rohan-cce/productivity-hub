@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 637 days (13/02/2023 to 10/11/2024)
+Learning Progress Till Now -> 638 days (13/02/2023 to 11/11/2024)
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 638</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d638e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d638ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d638chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d638chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d638chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d638chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Why is SEBI after the Embassy REIT CEO?"](https://finshots.in/archive/why-is-sebi-the-embassy-reit-ceo-arvind-maiya-nfra-ccd-scam/)
+- 📰 [Daily English News -> "Google Slides is getting a new collection of professionally designed templates"](https://www.theverge.com/2024/11/8/24291234/google-slides-templates-presentations)
+</p></details>
 <details><summary><u>Day 637</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d637e1.jpeg)
