@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 638 days (13/02/2023 to 11/11/2024)
+Learning Progress Till Now -> 639 days (13/02/2023 to 12/11/2024)
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 639</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d639e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d639ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d639chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d639chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d639chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d639chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy  - Is Ireland’s economic success sustainable?"](https://finshots.in/archive/irelands-economic-success-sustainable-tax-haven/)
+- 📰 [Daily English News -> "Striking NYT tech workers made a custom Connections so you don’t cross the picket line"](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator)
+</p></details>
 <details><summary><u>Day 638</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d638e1.jpeg)
