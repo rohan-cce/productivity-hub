@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 639 days (13/02/2023 to 12/11/2024)
+Learning Progress Till Now -> 640 days (13/02/2023 to 13/11/2024)
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
+<details><summary><u>Day 640</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d640e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d640ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d640chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d640chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d640chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d640chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - China's hidden problem"](https://finshots.in/archive/china-hidden-debt-problem-lgfv-local-government-financing-vehicles-swap-bonds-india-stock-market/)
+- 📰 [Daily English News -> "Perplexity is starting its ads experiment this week."](https://www.theverge.com/2024/11/13/24295390/perplexity-is-starting-its-ads-experiment-this-week)
+</p></details>
 <details><summary><u>Day 639</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d639e1.jpeg)
