@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 640 days (13/02/2023 to 13/11/2024)
+Learning Progress Till Now -> 641 days (13/02/2023 to 14/11/2024)
+<details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 641</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d641e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d641ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d641chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d641chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d641chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d641chs4.jpeg)
+- 💰📈 [Finshots ~ "Macro - Why are Indian lakes drying up?"](https://finshots.in/archive/why-are-indian-lakes-drying-up/)
+- 📰 [Daily English News -> "Google is testing the ‘impact’ of removing EU news from search results"](https://www.theverge.com/2024/11/13/24295463/google-eu-test-news-outlets-removing-results)
+</p></details>
+</p></details>
 <details><summary><u>Day 631 - Day 640 ~ November 04, 2024 -  November 13, 2024</u></summary><p>
 <details><summary><u>Day 640</u></summary><p>
 
