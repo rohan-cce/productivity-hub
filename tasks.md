@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 641 days (13/02/2023 to 14/11/2024)
+Learning Progress Till Now -> 642 days (13/02/2023 to 15/11/2024)
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 642</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d642e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d642ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d642chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d642chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d642chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d642chs4.jpeg)
+- 💰📈 [Finshots ~ "Macro - Will Trump take Bitcoin to the moon?"](https://finshots.in/archive/will-trump-take-bitcoin-to-the-moon/)
+- 📰 [Daily English News -> "Arc’s mobile browser is now available to everyone on Android"](https://www.theverge.com/2024/11/14/24296473/arc-search-android-mobile-web-browser-launch)
+</p></details>
 <details><summary><u>Day 641</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d641e1.jpeg)
