@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 645 days (13/02/2023 to 18/11/2024)
+Learning Progress Till Now -> 646 days (13/02/2023 to 19/11/2024)
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 646</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d646e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d646ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d646chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d646chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d646chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d646chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - Is Elon Musk’s Starlink risky for India?"](https://finshots.in/archive/is-elon-musks-starlink-risky-for-india/)
+- 📰 [Daily English News -> "Sony’s new flagship A1 II has trickle-up features from cheaper cameras"](https://www.theverge.com/2024/11/19/24299611/sony-a1-ii-flagship-mirrorless-pro-camera-sel2870gm-lens-announcement-price)
+</p></details>
 <details><summary><u>Day 645</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d645e1.jpeg)
