@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 646 days (13/02/2023 to 19/11/2024)
+Learning Progress Till Now -> 647 days (13/02/2023 to 20/11/2024)
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 647</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d647e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d647ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d647chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d647chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d647chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d647chs4.jpeg)
+- 💰📈 [Finshots ~ "Macro - India wants more ships and it’s got a plan!"](https://finshots.in/archive/india-wants-more-ships-and-its-got-a-plan/)
+- 📰 [Daily English News -> "Instagram will let you rebuild your recommendations from scratch"](https://www.theverge.com/2024/11/19/24300458/instagram-reset-content-recommendations-from-scratch)
+</p></details>
 <details><summary><u>Day 646</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d646e1.jpeg)
