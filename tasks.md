@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 647 days (13/02/2023 to 20/11/2024)
+Learning Progress Till Now -> 648 days (13/02/2023 to 21/11/2024)
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 648</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d648e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d648ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d648chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d648chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d648chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d648chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy = The secret behind Shaktikanta Das’ unmatched RBI streak"](https://finshots.in/archive/the-secret-behind-shaktikanta-das-rbi-streak-governor-extended-term/)
+- 📰 [Daily English News -> "LG is reorganizing"](https://www.theverge.com/2024/11/21/24302243/lg-is-reorganizing)
+</p></details>
 <details><summary><u>Day 647</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d647e1.jpeg)
