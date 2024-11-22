@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 648 days (13/02/2023 to 21/11/2024)
+Learning Progress Till Now -> 649 days (13/02/2023 to 22/11/2024)
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 649</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d649e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d649ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d649chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d649chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d649chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d649chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Is global inequality a deliberate choice?"](https://finshots.in/archive/global-inequality-deliberate-choice-thomas-piketty-book/)
+- 📰 [Daily English News -> "Tesla’s first 500kW V4 Superchargers are coming next year"](https://www.theverge.com/2024/11/18/24300040/tesla-500kw-v4-supercharger-cabinets-first-2025)
+</p></details>
 <details><summary><u>Day 648</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d648e1.jpeg)
