@@ -1,6 +1,32 @@
 # productivity-hub
-Learning Progress Till Now -> 649 days (13/02/2023 to 22/11/2024)
+Learning Progress Till Now -> 651 days (13/02/2023 to 24/11/2024)
+<details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 651</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d651e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d651ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d651chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d651chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d651chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d651chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Is global inequality a deliberate choice?"](https://finshots.in/archive/global-inequality-deliberate-choice-thomas-piketty-book/)
+- 📰 [Daily English News -> "Apple Pay, Cash App, and other digital wallets will be regulated more like banks now"](https://www.theverge.com/2024/11/21/24302322/apple-pay-cash-app-paypal-regulated-banks-cfpb)
+</p></details>
+</p></details>
 <details><summary><u>Day 641 - Day 650 ~ November 14, 2024 -  November 23, 2024</u></summary><p>
+<details><summary><u>Day 650</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d650e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D601-D650/d650ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d650chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d650chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d650chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D601-D650/d650chs4.jpeg)
+- 💰📈 [Finshots ~ "markets - Falling rupee, rising dollar - Who benefits and who loses?"](https://finshots.in/markets/falling-rupee-and-rising-dollar-whos-benefitting-and-whos-losing/)
+- 📰 [Daily English News -> "An anti-deepfake declaration may have been written by AI"](https://www.theverge.com/2024/11/21/24301955/minnesota-deepfake-bill-lawsuit-affidavit-ai)
+</p></details>
 <details><summary><u>Day 649</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D601-D650/d649e1.jpeg)
