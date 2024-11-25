@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 651 days (13/02/2023 to 24/11/2024)
+Learning Progress Till Now -> 652 days (13/02/2023 to 25/11/2024)
 <details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 652</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d652e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d652ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d652chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d652chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d652chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d652chs4.jpeg)
+- 💰📈 [Finshots ~ "Business - A $6 million banana?!"](https://finshots.in/archive/duct-tape-banana-sothebys-comedian-art-basel-miami-beach-maurizio-cattelan-art-money-laundering/)
+- 📰 [Daily English News -> "Strava’s API debacle highlights the messiness of fitness data"](https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables)
+</p></details>
 <details><summary><u>Day 651</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d651e1.jpeg)
