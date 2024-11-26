@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 652 days (13/02/2023 to 25/11/2024)
+Learning Progress Till Now -> 653 days (13/02/2023 to 26/11/2024)
 <details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 653</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d653e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d653ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d653chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d653chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d653chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d653chs4.jpeg)
+- 💰📈 [Finshots ~ "Economy - Is India's rise to the 4th largest economy overhyped?"](https://finshots.in/archive/indias-worlds-4th-largest-economy-overhyped-japan-germany-china/)
+- 📰 [Daily English News -> "US v. Google redux: all the news from the ad tech trial"](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+</p></details>
 <details><summary><u>Day 652</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d652e1.jpeg)
