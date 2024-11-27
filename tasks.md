@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 653 days (13/02/2023 to 26/11/2024)
+Learning Progress Till Now -> 654 days (13/02/2023 to 27/11/2024)
 <details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 654</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d654e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d654ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d654chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d654chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d654chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d654chs4.jpeg)
+- 💰📈 [Finshots ~ "Policy - Why is ending plastic pollution so hard for countries?"](https://finshots.in/archive/global-plastic-treaty-countries-busan-korea-rwanda-uk-us-iran-saudi-arabia-russia-cop29/)
+- 📰 [Daily English News -> "Starlink’s direct-to-cell satellite service is the first to receive FCC approval"](https://www.theverge.com/2024/11/27/24307394/starlink-spacex-tmobile-direct-to-cell-satellite-fcc-approval)
+</p></details>
 <details><summary><u>Day 653</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d653e1.jpeg)
