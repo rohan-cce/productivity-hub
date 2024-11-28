@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 654 days (13/02/2023 to 27/11/2024)
+Learning Progress Till Now -> 655 days (13/02/2023 to 28/11/2024)
 <details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 655</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d655e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d655ls1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d655chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d655chs2.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d655chs3.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d655chs4.jpeg)
+- 💰📈 [Finshots ~ "bit of Everything - The battle for the 6GHz band and what’s at stake for India"](https://finshots.in/archive/the-battle-for-the-6ghz-band-and-whats-at-stake-for-india-telco-wifi-5g/)
+- 📰 [Daily English News -> "The small thing that can keep drivers attentive while using partial automation"](https://www.theverge.com/2024/11/26/24306519/adas-partial-automation-driver-attention-steering-iihs)
+</p></details>
 <details><summary><u>Day 654</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d654e1.jpeg)
