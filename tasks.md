@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 658 days (13/02/2023 to 01/12/2024)
+Learning Progress Till Now -> 659 days (13/02/2023 to 02/12/2024)
 <details><summary><u>Day 651 - Day 660 ~ November 24, 2024 -  December 03, 2024</u></summary><p>
+<details><summary><u>Day 659</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d659e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d659ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d659chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d659chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d659chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d659chs4.png)
+- 💰📈 [Finshots ~ "Business - How Xinjiang cotton still haunts the fashion industry"](https://finshots.in/archive/how-xinjiang-cotton-still-haunts-the-fashion-industry-supply-chain-uniqlo/)
+- 📰 [Daily English News -> "Intel Arc B570 GPU specs leak just days before launch"](https://www.theverge.com/2024/12/1/24310104/intel-arc-b570-battlemage-gpu-leaked-specs)
+</p></details>
 <details><summary><u>Day 658</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d658e1.jpeg)
