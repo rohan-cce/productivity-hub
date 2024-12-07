@@ -1,6 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 663 days (13/02/2023 to 06/12/2024)
+Learning Progress Till Now -> 664 days (13/02/2023 to 07/12/2024)
 <details><summary><u>Day 661 - Day 670 ~ December 04, 2024 - December 13, 2024</u></summary><p>
+<details><summary><u>Day 664</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d664e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d664ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d664chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d664chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d664chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d664chs4.png)
+- 💰📈 [Finshots ~ "Macro - Are MUDRA loans failing banks and the government?"](https://finshots.in/archive/are-mudra-loans-failing-banks-and-the-government-tarun-sishu-public-sector-bank-npa/)
+- 📰 [Daily English News -> "Sundar Pichai says Google Search will ‘change profoundly’ in 2025"](https://www.theverge.com/2024/12/5/24314245/sundar-pichai-google-search-change-profoundly-2025)
+</p></details>
+<details><summary><u>Day 663</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d663e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d663ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d663chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d663chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d663chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d663chs4.png)
+- 💰📈 [Finshots ~ "Policy - Pakistan's solar frenzy has hidden costs and lessons, too"](https://finshots.in/archive/pakistans-solar-frenzy-costs-lessons-grid-china-debt-ipp/)
+- 📰 [Daily English News -> "Stop using generative AI as a search engine"](https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire)
+</p></details>
 <details><summary><u>Day 662</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d662e1.png)
