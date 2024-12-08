@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 664 days (13/02/2023 to 07/12/2024)
+Learning Progress Till Now -> 665 days (13/02/2023 to 08/12/2024)
 <details><summary><u>Day 661 - Day 670 ~ December 04, 2024 - December 13, 2024</u></summary><p>
+<details><summary><u>Day 665</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d665e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d665ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d665chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d665chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d665chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d665chs4.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Earth’s orbit is now a junkyard, curing cavities with bacteria and more…"](https://finshots.in/archive/sunny-side-up-earth-orbit-satellite-debris-cavity-engineered-bacteria-bakelite-plastic/)
+- 📰 [Daily English News -> "Twos is a handy to-do list app with exactly the right amount of AI"](https://www.theverge.com/2024/12/5/24313672/twos-app-tasks-notes-ai)
+</p></details>
 <details><summary><u>Day 664</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d664e1.png)
