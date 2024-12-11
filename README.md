@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 667 days (13/02/2023 to 10/12/2024)
+Learning Progress Till Now -> 668 days (13/02/2023 to 11/12/2024)
 <details><summary><u>Day 661 - Day 670 ~ December 04, 2024 - December 13, 2024</u></summary><p>
+<details><summary><u>Day 668</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d668e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d668ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d668chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d668chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d668chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d668chs4.png)
+- 💰📈 [Finshots ~ "Policy - Is peer-to-peer lending set for a crash?"]()
+- 📰 [Daily English News -> "Google built an AI tool that can do research for you"](https://www.theverge.com/2024/12/11/24318217/google-gemini-advanced-deep-research-launch)
+</p></details>
 <details><summary><u>Day 667</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d667e1.png)
