@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 668 days (13/02/2023 to 11/12/2024)
+Learning Progress Till Now -> 669 days (13/02/2023 to 12/12/2024)
 <details><summary><u>Day 661 - Day 670 ~ December 04, 2024 - December 13, 2024</u></summary><p>
+<details><summary><u>Day 669</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d669e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d669ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d669chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d669chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d669chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d669chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Why SEBI wants to change stock closing price rules"](https://finshots.in/archive/why-sebi-wants-to-change-stock-closing-price-rules-closing-auction-session-cas/)
+- 📰 [Daily English News -> "Microsoft wants to make the Xbox app the home of PC gaming"](https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen)
+</p></details>
 <details><summary><u>Day 668</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d668e1.png)
