@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 670 days (13/02/2023 to 13/12/2024)
+Learning Progress Till Now -> 671 days (13/02/2023 to 14/12/2024)
+<details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 671</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d671e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d671ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d671chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d671chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d671chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d671chs4.png)
+- 💰📈 [Finshots ~ "markets - The International Gemmological Institute IPO"](https://finshots.in/markets/the-international-gemmological-institute-igi-ipo-international-gemological-institute/)
+- 📰 [Daily English News -> "Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago"](https://www.theverge.com/2024/12/13/24320839/donald-trump-tim-cook-mar-a-lago)
+</p></details>
+</p></details>
 <details><summary><u>Day 661 - Day 670 ~ December 04, 2024 - December 13, 2024</u></summary><p>
 <details><summary><u>Day 670</u></summary><p>
 
