@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 671 days (13/02/2023 to 14/12/2024)
+Learning Progress Till Now -> 672 days (13/02/2023 to 15/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 672</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d672e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d672ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d672chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d672chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d672chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d672chs4.png)
+- 💰📈 [Finshots ~ "infographic - Young Investors in Stock Markets"](https://finshots.in/infographic/young-investors-in-stock-markets/)
+- 📰 [Daily English News -> "HDMI 2.2 will be announced next month — and it may require a new cable"](https://www.theverge.com/2024/12/14/24321144/hdmi-2-2-new-cable-higher-resolution-refresh-rate)
+</p></details>
 <details><summary><u>Day 671</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d671e1.png)
