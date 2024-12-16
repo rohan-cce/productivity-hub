@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 672 days (13/02/2023 to 15/12/2024)
+Learning Progress Till Now -> 673 days (13/02/2023 to 16/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 673</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d673e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d673ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d673chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d673chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d673chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d673chs4.png)
+- 💰📈 [Finshots ~ "Business - Can weight loss drugs reduce healthcare costs?"](https://finshots.in/archive/can-weight-loss-drugs-ozempic-wegovy-mounjaro-novo-nordisk-eli-lilly-reduce-healthcare-costs-elon-musk-usa/)
+- 📰 [Daily English News -> "Apple Sports now lets you track a game’s biggest plays."](https://www.theverge.com/2024/12/16/24322522/apple-sports-now-lets-you-track-a-games-biggest-plays)
+</p></details>
 <details><summary><u>Day 672</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d672e1.png)
