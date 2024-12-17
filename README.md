@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 673 days (13/02/2023 to 16/12/2024)
+Learning Progress Till Now -> 674 days (13/02/2023 to 17/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 674</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d674e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d674ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d674chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d674chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d674chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d674chs4.png)
+- 💰📈 [Finshots ~ "Business - Can rubber tyres really go green?"](https://finshots.in/archive/can-rubber-tyres-really-go-green-apollo-tyres-goodyear/)
+- 📰 [Daily English News -> "The Honda Prelude returns as a sporty hybrid with a new drive mode"](https://www.theverge.com/2024/12/17/24322756/honda-prelude-hybrid-2025-shift-mode)
+</p></details>
 <details><summary><u>Day 673</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d673e1.png)
