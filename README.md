@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 674 days (13/02/2023 to 17/12/2024)
+Learning Progress Till Now -> 675 days (13/02/2023 to 18/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 675</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d675e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d675ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d675chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d675chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d675chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d675chs4.png)
+- 💰📈 [Finshots ~ "Policy - Is 100% electrification of Indian railways far-fetched?"](https://finshots.in/archive/is-100-electrification-of-indian-railways-far-fetched/)
+- 📰 [Daily English News -> "The Framework Laptop 16 just got a modular gadget that enables quadruple SSDs"](https://www.theverge.com/2024/12/16/24322955/framework-16-expansion-bay-dual-m2-adapter)
+</p></details>
 <details><summary><u>Day 674</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d674e1.png)
