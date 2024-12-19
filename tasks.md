@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 675 days (13/02/2023 to 18/12/2024)
+Learning Progress Till Now -> 676 days (13/02/2023 to 19/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 676</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d676e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d676ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d676chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d676chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d676chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d676chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - SEBI has an algo trading plan for retail investors"](https://finshots.in/archive/sebi-has-an-algo-trading-plan-for-retail-investors/)
+- 📰 [Daily English News -> "Intel outlines the performance fixes for Arrow Lake CPUs"](https://www.theverge.com/2024/12/18/24324594/intel-performance-arrow-lake-core-ultra-200s-cpus)
+</p></details>
 <details><summary><u>Day 675</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d675e1.png)
