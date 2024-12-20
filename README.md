@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 676 days (13/02/2023 to 19/12/2024)
+Learning Progress Till Now -> 677 days (13/02/2023 to 20/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 677</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d677e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d677ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d677chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d677chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d677chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d677chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - An explainer on SIFs"](https://finshots.in/archive/an-explainer-on-sifs/)
+- 📰 [Daily English News -> "Google Fiber’s internet plans are getting simpler"](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)
+</p></details>
 <details><summary><u>Day 676</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d676e1.png)
