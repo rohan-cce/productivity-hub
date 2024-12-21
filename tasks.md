@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 677 days (13/02/2023 to 20/12/2024)
+Learning Progress Till Now -> 678 days (13/02/2023 to 21/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 678</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d678e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d678ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d678chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d678chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d678chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d678chs4.png)
+- 💰📈 [Finshots ~ "markets. - The Mishtann Foods debacle and lessons for investors"](https://finshots.in/markets/the-mishtann-foods-debacle-and-lessons-for-investors/)
+- 📰 [Daily English News -> "Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors"](https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor)
+</p></details>
 <details><summary><u>Day 677</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d677e1.png)
