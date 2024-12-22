@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 678 days (13/02/2023 to 21/12/2024)
+Learning Progress Till Now -> 679 days (13/02/2023 to 22/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 679</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d679e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d679ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d679chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d679chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d679chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d679chs4.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 The Santa Claus rally, coffee badging and more…"](https://finshots.in/archive/sunny-side-up-santa-claus-rally-coffee-badging-boston-tea-party/)
+- 📰 [Daily English News -> "Apple is working on a doorbell camera with Face ID"](https://www.theverge.com/2024/12/22/24327133/apple-smart-home-doorbell-camera-face-id-unlock)
+</p></details>
 <details><summary><u>Day 678</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d678e1.png)
