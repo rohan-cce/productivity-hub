@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 679 days (13/02/2023 to 22/12/2024)
+Learning Progress Till Now -> 680 days (13/02/2023 to 23/12/2024)
 <details><summary><u>Day 671 - Day 680 ~ December 14, 2024 - December 23, 2024</u></summary><p>
+<details><summary><u>Day 680</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d680e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d680ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d680chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d680chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d680chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d680chs4.png)
+- 💰📈 [Finshots ~ "Business - Nissan's troubles and the dawning of Chinese EVs"](https://finshots.in/archive/nissans-troubles-dawning-chinese-evs-honda/)
+- 📰 [Daily English News -> "Google’s counteroffer to the government trying to break it up is unbundling Android apps"](https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android)
+</p></details>
 <details><summary><u>Day 679</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d679e1.png)
