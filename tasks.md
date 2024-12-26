@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 682 days (13/02/2023 to 25/12/2024)
+Learning Progress Till Now -> 683 days (13/02/2023 to 26/12/2024)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 683</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d683e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d683ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d683chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d683chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d683chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d683chs4.png)
+- 💰📈 [Finshots ~ "Business - Finshots Recap - The best business stories of 2024"](https://finshots.in/archive/finshots-recap-the-best-business-stories-of-2024-lic-netflix-amazon-a2-milk-tata-ikea-luxury-watch/)
+- 📰 [Daily English News -> "Honey’s deal-hunting browser extension is accused of ripping off customers and YouTubers"](https://www.theverge.com/2024/12/23/24328268/honey-coupon-code-browser-extension-scam-influencers-affiliate-marketing)
+</p></details>
 <details><summary><u>Day 682</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d682e1.png)
