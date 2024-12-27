@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 683 days (13/02/2023 to 26/12/2024)
+Learning Progress Till Now -> 684 days (13/02/2023 to 27/12/2024)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 684</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d684e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d684ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d684chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d684chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d684chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d684chs4.png)
+- 💰📈 [Finshots ~ "Economy - Finshots Recap  —  The best stories on economics"](https://finshots.in/archive/finshots-recap-the-best-stories-on-economics-nobel-prize-toxic-workplace-delayed-census-sgb-buffett-indicator/)
+- 📰 [Daily English News -> "A weird Windows 11 bug won’t let some people install any security updates"](https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug)
+</p></details>
 <details><summary><u>Day 683</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d683e1.png)
