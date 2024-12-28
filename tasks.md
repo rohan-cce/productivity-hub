@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 684 days (13/02/2023 to 27/12/2024)
+Learning Progress Till Now -> 685 days (13/02/2023 to 28/12/2024)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 685</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d685e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d685ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d685chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d685chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d685chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d685chs4.png)
+- 💰📈 [Finshots ~ "Policy - Finshots Recap  —  The best policy stories of 2024"](https://finshots.in/archive/finshots-recap-the-best-stories-on-policy-2024/)
+- 📰 [Daily English News -> "LG’s new lamp puts a mini garden inside your home"](https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden)
+</p></details>
 <details><summary><u>Day 684</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d684e1.png)
