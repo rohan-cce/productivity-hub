@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 686 days (13/02/2023 to 29/12/2024)
+Learning Progress Till Now -> 687 days (13/02/2023 to 30/12/2024)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 687</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d687e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d687ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d687chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d687chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d687chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d687chs4.png)
+- 💰📈 [Finshots ~ "Business - Finshots Recap  — The most scam-tastic stories of 2024"](https://finshots.in/archive/finshots-recap-the-most-scam-tastic-stories-of-2024/)
+- 📰 [Daily English News -> "More of the DJI Flip folding drone appears in new leaked images"](https://www.theverge.com/2024/12/29/24331693/dji-flip-folding-drone-leaked-photos-specs-fpv-cellular-dongle-2)
+</p></details>
 <details><summary><u>Day 686</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d686e1.png)
