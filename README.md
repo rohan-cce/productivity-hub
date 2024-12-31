@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 687 days (13/02/2023 to 30/12/2024)
+Learning Progress Till Now -> 688 days (13/02/2023 to 31/12/2024)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 688</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d688e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d688ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d688chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d688chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d688chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d688chs4.png)
+- 💰📈 [Finshots ~ "Finshots Recap - Finshots Recap  — 2024's weirdest stories"](https://finshots.in/archive/finshots-recap-2024s-weirdest-stories/)
+- 📰 [Daily English News -> "LG’s 2025 gaming monitor lineup includes a bendable 5K2K OLED"](https://www.theverge.com/2024/12/29/24331748/lg-ultragear-gx9-bendable-oled-5k2k-monitors-specs)
+</p></details>
 <details><summary><u>Day 687</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d687e1.png)
