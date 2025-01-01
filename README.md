@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 688 days (13/02/2023 to 31/12/2024)
+Learning Progress Till Now -> 689 days (13/02/2023 to 01/01/2025)
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
+<details><summary><u>Day 689</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d689e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d689ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d689chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d689chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d689chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d689chs4.png)
+- 💰📈 [Finshots ~ "Markets - Breaking down Raymond’s break up"](https://finshots.in/markets/breaking-down-raymond-break-up-raymond-demerger-record-date-raymond-news/)
+- 📰 [Daily English News -> "Hackers hijacked legitimate Chrome extensions to try to steal data"](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)
+</p></details>
 <details><summary><u>Day 688</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d688e1.png)
