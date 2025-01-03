@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 690 days (13/02/2023 to 02/01/2025)
+Learning Progress Till Now -> 691 days (13/02/2023 to 03/01/2025)
+<details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 691</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d691e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d691ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d691chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d691chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d691chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d691chs4.png)
+- 💰📈 [Finshots ~ "Business - Can India fill the shoes of the top coffee-exporting nations?"](https://finshots.in/archive/can-india-fill-the-shoes-of-the-top-coffee-exporting-nations/)
+- 📰 [Daily English News -> "Microsoft has a new ergonomic keyboard, but it’s expensive and made by Incase"](https://finshots.in/archive/can-india-fill-the-shoes-of-the-top-coffee-exporting-nations/)
+</p></details>
+</p></details>
 <details><summary><u>Day 681 - Day 690 ~ December 24, 2024 - January 02, 2025</u></summary><p>
 <details><summary><u>Day 690</u></summary><p>
 
