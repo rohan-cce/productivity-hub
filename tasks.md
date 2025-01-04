@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 691 days (13/02/2023 to 03/01/2025)
+Learning Progress Till Now -> 692 days (13/02/2023 to 04/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 692</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d692e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d692ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d692chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d692chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d692chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d692chs4.png)
+- 💰📈 [Finshots ~ "Markets - Decoding the ITC – ITC Hotels demerger"](https://finshots.in/markets/decoding-the-itc-itc-hotels-demerger/)
+- 📰 [Daily English News -> "Windows 11’s dynamic wallpapers revealed by former Microsoft designer"](https://www.theverge.com/2025/1/2/24334304/microsoft-windows-11-dynamic-wallpapers)
+</p></details>
 <details><summary><u>Day 691</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d691e1.png)
