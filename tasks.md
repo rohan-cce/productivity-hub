@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 692 days (13/02/2023 to 04/01/2025)
+Learning Progress Till Now -> 693 days (13/02/2023 to 05/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 693</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d693e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d693ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d693chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d693chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d693chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d693chs4.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳Wi-Fi on planes, the Arjun Kapoor bias and more…"](https://finshots.in/archive/wi-fi-on-planes-the-arjun-kapoor-bias-and-more-2/)
+- 📰 [Daily English News -> "Chrome’s “link to highlight” feature could work for PDFs soon"](https://www.theverge.com/2025/1/4/24335910/chromes-link-to-highlight-feature-could-work-for-pdfs-soon)
+</p></details>
 <details><summary><u>Day 692</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d692e1.png)
