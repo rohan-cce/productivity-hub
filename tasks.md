@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 693 days (13/02/2023 to 05/01/2025)
+Learning Progress Till Now -> 694 days (13/02/2023 to 06/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 694</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d694e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d694ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d694chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d694chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d694chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d694chs4.png)
+- 💰📈 [Finshots ~ "Business - Carvana vs Hindenburg simplified"](https://finshots.in/archive/carvana-vs-hindenburg-simplified-accounting-fraud/)
+- 📰 [Daily English News -> "Stolen e-bike batteries could be made worthless if Bosch was less greedy"](https://www.theverge.com/2025/1/5/24336198/e-bike-battery-lock-bosch-anti-theft-date-ota)
+</p></details>
 <details><summary><u>Day 693</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d693e1.png)
