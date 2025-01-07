@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 694 days (13/02/2023 to 06/01/2025)
+Learning Progress Till Now -> 695 days (13/02/2023 to 07/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 695</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d695e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d695ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d695chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d695chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d695chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d695chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - How yen carry trades impact the markets"](https://finshots.in/archive/how-yen-carry-trades-impact-the-markets/)
+- 📰 [Daily English News -> "Sony and Honda’s Afeela electric car will start at $89,900"](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
+</p></details>
 <details><summary><u>Day 694</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d694e1.png)
