@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 695 days (13/02/2023 to 07/01/2025)
+Learning Progress Till Now -> 696 days (13/02/2023 to 08/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 696</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d696e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d696ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d696chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d696chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d696chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d696chs4.png)
+- 💰📈 [Finshots ~ "Economy - Is Kerala’s lottery system a masterstroke by the government?"](https://finshots.in/archive/is-keralas-lottery-system-a-masterstroke-by-the-government/)
+- 📰 [Daily English News -> "This toaster-looking gadget boosts your phone’s battery in seconds"](https://www.theverge.com/2025/1/6/24337684/swippitt-phone-charging-system-ces-2025)
+</p></details>
 <details><summary><u>Day 695</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d695e1.png)
