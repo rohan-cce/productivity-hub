@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 697 days (13/02/2023 to 09/01/2025)
+Learning Progress Till Now -> 698 days (13/02/2023 to 10/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 698</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d698e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d698ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d698chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d698chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d698chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d698chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - What’s cooking with Gold ETFs in India?"](https://finshots.in/archive/whats-cooking-with-gold-etfs-in-india/)
+- 📰 [Daily English News -> "Apple’s weird iPhone alarm problems are still happening"](https://www.theverge.com/2025/1/9/24340238/apple-iphone-alarm-broken-timing-failed)
+</p></details>
 <details><summary><u>Day 697</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d697e1.png)
