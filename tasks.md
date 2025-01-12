@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 699 days (13/02/2023 to 11/01/2025)
+Learning Progress Till Now -> 700 days (13/02/2023 to 12/01/2025)
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
+<details><summary><u>Day 700</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d700e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D651-D700/d700ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d700chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d700chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d700chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D651-D700/d700chs4.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳Not your regular Sunny Side Up"](https://finshots.in/archive/sunny-side-up-finshots-cracks-crypto-apple-iphone-click-to-cancel-subscriptions/)
+- 📰 [Daily English News -> "Asus announced a NUC AI mini PC topped with a color E Ink display"](https://www.theverge.com/2025/1/11/24341707/asus-announces-a-nuc-ai-mini-pc-topped-with-a-color-e-ink-display)
+</p></details>
 <details><summary><u>Day 699</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D651-D700/d699e1.png)
