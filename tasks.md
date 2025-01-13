@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 700 days (13/02/2023 to 12/01/2025)
+Learning Progress Till Now -> 701 days (13/02/2023 to 13/01/2025)
+<details><summary><u>Day 701 - Day 701 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+<details><summary><u>Day 701</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d701e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d701ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d701chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d701chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d701chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d701chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Is the London Stock Exchange losing its relevance?"](https://finshots.in/archive/is-the-london-stock-exchange-losing-its-relevance/)
+- 📰 [Daily English News -> "Why Honda is merging with Nissan: factories, SUVs, and China"](https://www.theverge.com/2025/1/11/24339888/honda-nissan-merge-china-ev-hybrid-suv-factory-ces)
+</p></details>
+</p></details>
 <details><summary><u>Day 691 - Day 700 ~ January 03, 2025 - January 12, 2025</u></summary><p>
 <details><summary><u>Day 700</u></summary><p>
 
