@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 701 days (13/02/2023 to 13/01/2025)
-<details><summary><u>Day 701 - Day 701 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+Learning Progress Till Now -> 702 days (13/02/2023 to 14/01/2025)
+<details><summary><u>Day 701 - Day 710 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+<details><summary><u>Day 702</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d702e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d702ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d702chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d702chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d702chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d702chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d702b1.png)
+- 💰📈 [Finshots ~ "Economy - Why does Trump want to buy Greenland?"](https://finshots.in/archive/why-does-trump-want-to-buy-greenland/)
+- 📰 [Daily English News -> "Microsoft creates new AI engineering group led by former Meta executive"](https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh)
+</p></details>
 <details><summary><u>Day 701</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d701e1.png)
