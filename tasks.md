@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 704 days (13/02/2023 to 16/01/2025)
+Learning Progress Till Now -> 705 days (13/02/2023 to 17/01/2025)
 <details><summary><u>Day 701 - Day 710 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+<details><summary><u>Day 705</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d705e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d705ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d705chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d705chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d705chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d705chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d705b1.png)
+- 💰📈 [Finshots ~ "Markets - The Barflex Polyfilms Ltd SME IPO"](https://finshots.in/markets/the-barflex-polyfilms-ltd-sme-ipo/)
+- 📰 [Daily English News -> "Here’s the Nintendo Switch 2"](https://www.theverge.com/2025/1/16/23872810/nintendo-switch-2-next-generation-console-features-trailer)
+</p></details>
 <details><summary><u>Day 704</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d704e1.png)
