@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 705 days (13/02/2023 to 17/01/2025)
+Learning Progress Till Now -> 706 days (13/02/2023 to 18/01/2025)
 <details><summary><u>Day 701 - Day 710 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+<details><summary><u>Day 706</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d706e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d706ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d706chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d706chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d706chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d706chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d706b1.png)
+- 💰📈 [Finshots ~ "Weekly - Stallion India IPO, Bitcoin & crypto basics, LSE’s struggles and more..."](https://finshots.in/archive/wrapup-lse-trump-greenland-cost-internet-shutdown-cognizant-retirement-age-crypto/)
+- 📰 [Daily English News -> "Apple is pausing notification summaries for news in the latest iOS 18.3 beta"](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)
+</p></details>
 <details><summary><u>Day 705</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d705e1.png)
