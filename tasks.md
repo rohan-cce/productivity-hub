@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 709 days (13/02/2023 to 21/01/2025)
+Learning Progress Till Now -> 710 days (13/02/2023 to 22/01/2025)
 <details><summary><u>Day 701 - Day 710 ~ January 13, 2025 - January 22, 2025</u></summary><p>
+<details><summary><u>Day 710</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d710e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d710ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d710chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d710chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d710chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d710chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d710b1.png)
+- 💰📈 [Finshots ~ "Business - Inside the Kirloskar family feud and SEBI's involvement"](https://finshots.in/archive/kirloskar-family-feud-sebi-involvement/)
+- 📰 [Daily English News -> "Microsoft will automatically keep you signed in to your account starting in February"](https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february)
+</p></details>
 <details><summary><u>Day 709</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d709e1.png)
