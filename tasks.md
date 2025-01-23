@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 710 days (13/02/2023 to 22/01/2025)
+Learning Progress Till Now -> 711 days (13/02/2023 to 23/01/2025)
+<details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 711</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d711e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d711ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d711chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d711chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d711chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d711chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d711b1.png)
+- 💰📈 [Finshots ~ "Economy - What if India got back everything the UK stole?"](https://finshots.in/archive/what-if-india-got-back-everything-the-uk-stole/)
+- 📰 [Daily English News -> "Google’s Gemini is already winning the next-gen assistant wars"](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa)
+</p></details>
+</p></details>
 <details><summary><u>Day 701 - Day 710 ~ January 13, 2025 - January 22, 2025</u></summary><p>
 <details><summary><u>Day 710</u></summary><p>
 
