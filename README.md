@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 711 days (13/02/2023 to 23/01/2025)
+Learning Progress Till Now -> 712 days (13/02/2023 to 24/01/2025)
 <details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 712</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d712e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d712ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d712chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d712chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d712chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d712chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d712b1.png)
+- 💰📈 [Finshots ~ "Capital Markets Finshots Cracks Crypto #2: What's Money?! From Barter to Bitcoin🤯"](https://finshots.in/archive/fcc-2-whats-money-from-barter-to-bitcoin-2/)
+- 📰 [Daily English News -> "The Cadillac Lyriq-V is quicker than the CT5-V Blackwing"](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)
+</p></details>
 <details><summary><u>Day 711</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d711e1.png)
