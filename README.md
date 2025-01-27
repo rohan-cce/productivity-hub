@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 714 days (13/02/2023 to 26/01/2025)
+Learning Progress Till Now -> 715 days (13/02/2023 to 27/01/2025)
 <details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 715</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d715e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d715ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d715chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d715chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d715chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d715chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d715b1.png)
+- 💰📈 [Finshots ~ "Policy - Are EV subsidies bad?"](https://finshots.in/archive/are-ev-subsidies-bad-oe-biden-ev-policy-reversed-ev-market-challenges-ev-tax-credits/)
+- 📰 [Daily English News -> "Galaxy Unpacked 2025: everything announced at the January event"](https://www.theverge.com/2025/1/22/24348685/samsung-galaxy-unpacked-2025-event-announcements-products)
+</p></details>
 <details><summary><u>Day 714</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d714e1.png)
