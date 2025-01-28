@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 715 days (13/02/2023 to 27/01/2025)
+Learning Progress Till Now -> 716 days (13/02/2023 to 28/01/2025)
 <details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 716</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d716e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d716ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d716chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d716chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d716chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d716chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d716b1.png)
+- 💰📈 [Finshots ~ "Business - Why is Netflix betting big on WWE LIVE events?"](https://finshots.in/archive/why-is-netflix-betting-big-on-wwe-live-events/)
+- 📰 [Daily English News -> "The 2025 Android upgrade cycle has begun"](https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer)
+</p></details>
 <details><summary><u>Day 715</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d715e1.png)
