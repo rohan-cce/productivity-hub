@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 716 days (13/02/2023 to 28/01/2025)
+Learning Progress Till Now -> 717 days (13/02/2023 to 29/01/2025)
 <details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 717</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d717e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d717ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d717chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d717chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d717chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d717chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d717b1.png)
+- 💰📈 [Finshots ~ "Policy - MGNREGS failing the rural poor?"](https://finshots.in/archive/mgnregs-failing-the-rural-poor-mgnrega-government-india/)
+- 📰 [Daily English News -> "Google Play will now verify VPNs that prioritize privacy and safety"](https://www.theverge.com/news/599214/google-play-vpn-verification-badges)
+</p></details>
 <details><summary><u>Day 716</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d716e1.png)
