@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 717 days (13/02/2023 to 29/01/2025)
+Learning Progress Till Now -> 718 days (13/02/2023 to 30/01/2025)
 <details><summary><u>Day 711 - Day 720 ~ January 23, 2025 - February 01, 2025</u></summary><p>
+<details><summary><u>Day 718</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d718e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d718ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d718chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d718chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d718chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d718chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d718b1.png)
+- 💰📈 [Finshots ~ "Business - DeepSeek — The Model that broke the market"](https://finshots.in/archive/deepseek-the-model-that-broke-the-market/)
+- 📰 [Daily English News -> "Books written by humans are getting their own certification"](https://www.theverge.com/news/602918/human-authored-book-certification-ai-authors-guild)
+</p></details>
 <details><summary><u>Day 717</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d717e1.png)
