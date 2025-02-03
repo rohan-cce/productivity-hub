@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 721 days (13/02/2023 to 02/02/2025)
+Learning Progress Till Now -> 722 days (13/02/2023 to 03/02/2025)
 <details><summary><u>Day 721 - Day 730 ~ February 02, 2025 - February 11, 2025</u></summary><p>
+<details><summary><u>Day 722</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d722e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d722ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d722chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d722chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d722chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d722chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d722b1.png)
+- 💰📈 [Finshots ~ "Economy - The Economic Survey 2025 explained"](https://finshots.in/archive/the-economic-survey-2025-explained/)
+- 📰 [Daily English News -> "Trump imposes sweeping tariffs on Canada, Mexico, and China"](https://www.theverge.com/news/600334/trump-us-tariffs-imported-semiconductors-chips)
+</p></details>
 <details><summary><u>Day 721</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d721e1.png)
