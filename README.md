@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 724 days (13/02/2023 to 05/02/2025)
+Learning Progress Till Now -> 725 days (13/02/2023 to 06/02/2025)
 <details><summary><u>Day 721 - Day 730 ~ February 02, 2025 - February 11, 2025</u></summary><p>
 <details><summary><u>Day 724</u></summary><p>
 
