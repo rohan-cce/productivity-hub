@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 726 days (13/02/2023 to 07/02/2025)
+Learning Progress Till Now -> 727 days (13/02/2023 to 08/02/2025)
 <details><summary><u>Day 721 - Day 730 ~ February 02, 2025 - February 11, 2025</u></summary><p>
+<details><summary><u>Day 727</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d727e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d727ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d727chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d727chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d727chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d727chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d727b1.png)
+- 💰📈 [Finshots ~ "Weekly - The WeWork India IPO, Budget & Economic Survey simplified & more…"](https://finshots.in/archive/wework-india-ipo-budget-economic-survey-2025-indian-railways-privatisation-donald-trump-canada-mexico-china-tariff-usaid-shutdown/)
+- 📰 [Daily English News -> "Let’s talk about the battery in smart glasses"](https://www.theverge.com/news/608248/smart-glasses-battery-wearables)
+</p></details>
 <details><summary><u>Day 726</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d726e1.png)
