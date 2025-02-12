@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 729 days (13/02/2023 to 11/02/2025)
+Learning Progress Till Now -> 731 days (13/02/2023 to 12/02/2025)
+<details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 731</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d731e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d731ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d731chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d731chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d731chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d731chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d731b1.png)
+- 💰📈 [Finshots ~ "Markets - Are unlisted companies giving listed ones tough competition?"](https://finshots.in/markets/are-unlisted-companies-giving-listed-ones-a-tough-competition/)
+- 📰 [Daily English News -> "Qualcomm brings generative AI to its cheap chips"](https://www.theverge.com/news/610969/auto-draft)
+</p></details>
+</p></details>
 <details><summary><u>Day 721 - Day 730 ~ February 02, 2025 - February 11, 2025</u></summary><p>
 <details><summary><u>Day 730</u></summary><p>
 
