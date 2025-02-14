@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 732 days (13/02/2023 to 13/02/2025)
+Learning Progress Till Now -> 733 days (13/02/2023 to 14/02/2025)
 <details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 733</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d733e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d733ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d733chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d733chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d733chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d733chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d733b1.png)
+- 💰📈 [Finshots ~ "A bit of Everything - Finshots Cracks Crypto #5: Web3, crypto, and the great internet reset"](https://finshots.in/archive/finshots-cracks-crypto-5-web3-crypto-and-the-great-internet-reset-2/)
+- 📰 [Daily English News -> "Yamaha made a boat remote"](https://www.theverge.com/news/611236/yamaha-boat-helmmaster-ex-wireless-remote-control)
+</p></details>
 <details><summary><u>Day 732</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d732e1.png)
