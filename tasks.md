@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 733 days (13/02/2023 to 14/02/2025)
+Learning Progress Till Now -> 734 days (13/02/2023 to 15/02/2025)
 <details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 734</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d734e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d734ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d734chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d734chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d734chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d734chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d734b1.png)
+- 💰📈 [Finshots ~ "A bit of Everything - A beginner’s guide to understanding the new Income Tax Bill"](https://finshots.in/archive/a-beginners-guide-to-understanding-the-new-income-tax-bill/)
+- 📰 [Daily English News -> "Amazon’s killing a feature that let you download and backup Kindle books"](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
+</p></details>
 <details><summary><u>Day 733</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d733e1.png)
