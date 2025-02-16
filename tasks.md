@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 734 days (13/02/2023 to 15/02/2025)
+Learning Progress Till Now -> 735 days (13/02/2023 to 16/02/2025)
 <details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 735</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d735e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d735ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d735chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d735chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d735chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d735chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d735b1.png)
+- 💰📈 [Finshots ~ "🍳 AI dates, banks flying gold to the US and more…"](https://finshots.in/archive/ai-love-banks-jp-morgan-hsbc-flying-gold-to-the-us-valentines-day/)
+- 📰 [Daily English News -> "A reminder that there is a way out of Google’s AI Search"](https://www.theverge.com/news/613907/google-search-ai-overviews-avoid-udm14)
+</p></details>
 <details><summary><u>Day 734</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d734e1.png)
