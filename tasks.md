@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 735 days (13/02/2023 to 16/02/2025)
+Learning Progress Till Now -> 736 days (13/02/2023 to 17/02/2025)
 <details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 736</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d736e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d736ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d736chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d736chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d736chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d736chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d736b1.png)
+- 💰📈 [Finshots ~ "Policy - Can GIFT City take off as India’s aircraft leasing hub?"](https://finshots.in/archive/can-gift-city-take-off-as-indias-aircraft-leasing-hub/)
+- 📰 [Daily English News -> "The New York Times adopts AI tools in the newsroom"](https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo)
+</p></details>
 <details><summary><u>Day 735</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d735e1.png)
