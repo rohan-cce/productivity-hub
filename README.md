@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 739 days (13/02/2023 to 20/02/2025)
+Learning Progress Till Now -> 740 days (13/02/2023 to 20/02/2025)
 <details><summary><u>Day 731 - Day 740 ~ February 12, 2025 - February 21, 2025</u></summary><p>
+<details><summary><u>Day 740</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d740e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d740ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d740chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d740chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d740chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d740chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d740b1.png)
+- 💰📈 [Finshots ~ "Nvidia is launching ‘priority access’ to help fans buy RTX 5080 and 5090 FE GPUs"](https://www.theverge.com/news/616138/nvidia-verified-priority-access-to-help-fans-buy-rtx-5080-and-5090)
+- 📰 [Daily English News -> "Capital Markets - Finshots Cracks Crypto #6: A simple guide to crypto trading, investing and taxes in India"](https://finshots.in/archive/finshots-cracks-crypto-6-a-simple-guide-to-crypto-trading-investing-and-taxes-in-india/)
+</p></details>
 <details><summary><u>Day 739</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d739e1.png)
