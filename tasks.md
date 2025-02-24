@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 742 days (13/02/2023 to 23/02/2025)
+Learning Progress Till Now -> 743 days (13/02/2023 to 24/02/2025)
 <details><summary><u>Day 741 - Day 750 ~ February 22, 2025 - March 03, 2025</u></summary><p>
+<details><summary><u>Day 743</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d743e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d743ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d743chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d743chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d743chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d743chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d743b1.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Paying to avoid traffic, rewards for mosquito and more…"](https://finshots.in/archive/mosquito-reward-philippines-congestion-pricing-traffic-new-york-india-cowasji-nanabhai-davar-bombay-mills/)
+- 📰 [Daily English News -> "Google may be close to launching YouTube Premium Lite"](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)
+</p></details>
 <details><summary><u>Day 742</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d742e1.png)
