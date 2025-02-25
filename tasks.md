@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 743 days (13/02/2023 to 24/02/2025)
+Learning Progress Till Now -> 744 days (13/02/2023 to 25/02/2025)
 <details><summary><u>Day 741 - Day 750 ~ February 22, 2025 - March 03, 2025</u></summary><p>
+<details><summary><u>Day 744</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d744e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D701-D750/d744ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d744chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d744chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d744chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D701-D750/d744chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D701-D750/d744b1.png)
+- 💰📈 [Finshots ~ "Business - Reliance, ONGC, and the missing unitisation agreement"](https://finshots.in/archive/reliance-ongc-billion-dollar-unitisation-gas-dispute/)
+- 📰 [Daily English News -> "Spotify HiFi was announced four years ago, and it’s almost here — maybe"](https://www.theverge.com/spotify/617927/spotify-hifi-music-pro-coming-2025)
+</p></details>
 <details><summary><u>Day 743</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D701-D750/d743e1.png)
