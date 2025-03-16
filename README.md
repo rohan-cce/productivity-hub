@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 762 days (13/02/2023 to 15/03/2025)
+Learning Progress Till Now -> 763 days (13/02/2023 to 16/03/2025)
 <details><summary><u>Day 761 - Day 770 ~ March 14, 2025 - March 23, 2025</u></summary><p>
+<details><summary><u>Day 763</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d763e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d763ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d763chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d763chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d763chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d763chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d763b1.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳 Gene edited bananas, living coffins and more"](https://finshots.in/archive/gene-edited-bananas-living-coffins-mushroom-bernie-madoff/)
+- 📰 [Daily English News -> "Anthropic’s plan to win the AI race"](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)
+</p></details>
 <details><summary><u>Day 762</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d762e1.png)
