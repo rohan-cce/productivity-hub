@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 767 days (13/02/2023 to 20/03/2025)
+Learning Progress Till Now -> 768 days (13/02/2023 to 21/03/2025)
 <details><summary><u>Day 761 - Day 770 ~ March 14, 2025 - March 23, 2025</u></summary><p>
+<details><summary><u>Day 768</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d768e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d768ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d768chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d767chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d768chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d768chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d768b1.png)
+- 💰📈 [Finshots ~ "Business - Will LIC change the health insurance market in India?"](https://finshots.in/archive/will-lic-change-the-health-insurance-market-in-india/)
+- 📰 [Daily English News -> "Google sues alleged scammers over 10,000 fake Maps listings"](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)
+</p></details>
 <details><summary><u>Day 767</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d767e1.png)
