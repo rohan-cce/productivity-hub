@@ -1,5 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 770 days (13/02/2023 to 23/03/2025)
+Learning Progress Till Now -> 771 days (13/02/2023 to 23/03/2025)
+<details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
+<details><summary><u>Day 771</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d771e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d771ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d771b1.png)
+- 💰📈 [Finshots ~ ""]()
+- 📰 [Daily English News -> ""()
+</p></details>
+</p></details>
+
 <details><summary><u>Day 761 - Day 770 ~ March 14, 2025 - March 23, 2025</u></summary><p>
 <details><summary><u>Day 770</u></summary><p>
 
