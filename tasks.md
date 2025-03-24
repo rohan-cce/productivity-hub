@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 771 days (13/02/2023 to 23/03/2025)
+Learning Progress Till Now -> 771 days (13/02/2023 to 24/03/2025)
 <details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
 <details><summary><u>Day 771</u></summary><p>
 
@@ -11,11 +11,10 @@ Learning Progress Till Now -> 771 days (13/02/2023 to 23/03/2025)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d771chs4.png)
 - ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d771b1.png)
-- 💰📈 [Finshots ~ ""]()
-- 📰 [Daily English News -> ""()
+- 💰📈 [Finshots ~ "Business - Can India afford the weight-loss and diabetes drug revolution"](https://finshots.in/archive/can-india-afford-the-weight-loss-and-diabetes-drug-revolution/)
+- 📰 [Daily English News -> "Google confirms it deleted Maps Timeline data for some"](https://www.theverge.com/news/634442/google-maps-timeline-data-deleted-cloud-backup-recovery)
 </p></details>
 </p></details>
-
 <details><summary><u>Day 761 - Day 770 ~ March 14, 2025 - March 23, 2025</u></summary><p>
 <details><summary><u>Day 770</u></summary><p>
 
