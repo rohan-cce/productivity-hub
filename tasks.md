@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 772 days (13/02/2023 to 25/03/2025)
+Learning Progress Till Now -> 773 days (13/02/2023 to 26/03/2025)
 <details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
+<details><summary><u>Day 773</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d773e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d773ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d773chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d773chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d773chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d773chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d773b1.png)
+- 💰📈 [Finshots ~ "Business - Why are dating apps struggling?"](https://finshots.in/archive/why-are-dating-apps-struggling-tinder-bumble-okcupid-hinge-plentyoffish-match-grindr/)
+- 📰 [Daily English News -> "OpenAI rolls out image generation powered by GPT-4o to ChatGPT"](https://www.theverge.com/openai/635118/chatgpt-sora-ai-image-generation-chatgpt)
+</p></details>
 <details><summary><u>Day 772</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d772e1.png)
