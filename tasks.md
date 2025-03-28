@@ -1,6 +1,32 @@
 # productivity-hub
-Learning Progress Till Now -> 774 days (13/02/2023 to 27/03/2025)
+Learning Progress Till Now -> 775 days (13/02/2023 to 28/03/2025)
 <details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
+<details><summary><u>Day 775</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d775e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d775ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d775chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d775chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d775chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d775chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d775b1.png)
+- 💰📈 [Finshots ~ "Business - OpenAI's new AI model just made everyone a designer overnight"](https://finshots.in/archive/openai-new-ai-model-just-made-everyone-a-designer-overnight-ghibli/)
+- 📰 [Daily English News -> "Ploopy upgraded its open-source trackball with better scrolling"](https://www.theverge.com/news/637794/ploopyploopy-classic-2-trackball-open-source-upgrade)
+</p></details>
+<details><summary><u>Day 774</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d774e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d774ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d774chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d774chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d774chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d774chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d774b1.png)
+- 💰📈 [Finshots ~ "A bit of Everything - UK’s waste tyres fueling a crisis in India"](https://finshots.in/archive/uk-waste-tyres-fueling-crisis-india-elt-pyrolysis/)
+- 📰 [Daily English News -> "OpenAI expects to earn $12.7 billion in revenue this year."](https://www.theverge.com/openai/636958/openai-revenue-projection-bloomberg)
+</p></details>
 <details><summary><u>Day 773</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d773e1.png)
