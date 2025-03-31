@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 777 days (13/02/2023 to 30/03/2025)
+Learning Progress Till Now -> 778 days (13/02/2023 to 31/03/2025)
 <details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
+<details><summary><u>Day 778</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d778e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d778ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d778chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d778chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d778chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d778chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d778b1.png)
+</p></details>
 <details><summary><u>Day 777</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d777e1.png)
@@ -17,10 +28,10 @@ Learning Progress Till Now -> 777 days (13/02/2023 to 30/03/2025)
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d776e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d776ls1.png)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d7756chs1.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d776chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d776chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d7756chs3.png)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d7756chs4.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d776chs3.png)
+- ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d776chs4.png)
 - ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d776b1.png)
 </p></details>
 <details><summary><u>Day 775</u></summary><p>
