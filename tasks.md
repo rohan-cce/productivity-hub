@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 780 days (13/02/2023 to 02/04/2025)
+Learning Progress Till Now -> 781 days (13/02/2023 to 03/04/2025)
+<details><summary><u>Day 781 - Day 790 ~ April 03, 2025 - April 12, 2025</u></summary><p>
+<details><summary><u>Day 781</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d781e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d781ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d781chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d781chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d781chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d781chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d781b1.png)
+- 💰📈 [Finshots ~ "Capital Markets - Why Warren Buffett isn't a fan of gold"](https://finshots.in/archive/why-warren-buffett-isnt-a-fan-of-gold/)
+- 📰 [Daily English News -> "Donald Trump announces tariffs that could raise the price of almost everything you buy"](https://www.theverge.com/news/642240/trump-tariffs-imports-apple-manufacturing)
+</p></details>
+</p></details>
 <details><summary><u>Day 771 - Day 780 ~ March 24, 2025 - April 02, 2025</u></summary><p>
 <details><summary><u>Day 780</u></summary><p>
 
