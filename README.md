@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 784 days (13/02/2023 to 06/04/2025)
+Learning Progress Till Now -> 785 days (13/02/2023 to 07/04/2025)
 <details><summary><u>Day 781 - Day 790 ~ April 03, 2025 - April 12, 2025</u></summary><p>
+<details><summary><u>Day 785</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d785e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d785ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d785chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d785chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d785chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d785chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d785b1.png)
+- 💰📈 [Finshots ~ "Economy - The economics of rising natural gas prices"](https://finshots.in/archive/the-economics-of-rising-natural-gas-prices/)
+- 📰 [Daily English News -> "Microsoft has created an AI-generated version of Quake"](https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot)
+</p></details>
 <details><summary><u>Day 784</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d784e1.png)
