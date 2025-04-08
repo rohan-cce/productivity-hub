@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 785 days (13/02/2023 to 07/04/2025)
+Learning Progress Till Now -> 786 days (13/02/2023 to 08/04/2025)
 <details><summary><u>Day 781 - Day 790 ~ April 03, 2025 - April 12, 2025</u></summary><p>
+<details><summary><u>Day 786</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d786e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d786ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d786chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d786chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d786chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d786chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d786b1.png)
+- 💰📈 [Finshots ~ "A bit of Everything  - Why all the helium might disappear into space forever"](https://finshots.in/archive/why-all-the-helium-might-disappear-into-space-forever/)
+- 📰 [Daily English News -> "How an unused nuclear power plant became home to a world-class acoustics lab"](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
+</p></details>
 <details><summary><u>Day 785</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d785e1.png)
