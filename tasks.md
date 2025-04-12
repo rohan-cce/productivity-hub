@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 789 days (13/02/2023 to 11/04/2025)
+Learning Progress Till Now -> 790 days (13/02/2023 to 11/04/2025)
 <details><summary><u>Day 781 - Day 790 ~ April 03, 2025 - April 12, 2025</u></summary><p>
+<details><summary><u>Day 790</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d789e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d790ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d790chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d790chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d790chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d790chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d790b1.png)
+- 💰📈 [Finshots ~ "Capital Markets - Warren Buffett wanted you to buy this market dip"](https://finshots.in/archive/warren-buffett-wanted-you-to-buy-this-market-dip/)
+- 📰 [Daily English News -> "How the tech world is responding to tariff chaos"](https://www.theverge.com/the-vergecast/647001/tariffs-trump-tech-prices-vergecast)
+</p></details>
 <details><summary><u>Day 789</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d789e1.png)
