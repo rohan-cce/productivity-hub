@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 796 days (13/02/2023 to 18/04/2025)
+Learning Progress Till Now -> 797 days (13/02/2023 to 19/04/2025)
 <details><summary><u>Day 791 - Day 800 ~ April 13, 2025 - April 22, 2025</u></summary><p>
+<details><summary><u>Day 797</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d797e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D751-D800/d797ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d797chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d797chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d797chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D751-D800/d797chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D751-D800/d797b1.png)
+- 💰📈 [Finshots ~ "Business - Trent's dream run just hit a speed bump"](https://finshots.in/archive/tata-trent-dream-run-just-hit-a-speed-bump-zudio-westside-reliance-yousta-shein/)
+- 📰 [Daily English News -> "Elon Musk’s SpaceX is reportedly the ‘frontrunner’ for Trump’s missile shield contract"](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)
+</p></details>
 <details><summary><u>Day 796</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D751-D800/d796e1.png)
