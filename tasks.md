@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 805 days (13/02/2023 to 27/04/2025)
+Learning Progress Till Now -> 806 days (13/02/2023 to 28/04/2025)
 <details><summary><u>Day 801 - Day 810 ~ April 23, 2025 - May 02, 2025</u></summary><p>
+<details><summary><u>Day 806</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d806e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d806ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d806chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d806chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d806chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d806chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d806b1.png)
+- 💰📈 [Finshots ~ "Business - The quick commerce vs. kirana stores debate is back!"](https://finshots.in/archive/the-quick-commerce-vs-kirana-stores-debate-is-back-cci-cait/)
+- 📰 [Daily English News -> "Double-tapping the Google Photos search icon brings back classic search."](https://www.theverge.com/news/656920/double-tapping-the-google-photos-search-icon-brings-back-classic-search)
+</p></details>
 <details><summary><u>Day 805</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d805e1.png)
