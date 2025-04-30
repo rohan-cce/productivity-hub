@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 807 days (13/02/2023 to 29/04/2025)
+Learning Progress Till Now -> 808 days (13/02/2023 to 30/04/2025)
 <details><summary><u>Day 801 - Day 810 ~ April 23, 2025 - May 02, 2025</u></summary><p>
+<details><summary><u>Day 808</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d808e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d808ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d808chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d808chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d808chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d808chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d808b1.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳Can Seagrass save the planet, train ATMs and more"](https://finshots.in/archive/can-seagrass-save-the-planet-train-atms-and-more/)
+- 📰 [Daily English News -> "Up to 30 percent of some Microsoft code is now written by"](https://www.theverge.com/news/658584/up-to-30-percent-of-some-microsoft-code-is-now-written-by-ai)
+</p></details>
 <details><summary><u>Day 807</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d807e1.png)
