@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 809 days (13/02/2023 to 01/05/2025)
+Learning Progress Till Now -> 810 days (13/02/2023 to 02/05/2025)
 <details><summary><u>Day 801 - Day 810 ~ April 23, 2025 - May 02, 2025</u></summary><p>
+<details><summary><u>Day 810</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d810e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d810ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d810chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d810chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d810chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d810chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d810b1.png)
+- 💰📈 [Finshots ~ "Capital Markets - Are investors really moving away from US assets?"](https://finshots.in/archive/are-investors-really-moving-away-from-us-assets/)
+- 📰 [Daily English News -> "Mark Zuckerberg is planning a premium tier and ads for Meta’s AI app"](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)
+</p></details>
 <details><summary><u>Day 809</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d809e1.png)
