@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 810 days (13/02/2023 to 02/05/2025)
+Learning Progress Till Now -> 811 days (13/02/2023 to 03/05/2025)
+<details><summary><u>Day 811 - Day 820 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 811</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d811e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d811ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d811chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d811chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d811chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d811chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d811b1.png)
+- 💰📈 [Finshots ~ "Business - Devyani wants a seat at the biryani banquet"](https://finshots.in/archive/devyani-international-wants-a-seat-at-the-biryani-by-kilo-banquet-sky-gate-hospitality-kfc-pizza-hut/)
+- 📰 [Daily English News -> "Microsoft is raising prices on Xbox consoles, controllers, and games worldwide"](https://www.theverge.com/news/659430/microsoft-xbox-console-controller-game-price-increases-worldwide)
+</p></details>
+</p></details>
 <details><summary><u>Day 801 - Day 810 ~ April 23, 2025 - May 02, 2025</u></summary><p>
 <details><summary><u>Day 810</u></summary><p>
 
