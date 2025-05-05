@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 812 days (13/02/2023 to 04/05/2025)
+Learning Progress Till Now -> 813 days (13/02/2023 to 05/05/2025)
 <details><summary><u>Day 811 - Day 820 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 813</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d813e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d813ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d813chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d813chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d813chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d813chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d813b1.png)
+- 💰📈 [Finshots ~ "Business - The MTNL story - Rescue, repeat, regret"](https://finshots.in/archive/the-mtnl-story-rescue-repeat-regret/)
+- 📰 [Daily English News -> "Apple may stagger next year’s iPhones to make way for a foldable"](https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable)
+</p></details>
 <details><summary><u>Day 812</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d812e1.png)
