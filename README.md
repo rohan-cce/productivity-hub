@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 815 days (13/02/2023 to 07/05/2025)
+Learning Progress Till Now -> 816 days (13/02/2023 to 08/05/2025)
 <details><summary><u>Day 811 - Day 820 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 816</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d816e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d816ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d816chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d816chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d816chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d816chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d816b1.png)
+- 💰📈 [Finshots ~ "Economy - The economics of the Indus Waters Treaty explained"](https://finshots.in/archive/the-economics-of-the-indus-waters-treaty-explained/)
+- 📰 [Daily English News -> "Meta’s AI app is a nightmarish social feed"](https://www.theverge.com/meta/660543/meta-ai-app-social-feed)
+</p></details>
 <details><summary><u>Day 815</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d815e1.png)
