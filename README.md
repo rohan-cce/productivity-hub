@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 819 days (13/02/2023 to 11/05/2025)
+Learning Progress Till Now -> 820 days (13/02/2023 to 12/05/2025)
 <details><summary><u>Day 811 - Day 820 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 820</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d820e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d820ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d820chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d820chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d820chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d820chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d820b1.png)
+- 💰📈 [Finshots ~ "Business - Why Reliance wants a bigger slice of quick commerce"](https://finshots.in/archive/why-reliance-wants-a-bigger-slice-of-quick-commerce/)
+- 📰 [Daily English News -> "Google will pay a $1.375 billion settlement to Texas over privacy violations"](https://www.theverge.com/news/664663/google-texas-settlement-1-billion-data-privacy-violations)
+</p></details>
 <details><summary><u>Day 819</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d819e1.png)
