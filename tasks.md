@@ -1,5 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 820 days (13/02/2023 to 12/05/2025)
+Learning Progress Till Now -> 821 days (13/02/2023 to 13/05/2025)
+<details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 821</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d821e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d821ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d821chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d821chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d821chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d821chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d821b1.png)
+- 💰📈 [Finshots ~ "Business - Whisky investment scams explained"](https://finshots.in/archive/whiskey-whisky-investment-scams-explained-uk-ireland-scotch/)
+- 📰 [Daily English News -> "Google just changed its ‘G’ logo"](https://www.theverge.com/news/664958/google-g-logo-gradient-design-change)
+</p></details>
+</p></details>
 <details><summary><u>Day 811 - Day 820 ~ May 03, 2025 - May 12, 2025</u></summary><p>
 <details><summary><u>Day 820</u></summary><p>
 
