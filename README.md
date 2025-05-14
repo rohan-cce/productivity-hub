@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 821 days (13/02/2023 to 13/05/2025)
+Learning Progress Till Now -> 822 days (13/02/2023 to 14/05/2025)
 <details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 822</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d822e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d822ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d822chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d822chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d822chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d822chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d822b1.png)
+- 💰📈 [Finshots ~ "Business - Why’s Mastercard betting big on Stablecoins?"](https://finshots.in/archive/whys-mastercard-betting-big-on-stablecoins/)
+- 📰 [Daily English News -> "Judge slams lawyers for ‘bogus AI-generated research’"](https://www.theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research)
+</p></details>
 <details><summary><u>Day 821</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d821e1.png)
