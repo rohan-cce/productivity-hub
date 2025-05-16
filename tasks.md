@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 823 days (13/02/2023 to 15/05/2025)
+Learning Progress Till Now -> 824 days (13/02/2023 to 16/05/2025)
 <details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 824</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d824e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d824ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d824chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d824chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d824chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d824chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d824b1.png)
+- 💰📈 [Finshots ~ "Business - Why are FMCG companies suddenly obsessed with protein?"](https://finshots.in/archive/why-are-fmcg-companies-suddenly-obsessed-with-protein-2/)
+- 📰 [Daily English News -> "Pinterest says mass account bans were caused by an ‘internal error’"](https://www.theverge.com/news/667837/pinterest-response-mass-account-bans-outrage)
+</p></details>
 <details><summary><u>Day 823</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d823e1.png)
