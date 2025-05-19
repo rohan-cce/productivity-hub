@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 826 days (13/02/2023 to 18/05/2025)
+Learning Progress Till Now -> 827 days (13/02/2023 to 19/05/2025)
 <details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 827</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d827e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d827ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d827chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d827chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d827chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d827chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d827b1.png)
+- 💰📈 [Finshots ~ "Economy - The India-UK FTA explained"](https://finshots.in/archive/the-india-uk-fta-explained-free-trade-agreement/)
+- 📰 [Daily English News -> "Apple is trying to get ‘LLM Siri’ back on track"](https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp)
+</p></details>
 <details><summary><u>Day 826</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d826e1.png)
