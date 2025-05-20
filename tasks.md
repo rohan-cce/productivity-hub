@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 827 days (13/02/2023 to 19/05/2025)
+Learning Progress Till Now -> 828 days (13/02/2023 to 20/05/2025)
 <details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+<details><summary><u>Day 828</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d828e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d828ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d828chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d828chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d828chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d828chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d828b1.png)
+- 💰📈 [Finshots ~ "Capital Markets - Is Warren Buffett really retiring?"](https://finshots.in/archive/is-warren-buffett-really-retiring-berkshire-hathaway-greg-abel/)
+- 📰 [Daily English News -> "Microsoft’s Command Palette is a powerful launcher for apps, search, and more"](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
+</p></details>
 <details><summary><u>Day 827</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d827e1.png)
