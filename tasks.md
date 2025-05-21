@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 828 days (13/02/2023 to 20/05/2025)
-<details><summary><u>Day 821 - Day 830 ~ May 03, 2025 - May 12, 2025</u></summary><p>
+Learning Progress Till Now -> 829 days (13/02/2023 to 21/05/2025)
+<details><summary><u>Day 821 - Day 830 ~ May 13, 2025 - May 22, 2025</u></summary><p>
+<details><summary><u>Day 829</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d829e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d829ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d829chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d829chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d829chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d829chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d829b1.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - Physics builds a brainless bot, fewer sheep to count and more"](https://finshots.in/archive/physics-builds-a-brainless-bot-fewer-sheep-to-count-and-more-2/)
+- 📰 [Daily English News -> "The 15 biggest announcements at Google I/O 2025Google’s"](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)
+</p></details>
 <details><summary><u>Day 828</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d828e1.png)
