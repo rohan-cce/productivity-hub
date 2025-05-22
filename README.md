@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 829 days (13/02/2023 to 21/05/2025)
+Learning Progress Till Now -> 830 days (13/02/2023 to 22/05/2025)
 <details><summary><u>Day 821 - Day 830 ~ May 13, 2025 - May 22, 2025</u></summary><p>
+<details><summary><u>Day 830</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d830e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d830ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d830chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d830chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d830chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d830chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d830b1.png)
+- 💰📈 [Finshots ~ "Business - Is Pepsi losing its pop"](https://finshots.in/archive/sidelined-by-sprite-dr-pepper-is-pepsi-losing-its-pop-beverage-digest-usa-america-soda-wars-coca-cola/)
+- 📰 [Daily English News -> "OpenAI is buying Jony Ive’s AI hardware company"](https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple)
+</p></details>
 <details><summary><u>Day 829</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d829e1.png)
