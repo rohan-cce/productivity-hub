@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 831 days (13/02/2023 to 23/05/2025)
+Learning Progress Till Now -> 832 days (13/02/2023 to 24/05/2025)
 <details><summary><u>Day 831 - Day 840 ~ May 23, 2025 - June 01, 2025</u></summary><p>
+<details><summary><u>Day 832</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d832e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d832ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d832chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d832chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d832chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d832chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d832b1.png)
+- 💰📈 [Finshots ~ "Policy - Will satellite spectrum rules shake up Indian telecom?"](https://finshots.in/archive/will-satellite-spectrum-rules-shake-up-indian-telecom/)
+- 📰 [Daily English News -> "Trump’s tariffs threat extends to Samsung"](https://www.theverge.com/news/673844/trumps-tariffs-threat-extends-to-samsung)
+</p></details>
 <details><summary><u>Day 831</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d831e1.png)
