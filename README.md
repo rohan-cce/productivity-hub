@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 833 days (13/02/2023 to 25/05/2025)
+Learning Progress Till Now -> 834 days (13/02/2023 to 26/05/2025)
 <details><summary><u>Day 831 - Day 840 ~ May 23, 2025 - June 01, 2025</u></summary><p>
+<details><summary><u>Day 834</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d834e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D801-D851/d834ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d834chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d834chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d834chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D801-D851/d834chs4.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D801-D851/d834b1.png)
+- 💰📈 [Finshots ~ "A bit of Everything - Are Humanoids the next big leap for humankind?"](https://finshots.in/archive/are-humanoids-the-next-big-leap-for-humankind/)
+- 📰 [Daily English News -> "Gemini in Chrome feels like a small step toward Google’s agentic era"](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)
+</p></details>
 <details><summary><u>Day 833</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D801-D851/d833e1.png)
