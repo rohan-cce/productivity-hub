@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 851 days (13/02/2023 to 12/06/2025)
+Learning Progress Till Now -> 852 days (13/02/2023 to 13/06/2025)
 <details><summary><u>Day 851 - Day 860 ~ June 12, 2025 - June 21, 2025</u></summary><p>
+<details><summary><u>Day 852</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d852e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d852ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d852chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d852chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d852chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d852chs4.png)
+</p></details>
 <details><summary><u>Day 851</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d851e1.png)
@@ -10,7 +20,6 @@ Learning Progress Till Now -> 851 days (13/02/2023 to 12/06/2025)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d851chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d851chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d851chs4.png)
-- 💰📈 [Finshots ~ ""]()
 - 📰 [Daily English News -> "Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water"](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)
 </p></details>
 </p></details>
