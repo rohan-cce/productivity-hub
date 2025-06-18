@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 856 days (13/02/2023 to 17/06/2025)
+Learning Progress Till Now -> 857 days (13/02/2023 to 18/06/2025)
 <details><summary><u>Day 851 - Day 860 ~ June 12, 2025 - June 21, 2025</u></summary><p>
+<details><summary><u>Day 857</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d857e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d857ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d857chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d857chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d857chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d857chs4.png)
+- 💰📈 [Finshots ~ "A bit of Everything - Are we ready to cure cancer?"](https://finshots.in/archive/are-we-ready-to-cure-cancer/)
+- 📰 [Daily English News -> "Microsoft’s next-gen Xbox has an AMD chip inside and is ‘not locked to a single store’"](https://www.theverge.com/news/688407/microsoft-next-gen-xbox-cloud-amd)
+</p></details>
 <details><summary><u>Day 856</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d856e1.png)
