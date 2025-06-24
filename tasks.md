@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 862 days (13/02/2023 to 23/06/2025)
+Learning Progress Till Now -> 863 days (13/02/2023 to 24/06/2025)
 <details><summary><u>Day 861 - Day 870 ~ June 22, 2025 - July 01, 2025</u></summary><p>
+<details><summary><u>Day 863</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d863e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d863ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d863chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d863chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d863chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d863chs4.png)
+- 💰📈 [Finshots ~ "Business - Is ANI a bully?"](https://finshots.in/archive/is-ani-a-bully-mohak-mangal-youtube-copyright-strike/)
+- 📰 [Daily English News -> "Nomad’s minimalist MagSafe wallet has a tracking card built in"](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)
+</p></details>
 <details><summary><u>Day 862</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d862e1.png)
