@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 863 days (13/02/2023 to 24/06/2025)
+Learning Progress Till Now -> 864 days (13/02/2023 to 25/06/2025)
 <details><summary><u>Day 861 - Day 870 ~ June 22, 2025 - July 01, 2025</u></summary><p>
+<details><summary><u>Day 864</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d864e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d864ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d864chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d864chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d864chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d864chs4.png)
+- 💰📈 [Finshots ~ "A bit of Everything - What’s up with Cartoon Network?"](https://finshots.in/archive/whats-up-with-cartoon-network/)
+- 📰 [Daily English News -> "Philips Hue is raising prices in the US ‘as a direct result of tariffs’"](https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase)
+</p></details>
 <details><summary><u>Day 863</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d863e1.png)
