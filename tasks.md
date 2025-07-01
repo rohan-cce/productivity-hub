@@ -1,6 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 869 days (13/02/2023 to 30/06/2025)
+Learning Progress Till Now -> 870 days (13/02/2023 to 01/07/2025)
 <details><summary><u>Day 861 - Day 870 ~ June 22, 2025 - July 01, 2025</u></summary><p>
+<details><summary><u>Day 870</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d870e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d870ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d870chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d870chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d870chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d870chs4.png)
+- 💰📈 [Finshots ~ "Economy - Japan is no more the world's top creditor. But why?"](https://finshots.in/archive/japan-is-no-more-the-worlds-top-creditor-but-why-germany/)
+- 📰 [Daily English News -> "Google kills its Keep app on Apple Watch"](https://www.theverge.com/news/695590/google-keep-apple-watch-watchos-removed)
+</p></details>
+<details><summary><u>Day 869</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d869e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d869ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d869chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d869chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d869chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d869chs4.png)
+- 💰📈 [Finshots ~ "Economy - Japan is no more the world's top creditor. But why?"](https://finshots.in/archive/whats-up-with-cartoon-network/)
+- 📰 [Daily English News -> "How vulnerable is critical infrastructure to cyberattack in the US?"](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran)
+</p></details>
 <details><summary><u>Day 869</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d869e1.png)
