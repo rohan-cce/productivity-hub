@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 870 days (13/02/2023 to 01/07/2025)
+Learning Progress Till Now -> 871 days (13/02/2023 to 02/07/2025)
+<details><summary><u>Day 871 - Day 880 ~ July 02, 2025 - July 11, 2025</u></summary><p>
+<details><summary><u>Day 871</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d871e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d871ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d871chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d871chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d871chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d871chs4.png)
+- 💰📈 [Finshots ~ "Economy - The RBI Annual Report decoded"](https://finshots.in/archive/the-rbi-annual-report-decoded-2024-25-fy25/)
+- 📰 [Daily English News -> "Google gets $314M class action bill over Android data use"](https://www.theverge.com/news/696411/google-gets-314m-class-action-bill-over-android-data-use)
+</p></details>
+</p></details>
 <details><summary><u>Day 861 - Day 870 ~ June 22, 2025 - July 01, 2025</u></summary><p>
 <details><summary><u>Day 870</u></summary><p>
 
