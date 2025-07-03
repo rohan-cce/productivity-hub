@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 871 days (13/02/2023 to 02/07/2025)
+Learning Progress Till Now -> 872 days (13/02/2023 to 03/07/2025)
 <details><summary><u>Day 871 - Day 880 ~ July 02, 2025 - July 11, 2025</u></summary><p>
+<details><summary><u>Day 872</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d872e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d872ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d872chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d872chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d872chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d872chs4.png)
+- 💰📈 [Finshots ~ "Macro - When rare earth magnets become auto industry’s weakest link"](https://finshots.in/archive/when-rare-earth-magnets-become-auto-industrys-weakest-link/)
+- 📰 [Daily English News -> "Google makes it easier to let friends and kids control your smart home"](https://www.theverge.com/news/696189/google-home-member-admin-kids-launch)
+</p></details>
 <details><summary><u>Day 871</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d871e1.png)
