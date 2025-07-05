@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 873 days (13/02/2023 to 04/07/2025)
+Learning Progress Till Now -> 874 days (13/02/2023 to 05/07/2025)
 <details><summary><u>Day 871 - Day 880 ~ July 02, 2025 - July 11, 2025</u></summary><p>
+<details><summary><u>Day 874</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d874e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d874ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d874chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d874chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d874chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d874chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - A simple explainer on SEBI’s new F&O rules"](https://finshots.in/archive/a-simple-explainer-on-sebis-new-f-o-rules/)
+- 📰 [Daily English News -> "Here are the letters that convinced Google and Apple to keep TikTok online"](https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi)
+</p></details>
 <details><summary><u>Day 873</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d873e1.png)
