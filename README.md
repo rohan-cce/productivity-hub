@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 879 days (13/02/2023 to 09/07/2025)
+Learning Progress Till Now -> 880 days (13/02/2023 to 10/07/2025)
 <details><summary><u>Day 871 - Day 880 ~ July 02, 2025 - July 11, 2025</u></summary><p>
+<details><summary><u>Day 880</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d880e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d880ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d880chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d880chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d880chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d880chs4.png)
+- 💰📈 [Finshots ~ "Macro - Can India become an aviation superpower?"](https://finshots.in/archive/can-india-become-an-aviation-superpower/)
+- 📰 [Daily English News -> "Samsung says its trifold phone should launch ‘this year’"](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)
+</p></details>
 <details><summary><u>Day 879</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d879e1.png)
@@ -10,7 +22,7 @@ Learning Progress Till Now -> 879 days (13/02/2023 to 09/07/2025)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d879chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d879chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d879chs4.png)
-- 💰📈 [Finshots ~ "Macro - India wants more lower denomination notes?"]()
+- 💰📈 [Finshots ~ "Macro - India wants more lower denomination notes?"](https://finshots.in/archive/india-wants-more-lower-denomination-notes/)
 - 📰 [Daily English News -> "Apple’s design team will report to Tim Cook"](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
 </p></details>
 <details><summary><u>Day 878</u></summary><p>
