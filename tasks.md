@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 885 days (13/02/2023 to 15/07/2025)
+Learning Progress Till Now -> 886 days (13/02/2023 to 16/07/2025)
 <details><summary><u>Day 881 - Day 890 ~ July 12, 2025 - July 21, 2025</u></summary><p>
+<details><summary><u>Day 886</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d886e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d886ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d886chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d886chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d886chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d886chs4.png)
+- 💰📈 [Finshots ~ "Economy - Are COVID-era bills finally coming to bite us back?"](https://finshots.in/archive/are-covid-era-bills-finally-coming-to-bite-us-back/)
+- 📰 [Daily English News -> "Google’s AI can now make phone calls for you"](https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade)
+</p></details>
 <details><summary><u>Day 885</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d885e1.png)
