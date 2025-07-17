@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 886 days (13/02/2023 to 16/07/2025)
+Learning Progress Till Now -> 887 days (13/02/2023 to 17/07/2025)
 <details><summary><u>Day 881 - Day 890 ~ July 12, 2025 - July 21, 2025</u></summary><p>
+<details><summary><u>Day 887</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d887e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d887ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d887chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d887chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d887chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d887chs4.png)
+- 💰📈 [Finshots ~ "Policy Is NHAI selling the family silver to keep building roads?"](https://finshots.in/archive/is-nhai-selling-the-family-silver-to-keep-building-roads/)
+- 📰 [Daily English News -> "Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving"](https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support)
+</p></details>
 <details><summary><u>Day 886</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d886e1.png)
