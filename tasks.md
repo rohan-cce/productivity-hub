@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 889 days (13/02/2023 to 19/07/2025)
+Learning Progress Till Now -> 890 days (13/02/2023 to 20/07/2025)
 <details><summary><u>Day 881 - Day 890 ~ July 12, 2025 - July 21, 2025</u></summary><p>
+<details><summary><u>Day 890</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d890e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d890ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d890chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d890chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d890chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d890chs4.png)
+- 💰📈 [Finshots ~ "Business - Why doesn't India have its own Big 4?"](https://finshots.in/archive/why-doesnt-india-have-its-own-big-4-deloitte-ernst-young-ey-kpmg-pwc/)
+- 📰 [Daily English News -> "I sent ChatGPT Agent out to shop for me"](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
+</p></details>
 <details><summary><u>Day 889</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d889e1.png)
