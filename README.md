@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 890 days (13/02/2023 to 20/07/2025)
+Learning Progress Till Now -> 891 days (13/02/2023 to 21/07/2025)
+<details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 891</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d891e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d891ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d891chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d891chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d891chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d891chs4.png)
+- 💰📈 [Finshots ~ "Policy - Is 'one nation, one AC temperature' a good idea?"](https://finshots.in/archive/is-one-nation-one-ac-temperature-a-good-idea-20-28/)
+- 📰 [Daily English News -> "Microsoft wants to fix ‘slow or sluggish’ performance in Windows 11"](https://www.theverge.com/news/710535/microsoft-windows-11-performance-improvements-25h2-version)
+</p></details>
+</p></details>
 <details><summary><u>Day 881 - Day 890 ~ July 12, 2025 - July 21, 2025</u></summary><p>
 <details><summary><u>Day 890</u></summary><p>
 
