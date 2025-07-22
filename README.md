@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 891 days (13/02/2023 to 21/07/2025)
+Learning Progress Till Now -> 892 days (13/02/2023 to 22/07/2025)
 <details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 892</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d892e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d892ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d892chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d892chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d892chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d892chs4.png)
+- 💰📈 [Finshots ~ "Macro - Is a war in the Middle East, a fertiliser crisis for India?"](https://finshots.in/archive/is-a-war-in-the-middle-east-a-fertiliser-crisis-for-india/)
+- 📰 [Daily English News -> "Microsoft SharePoint servers are under attack because of a major security flaw"](https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit)
+</p></details>
 <details><summary><u>Day 891</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d891e1.png)
