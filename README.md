@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 892 days (13/02/2023 to 22/07/2025)
+Learning Progress Till Now -> 893 days (13/02/2023 to 23/07/2025)
 <details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 893</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d893e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d893ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d893chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d893chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d893chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d893chs4.png)
+- 💰📈 [Finshots ~ "Business - Why Karnataka needs a bike taxi policy, and fast!"](https://finshots.in/archive/why-karnataka-needs-a-bike-taxi-policy-framework-bengaluru-traffic-rapido-ola-uber-ban-high-court/)
+- 📰 [Daily English News -> "This iPhone case switches Lightning ports to USB-C"](https://www.theverge.com/news/712133/iphone-case-lightning-to-usb-c-ken-pillonel)
+</p></details>
 <details><summary><u>Day 892</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d892e1.png)
