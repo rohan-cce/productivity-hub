@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 894 days (13/02/2023 to 24/07/2025)
+Learning Progress Till Now -> 895 days (13/02/2023 to 25/07/2025)
 <details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 895</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d895e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d895ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d895chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d895chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d895chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d895chs4.png)
+- 💰📈 [Finshots ~ "Business - Should Apple kill Siri?"](https://finshots.in/archive/should-apple-kill-siri-apple-intelligence-perplexity-ai/)
+- 📰 [Daily English News -> "Syncing desktops and better AI wallpapers are coming to ChromeOS"](https://www.theverge.com/news/713654/chromeos-m138-freeform-ai-wallpapers-desk-sync-chromebook)
+</p></details>
 <details><summary><u>Day 894</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d894e1.png)
