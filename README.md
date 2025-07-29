@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 898 days (13/02/2023 to 28/07/2025)
+Learning Progress Till Now -> 899 days (13/02/2023 to 29/07/2025)
 <details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 899</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d899e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d899ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d899chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d899chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d899chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d899chs4.png)
+- 💰📈 [Finshots ~ "Macro - Why Iran can’t shut down the Strait of Hormuz"](https://finshots.in/archive/why-iran-cant-shut-down-the-strait-of-hormuz/)
+- 📰 [Daily English News -> "Windows 10 is now 10 years old"](https://www.theverge.com/news/715039/microsoft-windows-10-birthday-10-years-old)
+</p></details>
 <details><summary><u>Day 898</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d898e1.png)
