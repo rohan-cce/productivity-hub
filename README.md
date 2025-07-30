@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 899 days (13/02/2023 to 29/07/2025)
+Learning Progress Till Now -> 900 days (13/02/2023 to 30/07/2025)
 <details><summary><u>Day 891 - Day 900 ~ July 21, 2025 - August 30, 2025</u></summary><p>
+<details><summary><u>Day 900</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d900e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d900ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d900chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d900chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d900chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d900chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - The BSE blip SEBI couldn’t ignore"](https://finshots.in/archive/the-bse-blip-sebi-couldnt-ignore/)
+- 📰 [Daily English News -> "Opera is filing a complaint over Microsoft’s tricks that push you to use Edge"](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
+</p></details>
 <details><summary><u>Day 899</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d899e1.png)
