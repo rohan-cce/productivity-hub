@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 905 days (13/02/2023 to 04/08/2025)
+Learning Progress Till Now -> 906 days (13/02/2023 to 05/08/2025)
 <details><summary><u>Day 901 - Day 910 ~ July 31, 2025 - August 09, 2025</u></summary><p>
+<details><summary><u>Day 906</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d906e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d906ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d906chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d906chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d906chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d906chs4.png)
+- 💰📈 [Finshots ~ "Business - Birla Opus puts Asian Paints in trouble"](https://finshots.in/archive/birla-opus-puts-asian-paints-in-trouble-competition-commission-of-india-cci/)
+- 📰 [Daily English News -> "A new Google Meet trick to avoid echo"](https://www.theverge.com/news/718756/a-new-google-meet-trick-to-avoid-echo)
+</p></details>
 <details><summary><u>Day 905</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d905e1.png)
