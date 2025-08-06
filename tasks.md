@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 906 days (13/02/2023 to 05/08/2025)
+Learning Progress Till Now -> 907 days (13/02/2023 to 06/08/2025)
 <details><summary><u>Day 901 - Day 910 ~ July 31, 2025 - August 09, 2025</u></summary><p>
+<details><summary><u>Day 907</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d907e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d907ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d907chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d907chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d907chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d907chs4.png)
+- 💰📈 [Finshots ~ "Business - The JSW Cement IPO. Can going green cement the gains?"](https://finshots.in/archive/the-jsw-cement-ipo-can-going-green-cement-the-gains/)
+- 📰 [Daily English News -> "Cloudflare says Perplexity’s AI bots are ‘stealth crawling’ blocked sites"](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
+</p></details>
 <details><summary><u>Day 906</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d906e1.png)
