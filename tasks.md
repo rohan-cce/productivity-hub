@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 907 days (13/02/2023 to 06/08/2025)
+Learning Progress Till Now -> 908 days (13/02/2023 to 07/08/2025)
 <details><summary><u>Day 901 - Day 910 ~ July 31, 2025 - August 09, 2025</u></summary><p>
+<details><summary><u>Day 908</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d908e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d908ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d908chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d908chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d908chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d908chs4.png)
+- 💰📈 [Finshots ~ "Policy - Is India’s rooftop solar push going into the sunset"](https://finshots.in/archive/is-indias-rooftop-solar-push-going-into-the-sunset/)
+- 📰 [Daily English News -> "Microsoft’s plan to fix the web with AI has already hit an embarrassing security flaw"](https://www.theverge.com/news/719617/microsoft-nlweb-security-flaw-agentic-web)
+</p></details>
 <details><summary><u>Day 907</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d907e1.png)
