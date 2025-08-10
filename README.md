@@ -1,15 +1,29 @@
 # productivity-hub
-Learning Progress Till Now -> 910 days (13/02/2023 to 10/08/2025)
+Learning Progress Till Now -> 911 days (13/02/2023 to 10/08/2025)
+<details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 911</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d911e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d911ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d911chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d911chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d911chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d911chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - The Jane Street saga simplified"](https://finshots.in/archive/the-jane-street-saga-simplified-sebi-millennium-management-fraud-futures-options-f-o/)
+- 📰 [Daily English News -> "How Wikipedia is fighting AI slop content"](https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion)
+</p></details>
+</p></details>
 <details><summary><u>Day 901 - Day 910 ~ July 31, 2025 - August 09, 2025</u></summary><p>
 <details><summary><u>Day 910</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d909e1.png)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d909ls1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d910e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d910ls1.png)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d909chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d909chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d909chs3.png)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d909chs4.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d910chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d910chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d910chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d910chs4.png)
 - 💰📈 [Finshots ~ "Policy - Your makeup isn't safe. Can the government make it safer?"](https://finshots.in/archive/your-makeup-isnt-safe-can-the-government-make-it-safer-cdsco-dcgi-mercury-cosmetics-cream/)
 - 📰 [Daily English News -> "The 6 biggest changes coming to ChatGPT"](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)
 </p></details>
