@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 911 days (13/02/2023 to 10/08/2025)
+Learning Progress Till Now -> 912 days (13/02/2023 to 11/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 912</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d912e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d912ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d912chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d912chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d912chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d912chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Why JP Associates' last deal has Adani at the table?"](https://finshots.in/archive/why-jp-associates-last-deal-has-adani-at-the-table/)
+- 📰 [Daily English News -> "AOL is finally shutting down dial-up"](https://www.theverge.com/news/757194/aol-dial-up-is-dead)
+</p></details>
 <details><summary><u>Day 911</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d911e1.png)
