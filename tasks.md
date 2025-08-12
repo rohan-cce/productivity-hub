@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 912 days (13/02/2023 to 11/08/2025)
+Learning Progress Till Now -> 913 days (13/02/2023 to 12/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 913</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d913e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d913ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d913chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d913chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d913chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d913chs4.png)
+- 💰📈 [Finshots ~ "Macro - India exports electricity. So why do we still have power cuts?"](https://finshots.in/archive/india-exports-electricity-so-why-do-we-still-have-power-cuts/)
+- 📰 [Daily English News -> "Sam Altman is right and wrong about the future of photos"](https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo)
+</p></details>
 <details><summary><u>Day 912</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d912e1.png)
