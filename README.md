@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 913 days (13/02/2023 to 12/08/2025)
+Learning Progress Till Now -> 914 days (13/02/2023 to 13/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 914</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d914e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d914ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d914chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d914chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d914chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d914chs4.png)
+- 💰📈 [Finshots ~ "Economy - Real lessons from SBI's Monetary Multiverse"](https://finshots.in/archive/sbi-monetary-multiverse-alternate-universe-state-bank-of-india-donald-trump-jerome-powell-rbi-governor-necktie-nomics-tie-colour/)
+- 📰 [Daily English News -> "Microsoft releases lightweight Office taskbar apps for Windows 11"](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)
+</p></details>
 <details><summary><u>Day 913</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d913e1.png)
