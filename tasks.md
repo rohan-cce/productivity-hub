@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 914 days (13/02/2023 to 13/08/2025)
+Learning Progress Till Now -> 915 days (13/02/2023 to 14/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 915</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d915e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d915ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d915chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d915chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d915chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d915chs4.png)
+- 💰📈 [Finshots ~ "Sunny Side Up - 🍳A slightly different Sunny Side Up edition"](https://finshots.in/archive/a-slightly-different-sunny-side-up-edition-jio-ipo/)
+- 📰 [Daily English News -> "Google posts an official look at the Pixel 10 Pro Fold"](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
+</p></details>
 <details><summary><u>Day 914</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d914e1.png)
