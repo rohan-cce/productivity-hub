@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 915 days (13/02/2023 to 14/08/2025)
+Learning Progress Till Now -> 916 days (13/02/2023 to 15/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 916</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d916e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d916ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d916chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d916chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d916chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d916chs4.png)
+- 💰📈 [Finshots ~ "Policy - What GST 2.0 should promise"](https://finshots.in/archive/what-gst-2-0-should-promise/)
+- 📰 [Daily English News -> "Teenage Engineering’s new PC case is plastic and free"](https://www.theverge.com/news/759178/teenage-engineering-mini-itx-computer-2-pc-case)
+</p></details>
 <details><summary><u>Day 915</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d915e1.png)
