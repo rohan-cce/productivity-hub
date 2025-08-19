@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 919 days (13/02/2023 to 18/08/2025)
+Learning Progress Till Now -> 920 days (13/02/2023 to 19/08/2025)
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
+<details><summary><u>Day 920</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d920e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d920ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d920chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d920chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d920chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d920chs4.png)
+- 💰📈 [Finshots ~ "Business - Tesla’s here. But is India still interested"](https://finshots.in/archive/teslas-here-but-is-india-still-interested/)
+- 📰 [Daily English News -> "Microsoft is finally improving Windows 11’s dark mode"](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
+</p></details>
 <details><summary><u>Day 919</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d919e1.png)
