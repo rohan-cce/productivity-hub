@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 920 days (13/02/2023 to 19/08/2025)
+Learning Progress Till Now -> 921 days (13/02/2023 to 20/08/2025)
+<details><summary><u>Day 921 - Day 930 ~ August 20, 2025 - August 29, 2025</u></summary><p>
+<details><summary><u>Day 921</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d921e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d921ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d921chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d921chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d921chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d921chs4.png)
+- 💰📈 [Finshots ~ "Policy - Should India rethink MRP?"](https://finshots.in/archive/should-india-rethink-mrp-maximum-retail-price-union-ministry-of-consumer-affairs/)
+- 📰 [Daily English News -> "Asus has the new world’s fastest OLED monitor at 720Hz, and it’s dripping with style"](https://www.theverge.com/news/761481/asus-720hz-gaming-monitor-rog-swift-oled-pg27aqwp-w)
+</p></details>
+</p></details>
 <details><summary><u>Day 911 - Day 920 ~ August 10, 2025 - August 19, 2025</u></summary><p>
 <details><summary><u>Day 920</u></summary><p>
 
