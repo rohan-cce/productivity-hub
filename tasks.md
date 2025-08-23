@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 923 days (13/02/2023 to 22/08/2025)
+Learning Progress Till Now -> 924 days (13/02/2023 to 23/08/2025)
 <details><summary><u>Day 921 - Day 930 ~ August 20, 2025 - August 29, 2025</u></summary><p>
+<details><summary><u>Day 924</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d924e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d924ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d924chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d924chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d924chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d924chs4.png)
+- 💰📈 [Finshots ~ "Economy - Coke’s new recipe might stir up America’s economy"](https://finshots.in/archive/coca-cola-coke-new-recipe-might-stir-up-americas-economy-us-agriculture-high-fructose-corn-syrup-cane-sugar-donald-trump/)
+- 📰 [Daily English News -> "Gemini for Home is Google’s biggest smart home play in years"](https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant)
+</p></details>
 <details><summary><u>Day 923</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d923e1.png)
