@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 925 days (13/02/2023 to 24/08/2025)
+Learning Progress Till Now -> 926 days (13/02/2023 to 25/08/2025)
 <details><summary><u>Day 921 - Day 930 ~ August 20, 2025 - August 29, 2025</u></summary><p>
+<details><summary><u>Day 926</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d926e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d926ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d926chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d926chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d926chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d926chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - The Brigade Hotel Ventures IPO"](https://finshots.in/archive/the-brigade-hotel-ventures-ipo-bhvl/)
+- 📰 [Daily English News -> "EcoFlow’s Rapid power bank is the fastest yet"](https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid)
+</p></details>
 <details><summary><u>Day 925</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d925e1.png)
