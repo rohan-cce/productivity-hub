@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 926 days (13/02/2023 to 25/08/2025)
+Learning Progress Till Now -> 927 days (13/02/2023 to 26/08/2025)
 <details><summary><u>Day 921 - Day 930 ~ August 20, 2025 - August 29, 2025</u></summary><p>
+<details><summary><u>Day 927</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d927e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d927ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d927chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d927chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d927chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d927chs4.png)
+- 💰📈 [Finshots ~ "Business - Jio wants to become an insurance company"](https://finshots.in/archive/jio-wants-to-become-an-insurance-company/)
+- 📰 [Daily English News -> "YouTube’s Shorts experiment using AI or just upscaling"](https://www.theverge.com/youtube/765485/is-youtubes-shorts-experiment-using-ai-or-just-upscaling)
+</p></details>
 <details><summary><u>Day 926</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d926e1.png)
