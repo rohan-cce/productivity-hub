@@ -1,5 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 930 days (13/02/2023 to 29/08/2025)
+Learning Progress Till Now -> 931 days (13/02/2023 to 30/08/2025)
+<details><summary><u>Day 931 - Day 940 ~ August 31, 2025 - September 09, 2025</u></summary><p>
+<details><summary><u>Day 931</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d931e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d931ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d931chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d931chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d931chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d931chs4.png)
+</p></details>
+</p></details>
 <details><summary><u>Day 921 - Day 930 ~ August 20, 2025 - August 29, 2025</u></summary><p>
 <details><summary><u>Day 930</u></summary><p>
 
