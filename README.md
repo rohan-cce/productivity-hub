@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 940 days (13/02/2023 to 08/09/2025)
-<details><summary><u>Day 931 - Day 940 ~ August 31, 2025 - September 09, 2025</u></summary><p>
+Learning Progress Till Now -> 941 days (13/02/2023 to 09/09/2025)
+<details><summary><u>Day 941 - Day 950 ~ September 09, 2025 - September 18, 2025</u></summary><p>
+<details><summary><u>Day 941</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d941e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d941ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d941chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d941chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d941chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d941chs4.png)
+</p></details>
+</p></details>
+<details><summary><u>Day 931 - Day 940 ~ August 31, 2025 - September 08, 2025</u></summary><p>
 <details><summary><u>Day 940</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d940e1.png)
