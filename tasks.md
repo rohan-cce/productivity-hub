@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 942 days (13/02/2023 to 10/09/2025)
+Learning Progress Till Now -> 943 days (13/02/2023 to 11/09/2025)
 <details><summary><u>Day 941 - Day 950 ~ September 09, 2025 - September 18, 2025</u></summary><p>
+<details><summary><u>Day 943</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d943e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d943ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d943chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d943chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d943chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d943chs4.png)
+- 💰📈 [Finshots ~ "The NSDL IPO is here! Is the pioneer still the best in town?"](https://finshots.in/archive/the-nsdl-ipo-is-here-is-the-pioneer-still-the-best-in-town-cdsl-depository/)
+- 📰 [Daily English News -> "Spotify adds lossless streaming after 8 years of teasing"](https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio)
+</p></details>
 <details><summary><u>Day 942</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d942e1.png)
