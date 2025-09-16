@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 947 days (13/02/2023 to 15/09/2025)
+Learning Progress Till Now -> 948 days (13/02/2023 to 16/09/2025)
 <details><summary><u>Day 941 - Day 950 ~ September 09, 2025 - September 18, 2025</u></summary><p>
+<details><summary><u>Day 948</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d948e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D851-D900/d948ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d948chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d948chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d948chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D851-D900/d948chs4.png)
+- 💰📈 [Finshots ~ "Business - Is this the end of the Indian IT Industry?"](https://finshots.in/archive/is-this-the-end-of-the-indian-it-industry/)
+- 📰 [Daily English News -> "Amazon announces its fall hardware event"](https://www.theverge.com/news/778008/amazon-fall-hardware-event-announced-kindles-echo-alexa)
+</p></details>
 <details><summary><u>Day 947</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D851-D900/d947e1.png)
