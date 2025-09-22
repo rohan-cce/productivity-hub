@@ -1,5 +1,5 @@
 # productivity-hub
-Learning Progress Till Now -> 953 days (13/02/2023 to 21/09/2025)
+Learning Progress Till Now -> 953 days (13/02/2023 to 22/09/2025)
 <details><summary><u>Day 951 - Day 960 ~ September 19, 2025 - September 28, 2025</u></summary><p>
 <details><summary><u>Day 953</u></summary><p>
 
