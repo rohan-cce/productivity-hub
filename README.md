@@ -1,6 +1,16 @@
 # productivity-hub
-Learning Progress Till Now -> 981 days (13/02/2023 to 20/10/2025)
+Learning Progress Till Now -> 982 days (13/02/2023 to 21/10/2025)
 <details><summary><u>Day 981 - Day 990 ~ October 20, 2025 - October 29, 2025</u></summary><p>
+<details><summary><u>Day 982</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D901-D950/d982.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D901-D950/d982ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d982chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d982chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d982chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d982chs4.png)
+</p></details>
 <details><summary><u>Day 981</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D901-D950/d981.png)
@@ -9,7 +19,7 @@ Learning Progress Till Now -> 981 days (13/02/2023 to 20/10/2025)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d981chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d981chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d981chs3.png)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d980chs4.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d981chs4.png)
 </p></details>
 </p></details>
 <details><summary><u>Day 971 - Day 980 ~ October 10, 2025 - October 19, 2025</u></summary><p>
