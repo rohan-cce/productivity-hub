@@ -1,5 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 990 days (13/02/2023 to 29/10/2025)
+Learning Progress Till Now -> 991 days (13/02/2023 to 30/10/2025)
+<details><summary><u>Day 991 - Day 1000 ~ October 30, 2025 - November 08, 2025</u></summary><p>
+<details><summary><u>Day 991</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D901-D950/d991e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D901-D950/d991ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d991chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d991chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d991chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D901-D950/d991chs4.png)
+</p></details>
+</p></details>
 <details><summary><u>Day 981 - Day 990 ~ October 20, 2025 - October 29, 2025</u></summary><p>
 <details><summary><u>Day 990</u></summary><p>
 
