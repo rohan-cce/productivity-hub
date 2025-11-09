@@ -1,5 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1000 days (13/02/2023 to 08/11/2025)
+Learning Progress Till Now -> 1001 days (13/02/2023 to 09/11/2025)
+<details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1001</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1001e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1001ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs4.png)
+- 💰📈 [Finshots ~ "Business - Will India binge on micro dramas?"](https://finshots.in/archive/will-india-binge-on-micro-dramas-reelshort-reelsaga-kuku-fm-flick-tv-china/)
+- 📰 [Daily English News -> "Nintendo has too many apps"](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
+</p></details>
+</p></details>
 <details><summary><u>Day 991 - Day 1000 ~ October 30, 2025 - November 08, 2025</u></summary><p>
 <details><summary><u>Day 1000</u></summary><p>
 
