@@ -1,6 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 1001 days (13/02/2023 to 09/11/2025)
+Learning Progress Till Now -> 1002 days (13/02/2023 to 10/11/2025)
 <details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1002</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1002e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1002ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1002chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1002chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1002chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1002chs4.png)
+- 💰📈 [Finshots ~ "Policy - Why does India spend less on education?"](https://finshots.in/archive/why-does-india-spend-less-on-education-national-education-policy-2020-nep/)
+- 📰 [Daily English News -> "Microsoft AI says it’ll make superintelligent AI that won’t be terrible for humanity"](https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence)
+</p></details>
+<details><summary><u>Day 1001</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1001e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1001ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1001chs4.png)
+- 💰📈 [Finshots ~ "Business - Will India binge on micro dramas?"](https://finshots.in/archive/will-india-binge-on-micro-dramas-reelshort-reelsaga-kuku-fm-flick-tv-china/)
+- 📰 [Daily English News -> "Nintendo has too many apps"](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
+</p></details>
 <details><summary><u>Day 1001</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1001e1.png)
