@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1002 days (13/02/2023 to 10/11/2025)
+Learning Progress Till Now -> 1003 days (13/02/2023 to 11/11/2025)
 <details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1003</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1003e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1003ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1003chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1003chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1003chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1003chs4.png)
+- 💰📈 [Finshots ~ "Business - The JSW Cement IPO. Can going green cement the gains?"](https://finshots.in/archive/the-jsw-cement-ipo-can-going-green-cement-the-gains/)
+- 📰 [Daily English News -> "iRobot’s revenue has tanked and it’s almost out of cash"](https://www.theverge.com/news/817536/irobots-revenue-has-tanked-and-its-almost-out-of-cash)
+</p></details>
 <details><summary><u>Day 1002</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1002e1.png)
