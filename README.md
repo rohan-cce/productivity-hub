@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1003 days (13/02/2023 to 11/11/2025)
+Learning Progress Till Now -> 1004 days (13/02/2023 to 11/11/2025)
 <details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1004</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1004e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1004ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1004chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1004chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1004chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1004chs4.png)
+- 💰📈 [Finshots ~ "Business - Can office lunches help fix Swiggy's finances?"](https://finshots.in/archive/can-deskeats-office-lunches-help-fix-swiggy-finances-zomato-zepto-blinkit-snacc-food-delivery/)
+- 📰 [Daily English News -> "Google is introducing its own version of Apple’s private AI cloud compute"](https://www.theverge.com/news/818364/google-private-ai-compute)
+</p></details>
 <details><summary><u>Day 1003</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1003e1.png)
