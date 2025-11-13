@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1004 days (13/02/2023 to 11/11/2025)
+Learning Progress Till Now -> 1005 days (13/02/2023 to 13/11/2025)
 <details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1005</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1005e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1005ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1005chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1005chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1005chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1005chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Are Indians buying more Bitcoin?"](https://finshots.in/archive/are-indians-buying-more-bitcoin/)
+- 📰 [Daily English News -> "Sony’s new PlayStation gaming monitor has a charging stand for the DualSense controller"](https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook)
+</p></details>
 <details><summary><u>Day 1004</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1004e1.png)
