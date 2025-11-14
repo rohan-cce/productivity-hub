@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1005 days (13/02/2023 to 13/11/2025)
+Learning Progress Till Now -> 1006 days (13/02/2023 to 14/11/2025)
 <details><summary><u>Day 1001 - Day 1001 ~ November 09, 2025 - November 18, 2025</u></summary><p>
+<details><summary><u>Day 1006</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1006e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1006ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1006chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1006chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1006chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1006chs4.png)
+- 💰📈 [Finshots ~ "Business - What happens when EVs flood the used market?"](https://finshots.in/archive/what-happens-when-evs-flood-the-used-market/)
+- 📰 [Daily English News -> "Apple says developers must get permission from users to share their data with third-party AI."](https://www.theverge.com/news/820634/apple-says-developers-must-get-permission-from-users-to-share-their-data-with-third-party-ai)
+</p></details>
 <details><summary><u>Day 1005</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1005e1.png)
