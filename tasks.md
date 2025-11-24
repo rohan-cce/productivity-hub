@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1015 days (13/02/2023 to 23/11/2025)
+Learning Progress Till Now -> 1016 days (13/02/2023 to 24/11/2025)
 <details><summary><u>Day 1011 - Day 1020 ~ November 19, 2025 - November 28, 2025</u></summary><p>
+<details><summary><u>Day 1016</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1016e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1016ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1016chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1016chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1016chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1016chs4.png)
+- 💻 Technical Learning
+  - 💻 [Blog read -> How We Migrated 1 Billion Records from DB1 to DB2 Without Downtime](https://medium.com/@himanshusingour7/how-we-migrated-db-1-to-db-2-1-billion-records-without-downtime-c034ce85d889)
+- 💰📈 [Finshots ~ "Business - Will pharma help Kodak survive?"](https://finshots.in/archive/will-pharma-help-kodak-survive/)
+- 📰 [Daily English News -> "Google denies ‘misleading’ reports of Gmail using your emails to train AI"](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
+</p></details>
 <details><summary><u>Day 1015</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1015e1.png)
