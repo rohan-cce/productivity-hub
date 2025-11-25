@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1016 days (13/02/2023 to 24/11/2025)
+Learning Progress Till Now -> 1017 days (13/02/2023 to 25/11/2025)
 <details><summary><u>Day 1011 - Day 1020 ~ November 19, 2025 - November 28, 2025</u></summary><p>
+<details><summary><u>Day 1017</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1017e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1017ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1017chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1017chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1017chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1017chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "How ONE Config File Took Down 20% of the Internet ($60B Loss)"](https://youtu.be/v8eUhkhC8lw)
+  - 💻 [Blog read -> "Redis 101 : From a Beginners POV"](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)
+- 💰📈 [Finshots ~ "Economy - Can GST reforms be a shield against US tariffs?"](https://finshots.in/archive/can-gst-reforms-be-a-shield-against-us-tariffs-india-trump-modi-russia-oil/)
+- 📰 [Daily English News -> "Microsoft is speeding up and decluttering File Explorer in Windows 11"](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter)
+</p></detail7>
 <details><summary><u>Day 1016</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1016e1.png)
