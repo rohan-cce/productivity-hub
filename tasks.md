@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1018 days (13/02/2023 to 26/11/2025)
+Learning Progress Till Now -> 1019 days (13/02/2023 to 27/11/2025)
 <details><summary><u>Day 1011 - Day 1020 ~ November 19, 2025 - November 28, 2025</u></summary><p>
+<details><summary><u>Day 1019</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1019e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1019ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1019chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1019chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1019chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1019chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "Why AI Coding Agents Keep Breaking on Your Laptop"](https://www.youtube.com/watch?v=3XeKm1ChS70)
+  - 💻 [Blog read -> "Redis 101 : From a Beginners POV"](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)
+- 💰📈 [Finshots ~ "ECONOMY - Why S&P finally raised India’s credit rating"](https://finshots.in/archive/why-s-p-global-finally-raised-india-sovereign-credit-rating-moodys-fitch/)
+- 📰 [Daily English News -> "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5"](Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5)
+</p></detail>
 <details><summary><u>Day 1018</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1018e1.png)
