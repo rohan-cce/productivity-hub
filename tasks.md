@@ -1,12 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 1020 days (13/02/2023 to 28/11/2025)
+Learning Progress Till Now -> 1020 days (13/02/2023 to 29/11/2025)
+<details><summary><u>Day 1021 - Day 1030 ~ November 29, 2025 - December 08, 2025</u></summary><p>
+<details><summary><u>Day 1021</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1021e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1021ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1021chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1021chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1021chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1021chs4.png)
+- 💰📈 [Finshots ~ "Business - Can India build its own GTA6?"](https://finshots.in/archive/can-india-build-its-own-gta6-online-gaming-bill/)
+- 📰 [Daily English News -> "My AI shopping assistants are stuck in the past"](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past)
+</p></details>
+</p></details>
 <details><summary><u>Day 1011 - Day 1020 ~ November 19, 2025 - November 28, 2025</u></summary><p>
 <details><summary><u>Day 1020</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1020e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1020ls1.png)
 - ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1020b1.png)
-</p></detail>
+</p></details>
 <details><summary><u>Day 1019</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1019e1.png)
@@ -21,7 +35,7 @@ Learning Progress Till Now -> 1020 days (13/02/2023 to 28/11/2025)
   - 💻 [Blog read -> "Redis 101 : From a Beginners POV"](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)
 - 💰📈 [Finshots ~ "ECONOMY - Why S&P finally raised India’s credit rating"](https://finshots.in/archive/why-s-p-global-finally-raised-india-sovereign-credit-rating-moodys-fitch/)
 - 📰 [Daily English News -> "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5"](Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5)
-</p></detail>
+</p></details>
 <details><summary><u>Day 1018</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1018e1.png)
@@ -36,7 +50,7 @@ Learning Progress Till Now -> 1020 days (13/02/2023 to 28/11/2025)
   - 💻 [Blog read -> "Redis 101 : From a Beginners POV"](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)
 - 💰📈 [Finshots ~ "Capital Markets - Can China’s stock market ever deliver like India’s?"](https://finshots.in/archive/can-chinas-stock-market-ever-deliver-like-indias/)
 - 📰 [Daily English News -> "RAM prices are so out of control that stores are selling it like lobster"](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
-</p></detail>
+</p></details>
 <details><summary><u>Day 1017</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1017e1.png)
@@ -51,7 +65,7 @@ Learning Progress Till Now -> 1020 days (13/02/2023 to 28/11/2025)
   - 💻 [Blog read -> "Redis 101 : From a Beginners POV"](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)
 - 💰📈 [Finshots ~ "Economy - Can GST reforms be a shield against US tariffs?"](https://finshots.in/archive/can-gst-reforms-be-a-shield-against-us-tariffs-india-trump-modi-russia-oil/)
 - 📰 [Daily English News -> "Microsoft is speeding up and decluttering File Explorer in Windows 11"](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter)
-</p></detail7>
+</p></details>
 <details><summary><u>Day 1016</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1016e1.png)
