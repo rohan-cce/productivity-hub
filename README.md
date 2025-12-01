@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1022 days (13/02/2023 to 30/11/2025)
+Learning Progress Till Now -> 1023 days (13/02/2023 to 01/12/2025)
 <details><summary><u>Day 1021 - Day 1030 ~ November 29, 2025 - December 08, 2025</u></summary><p>
+<details><summary><u>Day 1023</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1023e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1023ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1023chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1023chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1023chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1023chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Block deals explained through a $300 million mistake"](https://finshots.in/archive/block-deals-explained-through-a-300-million-mistake-spark-avendus-clean-science/)
+- 📰 [Daily English News -> ""Netflix kills casting from phones"](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
+</p></details>
 <details><summary><u>Day 1022</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1022e1.png)
