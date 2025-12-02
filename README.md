@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1023 days (13/02/2023 to 01/12/2025)
+Learning Progress Till Now -> 1024 days (13/02/2023 to 02/12/2025)
 <details><summary><u>Day 1021 - Day 1030 ~ November 29, 2025 - December 08, 2025</u></summary><p>
+<details><summary><u>Day 1024</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1024e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1024ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1024chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1024chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1024chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1024chs4.png)
+- 💰📈 [Finshots ~ "Economy - Mr. Powell says the good times are coming!"](https://finshots.in/archive/jerome-powell-says-the-good-times-are-coming-us-federal-reserve-trump-2-inflation-target/)
+- 📰 [Daily English News -> "Amazon is testing 30-minute deliveries"](https://www.theverge.com/news/836337/amazon-now-30-minute-delivery-tests)
+</p></details>
 <details><summary><u>Day 1023</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1023e1.png)
