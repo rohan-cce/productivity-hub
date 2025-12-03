@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1024 days (13/02/2023 to 02/12/2025)
+Learning Progress Till Now -> 1025 days (13/02/2023 to 03/12/2025)
 <details><summary><u>Day 1021 - Day 1030 ~ November 29, 2025 - December 08, 2025</u></summary><p>
+<details><summary><u>Day 1025</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1025e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1025ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1025chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1025chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1025chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1025chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "What is Kubernetes? "](https://www.youtube.com/watch?v=8c4oEuANkTQ)
+  - 💻 [Blog read -> "You're Not Building Netflix: Stop Coding Like You Are"](https://dev.to/adamthedeveloper/youre-not-building-netflix-stop-coding-like-you-are-1707?ref=dailydev)
+- 💰📈 [Finshots ~ "Business - Why Papa John's wants another slice of India"](https://finshots.in/archive/why-papa-johns-wants-another-slice-of-india/)
+- 📰 [Daily English News -> "Google is experimentally replacing news headlines with AI clickbait nonsense"](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense)
+</p></details>
 <details><summary><u>Day 1024</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1024e1.png)
