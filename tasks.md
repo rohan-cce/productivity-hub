@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1034 days (13/02/2023 to 13/12/2025)
+Learning Progress Till Now -> 1035 days (13/02/2023 to 14/12/2025)
 <details><summary><u>Day 1031 - Day 1040 ~ December 10, 2025 - December 19, 2025</u></summary><p>
+<details><summary><u>Day 1035</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1035e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1035ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1035chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1035chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1035chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1035chs4.png)
+- 💰📈 [Finshots ~ "Macro - The world’s running out of natural rubber. How can India solve this?"](https://finshots.in/archive/the-worlds-running-out-of-natural-rubber-how-can-india-solve-this/)
+- 📰 [Daily English News -> "My defense of a $40 cable paperweight – I’m sorry"](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)
+</p></details>
 <details><summary><u>Day 1034</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1034e1.png)
