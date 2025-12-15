@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1035 days (13/02/2023 to 14/12/2025)
+Learning Progress Till Now -> 1036 days (13/02/2023 to 15/12/2025)
 <details><summary><u>Day 1031 - Day 1040 ~ December 10, 2025 - December 19, 2025</u></summary><p>
+<details><summary><u>Day 1036</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1036e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1036ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1036chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1036chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1036chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1036chs4.png)
+- 💰📈 [Finshots ~ "The Urban Company IPO explained"](https://finshots.in/archive/the-urban-company-ipo-explained-urban-clap-ipo-uc-ipo)
+- 📰 [Daily English News -> "Google Translate brings real-time speech translations to any headphones"](https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones)
+</p></details>
 <details><summary><u>Day 1035</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1035e1.png)
