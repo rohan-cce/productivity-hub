@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1039 days (13/02/2023 to 18/12/2025)
+Learning Progress Till Now -> 1040 days (13/02/2023 to 19/12/2025)
 <details><summary><u>Day 1031 - Day 1040 ~ December 10, 2025 - December 19, 2025</u></summary><p>
+<details><summary><u>Day 1040</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1040e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1040ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1040chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1040chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1040chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1040chs4.png)
+- 💰📈 [Finshots ~ "Economy - India’s Commonwealth Games gamble"](https://finshots.in/archive/india-commonwealth-games-bid-cwg-2030-nigeria-ahmedabad-gujarat-glasgow/)
+- 📰 [Daily English News -> "Microsoft made another Copilot ad where nothing actually works"](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)
+</p></details>
 <details><summary><u>Day 1039</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1039e1.png)
