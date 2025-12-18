@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1038 days (13/02/2023 to 17/12/2025)
+Learning Progress Till Now -> 1039 days (13/02/2023 to 18/12/2025)
 <details><summary><u>Day 1031 - Day 1040 ~ December 10, 2025 - December 19, 2025</u></summary><p>
+<details><summary><u>Day 1039</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1039e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1039ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1039chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1039chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1039chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1039chs4.png)
+- 💰📈 [Finshots ~ "Business - Why foreign banks are selling their retail business in India"](https://finshots.in/archive/why-foreign-banks-are-selling-their-retail-business-in-india/)
+- 📰 [Daily English News -> "Snapchat’s new Quick Cut stitches a video together for you"](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor)
+</p></details>
 <details><summary><u>Day 1038</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1038e1.png)
