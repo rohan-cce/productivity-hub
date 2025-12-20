@@ -1,5 +1,19 @@
 # productivity-hub
 Learning Progress Till Now -> 1040 days (13/02/2023 to 19/12/2025)
+<details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1041</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1041e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1041ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1041chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1041chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1041chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1041chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - Are buybacks these days just kicking the can down the road?"](https://finshots.in/archive/are-buybacks-these-days-just-kicking-the-can-down-the-road/)
+- 📰 [Daily English News -> "Semi-solid state MagSafe power banks arrive from the founder of Hyper"](https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks)
+</p></details>
+</p></details>
 <details><summary><u>Day 1031 - Day 1040 ~ December 10, 2025 - December 19, 2025</u></summary><p>
 <details><summary><u>Day 1040</u></summary><p>
 
