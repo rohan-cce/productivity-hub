@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1045 days (13/02/2023 to 24/12/2025)
+Learning Progress Till Now -> 1046 days (13/02/2023 to 25/12/2025)
 <details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1046</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1046e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1046ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1046chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1046chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1046chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1046chs4.png)
+- 💰📈 [Finshots ~ "Why Bengaluru has the most expensive metro"](https://finshots.in/archive/why-bengaluru-has-the-most-expensive-metro-namma-metro-bmrcl-first-fare-fixation-committee-report/)
+- 📰 [Daily English News -> "How AI broke the smart home in 2025"](https://www.theverge.com/tech/845958/ai-smart-home-broken)
+</p></details>
 <details><summary><u>Day 1045</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1045e1.png)
