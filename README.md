@@ -1,6 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1046 days (13/02/2023 to 25/12/2025)
+Learning Progress Till Now -> 1047 days (13/02/2023 to 26/12/2025)
 <details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1047</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1047e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1047ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1047chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1047chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1047chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1047chs4.png)
+- 💰📈 [Finshots ~ "Business - FMCG giants want some chips at Balaji Wafers"](https://finshots.in/archive/fmcg-giants-want-some-chips-at-balaji-wafers/)
+- 📰 [Daily English News -> "I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t"](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)
+</p></details>
 <details><summary><u>Day 1046</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1046e1.png)
