@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1047 days (13/02/2023 to 26/12/2025)
+Learning Progress Till Now -> 1048 days (13/02/2023 to 27/12/2025)
 <details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1048</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1048e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1048ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1048chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1048chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1048chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1048chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "How Databases Actually Store Your Data (B-Trees vs LSM Trees Explained)"](https://www.youtube.com/watch?v=Q9xD4J3tezw)
+- 💰📈 [Finshots ~ "Capital Markets - The Anand Rathi Share and Stock Brokers IPO explained"](https://finshots.in/archive/the-anand-rathi-share-and-stock-brokers-ipo-explained-2/)
+- 📰 [Daily English News -> "JerryRigEverything bends the Samsung Galaxy Z TriFold beyond its limits."](https://www.theverge.com/news/850464/jerryrigeverything-bends-the-samsung-galaxy-z-trifold-beyond-its-limits)
+</p></details>
 <details><summary><u>Day 1047</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1047e1.png)
