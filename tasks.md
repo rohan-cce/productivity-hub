@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1048 days (13/02/2023 to 27/12/2025)
+Learning Progress Till Now -> 1049 days (13/02/2023 to 28/12/2025)
 <details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1049</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1049e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1049ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1049chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1049chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1049chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1049chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "the mongo db situation is crazy"](https://www.youtube.com/watch?v=9Wg6tiaar9M)
+- 💰📈 [Finshots ~ "Macro - The $100,000 H1-B visa shock"](https://finshots.in/archive/the-100-000-h1-b-visa-shock/)
+- 📰 [Daily English News -> "Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack"](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack)
+</p></details>
 <details><summary><u>Day 1048</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1048e1.png)
