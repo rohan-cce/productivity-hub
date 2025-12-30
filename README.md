@@ -1,6 +1,32 @@
 # productivity-hub
-Learning Progress Till Now -> 1050 days (13/02/2023 to 29/12/2025)
+Learning Progress Till Now -> 1051 days (13/02/2023 to 30/12/2025)
+<details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1051</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1051e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1051ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1051chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1051chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1051chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1051chs4.png)
+</p></details>
+</p></details>
 <details><summary><u>Day 1041 - Day 1050 ~ December 20, 2025 - December 29, 2025</u></summary><p>
+<details><summary><u>Day 1050</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1050e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1050ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1050chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1050chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1050chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1050chs4.png)
+- 💻 Technical Learning
+  - 💻 [Youtube -> "The Dark Web Explained: What Actually Happens There"](https://www.youtube.com/watch?v=L33RP5gbxgY)
+- 💰📈 [Finshots ~ "BUSINESS - The Intel–Nvidia saga"](https://finshots.in/archive/the-intel-nvidia-saga/)
+- 📰 [Daily English News -> "The terrible Nintendo controller that helped make VR happen"](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)
+</p></details>
 <details><summary><u>Day 1049</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1049e1.png)
