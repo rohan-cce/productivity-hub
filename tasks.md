@@ -1,6 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 1051 days (13/02/2023 to 30/12/2025)
+Learning Progress Till Now -> 1053 days (13/02/2023 to 01/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1053</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1053e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1053ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1053chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1053chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1053chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1053chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The Pilots Who Flew Into the Chernobyl Core"](https://www.youtube.com/watch?v=uXxb4MFJj7I)
+- 💰📈 [Finshots ~ "Capital Markets - President Trump dislikes quarterly results now?"](https://finshots.in/archive/us-president-donald-trump-dislikes-quarterly-results-now-sec-securities-and-exchange-commission-quarterly-earnings-guidance)
+- 📰 [Daily English News -> "Google is letting some people change their @gmail address"](https://www.theverge.com/news/850237/google-change-your-gmail-address)
+</p></details>
+<details><summary><u>Day 1052</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1052e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1052ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1052chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1052chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1052chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1052chs4.png)
+</p></details>
 <details><summary><u>Day 1051</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1051e1.png)
