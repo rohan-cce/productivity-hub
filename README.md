@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1053 days (13/02/2023 to 01/01/2026)
+Learning Progress Till Now -> 1054 days (13/02/2023 to 01/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1054</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1054e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1054ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1054chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1054chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1054chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1054chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Here's when Event-Driven Systems should REALLY be used.."](https://www.youtube.com/watch?v=Of-br0OG5ic)
+- 💰📈 [Finshots ~ "Economy - 10% of Kutch for green energy and data centres = development?"](https://finshots.in/archive/10-of-kutch-for-green-energy-and-data-centres-development-reliance-adani-solar-land/)
+- 📰 [Daily English News -> "Samsung’s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz"](https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026)
+</p></details>
 <details><summary><u>Day 1053</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1053e1.png)
