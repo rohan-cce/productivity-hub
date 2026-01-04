@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1055 days (13/02/2023 to 03/01/2026)
+Learning Progress Till Now -> 1056 days (13/02/2023 to 04/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1056</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1056e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1056ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1056chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1056chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1056chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1056chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "99% of Developers Don't Get gRPC"](https://www.youtube.com/watch?v=UQ-nXHwdSFU)
+- 💰📈 [Finshots ~ "BUSINESS - How India quietly became a French fry powerhouse"](https://finshots.in/archive/how-india-quietly-became-a-french-fries-powerhouse-2-big-fry-belgium-netherlands-europe-mcdonalds/)
+- 📰 [Daily English News -> "Google AI Overviews Put People at Risk of Harm With Misleading Health Advice"](https://m.slashdot.org/story/450887)
+</p></details>
 <details><summary><u>Day 1055</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1055e1.png)
