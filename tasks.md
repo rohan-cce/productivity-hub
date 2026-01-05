@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1056 days (13/02/2023 to 04/01/2026)
+Learning Progress Till Now -> 1057 days (13/02/2023 to 05/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1057</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1057e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1057ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1057chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1057chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1057chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1057chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The Genius System Behind the Uber App’s Real-Time Map"](https://youtu.be/gHIs0Mdow8M)
+- 💰📈 [Finshots ~ "Business - Why did SMBC choose Yes Bank over Kotak Mahindra Bank?"](https://finshots.in/archive/why-did-smbc-choose-yes-bank-over-kotak-mahindra-bank/)
+- 📰 [Daily English News -> "The US Effort to Break China's Rare-Earth Monopoly"](https://hardware.slashdot.org/story/26/01/04/0515201/the-us-effort-to-break-chinas-rare-earth-monopoly)
+</p></details>
 <details><summary><u>Day 1056</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1056e1.png)
