@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1057 days (13/02/2023 to 05/01/2026)
+Learning Progress Till Now -> 1058 days (13/02/2023 to 06/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1058</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1058e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1058ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1058chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1058chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1058chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1058chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How SpaceX Makes Billions (Not From Rockets)"](https://youtu.be/GpGXFd7Oiqc)
+- 💰📈 [Finshots ~ "Why UK manufacturing couldn’t afford a JLR on crutches"](https://finshots.in/archive/why-uk-manufacturing-couldnt-afford-a-jlr-on-crutches-jaguar-land-rover-cyber-attack-scattered-spider-lapsus-shinyhunters/)
+- 📰 [Daily English News -> "Fish Mouth' Filter Removes 99% of Microplastics From Laundry Waste"](https://news.slashdot.org/story/26/01/04/1810209/fish-mouth-filter-removes-99-of-microplastics-from-laundry-waste)
+</p></details>
 <details><summary><u>Day 1057</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1057e1.png)
