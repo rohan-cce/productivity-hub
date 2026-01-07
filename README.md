@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1058 days (13/02/2023 to 06/01/2026)
+Learning Progress Till Now -> 1059 days (13/02/2023 to 07/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1059</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1059e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1059ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1059chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1059chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1059chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1059chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Transformers Step-by-Step Explained (Attention Is All You Need)"](https://www.youtube.com/watch?v=avjX3QrYkls)
+- 💰📈 [Finshots ~ "CAPITAL MARKETS - The LG Electronics India IPO"](https://finshots.in/archive/the-lg-electronics-india-ipo/)
+- 📰 [Daily English News -> "Amazon's AI Assistant Comes To the Web With Alexa.com"](https://slashdot.org/story/26/01/05/2041210/amazons-ai-assistant-comes-to-the-web-with-alexacom)
+</p></details>
 <details><summary><u>Day 1058</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1058e1.png)
