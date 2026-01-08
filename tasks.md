@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1059 days (13/02/2023 to 07/01/2026)
+Learning Progress Till Now -> 1060 days (13/02/2023 to 08/01/2026)
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
+<details><summary><u>Day 1060</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1060e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1060ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1060chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1060chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1060chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1060chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Don't Build AI Apps in 2026 Without This"](https://www.youtube.com/watch?v=RSoy6zNamdM)
+- 💰📈 [Finshots ~ "Capital Markets - Understanding confidential IPOs"](https://finshots.in/archive/understanding-confidential-ipo-india-sebi-pre-filing-drhp-us-sec-jobs-act/)
+- 📰 [Daily English News -> "Founder of Spyware Maker PcTattletale Pleads Guilty To Hacking, Advertising Surveillance Software"](https://yro.slashdot.org/story/26/01/07/0033238/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-advertising-surveillance-software)
+</p></details>
 <details><summary><u>Day 1059</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1059e1.png)
