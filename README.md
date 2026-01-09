@@ -1,5 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1060 days (13/02/2023 to 08/01/2026)
+Learning Progress Till Now -> 1061 days (13/02/2023 to 09/01/2026)
+<details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1061</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1061e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1061ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1061chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1061chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1061chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1061chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> ""]()
+- 💰📈 [Finshots ~ "Japan's Nuclear Watchdog Halts Plant's Reactor Safety Screening Over Falsified Data"](https://slashdot.org/story/26/01/07/2257232/japans-nuclear-watchdog-halts-plants-reactor-safety-screening-over-falsified-data)
+- 📰 [Daily English News -> "Macro - Gold is cool, but what about Platinum?"](https://finshots.in/archive/gold-is-cool-but-what-about-platinum/)
+</p></details>
+</p></details>
 <details><summary><u>Day 1051 - Day 1060 ~ December 30, 2025 - January 08, 2026</u></summary><p>
 <details><summary><u>Day 1060</u></summary><p>
 
