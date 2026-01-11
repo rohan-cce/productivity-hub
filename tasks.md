@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1062 days (13/02/2023 to 10/01/2026)
+Learning Progress Till Now -> 1063 days (13/02/2023 to 11/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1063</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1063e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1063ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1063chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1063chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1063chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1063chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "If You Can't Explain UTF 8 vs Unicode, Watch This"](https://www.youtube.com/watch?v=i90D9irbc04)
+- 💰📈 [Finshots ~ "POLICY - Why RBI is rewriting the liquidity rules"](https://finshots.in/archive/why-rbi-is-rewriting-the-liquidity-rules/)
+- 📰 [Daily English News -> "China's 'Artificial Sun' Breaks Nuclear Fusion Limit Thought to Be Impossible"](https://hardware.slashdot.org/story/26/01/10/0556228/chinas-artificial-sun-breaks-nuclear-fusion-limit-thought-to-be-impossible)
+</p></details>
 <details><summary><u>Day 1062</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1062e1.png)
