@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1063 days (13/02/2023 to 11/01/2026)
+Learning Progress Till Now -> 1064 days (13/02/2023 to 12/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1064</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1064e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1064ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1064chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1064chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1064chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1064chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Merkle Trees - the data structure behind Git and Cursor"](https://www.youtube.com/watch?v=86Elcm_6X_Y)
+- 💰📈 [Finshots ~ "Economy - Inside the theories that won the 2025 Economics Nobel"](https://finshots.in/archive/inside-the-theories-that-won-the-2025-economics-nobel-joel-mokyr-philippe-aghion-peter-howitt/)
+- 📰 [Daily English News -> "Amazon Plans Massive Superstore Larger Than a Walmart Supercenter Near Chicago"](https://slashdot.org/story/26/01/10/0652218/amazon-plans-massive-superstore-larger-than-a-walmart-supercenter-near-chicago)
+</p></details>
 <details><summary><u>Day 1063</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1063e1.png)
