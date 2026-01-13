@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1064 days (13/02/2023 to 12/01/2026)
+Learning Progress Till Now -> 1065 days (13/02/2023 to 13/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1065</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1065e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1065ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1065chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1065chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1065chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1065chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> ""]()
+- 💰📈 [Finshots ~ "Business - Why IndiGo’s co-founder quietly flew away"](https://finshots.in/archive/why-indigos-co-founder-quietly-flew-away/)
+- 📰 [Daily English News -> "Apple Partners With Google on Siri Upgrade, Declares Gemini 'Most Capable Foundation' "](https://apple.slashdot.org/story/26/01/12/166200/apple-partners-with-google-on-siri-upgrade-declares-gemini-most-capable-foundation)
+</p></details>
 <details><summary><u>Day 1064</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1064e1.png)
