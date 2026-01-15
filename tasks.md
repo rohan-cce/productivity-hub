@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1066 days (13/02/2023 to 14/01/2026)
+Learning Progress Till Now -> 1067 days (13/02/2023 to 15/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1067</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1067e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1067ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1067chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1067chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1067chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1067chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Credit Card Transactions Decoded: From Tap to Bank in 2 Seconds"](https://youtu.be/8nufqAsoX1k)
+- 💰📈 [Finshots ~ "Business - Why is everyone talking about the fall of Bira 91?"](https://finshots.in/archive/why-is-everyone-talking-about-the-fall-of-bira-91-b9-beverages/)
+- 📰 [Daily English News -> "Coal Power Generation Falls in China and India for First Time Since 1970s "](https://news.slashdot.org/story/26/01/14/1810207/coal-power-generation-falls-in-china-and-india-for-first-time-since-1970s)
+</p></details>
 <details><summary><u>Day 1066</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1066e1.png)
