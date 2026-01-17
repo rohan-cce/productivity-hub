@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1068 days (13/02/2023 to 16/01/2026)
+Learning Progress Till Now -> 1069 days (13/02/2023 to 17/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1069</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1069e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1069ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1069chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1069chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1069chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1069chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How Do Oil Pumpjacks Work? | Nodding Donkeys"](https://www.youtube.com/watch?v=oHVX5GpZG4A)
+- 💰📈 [Finshots ~ "Nearly 5 Million Accounts Removed Under Australia's New Social Media Ban "](https://finshots.in/archive/whats-up-with-the-new-epfo-rules/)
+- 📰 [Daily English News -> "Policy - What’s up with the new EPFO rules?"](https://finshots.in/archive/whats-up-with-the-new-epfo-rules/)
+</p></details>
 <details><summary><u>Day 1068</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1068e1.png)
