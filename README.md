@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1069 days (13/02/2023 to 17/01/2026)
+Learning Progress Till Now -> 1070 days (13/02/2023 to 18/01/2026)
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
+<details><summary><u>Day 1070</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1070e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1070ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1070chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1070chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1070chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1070chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Here's what you should know about Concurrency"](https://youtu.be/AqbmW1QQ34U)
+  - 💻 [Blog read -> "Goodbye Microservices: From 100s of problem children to 1 superstar"](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/?ref=dailydev)
+- 💰📈 [Finshots ~ "Macro - How reliant is the Indian pharma industry on China?"](https://finshots.in/archive/how-reliant-is-the-indian-pharma-industry-on-china/)
+- 📰 [Daily English News -> "To Pressure Security Professionals, Mandiant Releases Database That Cracks Weak NTLM Passwords in 12 Hours"](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours)
+</p></details>
 <details><summary><u>Day 1069</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1069e1.png)
