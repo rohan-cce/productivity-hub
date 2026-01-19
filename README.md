@@ -1,5 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1070 days (13/02/2023 to 18/01/2026)
+Learning Progress Till Now -> 1071 days (13/02/2023 to 19/01/2026)
+<details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1071</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1071e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1071ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1071chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1071chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1071chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1071chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Roadmap for backend from first principles"](https://www.youtube.com/watch?v=0Rwb4Xmlcwc&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=1)
+  - 💻 [Blog read -> "Introduction to Basic Syntax in Java"](https://www.baeldung.com/java-syntax)
+- 💰📈 [Finshots ~ "Macro - How reliant is the Indian pharma industry on China?"](https://finshots.in/archive/how-reliant-is-the-indian-pharma-industry-on-china/)
+- 📰 [Daily English News -> "To Pressure Security Professionals, Mandiant Releases Database That Cracks Weak NTLM Passwords in 12 Hours"](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours)
+</p></details>
+</p></details>
 <details><summary><u>Day 1061 - Day 1070 ~ January 09, 2026 - January 18, 2026</u></summary><p>
 <details><summary><u>Day 1070</u></summary><p>
 
