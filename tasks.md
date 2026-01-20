@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1071 days (13/02/2023 to 19/01/2026)
+Learning Progress Till Now -> 1072 days (13/02/2023 to 20/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1072</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1072e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1072ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1072chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1072chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1072chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1072chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Walk the path of a true backend engineer"](https://www.youtube.com/watch?v=3qFjZbFRSAU&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=2)
+  - 💻 [Blog read -> "How I hacked India’s top company database…"](https://medium.com/@sritharcyber/how-i-hacked-indias-top-company-database-d66b9fc49cb0)
+  - 💻 [Blog read -> "Introduction to Java Primitives"](https://www.baeldung.com/java-primitives)
+- 💰📈 [Finshots ~ "Business - RBL’s ticket to the big leagues"](https://finshots.in/archive/rbls-ticket-to-the-big-leagues/)
+- 📰 [Daily English News -> "Germany's EV Subsidies Will Include Chinese Brands "](https://tech.slashdot.org/story/26/01/19/2341242/germanys-ev-subsidies-will-include-chinese-brands)
+</p></details>
 <details><summary><u>Day 1071</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1071e1.png)
