@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1072 days (13/02/2023 to 20/01/2026)
+Learning Progress Till Now -> 1073 days (13/02/2023 to 21/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1073</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1073e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1073ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1073chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1073chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1073chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1073chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "3. What is a Backend, how do they work and why do we need them?"](https://www.youtube.com/watch?v=6Ss4dJD9Kzg&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=3)
+  - 💻 [Blog read -> "How Reddit Migrated Comments Functionality from Python to Go"](https://blog.bytebytego.com/p/how-reddit-migrated-comments-functionality?ref=dailydev)
+  - 💻 [Blog read -> "Java main() Method Explained"](https://www.baeldung.com/java-main-method)
+- 💰📈 [Finshots ~ "Capital Markets - SEBI wants mutual funds to stop chasing pre-IPO deals"](https://finshots.in/archive/sebi-wants-mutual-funds-to-stop-chasing-pre-ipo-deals/)
+- 📰 [Daily English News -> "Snap Settles Social media Addiction Lawsuit Ahead of Landmark Trial"](https://yro.slashdot.org/story/26/01/21/0449250/snap-settles-social-media-addiction-lawsuit-ahead-of-landmark-trial)
+</p></details>
 <details><summary><u>Day 1072</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1072e1.png)
