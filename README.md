@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1073 days (13/02/2023 to 21/01/2026)
+Learning Progress Till Now -> 1074 days (13/02/2023 to 22/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1074</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1074e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1074ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1074chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1074chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1074chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1074chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "X.509 Certificates vs Vaults - The Security Industry Got It Wrong"](https://youtu.be/aNyP-DnaPR0)
+  - 💻 [Youtube -> "4. Benefits of learning backend engineering from first principles"](https://youtu.be/6fqZs5Z3k9A?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+  - 💻 [Blog read -> "A Guide to Java Loops"](https://www.baeldung.com/java-loops)
+  - 💻 [Blog read -> "How Uber Serves over 150 Million Reads per Second from Integrated Cache"](https://blog.bytebytego.com/p/how-uber-serves-over-150-million?ref=dailydev)
+- 💰📈 [Finshots ~ "Policy - What you need to know about loans against silver"](https://finshots.in/archive/what-you-need-to-know-about-loans-against-silver-rbi-lending-against-gold-and-silver-collateral-directions-2025/)
+- 📰 [Daily English News -> "Wikipedia's Guide to Spotting AI Is Now Being Used To Hide AI"](https://news.slashdot.org/story/26/01/22/015250/wikipedias-guide-to-spotting-ai-is-now-being-used-to-hide-ai)
+</p></details>
 <details><summary><u>Day 1073</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1073e1.png)
