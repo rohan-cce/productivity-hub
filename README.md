@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1074 days (13/02/2023 to 22/01/2026)
+Learning Progress Till Now -> 1075 days (13/02/2023 to 23/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1075</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1075e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1075ls1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1075chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1075chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1075chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1075chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL Primary"](https://youtu.be/ubpUjovBMAM)
+  - 💻 [Blog read -> "Access Modifiers in Java"](https://www.baeldung.com/java-access-modifiers)
+- 💰📈 [Finshots ~ "Capital Markets - The Orkla India (MTR Foods) IPO"](https://finshots.in/archive/the-orkla-india-mtr-foods-ipo/)
+- 📰 [Daily English News -> "South Korea Launches Landmark Laws To Regulate AI"](https://yro.slashdot.org/story/26/01/22/2339207/south-korea-launches-landmark-laws-to-regulate-ai)
+</p></details>
 <details><summary><u>Day 1074</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1074e1.png)
