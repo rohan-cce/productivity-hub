@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1076 days (13/02/2023 to 24/01/2026)
+Learning Progress Till Now -> 1077 days (13/02/2023 to 25/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1077</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1077e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1077ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1077b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1077chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1077chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1077chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1077chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - The Lenskart IPO explained"](https://finshots.in/archive/the-lenskart-solutions-ipo-explained/)
+- 📰 [Daily English News -> "Microsoft 365 Endured 9+ Hours of Outages Thursday"](https://it.slashdot.org/story/26/01/24/2031221/microsoft-365-endured-9-hours-of-outages-thursday)
+</p></details>
 <details><summary><u>Day 1076</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1076e1.png)
