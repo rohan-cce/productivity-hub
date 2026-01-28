@@ -1,7 +1,40 @@
 # productivity-hub
-Learning Progress Till Now -> 1078 days (13/02/2023 to 26/01/2026)
+Learning Progress Till Now -> 1080 days (13/02/2023 to 28/01/2026)
 <details><summary><u>Day 1071 - Day 1080 ~ January 19, 2026 - January 28, 2026</u></summary><p>
+<details><summary><u>Day 1080</u></summary><p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1080e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1080ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1080b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1080chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1080chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1080chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1080chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> ""]()
+  - 💻 [Blog read -> "Rethinking the Cost of Distributed Caches for Datacenter Services"](https://muratbuffalo.blogspot.com/2025/12/rethinking-cost-of-distributed-caches.html?ref=dailydev)
+- 💰📈 [Finshots ~ "Business - Bankim Brahmbhatt and the $500 million lesson in lending against thin air"](https://finshots.in/archive/bankim-brahmbhatt-and-the-500-million-lesson-in-lending-against-thin-air/)
+- 📰 [Daily English News -> "OpenAI Releases Prism, a Claude Code-Like App For Scientific Research"](https://science.slashdot.org/story/26/01/27/2157226/openai-releases-prism-a-claude-code-like-app-for-scientific-research)
+</p></details>
+<details><summary><u>Day 1079</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1079e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1079ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1079b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1079chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1079chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1079chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1079chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "UTC vs Timezone - The Bug That Costs Developers Hours"](https://www.youtube.com/watch?v=rPHZwB9rLYM)
+  - 💻 [Blog read -> "Difference Between “final static” and “static final”"](https://www.baeldung.com/java-static-final-order)
+  - 💻 [Blog read -> "Guide to Java Packages"](https://www.baeldung.com/java-packages)
+  - 💻 [Blog read -> "Microservices Are Killing Your Performance (And Here's the Math)"](https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op?ref=dailydev)
+- 💰📈 [Finshots ~ "Capital Markets - The Groww IPO explained"](https://finshots.in/archive/the-groww-ipo-explained-billionbrains-garage-ventures/)
+- 📰 [Daily English News -> "Microsoft's Latest AI Chip Claims Performance Edge Over Amazon and Google"](https://hardware.slashdot.org/story/26/01/26/2244208/microsofts-latest-ai-chip-claims-performance-edge-over-amazon-and-google)
+</p></details>
 <details><summary><u>Day 1078</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1078e1.png)
