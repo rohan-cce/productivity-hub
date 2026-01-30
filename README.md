@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1081 days (13/02/2023 to 29/01/2026)
+Learning Progress Till Now -> 1082 days (13/02/2023 to 30/01/2026)
 <details><summary><u>Day 1081 - Day 1090 ~ January 29, 2026 - February 07, 2026</u></summary><p>
+<details><summary><u>Day 1082</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1082e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1082ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1082b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1082chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1082chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1082chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1081chs4.png)
+- 💰📈 [Finshots ~ "Business - A breakthrough that might break the internet"](https://finshots.in/archive/a-breakthrough-that-might-break-the-internet-willow-google-quantum-computing-chip/)
+- 📰 [Daily English News -> "Linux Gaming Developers Join Forces To Form the Open Gaming Collective "](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective)
+</p></details>
 <details><summary><u>Day 1081</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1081e1.png)
