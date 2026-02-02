@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1084 days (13/02/2023 to 01/02u/2026)
+Learning Progress Till Now -> 1085 days (13/02/2023 to 02/02/2026)
 <details><summary><u>Day 1081 - Day 1090 ~ January 29, 2026 - February 07, 2026</u></summary><p>
+<details><summary><u>Day 1085</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1085e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1085ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1085b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1085chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1085chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1085chs3.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "MCP vs A2A | Which Protocol Will Win?"](https://youtu.be/vVMlEBMIdKo)
+  - 💻 [Blog read -> "Singletons in Java"](https://www.baeldung.com/java-singleton)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1085chs4.png)
+- 💰📈 [Finshots ~ "Capital Markets - What happened to all the T+0 excitement?"](https://finshots.in/archive/what-happened-to-all-the-t-0-excitement-sebi-instant-settlement-qualified-stock-brokers-t-1/)
+- 📰 [Daily English News -> "Linux Kernel Developer Chris Mason's New Initiative: AI Prompts for Code Reviews "](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews)
+</p></details>
 <details><summary><u>Day 1084</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1084e1.png)
