@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1085 days (13/02/2023 to 02/02/2026)
+Learning Progress Till Now -> 1086 days (13/02/2023 to 03/02/2026)
 <details><summary><u>Day 1081 - Day 1090 ~ January 29, 2026 - February 07, 2026</u></summary><p>
+<details><summary><u>Day 1086</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1086e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1086ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1086b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1086chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1086chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1086chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1086chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Why Ships and Planes Use ‘Knots’ Instead of Miles per Hour?"](https://youtu.be/KWBQZYsZU80)
+  - 💻 [Blog read -> "Abstract Classes in Java"](https://www.baeldung.com/java-abstract-class)
+- 💰📈 [Finshots ~ "Business - The Tata Trusts saga explained"](https://finshots.in/archive/the-tata-trusts-saga-explained/)
+- 📰 [Daily English News -> "YouTube Kills Background Playback on Third-Party Mobile Browsers"](https://news.slashdot.org/story/26/02/03/1655249/youtube-kills-background-playback-on-third-party-mobile-browsers)
+</p></details>
 <details><summary><u>Day 1085</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1085e1.png)
