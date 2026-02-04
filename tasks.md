@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1086 days (13/02/2023 to 03/02/2026)
+Learning Progress Till Now -> 1087 days (13/02/2023 to 04/02/2026)
 <details><summary><u>Day 1081 - Day 1090 ~ January 29, 2026 - February 07, 2026</u></summary><p>
+<details><summary><u>Day 1087</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1087e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1087ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1087b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1087chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1087chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1087chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1087chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Write-Ahead Logs. The secret to fast database queries."](https://youtu.be/s3hKYMOpp3E)
+  - 💻 [Blog read -> "Nested Classes in Java"](https://www.baeldung.com/java-nested-classes)
+- 💰📈 [Finshots ~ "Capital Markets - The PhysicsWallah IPO explained"](https://finshots.in/archive/the-physicswallah-ipo-explained/)
+- 📰 [Daily English News -> "Say Hello To GoogleSQL"](https://developers.slashdot.org/story/26/02/04/075248/say-hello-to-ne)
+</p></details>
 <details><summary><u>Day 1086</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1086e1.png)
