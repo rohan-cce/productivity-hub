@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1088 days (13/02/2023 to 05/02/2026)
+Learning Progress Till Now -> 1089 days (13/02/2023 to 06/02/2026)
 <details><summary><u>Day 1081 - Day 1090 ~ January 29, 2026 - February 07, 2026</u></summary><p>
+<details><summary><u>Day 1089</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1089e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1089ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1089b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1089chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1089chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1089chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1089chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "9 Key AI Concepts Explained in 7 minutes: AI Agents, RAGs, Tokenization, RLHF, Diffusion, LoRA..."](https://youtu.be/nVnxG10D5W0)
+  - 💻 [Blog read -> "Varargs in Java"](https://www.baeldung.com/java-varargs)
+- 💰📈 [Finshots ~ "Capital Markets - What SEBI’s new AIF rules mean"](https://finshots.in/archive/what-sebi-new-aif-rules-mean-alternative-investment-funds/)
+- 📰 [Daily English News -> "Google Confirms AirDrop Sharing is Coming To Android Phones Beyond Pixels"](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels)
+</p></details>
 <details><summary><u>Day 1088</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1088e1.png)
