@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1091 days (13/02/2023 to 08/02/2026)
+Learning Progress Till Now -> 1092 days (13/02/2023 to 09/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1092</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1092e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1092ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1092b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1092chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1092chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1092chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1092chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Webhooks for Beginners – From Polling to Real‑Time Events"](https://youtu.be/bXY7899m6M8)
+  - 💻 [Blog read -> "Logging sucks."](https://loggingsucks.com/)
+  - 💻 [Blog read -> "Guide to hashCode() in Java"](https://www.baeldung.com/java-hashcode)
+- 💰📈 [Finshots ~ "Capital Markets - How digital gold became India's favourite unregulated investment"](https://finshots.in/archive/how-digital-gold-became-india-favourite-unregulated-investment-sebi-rbi-mmtc-pamp-augmont-google-pay-phonepe/)
+- 📰 [Daily English News -> "Carmakers Rush To Remove Chinese Code Under New US Rules"](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules)
+</p></details>
 <details><summary><u>Day 1091</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1091e1.png)
