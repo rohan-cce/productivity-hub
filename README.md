@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1092 days (13/02/2023 to 09/02/2026)
+Learning Progress Till Now -> 1093 days (13/02/2023 to 10/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1093</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1093e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1093ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1093b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1093chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1093chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1093chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1093chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Large Language Models explained briefly"](https://youtu.be/LPZh9BOjkQs)
+  - 💻 [Blog read -> "Java Switch Statement"](https://www.baeldung.com/java-switch)
+  - 💻 [Blog read -> "How I Finally Understood Docker and Kubernetes"](https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe)
+- 💰📈 [Finshots ~ "Business - Why Softbank sold its golden goose"](https://finshots.in/archive/why-softbank-sold-its-golden-goose/)
+- 📰 [Daily English News -> "OpenAI Starts Running Ads in ChatGPT "](https://slashdot.org/story/26/02/09/1929257/openai-starts-running-ads-in-chatgpt)
+</p></details>
 <details><summary><u>Day 1092</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1092e1.png)
