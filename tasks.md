@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1093 days (13/02/2023 to 10/02/2026)
+Learning Progress Till Now -> 1094 days (13/02/2023 to 11/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1094</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1094e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1094ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1094b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1094chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1094chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1094chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1094chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The Selenium Problem: Why QA Teams Waste 40% of Their Time | Kane AI"](https://youtu.be/p5hA8rpCRXw)
+  - 💻 [Blog read -> "Guide to the Java forEach Loop"](https://www.baeldung.com/foreach-java)
+  - 💻 [Blog read -> "The biggest obstacle for engineer productivity in 2026"](https://strategizeyourcareer.com/p/this-ai-problem-is-the-biggest-risk-for-software-engineers-in-2026?ref=dailydev)
+- 💰📈 [Finshots ~ "Policy - Making sense of India's first ever LPG import deal with the US"](https://finshots.in/archive/making-sense-of-indias-first-ever-structured-lpg-import-deal-with-the-us-liquefied-petroleum-gas-saudi-middle-east/)
+- 📰 [Daily English News -> "Linux 7.0 Kernel Confirmed By Linus Torvalds, Expected In Mid-April 2026"](https://linux.slashdot.org/story/26/02/09/2034222/linux-70-kernel-confirmed-by-linus-torvalds-expected-in-mid-april-2026)
+</p></details>
 <details><summary><u>Day 1093</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1093e1.png)
