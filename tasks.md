@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1094 days (13/02/2023 to 11/02/2026)
+Learning Progress Till Now -> 1095 days (13/02/2023 to 12/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1095</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1095e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1095ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1095b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1095chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1095chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1095chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1095chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "CDNs Explained in 6 Minutes | System Design Basics"](https://youtu.be/PMQdGWt3_L4)
+  - 💻 [Blog read -> "An Introduction to Atomic Variables in Java"](https://www.baeldung.com/java-atomic-variables)
+  - 💻 [Blog read -> "How Kubernetes Works Internally?"](https://newsletter.systemdesigncodex.com/p/how-kubernetes-works-internally?ref=dailydev)
+- 💰📈 [Finshots ~ "Business - The battle for BYJU’s remains"](https://finshots.in/archive/the-battle-for-byjus-remains/)
+- 📰 [Daily English News -> "Meta Auditor EY Raised Red Flag on Data-Center Accounting"](https://tech.slashdot.org/story/26/02/12/121243/meta-auditor-ey-raised-red-flag-on-data-center-accounting)
+</p></details>
 <details><summary><u>Day 1094</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1094e1.png)
