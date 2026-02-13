@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1095 days (13/02/2023 to 12/02/2026)
+Learning Progress Till Now -> 1096 days (13/02/2023 to 13/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1096</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1096e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1096ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1096b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1096chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1096chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1096chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1096chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Skip Lists - a perfect structure for LSM databases!"](https://youtu.be/VctNQi7WCkE)
+  - 💻 [Blog read -> "How microservice architectures have shaped the usage of database technologies"](https://www.datadoghq.com/blog/datadog-database-research/?ref=dailydev)
+  - 💻 [Blog read -> "Immutable Objects in Java"](https://www.baeldung.com/java-immutable-object)
+- 💰📈 [Finshots ~ "Policy - The Coin Laundry explained"](https://finshots.in/archive/the-coin-laundry-explained/)
+- 📰 [Daily English News -> "Windows 11 Notepad Flaw Let Files Execute Silently via Markdown Links "](https://tech.slashdot.org/story/26/02/12/2111243/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links)
+</p></details>
 <details><summary><u>Day 1095</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1095e1.png)
