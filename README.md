@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1096 days (13/02/2023 to 13/02/2026)
+Learning Progress Till Now -> 1097 days (13/02/2023 to 14/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1097</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1097e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1097ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1097b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1097chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1097chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1097chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1097chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "What Are AI Agents & How Do They Work?"](https://youtu.be/oP6DS_x5K0Y)
+  - 💻 [Blog read -> "Java Classes and Objects"](https://www.baeldung.com/java-classes-objects)
+  - 💻 [Blog read -> "How Airbnb Runs Distributed Databases on Kubernetes at Scale"](https://blog.bytebytego.com/p/how-airbnb-runs-distributed-databases?ref=dailydev)
+- 💰📈 [Finshots ~ "Business - Understanding the economics behind India’s egg prices"](https://finshots.in/archive/understanding-the-economics-behind-indias-egg-prices-namakkal-tamil-nadu-egg-export-necc/)
+- 📰 [Daily English News -> "Autonomous AI Agent Apparently Tries to Blackmail Maintainer Who Rejected Its Code"](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code)
+</p></details>
 <details><summary><u>Day 1096</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1096e1.png)
