@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1097 days (13/02/2023 to 14/02/2026)
+Learning Progress Till Now -> 1098 days (13/02/2023 to 15/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1098</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1098e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1098ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1098b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1098chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1098chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1098chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1098chs4.png)
+- 💰📈 [Finshots ~ "Economy - Can LIC be India’s sovereign wealth fund?"](https://finshots.in/archive/can-lic-be-indias-sovereign-wealth-fund/)
+- 📰 [Daily English News -> "The EU Moves To Kill Infinite Scrolling"](https://tech.slashdot.org/story/26/02/13/1847236/the-eu-moves-to-kill-infinite-scrolling)
+</p></details>
 <details><summary><u>Day 1097</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1097e1.png)
