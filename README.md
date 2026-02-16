@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1098 days (13/02/2023 to 15/02/2026)
+Learning Progress Till Now -> 1099 days (13/02/2023 to 16/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1099</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1099e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1099ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1099b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1099chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1099chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1099chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1099chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The System Design Behind Stripe’s Minions AI Factory"](https://www.youtube.com/watch?v=GQ6piqfwr5c)
+  - 💻 [Blog read -> "Why We Should Not Mock Collections With Mockito"](https://www.baeldung.com/java-mockito-dont-mock-collections?ref=dailydev)
+- 💰📈 [Finshots ~ "Policy - When ORS didn’t mean ORS"](https://finshots.in/archive/when-ors-didnt-mean-ors/)
+- 📰 [Daily English News -> "'I Tried Running Linux On an Apple Silicon Mac and Regretted It' "](https://linux.slashdot.org/story/26/02/16/0340259/i-tried-running-linux-on-an-apple-silicon-mac-and-regretted-it)
+</p></details>
 <details><summary><u>Day 1098</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1098e1.png)
