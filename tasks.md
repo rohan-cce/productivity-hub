@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1099 days (13/02/2023 to 16/02/2026)
+Learning Progress Till Now -> 1100 days (13/02/2023 to 17/02/2026)
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1100</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1100e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1100ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1100b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1100chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1100chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1100chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1100chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "5. Understanding HTTP for backend engineers, where it all starts"](https://youtu.be/a3C1DMswClQ?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+  - 💻 [Blog read -> "A Guide to Java Modularity"](https://www.baeldung.com/java-modularity)
+- 💰📈 [Finshots ~ "Policy - India’s new Labour Codes explained"](https://finshots.in/archive/indias-new-labour-codes-explained/)
+- 📰 [Daily English News -> "EU Parliament Blocks AI Features Over Cyber, Privacy Fears"](https://yro.slashdot.org/story/26/02/16/1738256/eu-parliament-blocks-ai-features-over-cyber-privacy-fears)
+</p></details>
 <details><summary><u>Day 1099</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1001-D1100/d1099e1.png)
