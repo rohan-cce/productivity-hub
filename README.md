@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 1101 days (13/02/2023 to 17/02/2026)
+Learning Progress Till Now -> 1102 days (13/02/2023 to 19/02/2026)
 <details><summary><u>Day 1101 - Day 1110 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+<details><summary><u>Day 1102</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1102e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1102ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1102b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1102chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1102chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1102chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1102chs4.png)
+</p></details>
 <details><summary><u>Day 1101</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1101e1.png)
@@ -11,11 +22,6 @@ Learning Progress Till Now -> 1101 days (13/02/2023 to 17/02/2026)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1101chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1101chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1101chs4.png)
-- 💻 Technical / Curiosity Learning
-  - 💻 [Youtube -> ""]()
-  - 💻 [Blog read -> ""]()
-- 💰📈 [Finshots ~ ""]()
-- 📰 [Daily English News -> ""]()
 </p></details>
 </p></details>
 <details><summary><u>Day 1091 - Day 1100 ~ February 08, 2026 - February 17, 2026</u></summary><p>
