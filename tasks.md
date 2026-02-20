@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1102 days (13/02/2023 to 19/02/2026)
-<details><summary><u>Day 1101 - Day 1110 ~ February 08, 2026 - February 17, 2026</u></summary><p>
+Learning Progress Till Now -> 1103 days (13/02/2023 to 20/02/2026)
+<details><summary><u>Day 1101 - Day 1110 ~ February 18, 2026 - February 27, 2026</u></summary><p>
+<details><summary><u>Day 1103</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1103e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1103ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1103b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1103chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1103chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1103chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1103chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How OAuth & MFA Actually Works"](https://youtu.be/8d2eG7bdepQ)
+  - 💻 [Blog read -> "Introduction to Netflix Hollow"](https://www.baeldung.com/netflix-hollow?ref=dailydev)
+- 💰📈 [Finshots ~ "Business - What's a smell trademark, anyway?"](https://finshots.in/archive/whats-a-smell-trademark-anyway-sumitomo-rubber-industries-dunlop-tyres-india-first-olfactory-trademark/)
+- 📰 [Daily English News -> "Google Announces Gemini 3.1 Pro For 'Complex Problem-Solving' "](https://tech.slashdot.org/story/26/02/19/226258/google-announces-gemini-31-pro-for-complex-problem-solving)
+</p></details>
 <details><summary><u>Day 1102</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1102e1.png)
