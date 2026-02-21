@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1103 days (13/02/2023 to 20/02/2026)
+Learning Progress Till Now -> 1104 days (13/02/2023 to 21/02/2026)
 <details><summary><u>Day 1101 - Day 1110 ~ February 18, 2026 - February 27, 2026</u></summary><p>
+<details><summary><u>Day 1104</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1104e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1104ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1104b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1104chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1104chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1104chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1104chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "YouTube Recommendation Engine: Complete Meltdown Analysis"](https://youtu.be/URI5GsOBznk)
+- 💰📈 [Finshots ~ "Capital Markets - Why Michael Burry is going short on AI"](https://finshots.in/archive/why-michael-burry-is-going-short-on-ai/)
+- 📰 [Daily English News -> "OpenAI's First ChatGPT Gadget Could Be a Smart Speaker With a Camera"](https://hardware.slashdot.org/story/26/02/21/0049226/openais-first-chatgpt-gadget-could-be-a-smart-speaker-with-a-camera)
+</p></details>
 <details><summary><u>Day 1103</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1103e1.png)
