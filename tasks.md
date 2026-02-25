@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1107 days (13/02/2023 to 24/02/2026)
+Learning Progress Till Now -> 1108 days (13/02/2023 to 25/02/2026)
 <details><summary><u>Day 1101 - Day 1110 ~ February 18, 2026 - February 27, 2026</u></summary><p>
+<details><summary><u>Day 1108</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1108e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1108ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1108b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1108chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1108chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1108chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1108chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "System Design - How Tinder Finds Everyone Within 50 Miles (The Hard Way)"](https://youtu.be/VcDuKqzfgOg)
+- 💰📈 [Finshots ~ "A bit of Everything - What the Airbus scare tells us about modern infrastructure"](https://finshots.in/archive/what-the-airbus-scare-tells-us-about-modern-infrastructure/)
+- 📰 [Daily English News -> "Anthropic Drops Flagship Safety Pledge "](https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge)
+</p></details>
 <details><summary><u>Day 1107</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1107e1.png)
