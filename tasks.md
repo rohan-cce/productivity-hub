@@ -1,5 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1110 days (13/02/2023 to 27/02/2026)
+Learning Progress Till Now -> 1111 days (13/02/2023 to 28/02/2026)
+<details><summary><u>Day 1111 - Day 1120 ~ February 28, 2026 - March 09, 2026</u></summary><p>
+<details><summary><u>Day 1111</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1111e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1001-D1100/d1111ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1001-D1100/d1111b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1111chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1111chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1111chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1001-D1100/d1111chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "What are skills?"](https://www.youtube.com/watch?v=bjdBVZa66oU)
+  - 💻 [Blog read -> "Bloom Filters"](https://samwho.dev/bloom-filters)
+- 💰📈 [Finshots ~ "Business - The economics of Pantone and its colours"](https://finshots.in/archive/the-economics-of-pantone-color-of-the-year-cloud-dancer/)
+- 📰 [Daily English News -> "Perplexity Announces 'Computer,' an AI Agent That Assigns Work To Other AI Agents "](https://slashdot.org/story/26/02/27/2151236/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents)
+</p></details>
+</p></details>
 <details><summary><u>Day 1101 - Day 1110 ~ February 18, 2026 - February 27, 2026</u></summary><p>
 <details><summary><u>Day 1110</u></summary><p>
 
