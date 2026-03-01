@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1111 days (13/02/2023 to 28/02/2026)
+Learning Progress Till Now -> 1112 days (13/02/2023 to 01/03/2026)
 <details><summary><u>Day 1111 - Day 1120 ~ February 28, 2026 - March 09, 2026</u></summary><p>
+<details><summary><u>Day 1112</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1112e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1112ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1112b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1112chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1112chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1112chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1112chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "What are Wildcards in Generics | How it Works | Java"](https://www.youtube.com/watch?v=wvoljuWyEqk)
+  - 💻 [Blog read -> "Hashing"](https://samwho.dev/hashing)
+- 💰📈 [Finshots ~ "Capital Markets - The Wakefit IPO explained"](https://finshots.in/archive/the-wakefit-innovations-ipo-explained/)
+- 📰 [Daily English News -> "'World's Largest Battery' Soon At Google Data Center: 100-Hour Iron-Air Storage"](https://hardware.slashdot.org/story/26/02/28/0446211/worlds-largest-battery-soon-at-google-data-center-100-hour-iron-air-storage)
+</p></details>
 <details><summary><u>Day 1111</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1111e1.png)
