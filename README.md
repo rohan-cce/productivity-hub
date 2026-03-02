@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1112 days (13/02/2023 to 01/03/2026)
+Learning Progress Till Now -> 1113 days (13/02/2023 to 02/03/2026)
 <details><summary><u>Day 1111 - Day 1120 ~ February 28, 2026 - March 09, 2026</u></summary><p>
+<details><summary><u>Day 1113</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1113e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1113ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1113b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1113chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1113chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1113chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1113chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "System Design Made So Simple It Feels Illegal"](https://youtu.be/wwaadPgjYXY  )
+  - 💻 [Blog read -> "Concrete Class in Java"](https://www.baeldung.com/java-concrete-class)
+- 💰📈 [Finshots ~ "Business - What’s driving SSD and RAM stick prices to the moon"](https://finshots.in/archive/whats-driving-ssd-and-ram-stick-prices-to-the-moon/)
+- 📰 [Daily English News -> "Stack Overflow Adds New Features (Including AI Assist), Rethinks 'Look and Feel' "](https://developers.slashdot.org/story/26/03/02/069217/stack-overflow-adds-new-features-including-ai-assist-rethinks-look-and-feel)
+</p></details>
 <details><summary><u>Day 1112</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1112e1.png)
