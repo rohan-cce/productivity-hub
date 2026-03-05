@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1115 days (13/02/2023 to 04/03/2026)
+Learning Progress Till Now -> 1116 days (13/02/2023 to 05/03/2026)
 <details><summary><u>Day 1111 - Day 1120 ~ February 28, 2026 - March 09, 2026</u></summary><p>
+<details><summary><u>Day 1116</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1116e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1116ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1116b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1116chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1116chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1116chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1116chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The NPM Package Everyone Is Adding To Their Site (Web Haptics)"](https://www.youtube.com/watch?v=zAbQE6K0d1k)
+  - 💻 [Blog read -> "A Guide to Creating Objects in Java"](https://www.baeldung.com/java-initialization)
+- 💰📈 [Finshots ~ "Policy - Why India needs the Right to Disconnect"](https://finshots.in/archive/why-india-needs-the-right-to-disconnect/)
+- 📰 [Daily English News -> "Google Ends Its 30% App Store Fee, Welcomes Third-Party App Stores"](https://developers.slashdot.org/story/26/03/04/2218226/google-ends-its-30-app-store-fee-welcomes-third-party-app-stores)
+</p></details>
 <details><summary><u>Day 1115</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1115e1.png)
