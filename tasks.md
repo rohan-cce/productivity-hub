@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1116 days (13/02/2023 to 05/03/2026)
+Learning Progress Till Now -> 1117 days (13/02/2023 to 06/03/2026)
 <details><summary><u>Day 1111 - Day 1120 ~ February 28, 2026 - March 09, 2026</u></summary><p>
+<details><summary><u>Day 1117</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1117e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1117ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1116b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1117chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1117chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1117chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1117chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "GraphQL Federation: The Architecture That Powers Netflix's 70+ Microservices"](https://youtu.be/TG6fvxEpDvQ)
+  - 💻 [Blog read -> "Java Interfaces"](https://www.baeldung.com/java-interfaces)
+- 💰📈 [Finshots ~"Capital Markets The $1.5 trillion SpaceX IPO Explained"](https://finshots.in/archive/the-1-5-trillion-spacex-ipo-explained/)
+- 📰 [Daily English News ->  "AMD Will Bring Its 'Ryzen AI' Processors To Standard Desktop PCs For First Time "](https://hardware.slashdot.org/story/26/03/05/2035216/amd-will-bring-its-ryzen-ai-processors-to-standard-desktop-pcs-for-first-time)
+</p></details>
 <details><summary><u>Day 1116</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1116e1.png)
