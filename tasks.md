@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1138 days (13/02/2023 to 27/03/2026)
+Learning Progress Till Now -> 1139 days (13/02/2023 to 27/03/2026)
 <details><summary><u>Day 1131 - Day 1140 ~ March 20, 2026 - March 29, 2026</u></summary><p>
+<details><summary><u>Day 1139</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1139e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1139ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1139b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1139chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1139chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1139chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1139chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Docker in 2026: What Changed (And What You’re Still Doing Wrong)"](https://www.youtube.com/watch?v=T1nFYnonON8&pp=ugUEEgJlbg%3D%3D)
+  - 💻 [Youtube -> "Why Pantone Colors Are So Expensive | So Expensive | Business Insider"](https://youtu.be/xnpyTNK4U9U)
+  - 💻 [Youtube -> "How B-Trees Actually Work — The Data Structure That Makes Databases Fast"](https://youtu.be/71otuKmCQq4)
+  - 💻 [Blog read -> "Private Methods in Java Interfaces"](https://www.baeldung.com/java-interface-private-methods)
+- 💰📈 [Finshots ~ "Policy - Why Mexico wants to impose tariffs on India"](https://finshots.in/archive/why-mexico-wants-to-impose-tariffs-on-india/)
+- 📰 [Daily English News ->  "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages"](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)
+</p></details>
 <details><summary><u>Day 1138</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1138e1.png)
