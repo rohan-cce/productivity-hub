@@ -1,5 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1140 days (13/02/2023 to 29/03/2026)
+Learning Progress Till Now -> 1141 days (13/02/2023 to 30/03/2026)
+<details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1141</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1140e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1140ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1140b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Stripe's Smarter Approach to Structured Logging - Canonical Log Lines"](https://www.youtube.com/watch?v=9XJtEzmzG3g)
+  - 💻 [Blog read -> "How Google Manages Trillions of Authorizations with Zanzibar"](https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations)
+  - 💻 [Blog read -> "Guide to Inheritance in Java"](https://www.baeldung.com/java-inheritance)
+- 💰📈 [Finshots ~ "Policy - The Insurance Bill 2025 Explained"](https://finshots.in/archive/the-insurance-bill-2025-explained/)
+- 📰 [Daily English News -> "World's Smallest QR Code - Smaller Than Bacteria - Could Store Data for Centuries"](https://hardware.slashdot.org/story/26/03/29/2112231/worlds-smallest-qr-code---smaller-than-bacteria---could-store-data-for-centuries)
+</p></details>
+</p></details>
 <details><summary><u>Day 1131 - Day 1140 ~ March 20, 2026 - March 29, 2026</u></summary><p>
 <details><summary><u>Day 1140</u></summary><p>
 
