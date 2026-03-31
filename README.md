@@ -1,16 +1,33 @@
 # productivity-hub
-Learning Progress Till Now -> 1141 days (13/02/2023 to 30/03/2026)
+Learning Progress Till Now -> 1142 days (13/02/2023 to 31/03/2026)
 <details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1142</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1142e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1142ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1142b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1142chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1142chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1142chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1142chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Stop Confusing LangChain, LangGraph, and LangSmith | Full Breakdown"](https://www.youtube.com/watch?v=e-GR3PlEOVU)
+  - 💻 [Blog read -> "Design Like a Monolith, Implement as Microservices"](https://wundergraph.com/blog/design-like-a-monolith-implement-as-microservices?ref=dailydev)
+  - 💻 [Blog read -> "Inheritance and Composition (Is-a vs Has-a relationship) in Java"](https://www.baeldung.com/java-inheritance-composition)
+- 💰📈 [Finshots ~ "Policy - An explainer on the new NPS rules"](https://finshots.in/archive/an-explainer-on-the-new-nps-rules/)
+- 📰 [Daily English News -> "Microsoft Copilot Is Now Injecting Ads Into Pull Requests On GitHub "](https://slashdot.org/story/26/03/30/1649230/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github)
+</p></details>
 <details><summary><u>Day 1141</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1140e1.png)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1140ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1140b1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1141e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1141ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1141b1.png)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs2.png)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs3.png)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1140chs4.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1141chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1141chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1141chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1141chs4.png)
 - 💻 Technical / Curiosity Learning
   - 💻 [Youtube -> "Stripe's Smarter Approach to Structured Logging - Canonical Log Lines"](https://www.youtube.com/watch?v=9XJtEzmzG3g)
   - 💻 [Blog read -> "How Google Manages Trillions of Authorizations with Zanzibar"](https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations)
