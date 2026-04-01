@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1142 days (13/02/2023 to 31/03/2026)
+Learning Progress Till Now -> 1143 days (13/02/2023 to 01/04/2026)
 <details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1143</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1143e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1143ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1143b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1143chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1143chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1143chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1143chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Java 26 is here : Finally final is final"](https://www.youtube.com/watch?v=xRB0-cyZGic)
+  - 💻 [Blog read -> "Anonymous Classes in Java"](https://www.baeldung.com/java-anonymous-classes)
+  - 💻 [Blog read -> "Stop Coding Tasks, Start Designing Systems"](https://newsletter.optimistengineer.com/p/stop-coding-tasks-start-designing)
+- 💰📈 [Finshots ~ "Business - What is going on at Ola Electric?"](https://finshots.in/archive/what-is-going-on-at-ola-electric/)
+- 📰 [Daily English News -> "Claude Code's Source Code Leaks Via npm Source Maps"](https://developers.slashdot.org/story/26/03/31/172257/claude-codes-source-code-leaks-via-npm-source-maps)
+</p></details>
 <details><summary><u>Day 1142</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1142e1.png)
