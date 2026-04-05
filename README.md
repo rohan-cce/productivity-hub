@@ -1,11 +1,29 @@
 # productivity-hub
-Learning Progress Till Now -> 1146 days (13/02/2023 to 04/04/2026)
+Learning Progress Till Now -> 1147 days (13/02/2023 to 05/04/2026)
 <details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1147</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1147e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1147ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1147b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1147chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1147chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1147chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1147chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "What Exactly is Happening With HDFC Bank? | Explained"](https://youtu.be/j7r48iIzwpE)
+  - 💻 [Youtube -> "I Visualised Attention in Transformers"](https://www.youtube.com/watch?v=RNF0FvRjGZk)
+  - 💻 [Blog read -> "Variable and Method Hiding in Java"](https://www.baeldung.com/java-variable-method-hiding)
+  - 💻 [Blog read -> "How Netflix Live Streams to 100 Million Devices in 60 Seconds"](https://blog.bytebytego.com/p/how-netflix-live-streams-to-100-million)
+- 💰📈 [Finshots ~ "Business - Why the world is turning back to Indian cardamom"](https://finshots.in/archive/why-the-world-is-turning-back-to-indian-cardamom/)
+- 📰 [Daily English News -> "Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised"](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised)
+</p></details>
 <details><summary><u>Day 1146</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1146e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1146ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1145b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1146b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1146chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1146chs2.png)
