@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1147 days (13/02/2023 to 05/04/2026)
+Learning Progress Till Now -> 1148 days (13/02/2023 to 06/04/2026)
 <details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1148</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1148e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1148ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1148b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1148chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1148chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1148chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1148chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "12 Claude Code Features Every Engineer Should Know: Subagents, CLAUDE.md, Checkpoints, MCP, and more"](https://www.youtube.com/watch?v=E4fzxVMOav4)
+  - 💻 [Blog read -> "Guide to the super Java Keyword"](https://www.baeldung.com/java-super)
+  - 💻 [Blog read -> "EP208: Load Balancer vs API Gateway"](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway?ref=dailydev)
+  - 💻 [Blog read -> "What is MCP?"](https://blog.bytebytego.com/i/192330702/what-is-mcp)
+- 💰📈 [Finshots ~ "Business - The Devyani-Sapphire Foods merger explained"](https://finshots.in/archive/the-devyani-sapphire-foods-merger-explained/)
+- 📰 [Daily English News -> "Claude Code Leak Reveals a 'Stealth' Mode for GenAI Code Contributions - and a 'Frustration Words' Regex "](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex)
+</p></details>
 <details><summary><u>Day 1147</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1147e1.png)
