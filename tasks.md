@@ -1,6 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 1149 days (13/02/2023 to 07/04/2026)
+Learning Progress Till Now -> 1150 days (13/02/2023 to 08/04/2026)
 <details><summary><u>Day 1141 - Day 1150 ~ March 30, 2026 - April 08, 2026</u></summary><p>
+<details><summary><u>Day 1150</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1150e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1150ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1149b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1150chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1150chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1150chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1150chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Claude's Internal Architecture Revealed | How AI Agents Actually Work"](https://www.youtube.com/watch?v=szaszUEmjfU)
+  - 💻 [Youtube -> "Consistent Hashing"](https://www.youtube.com/watch?v=vccwdhfqIrI)
+  - 💻 [Blog read -> "How Datadog Redefined Data Replication"](https://blog.bytebytego.com/p/how-datadog-redefined-data-replication?ref=dailydev)
+  - 💻 [Java Blog read -> "Why Do Local Variables Used in Lambdas Have to Be Final or Effectively Final?"](https://www.baeldung.com/java-lambda-effectively-final-local-variables)
+  - 💻 [Java Blog read -> "The “final” Keyword in Java"](https://www.baeldung.com/java-final)
+  - 💻 [Devops Blog read -> "What is Bash?"](https://devops-daily.com/guides/introduction-to-bash/01-what-is-bash)
+- 💰📈 [Finshots ~ "Capital Markets - Why SEBI wants trading academies to step back from live data"](https://finshots.in/archive/why-sebi-wants-trading-academies-to-step-back-from-live-data/)
+- 📰 [Daily English News -> "Anthropic Unveils 'Claude Mythos', Powerful AI With Major Cyber Implications"](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications)
+</p></details>
 <details><summary><u>Day 1149</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1149e1.png)
