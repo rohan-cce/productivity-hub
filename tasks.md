@@ -11,8 +11,6 @@ Learning Progress Till Now -> 1156 days (13/02/2023 to 14/04/2026)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1156chs2.png)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1156chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1156chs4.png)
-- 💻 Technical / Curiosity Learning
-  - 💻 [Blog read -> ""]()
 </p></details>
 <details><summary><u>Day 1155</u></summary><p>
 
