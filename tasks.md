@@ -1,6 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 1159 days (13/02/2023 to 17/04/2026)
+Learning Progress Till Now -> 1160 days (13/02/2023 to 18/04/2026)
 <details><summary><u>Day 1151 - Day 1160 ~ April 08, 2026 - April 17, 2026</u></summary><p>
+<details><summary><u>Day 1160</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1160e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1160ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1150b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Why MCP with gRPC is a Game Changer for AI in Production"](https://www.youtube.com/watch?v=R_wdwOkcMfE)
+  - 💻 [Youtube -> "NOICE: The ₹62,000 Cr Market Killer"](https://www.youtube.com/watch?v=yUKKvnIuT0I)
+  - 💻 [Blog read -> "How agentic software development will change databases"](https://www.databricks.com/blog/how-agentic-software-development-will-change-databases)
+  - 💻 [Java Blog read -> "Java Record Keyword"](https://www.baeldung.com/java-record-keyword)
+  - 💻 [Java Blog read -> "Introduction to Creational Design Patterns"](https://www.baeldung.com/creational-design-patterns)
+  - 💻 [Devops Blog read -> "Working with Files"](https://devops-daily.com/guides/introduction-to-bash/03-working-with-files)
+- 💰📈 [Finshots ~ "Policy - Should married couples be taxed together?"](https://finshots.in/archive/should-married-couples-be-taxed-together/)
+- 📰 [Daily English News -> "Mozilla 'Thunderbolt' Is an Open-Source AI Client Focused On Control and Self-Hosting"](https://tech.slashdot.org/story/26/04/17/1850251/mozilla-thunderbolt-is-an-open-source-ai-client-focused-on-control-and-self-hosting)
+</p></details>
 <details><summary><u>Day 1159</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1159e1.png)
