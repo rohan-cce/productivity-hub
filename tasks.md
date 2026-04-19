@@ -1,11 +1,33 @@
 # productivity-hub
-Learning Progress Till Now -> 1160 days (13/02/2023 to 18/04/2026)
-<details><summary><u>Day 1151 - Day 1160 ~ April 08, 2026 - April 17, 2026</u></summary><p>
+Learning Progress Till Now -> 1161 days (13/02/2023 to 19/04/2026)
+<details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1161</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1161e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1161ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1161b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1161chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1161chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1161chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1161chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Build your own AI Knowledge Base - LLM Wiki Explained"](https://www.youtube.com/watch?v=it8v6GNxBDI)
+  - 💻 [Blog read -> "Beyond Embeddings: How Tree-Structured Indexes Are Beating RAG"](https://medium.com/@patriwala/beyond-embeddings-how-tree-structured-indexes-are-beating-rag-55e8976d3685)
+  - 💻 [Java Blog read -> "Immutable Objects in Java"](https://www.baeldung.com/java-immutable-object)
+  - 💻 [Java Blog read -> "Abstract Factory Pattern in Java"](https://www.baeldung.com/java-abstract-factory-pattern)
+  - 💻 [Java Blog read -> "Singletons in Java"](https://www.baeldung.com/java-singleton)
+  - 💻 [Devops Blog read -> "Bash Variables"](https://devops-daily.com/guides/introduction-to-bash/04-bash-variables)
+- 💰📈 [Finshots ~ "Policy - The Pesticide Management Bill explained"](https://finshots.in/archive/the-pesticide-management-bill-explained/)
+- 📰 [Daily English News -> "Remembering Zip Drives - the Trendy Storage Technology of the 1990s"](https://hardware.slashdot.org/story/26/04/19/0222227/remembering-zip-drives---the-trendy-storage-technology-of-the-1990s)
+</p></details>
+</p></details>
+<details><summary><u>Day 1151 - Day 1160 ~ April 08, 2026 - April 18, 2026</u></summary><p>
 <details><summary><u>Day 1160</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1160e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1160ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1150b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1160b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1160chs2.png)
