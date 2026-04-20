@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 1161 days (13/02/2023 to 19/04/2026)
+Learning Progress Till Now -> 1162 days (13/02/2023 to 20/04/2026)
 <details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1162</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1162e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1162ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1162b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1162chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1162chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1162chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1162chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Real-Time Collaboration Explained - System Design"](https://www.youtube.com/watch?v=EX5uZV3Tzss)
+  - 💻 [Blog read -> "Async Logging Is Not a Silver Bullet — What Actually Limits Performance"](https://faun.pub/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b)
+  - 💻 [Java Blog read -> "A Guide to Java Enums"](https://www.baeldung.com/a-guide-to-java-enums)
+  - 💻 [Java Blog read -> "Quick Guide to Spring Bean Scopes"](https://www.baeldung.com/spring-bean-scopes)
+  - 💻 [Devops Blog read -> ""Control Structures"](https://devops-daily.com/guides/introduction-to-bash/05-control-structures)
+- 💰📈 [Finshots ~ "Business - The 10-minute delivery promise is gone. What now?"](https://finshots.in/archive/the-10-minute-delivery-promise-is-gone-what-now/)
+- 📰 [Daily English News -> "Zoom Partners With Sam Altman's Iris-Scanning Company To Offer Callers Verifications of Humanness "](https://it.slashdot.org/story/26/04/20/066225/zoom-partners-with-sam-altmans-iris-scanning-company-to-offer-callers-verifications-of-humanness)
+</p></details>
 <details><summary><u>Day 1161</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1161e1.png)
