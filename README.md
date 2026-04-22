@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1163 days (13/02/2023 to 21/04/2026)
+Learning Progress Till Now -> 1164 days (13/02/2023 to 22/04/2026)
 <details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1164</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1164e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1164ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1164b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1164chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1164chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1164chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1164chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "7 API Types Every Developer Should Know (REST, gRPC, GraphQL & More)"](https://www.youtube.com/watch?v=KdZ3g_-hkA0)
+  - 💻 [Blog read -> "Why AI Needs Blockchain"](https://www.youtube.com/watch?v=WFymAO8Imho)
+  - 💻 [Java Blog read -> "Guide To Java Optional"](https://www.baeldung.com/java-optional)
+  - 💻 [Devops Blog read -> "Functions in Bash"](https://devops-daily.com/guides/introduction-to-bash/06-functions)
+- 💰📈 [Finshots ~ "Capital Markets - The Shadowfax Technologies IPO"](https://finshots.in/archive/the-shadowfax-technologies-ipo/)
+- 📰 [Daily English News -> "SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion (nytimes.com)"](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion)
+</p></details>
 <details><summary><u>Day 1163</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1163e1.png)
