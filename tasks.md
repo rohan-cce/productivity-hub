@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1164 days (13/02/2023 to 22/04/2026)
+Learning Progress Till Now -> 1165 days (13/02/2023 to 23/04/2026)
 <details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1165</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1165e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1165ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1165b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1165chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1165chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1165chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1165chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How to start with distributed systems?"](https://youtu.be/SqcXvc3ZmRU)
+</p></details>
 <details><summary><u>Day 1164</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1164e1.png)
