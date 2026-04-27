@@ -1,6 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 1168 days (13/02/2023 to 26/04/2026)
+Learning Progress Till Now -> 1169 days (13/02/2023 to 27/04/2026)
 <details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1169</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1169e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1169ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1169b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1169chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1169chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1169chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1169chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> " How Peter Thiel built a 200 Billion dollar Weapon for America?"](https://youtu.be/Ut5s4rImEhI)
+  - 💻 [Youtube -> "Protobuf: Why Google's Servers Don't Speak JSON"](https://www.youtube.com/watch?v=OsyKxWxGtiI)
+  - 💻 [Youtube -> "Capacity Planning and Estimation: How much data does YouTube store daily?"](https://www.youtube.com/watch?v=0myM0k1mjZw)
+  - 💻 [Blog read -> "The Security Architecture of GitHub Agentic Workflow"](https://blog.bytebytego.com/p/the-security-architecture-of-github)
+  - 💻 [Java Blog read -> "Comparing Objects in Java"](https://www.baeldung.com/java-comparing-objects)
+  - 💻 [Java Blog read -> "Filtering a Stream of Optionals in Java"](https://www.baeldung.com/java-filter-stream-of-optional)
+  - 💻 [Devops Blog read -> "Script Permissions and Execution"](https://devops-daily.com/guides/introduction-to-bash/07-script-permissions)
+- 💰📈 [Finshots ~ "Economy - What will happen if India gets a 500% tariff?"](https://finshots.in/archive/what-will-happen-if-india-gets-a-500-tariff/)
+- 📰 [Daily English News -> "Microsoft To Stop Sharing Revenue With OpenAI"](https://slashdot.org/story/26/04/27/1657250/microsoft-to-stop-sharing-revenue-with-openai)
+</p></details>
 <details><summary><u>Day 1168</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1168e1.png)
