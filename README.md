@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 1169 days (13/02/2023 to 27/04/2026)
+Learning Progress Till Now -> 1170 days (13/02/2023 to 28/04/2026)
 <details><summary><u>Day 1161 - Day 1170 ~ April 19, 2026 - April 28, 2026</u></summary><p>
+<details><summary><u>Day 1170</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1170e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1170ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1170b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1170chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1170chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1170chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1170chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Neon Database Explained: Why Databricks Paid $1 Billion"](https://www.youtube.com/watch?v=4BT_1wDJBdY)
+  - 💻 [Blog read -> "Explain TCP model"](https://takeuforward.org/computer-network/explain-tcp-model)
+  - 💻 [Blog read -> "How Database Indexes Work – A Practical Guide with PostgreSQL Example\"](https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/?ref=dailydev)
+  - 💻 [Java Blog read -> "Java equals() and hashCode() Contracts"](https://www.baeldung.com/java-equals-hashcode-contracts)
+  - 💻 [Devops Blog read -> "Command Line Arguments"](https://devops-daily.com/guides/introduction-to-bash/08-command-line-arguments)
+- 💰📈 [Finshots ~ "Policy - India is finally cracking down on hair transplants"](https://finshots.in/archive/india-is-finally-cracking-down-on-hair-transplants/)
+- 📰 [Daily English News -> "EU Tells Google To Open Up AI On Android; Google Says That's 'Unwarranted Intervention' "](https://tech.slashdot.org/story/26/04/27/2113232/eu-tells-google-to-open-up-ai-on-android-google-says-thats-unwarranted-intervention)
+</p></details>
 <details><summary><u>Day 1169</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1169e1.png)
