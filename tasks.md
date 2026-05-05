@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1176 days (13/02/2023 to 04/05/2026)
+Learning Progress Till Now -> 1177 days (13/02/2023 to 05/05/2026)
 <details><summary><u>Day 1171 - Day 1180 ~ April 29, 2026 - May 08, 2026</u></summary><p>
+<details><summary><u>Day 1177</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1177e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1177ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1176b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1177chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1177chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1177chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1177chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Auto-Increment vs UUID Explained in 5 Minutes"](https://www.youtube.com/watch?v=JbdvmQ_HgJo)
+  - 💻 [Blog read -> "Google’s agents-cli: The Complete Guide to Building AI Agents on Google Cloud"](https://medium.com/data-science-collective/googles-agents-cli-the-complete-guide-to-building-ai-agents-on-google-cloud-e092789921bf)
+  - 💻 [Java Blog read -> "Functional Interfaces in Java"](https://www.baeldung.com/java-8-functional-interfaces)
+  - 💻 [Devops Blog read -> "Common Bash Tools"](https://devops-daily.com/guides/introduction-to-bash/09-bash-tools)
+- 💰📈 [Finshots ~ "Economy - The India-EU Free Trade Agreement Explained"](https://finshots.in/archive/the-india-eu-free-trade-agreement-explained-2/)
+- 📰 [Daily English News -> "How Microplastics Are Likely Helping To Heat Up the Planet"](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet)
+</p></details>
 <details><summary><u>Day 1176</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1176e1.png)
