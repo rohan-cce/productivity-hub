@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1177 days (13/02/2023 to 05/05/2026)
+Learning Progress Till Now -> 1178 days (13/02/2023 to 06/05/2026)
 <details><summary><u>Day 1171 - Day 1180 ~ April 29, 2026 - May 08, 2026</u></summary><p>
+<details><summary><u>Day 1178</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1178e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1178ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1178b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1178chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1178chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1178chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1178chs4.png)
+- 💰📈 [Finshots ~ "Policy - The Economic Survey 2026 explained"](https://finshots.in/archive/the-economic-survey-2026-explained/)
+- 📰 [Daily English News -> "Silicon Valley Bets $200 Million On AI Data Centers Floating In the Ocean "](https://news.slashdot.org/story/26/05/06/0437216/silicon-valley-bets-200-million-on-ai-data-centers-floating-in-the-ocean)
+</p></details>
 <details><summary><u>Day 1177</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1177e1.png)
