@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1178 days (13/02/2023 to 06/05/2026)
+Learning Progress Till Now -> 1179 days (13/02/2023 to 07/05/2026)
 <details><summary><u>Day 1171 - Day 1180 ~ April 29, 2026 - May 08, 2026</u></summary><p>
+<details><summary><u>Day 1179</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1179e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1179ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1179b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1179chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1179chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1179chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1179chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The AI Layoff Trap Nobody Can Escape"](https://www.youtube.com/watch?v=8EE4rG3UH7Y)
+  - 💻 [Youtube -> "Why Good Password Hashing is Intentionally Slow"](https://youtu.be/lLDZ9O8E62Y)
+  - 💻 [Java Blog read -> "Comparator and Comparable in Java"](https://www.baeldung.com/java-comparator-comparable)
+  - 💻 [Devops Blog read -> "Understanding Docker Basics"](https://devops-daily.com/guides/introduction-to-docker/01-docker-basics)
+- 💰📈 [Finshots ~ "The Budget 2026 explained"](https://finshots.in/archive/the-budget-2026-explained-nirmala-sitharaman/)
+- 📰 [Daily English News -> "Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX "](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
+</p></details>
 <details><summary><u>Day 1178</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1178e1.png)
