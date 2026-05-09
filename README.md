@@ -1,5 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1180 days (13/02/2023 to 08/05/2026)
+Learning Progress Till Now -> 1181 days (13/02/2023 to 09/05/2026)
+<details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1181</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1181e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1181ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1181b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1181chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1181chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1181chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1181chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "KV Cache: The Invisible Trick Behind Every LLM"](https://www.youtube.com/watch?v=tGp6Ns9GtSU)
+  - 💻 [Youtube -> "Time Is a Lie: Clocks in Distributed Systems, From Scratch"](https://www.youtube.com/watch?v=du9kGcMbGjM)
+- 💰📈 [Finshots ~ "Macro - Gold is volatile. Demand is not."](https://finshots.in/archive/gold-is-volatile-demand-is-not-2/)
+- 📰 [Daily English News -> "Advertising - Social Media Sites Got Information from Ad Trackers on US State Health Insurance Sites "](https://slashdot.org/story/26/05/09/052205/social-media-sites-got-information-from-ad-trackers-on-us-state-health-insurance-sites)
+</p></details>
+</p></details>
 <details><summary><u>Day 1171 - Day 1180 ~ April 29, 2026 - May 08, 2026</u></summary><p>
 <details><summary><u>Day 1180</u></summary><p>
 
