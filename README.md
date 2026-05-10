@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1181 days (13/02/2023 to 09/05/2026)
+Learning Progress Till Now -> 1182 days (13/02/2023 to 10/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1182</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1182e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1182ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1181b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Google's New TPU Quietly Ends the GPU Era?"](https://www.youtube.com/watch?v=iseM_Sb-ruo)
+- 💰📈 [Finshots ~ "Policy - The Canada–India Uranium Deal Explained"](https://finshots.in/archive/the-canada-india-uranium-deal-explained/)
+- 📰 [Daily English News -> "The EU Considers Restricting Use of US Cloud Platforms for Sensitive Government Data"](https://yro.slashdot.org/story/26/05/10/032247/the-eu-considers-restricting-use-of-us-cloud-platforms-for-sensitive-government-data)
+</p></details>
 <details><summary><u>Day 1181</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1181e1.png)
