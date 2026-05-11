@@ -1,11 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 1182 days (13/02/2023 to 10/05/2026)
+Learning Progress Till Now -> 1183 days (13/02/2023 to 11/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1183</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1183e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1183ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1183b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1183chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1183chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1183chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1183chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How Collaborative Text Editors Don't Break"](https://www.youtube.com/watch?v=EL-VoBcUIJk)
+  - 💻 [Blog read -> "Understanding FinOps Principles"](https://devops-daily.com/guides/finops-for-devops-engineers/01-principles)
+  - 💻 [Blog read -> "How Lyft Built an ML Platform That Serves Millions of Predictions Per Second"](https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that)
+  - 💻 [Java Blog read -> "Callback Functions in Java"](https://www.baeldung.com/java-callback-functions)
+  - 💻 [Devops Blog read -> "Working with Docker Images"](https://devops-daily.com/guides/introduction-to-docker/03-working-with-docker-images)
+- 💰📈 [Finshots ~ "Business - A vegan cricket ball that lasts 50 overs?"](https://finshots.in/archive/a-vegan-cricket-ball-that-lasts-50-overs/)
+- 📰 [Daily English News -> "Open Source Project Shuts Down Over Legal Threats from 3D Printer Company Bambu Lab "](https://news.slashdot.org/story/26/05/11/0235215/open-source-project-shuts-down-over-legal-threats-from-3d-printer-company-bambu-lab)
+</p></details>
 <details><summary><u>Day 1182</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1182e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1182ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1181b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1182b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1182chs2.png)
