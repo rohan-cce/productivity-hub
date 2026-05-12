@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 1183 days (13/02/2023 to 11/05/2026)
+Learning Progress Till Now -> 1184 days (13/02/2023 to 12/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1184</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1184e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1184ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1184b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1184chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1184chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1184chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1184chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "SQL Is Not Hard — Your ORM Is Lying To You"](https://www.youtube.com/watch?v=KY8dEl6boQg)
+  - 💻 [Blog read -> "Documents: The architect’s programming language"](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language)
+  - 💻 [Blog read -> "Common Cloud Cost Challenges for DevOps Teams"](https://devops-daily.com/guides/finops-for-devops-engineers/02-challenges)
+  - 💻 [Java Blog read -> "Pattern Matching for Switch"](https://www.baeldung.com/java-switch-pattern-matching)
+  - 💻 [Devops Blog read -> "Creating Your First Container"](https://devops-daily.com/guides/introduction-to-docker/04-creating-your-first-container)
+- 💰📈 [Finshots ~ "Capital Markets - The Fractal Analytics IPO"](https://finshots.in/archive/the-fractal-analytics-ipo/)
+- 📰 [Daily English News -> "A Data Center Drained 30 Million Gallons of Water Unnoticed"](https://news.slashdot.org/story/26/05/11/2057211/a-data-center-drained-30-million-gallons-of-water-unnoticed)
+</p></details>
 <details><summary><u>Day 1183</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1183e1.png)
