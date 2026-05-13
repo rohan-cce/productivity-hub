@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1184 days (13/02/2023 to 12/05/2026)
+Learning Progress Till Now -> 1185 days (13/02/2023 to 13/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1185</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1185e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1185ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1185b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1185chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1185chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1185chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1185chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "1. OOPs Concept in Java with Examples | 4 Pillars of Object Oriented Programming (OOPs)"](https://www.youtube.com/watch?v=MIYbPZCk34k&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=3)
+  - 💻 [Blog read -> "Essential FinOps Tools for DevOps Teams"](https://devops-daily.com/guides/finops-for-devops-engineers/03-tools)
+  - 💻 [Java Blog read -> "Sealed Classes and Interfaces in Java"](https://www.baeldung.com/java-sealed-classes-interfaces)
+  - 💻 [Devops Blog read -> "Building Custom Docker Images"](https://devops-daily.com/guides/introduction-to-docker/05-building-custom-docker-images)
+- 💰📈 [Finshots ~ "Policy - The AI crisis no one’s talking about"](https://finshots.in/archive/the-ai-crisis-no-ones-talking-about-jet-engine-energy/)
+- 📰 [Daily English News -> "Meta Employees Launch Protest Against Mouse-Tracking Tech At US Offices"]()
+</p></details>
 <details><summary><u>Day 1184</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1184e1.png)
