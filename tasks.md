@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1185 days (13/02/2023 to 13/05/2026)
+Learning Progress Till Now -> 1186 days (13/02/2023 to 14/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1186</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1186e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1186ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1186b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1186chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1186chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1186chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1186chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Prompt Injection, Clearly Explained"](https://www.youtube.com/watch?v=KDcayRssGbw)
+  - 💻 [Java Blog read -> "Functional Programming in Java"](https://www.baeldung.com/java-functional-programming)
+- 💰📈 [Finshots ~ "Policy - An explainer on Pax Silica"](https://finshots.in/archive/an-explainer-on-pax-silica/)
+- 📰 [Daily English News -> "Mystery Microsoft Bug Leaker Keeps the Zero-Days Coming"](https://tech.slashdot.org/story/26/05/14/0554201/mystery-microsoft-bug-leaker-keeps-the-zero-days-coming)
+</p></details>
 <details><summary><u>Day 1185</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1185e1.png)
