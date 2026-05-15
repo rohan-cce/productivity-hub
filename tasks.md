@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1186 days (13/02/2023 to 14/05/2026)
+Learning Progress Till Now -> 1187 days (13/02/2023 to 15/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1187</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1187e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1187ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1187b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1187chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1187chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1187chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1187chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The Great De-bloating: Why Modern Software Is Finally Breaking"](https://www.youtube.com/watch?v=hXOvngw7Cwo)
+  - 💻 [Java Blog read -> "The transient Keyword in Java"](https://www.baeldung.com/java-transient-keyword)
+- 💰📈 [Finshots ~ "Business - Why is JLR building in India now"](https://finshots.in/archive/why-is-jlr-building-in-india-now-2/)
+- 📰 [Daily English News -> "UK Antitrust Regulator Is Officially Investigating Microsoft Office "](https://news.slashdot.org/story/26/05/14/1923223/uk-antitrust-regulator-is-officially-investigating-microsoft-office)
+</p></details>
 <details><summary><u>Day 1186</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1186e1.png)
