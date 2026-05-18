@@ -1,6 +1,30 @@
 # productivity-hub
-Learning Progress Till Now -> 1189 days (13/02/2023 to 17/05/2026)
+Learning Progress Till Now -> 1190 days (13/02/2023 to 18/05/2026)
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
+<details><summary><u>Day 1190</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1190e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1190ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1190b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1190chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1190chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1190chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1190chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Cloud Doesn't Save Money—It Hides It"](https://www.youtube.com/watch?v=lsT-AKs7c24)
+  - 💻 [Youtube -> "Sidecar Pattern in Microservices"](https://www.youtube.com/watch?v=sh2nwXJLDkE)
+  - 💻 [Youtube -> "The COBOL Time Bomb: Why Anthropic's Mythos Has Banks Scrambling"](https://youtu.be/tNI1aEXUs8o)
+  - 💻 [Youtube -> "How Atlassian reduced latency by 70% by using Sidecar pattern and when should you use it"](https://youtu.be/IsM4bnJ-8Gw)
+  - 💻 [Blog read -> "What happens when you enter “google.com”?"](https://takeuforward.org/computer-network/what-happens-when-you-enter-google-com)
+  - 💻 [Blog read -> "Nextdoor’s Database Evolution: A Scaling Ladder"](https://blog.bytebytego.com/p/nextdoors-database-evolution-a-scaling?ref=dailydev)
+  - 💻 [Java Blog read -> "The transient Keyword in Java"](https://www.baeldung.com/java-transient-keyword)
+  - 💻 [Devops Blog read -> "Working with Docker Volumes"](https://devops-daily.com/guides/introduction-to-docker/06-working-with-docker-volumes)
+  - 💻 [Devops Blog read -> "Practical FinOps Implementation Examples"](https://devops-daily.com/guides/finops-for-devops-engineers/04-practical-examples)
+- 💰📈 [Finshots ~ "Capital Markets - Would you put your money in a 100-year bond?"](https://finshots.in/archive/would-you-put-your-money-in-a-100-year-bond/)
+- 💰📈 [Finshots ~ "Policy An explainer on Pax Silica"](https://finshots.in/archive/an-explainer-on-pax-silica/)
+- 📰 [Daily English News -> "Bitwarden Scrubs 'Always Free' and 'Inclusion' Values From Its Website "](https://it.slashdot.org/story/26/05/15/1858235/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website)
+</p></details>
 <details><summary><u>Day 1189</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1189e1.png)
