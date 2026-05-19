@@ -1,5 +1,26 @@
 # productivity-hub
-Learning Progress Till Now -> 1190 days (13/02/2023 to 18/05/2026)
+Learning Progress Till Now -> 1191 days (13/02/2023 to 19/05/2026)
+<details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1191</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1191e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1191ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1191b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1191chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1191chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1191chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1191chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "CAP Theorem"](https://www.youtube.com/watch?v=VdrEq0cODu4)
+  - 💻 [Blog read -> "Relational Model in DBMS"](https://takeuforward.org/dbms/relational-model-in-DBMS)
+  - 💻 [Java Blog read -> "Java instanceof Operator"](https://www.baeldung.com/java-instanceof)
+  - 💻 [Devops Blog read -> "Networking in Docker"](https://devops-daily.com/guides/introduction-to-docker/07-networking-in-docker)
+  - 💻 [Devops Blog read -> "Integrating FinOps into CI/CD Pipelines"](https://devops-daily.com/guides/finops-for-devops-engineers/05-cicd-integration)
+- 💰📈 [Finshots ~ "Policy - India’s new CPI explained"](https://finshots.in/archive/indias-new-cpi-explained/)
+- 📰 [Daily English News -> "Europe Tests Laser Links As Satellite Comms Outgrow Radio"](https://tech.slashdot.org/story/26/05/19/0035259/europe-tests-laser-links-as-satellite-comms-outgrow-radio)
+</p></details>
+</p></details>
 <details><summary><u>Day 1181 - Day 1190 ~ May 09, 2026 - May 18, 2026</u></summary><p>
 <details><summary><u>Day 1190</u></summary><p>
 
