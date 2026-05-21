@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1192 days (13/02/2023 to 20/05/2026)
+Learning Progress Till Now -> 1193 days (13/02/2023 to 21/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1193</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1193e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1193ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1193b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1193chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1193chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1193chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1193chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Object Storage in System Design"](https://www.youtube.com/watch?v=RvaMHMxHjp4)
+  - 💻 [Youtube -> "How Distributed Lock works | ft Redis | System Design"](https://www.youtube.com/watch?v=qY4MfWv01pI)
+  - 💻 [Java Blog read -> "How to Make a Deep Copy of an Object in Java"](https://www.baeldung.com/java-deep-copy)
+- 💰📈 [Finshots ~ "Policy - Can India get carbon credits right?"](https://finshots.in/archive/can-india-get-carbon-credits-right/)
+- 📰 [Daily English News -> "SpaceX Reveals Its Finances For the First Time "](https://news.slashdot.org/story/26/05/21/0343258/spacex-reveals-its-finances-for-the-first-time)
+</p></details>
 <details><summary><u>Day 1192</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1192e1.png)
