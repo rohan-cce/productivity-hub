@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1193 days (13/02/2023 to 21/05/2026)
+Learning Progress Till Now -> 1194 days (13/02/2023 to 22/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1194</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1194e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1194ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1194b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1194chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1194chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1194chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1194chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study"](https://youtu.be/fNNz9a2OIn4)
+  - 💻 [Java Blog read -> "Object Type Casting in Java"](https://www.baeldung.com/java-type-casting)
+- 💰📈 [Finshots ~ "Business Why can’t the world replace China?"](https://finshots.in/archive/why-cant-the-world-replace-china/)
+- 📰 [Daily English News -> "US To Award $2 Billion To Quantum Companies, Take Equity Stakes "](https://yro.slashdot.org/story/26/05/21/1758205/us-to-award-2-billion-to-quantum-companies-take-equity-stakes)
+</p></details>
 <details><summary><u>Day 1193</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1193e1.png)
