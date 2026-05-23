@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1194 days (13/02/2023 to 22/05/2026)
+Learning Progress Till Now -> 1195 days (13/02/2023 to 23/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1195</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1195e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1195ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1195b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1195chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1195chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1195chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1195chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "everything is open source if you know reverse engineering (hack with me!)"](https://youtu.be/m0XAPRAOJ8A)
+  - 💻 [Youtube -> "Why the World Is TERRIFIED of India’s Thorium Breakthrough? : Geopolitical case study"](https://youtu.be/mG2xWAaqsRQ)
+- 💰📈 [Finshots ~ "Policy - Can we regulate attention?"](https://finshots.in/archive/can-we-regulate-attention/)
+- 📰 [Daily English News -> "Linux Kernel Flaw Lets Unprivileged Users Access Root-Only Files, Execute Arbitrary Commands as Root "](https://linux.slashdot.org/story/26/05/23/0727241/linux-kernel-flaw-lets-unprivileged-users-access-root-only-files-execute-arbitrary-commands-as-root)
+</p></details>
 <details><summary><u>Day 1194</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1194e1.png)
