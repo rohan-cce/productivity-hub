@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1195 days (13/02/2023 to 23/05/2026)
+Learning Progress Till Now -> 1196 days (13/02/2023 to 24/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1196</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1196e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1196ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1196b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1196chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1196chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1196chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1196chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "0 to 10 Million Followers in 4 Days: Inside Instagram's Recommendation Engine"](https://youtu.be/PGMZT6NQ-LQ)
+- 💰📈 [Finshots ~ "Economy - Why US tariffs just got slower"](https://finshots.in/archive/why-us-tariffs-just-got-slower/)
+- 📰 [Daily English News -> "'Underminr' CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains"](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains)
+</p></details>
 <details><summary><u>Day 1195</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1195e1.png)
