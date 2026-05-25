@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1196 days (13/02/2023 to 24/05/2026)
+Learning Progress Till Now -> 1197 days (13/02/2023 to 25/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1197</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1197e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1197ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1197b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1197chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1197chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1197chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1197chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Why computers can't do math?"](https://www.youtube.com/watch?v=UOqpfGdd27M)
+  - 💻 [Youtube -> "Why Every Developer Needs to Understand Middleware"](https://www.youtube.com/watch?v=Lb-5ziwsqpc)
+  - 💻 [Blog read -> "Karpathy’s Prediction About RL is Coming True Now!"](https://blog.dailydoseofds.com/p/karpathys-prediction-about-rl-is)
+  - 💻 [Java Blog read -> "Static and Default Methods in Interfaces in Java"](https://www.baeldung.com/java-static-default-methods)
+- 💰📈 [Finshots ~ "Business - A ₹590 crore fraud at IDFC First Bank!"](https://finshots.in/archive/a-590-crore-fraud-at-idfc-first-bank/)
+- 📰 [Daily English News -> "Apple Preparing New 'Gen AI' Website Ahead of WWDC — and New AI Features? "](https://apple.slashdot.org/story/26/05/24/1737259/apple-preparing-new-gen-ai-website-ahead-of-wwdc-and-new-ai-features)
+</p></details>
 <details><summary><u>Day 1196</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1196e1.png)
