@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1197 days (13/02/2023 to 25/05/2026)
+Learning Progress Till Now -> 1198 days (13/02/2023 to 26/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1198</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1198e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1198ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1198b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1198chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1198chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1198chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1198chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Terraform Is Not Enough: How Big Tech Manages Cloud Infrastructure at Scale"](https://www.youtube.com/watch?v=XH36GOyMDQ0)
+- 💰📈 [Finshots ~ "Business - What would it take to bring F1 back to India?"](https://finshots.in/archive/f1-back-in-india-adani-group/)
+- 📰 [Daily English News -> "SpaceX Launches 29 Starlink Satellites on Memorial Day "](https://science.slashdot.org/story/26/05/25/177229/spacex-launches-29-starlink-satellites-on-memorial-day)
+</p></details>
 <details><summary><u>Day 1197</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1197e1.png)
