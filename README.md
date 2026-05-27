@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1198 days (13/02/2023 to 26/05/2026)
+Learning Progress Till Now -> 1199 days (13/02/2023 to 27/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1199</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1199e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1199ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1199b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1199chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1199chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1199chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1199chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Stream Processing System Design Architecture"](https://www.youtube.com/watch?v=mG3xQb_-rV4)
+- 💰📈 [Finshots ~ "Business - The end of forced selling at banks?"](https://finshots.in/archive/the-end-of-forced-selling-at-banks/)
+- 📰 [Daily English News -> "Tech CEOs Are Apparently Suffering From AI Psychosis "](https://tech.slashdot.org/story/26/05/27/1641250/tech-ceos-are-apparently-suffering-from-ai-psychosis)
+</p></details>
 <details><summary><u>Day 1198</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1198e1.png)
