@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1199 days (13/02/2023 to 27/05/2026)
+Learning Progress Till Now -> 1200 days (13/02/2023 to 28/05/2026)
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
+<details><summary><u>Day 1200</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1200e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1200ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1200b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1200chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1200chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1200chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1200chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Backtracking was HARD until I learned it this way | Backtracking tutorial"](https://youtu.be/Ak-fxEwAR14)
+- 💰📈 [Finshots ~ "Economy - How can India become a global shipping superpower?"](https://finshots.in/archive/how-can-india-become-a-global-shipping-superpower/)
+- 📰 [Daily English News -> "IBM, Red Hat Commit $5 Billion To Secure Open Source Supply Chains"](https://linux.slashdot.org/story/26/05/28/1641221/ibm-red-hat-commit-5-billion-to-secure-open-source-supply-chains)
+</p></details>
 <details><summary><u>Day 1199</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1199e1.png)
