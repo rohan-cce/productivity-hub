@@ -1,5 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1200 days (13/02/2023 to 28/05/2026)
+Learning Progress Till Now -> 1201 days (13/02/2023 to 29/05/2026)
+<details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
+<details><summary><u>Day 1201</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1201e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1101-D1200/d1201ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1101-D1200/d1201b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1201chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1201chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1201chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1101-D1200/d1201chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "When DB consumes more memory than it should, malloc might be the problem"](https://youtu.be/9TkOg-J2Dnc)
+- 💰📈 [Finshots ~  "Capital Markets - Life cycle funds explained"](https://finshots.in/archive/life-cycle-funds-explained/)
+- 📰 [Daily English News ->"NASA Details Its Plan to Build a Lunar Base At the Moon's South Pole"](https://science.slashdot.org/story/26/05/28/2046259/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole)
+</p></details>
+</p></details>
 <details><summary><u>Day 1191 - Day 1200 ~ May 19, 2026 - May 28, 2026</u></summary><p>
 <details><summary><u>Day 1200</u></summary><p>
 
