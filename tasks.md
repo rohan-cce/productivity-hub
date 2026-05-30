@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1201 days (13/02/2023 to 29/05/2026)
+Learning Progress Till Now -> 1202 days (13/02/2023 to 30/05/2026)
 <details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
+<details><summary><u>Day 1202</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1202e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1202ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1202b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1202chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1202chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1202chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1202chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Java Blog read -> "Static and Default Methods in Interfaces in Java"](https://www.baeldung.com/java-static-default-methods)
+- 💰📈 [Finshots ~  "Capital Markets - Life cycle funds explained"](https://finshots.in/archive/life-cycle-funds-explained/)
+- 📰 [Daily English News -> "Dell Stock Surges 32% in One Day. Big Revenue From AI Servers Stuns Analysts "](https://slashdot.org/story/26/05/29/2033206/dell-stock-surges-32-in-one-day-big-revenue-from-ai-servers-stuns-analysts)
+</p></details>
 <details><summary><u>Day 1201</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1101-D1200/d1201e1.png)
