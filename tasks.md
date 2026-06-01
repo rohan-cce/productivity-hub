@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1203 days (13/02/2023 to 31/05/2026)
+Learning Progress Till Now -> 1204 days (13/02/2023 to 01/06/2026)
 <details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
+<details><summary><u>Day 1204</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1204e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1204ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1204b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1204chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1204chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1204chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1204chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Redis will finally make sense after this video"](https://youtu.be/S7_SOmxO5DA)
+</p></details>
 <details><summary><u>Day 1203</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1203e1.png)
