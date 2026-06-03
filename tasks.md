@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1205 days (13/02/2023 to 02/06/2026)
+Learning Progress Till Now -> 1206 days (13/02/2023 to 03/06/2026)
 <details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
+<details><summary><u>Day 1206</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1206e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1206ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1206b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1206chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1206chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1206chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1206chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How MySQL's Midpoint Insertion Strategy Prevents Cache Pollution"](https://www.youtube.com/watch?v=DMfr9jMLnz0)
+  - 💻 [Java Blog read -> "String Initialization in Java"](https://www.baeldung.com/java-string-initialization)
+  - 💻 [Blog read -> "Differences Between a Deep Copy and a Shallow Copy"](https://www.baeldung.com/cs/deep-vs-shallow-copy)
+  - 💻 [Devops Blog read -> "Docker Compose"](https://devops-daily.com/guides/introduction-to-docker/08-docker-compose)
+- 💰📈 [Finshots ~  "Policy - The race to regulate AI in warfare"](https://finshots.in/archive/the-race-to-regulate-ai-in-warfare-2/)
+- 📰 [Daily English News -> "Microsoft Claims New Quantum Chip 1,000 Times Better Than Before "](https://hardware.slashdot.org/story/26/06/03/005253/microsoft-claims-new-quantum-chip-1000-times-better-than-before)
+</p></details>
 <details><summary><u>Day 1205</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1205e1.png)
