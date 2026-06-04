@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1206 days (13/02/2023 to 03/06/2026)
+Learning Progress Till Now -> 1207 days (13/02/2023 to 04/06/2026)
 <details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
+<details><summary><u>Day 1207</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1207e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1207ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1207b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1207chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1207chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1207chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1207chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "7 Design Patterns EVERY Developer Should Know"](https://www.youtube.com/watch?v=BJatgOiiht4)
+  - 💻 [Java Blog read -> "Why String Is Immutable in Java?"](https://www.baeldung.com/java-string-immutable)
+  - 💻 [Devops Blog read -> "Docker Best Practices"](https://devops-daily.com/guides/introduction-to-docker/09-docker-best-practices)
+- 💰📈 [Finshots ~ "Economy - The cost of global trade"](https://finshots.in/archive/the-cost-of-global-trade/)
+- 📰 [Daily English News -> "Google Ordered To Put Clearer Links In AI Search, Let UK Publishers Opt Out"](https://tech.slashdot.org/story/26/06/04/0054242/google-ordered-to-put-clearer-links-in-ai-search-let-uk-publishers-opt-out)
+</p></details>
 <details><summary><u>Day 1206</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1206e1.png)
