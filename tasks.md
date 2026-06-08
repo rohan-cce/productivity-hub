@@ -1,5 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1210 days (13/02/2023 to 07/06/2026)
+Learning Progress Till Now -> 1211 days (13/02/2023 to 08/06/2026)
+<details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1211</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1211e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1211ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1211b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1211chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1211chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1211chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1211chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Never* use git pull"](https://www.youtube.com/watch?v=xN1-2p06Urc)
+  - 💻 [Java Blog read -> "Guide to Java String Pool"](https://www.baeldung.com/java-string-pool)
+  - 💻 [Devops Blog read -> "Kubernetes Architecture and Components"](https://devops-daily.com/guides/introduction-to-kubernetes/01-kubernetes-architecture-and-components)
+- 💰📈 [Finshots ~ "Policy - If UPI dominates, why is cash still growing?"](https://finshots.in/archive/if-upi-dominates-why-is-cash-still-growing/)
+- 📰 [Daily English News -> "EU's Tech Sovereignty Package Includes 29 Pages on Open Source, Says Open Source Initiative "](https://news.slashdot.org/story/26/06/06/0618217/eus-tech-sovereignty-package-includes-29-pages-on-open-source-says-open-source-initiative)
+</p></details>
+</p></details>
 <details><summary><u>Day 1201 - Day 1210 ~ May 29, 2026 - June 07, 2026</u></summary><p>
 <details><summary><u>Day 1210</u></summary><p>
 
