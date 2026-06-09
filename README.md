@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1211 days (13/02/2023 to 08/06/2026)
+Learning Progress Till Now -> 1212 days (13/02/2023 to 09/06/2026)
 <details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1212</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1212e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1212ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1211b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "How API Rate Limiting Actually Works and How to Build Your Own"](https://www.youtube.com/watch?v=s3wIoIN_-u4)
+  - 💻 [Java Blog read -> "How to Iterate Over the String Characters in Java"](https://www.baeldung.com/java-iterate-string-characters)
+  - 💻 [Devops Blog read -> "Docker in Production"](https://devops-daily.com/guides/introduction-to-docker/10-docker-in-production)
+- 💰📈 [Finshots ~ "Economy - A slightly different explainer on the LPG conundrum"](https://finshots.in/archive/a-slightly-different-explainer-on-the-lpg-conundrum-2/)
+- 📰 [Daily English News -> "Apple Announces Siri AI, Next Generation of Apple Intelligence"](https://apple.slashdot.org/story/26/06/08/1811209/apple-announces-siri-ai-next-generation-of-apple-intelligence)
+</p></details>
 <details><summary><u>Day 1211</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1211e1.png)
