@@ -1,11 +1,28 @@
 # productivity-hub
-Learning Progress Till Now -> 1212 days (13/02/2023 to 09/06/2026)
+Learning Progress Till Now -> 1213 days (13/02/2023 to 10/06/2026)
 <details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1213</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1213e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1213ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1213b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1213chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1213chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1213chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1213chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "Dropbox Moved 600 Petabytes Off AWS! Here's Everything you need to know."](https://youtu.be/zOApUufV6s4)
+  - 💻 [Youtube -> "$1 Trillion IPO : How Anthropic’s Genius Move Made it Legendary? | Case Study"](https://youtu.be/ZgPZ6pbxuXA)
+  - 💻 [Java Blog read -> "Comparing Strings in Java"](https://www.baeldung.com/java-compare-strings)
+- 💰📈 [Finshots ~ "Economy - Why do ships move slowly?"](https://finshots.in/archive/why-do-ships-move-slowly/)
+- 📰 [Daily English News -> "EU Orders Meta To Open WhatsApp To Rival AI Chatbots"](https://meta.slashdot.org/story/26/06/09/1958236/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots)
+</p></details>
 <details><summary><u>Day 1212</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1212e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1212ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1211b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1212b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1212chs2.png)
