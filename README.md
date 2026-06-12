@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1214 days (13/02/2023 to 11/06/2026)
+Learning Progress Till Now -> 1215 days (13/02/2023 to 12/06/2026)
 <details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1215</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1215e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1215ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1215b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1215chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1215chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1215chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1215chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "$1 Trillion IPO : How Anthropic’s Genius Move Made it Legendary? | Case Study"](https://youtu.be/ZgPZ6pbxuXA)
+  - 💻 [Java Blog read -> "String Templates in Java"](https://www.baeldung.com/java-21-string-templates)
+- 💰📈 [Finshots ~ "Economy - Are G Secs really risk free?"](https://finshots.in/archive/are-g-secs-really-risk-free/)
+- 📰 [Daily English News -> "Pokemon Go Data Was Used To Help Train AI Systems Being Developed For Military Drones"](https://tech.slashdot.org/story/26/06/12/0558244/pokemon-go-data-was-used-to-help-train-ai-systems-being-developed-for-military-drones)
+</p></details>
 <details><summary><u>Day 1214</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1214e1.png)
