@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1215 days (13/02/2023 to 12/06/2026)
+Learning Progress Till Now -> 1216 days (13/02/2023 to 13/06/2026)
 <details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1216</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1216e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1216ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1216b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1216chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1216chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1216chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1216chs4.png)
+- 💰📈 [Finshots ~ "Business - The Metaverse just got a reality check"](https://finshots.in/archive/the-metaverse-just-got-a-reality-check/)
+- 📰 [Daily English News -> "World's First Crewed Solid-State Flight Electrifies Aviation's Future"](https://hardware.slashdot.org/story/26/06/13/0654225/worlds-first-crewed-solid-state-flight-electrifies-aviations-future)
+</p></details>
 <details><summary><u>Day 1215</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1215e1.png)
