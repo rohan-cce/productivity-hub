@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1216 days (13/02/2023 to 13/06/2026)
+Learning Progress Till Now -> 1217 days (13/02/2023 to 14/06/2026)
 <details><summary><u>Day 1211 - Day 1220 ~ June 08, 2026 - June 17, 2026</u></summary><p>
+<details><summary><u>Day 1217</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1217e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1217ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1217b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1217chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1217chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1217chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1217chs4.png)
+- 💰📈 [Finshots ~ "Business An exit at HDFC Bank without answers"](https://finshots.in/archive/an-exit-at-hdfc-bank-without-answers/)
+- 📰 [Daily English News -> "Bitcoin Has Lost Nearly Half Its Value in 11 Months"](https://slashdot.org/story/26/06/14/0817238/bitcoin-has-lost-nearly-half-its-value-in-11-months)
+</p></details>
 <details><summary><u>Day 1216</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1216e1.png)
