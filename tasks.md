@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1226 days (13/02/2023 to 23/06/2026)
+Learning Progress Till Now -> 1227 days (13/02/2023 to 24/06/2026)
 <details><summary><u>Day 1221 - Day 1230 ~ June 18, 2026 - June 27, 2026</u></summary><p>
+<details><summary><u>Day 1227</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1227e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1227ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1225b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1227chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1227chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1227chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1227chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "I read every major CS paper of the last 100 years..."](https://youtu.be/ML3q7Ok4hJg)
+  - 💻 [Java Blog read -> "Guide to Character Encoding"](https://www.baeldung.com/java-char-encoding)
+  - 💻 [Devops Blog read -> "Setting Up a Kubernetes Cluster"](https://devops-daily.com/guides/introduction-to-kubernetes/02-setting-up-a-kubernetes-cluster)
+- 💰📈 [Finshots ~  "Business - Can India become the pharmacy for weight-loss drugs?"](https://finshots.in/archive/can-india-become-the-pharmacy-for-weight-loss-drugs/)
+- 📰 [Daily English News -> "Trump Admin Announces $17.5 Billion In Loans For 10 New Large Nuclear Reactors"](https://hardware.slashdot.org/story/26/06/24/0639241/trump-admin-announces-175-billion-in-loans-for-10-new-large-nuclear-reactors)
+</p></details>
 <details><summary><u>Day 1226</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1226e1.png)
