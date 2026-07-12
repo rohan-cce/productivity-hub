@@ -1,6 +1,20 @@
 # productivity-hub
-Learning Progress Till Now -> 1244 days (13/02/2023 to 11/07/2026)
+Learning Progress Till Now -> 1245 days (13/02/2023 to 12/07/2026)
 <details><summary><u>Day 1241 - Day 1250 ~ July 08, 2026 - July 17, 2026</u></summary><p>
+<details><summary><u>Day 1245</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1245e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1245ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1245b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1245chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1245chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1245chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1245chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube -> "The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?"](https://youtu.be/WcckBmkauBQ)
+  - 💻 [Youtube -> "India's Coastline Paradox : How India Banned Itself From The Sea For 60 Years (And Nobody Noticed)"](https://youtu.be/B0dUYj1LnwY)
+</p></details>
 <details><summary><u>Day 1244</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1244e1.png)
