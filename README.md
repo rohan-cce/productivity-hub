@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1252 days (13/02/2023 to 19/07/2026)
+Learning Progress Till Now -> 1253 days (13/02/2023 to 20/07/2026)
 <details><summary><u>Day 1251 - Day 1260 ~ July 18, 2026 - July 27, 2026</u></summary><p>
+<details><summary><u>Day 1253</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1253e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1253ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1253b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1253chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1253chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1253chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1253chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Why GPUs Weren’t Enough for AI"](https://www.youtube.com/watch?v=vgrBYtPMfw0)
+  - 💻 [Java Blog read -> "Java Multi-line String"](https://www.baeldung.com/java-multiline-string)
+- 💰📈 [Finshots ~  "Economy - The economics of space exploration"](https://finshots.in/archive/the-economics-of-space-exploration/)
+</p></details>
 <details><summary><u>Day 1252</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1252e1.png)
