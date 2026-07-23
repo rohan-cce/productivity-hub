@@ -1,7 +1,6 @@
 # productivity-hub
 Learning Progress Till Now -> 1261 days (13/02/2023 to 28/07/2026)
 <details><summary><u>Day 1261 - Day 1270 ~ July 28, 2026 - August 06, 2026</u></summary><p>
-
 <details><summary><u>Day 1261</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1261e1.png)
