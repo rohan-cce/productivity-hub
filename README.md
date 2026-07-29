@@ -1,11 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1261 days (13/02/2023 to 28/07/2026)
+Learning Progress Till Now -> 1262 days (13/02/2023 to 29/07/2026)
 <details><summary><u>Day 1261 - Day 1270 ~ July 28, 2026 - August 06, 2026</u></summary><p>
+<details><summary><u>Day 1262</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1262e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1262ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1262b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1262chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1262chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1262chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1262chs4.png)
+</p></details>
 <details><summary><u>Day 1261</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1261e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1261ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1260b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1261b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1261chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1261chs2.png)
