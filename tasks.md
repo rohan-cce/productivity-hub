@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1266 days (13/02/2023 to 02/08/2026)
+Learning Progress Till Now -> 1267 days (13/02/2023 to 03/08/2026)
 <details><summary><u>Day 1261 - Day 1270 ~ July 28, 2026 - August 06, 2026</u></summary><p>
+<details><summary><u>Day 1267</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1267e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1267ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1267b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1267chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1267chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1267chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1267chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Trump's ILLEGAL Goldmine | Why Trump Is Breaking International Law to Beat China?"](https://youtu.be/-tSj2A_Pqfo)
+  - 💻 [Youtube case study -> "Why are 'Used-Car Startups' Failing in India?"](https://youtu.be/Ql2oW3FqAsg)
+  - 💻 [Youtube case study -> "America's AI Panic | Has the Market Crash Begun?"](https://youtu.be/801JPiGAKOE)
+</p></details>
 <details><summary><u>Day 1266</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1266e1.png)
