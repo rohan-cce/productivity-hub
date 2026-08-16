@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1279 days (13/02/2023 to 15/08/2026)
+Learning Progress Till Now -> 1279 days (13/02/2023 to 16/08/2026)
 <details><summary><u>Day 1271 - Day 1280 ~ August 07, 2026 - August 18, 2026</u></summary><p>
+<details><summary><u>Day 1280</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1280e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1280ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1280b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1280chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1280chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1280chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1280chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "The End of Gold | How the Safest Asset on Earth Broke in the Middle of a War"](https://youtu.be/zCmGp6s6uII)
+</p></details>
 <details><summary><u>Day 1279</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1279e1.png)
