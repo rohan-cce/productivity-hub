@@ -1,6 +1,17 @@
 # productivity-hub
-Learning Progress Till Now -> 1284 days (13/02/2023 to 20/08/2026)
+Learning Progress Till Now -> 1285 days (13/02/2023 to 21/08/2026)
 <details><summary><u>Day 1281 - Day 1290 ~ August 17, 2026 - August 28, 2026</u></summary><p>
+<details><summary><u>Day 1285</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1285e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1285ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1300/d1285b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1285chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1285chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1285chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1285chs4.png)
+</p></details>
 <details><summary><u>Day 1284</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1284e1.png)
