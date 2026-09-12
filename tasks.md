@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 1306 days (13/02/2023 to 11/09/2026)
+Learning Progress Till Now -> 1307 days (13/02/2023 to 12/09/2026)
 <details><summary><u>Day 1301 - Day 1310 ~ Septermber 06, 2026 - September 15, 2026</u></summary><p>
+<details><summary><u>Day 1307</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1307e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1307ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1307b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1307chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1307chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1307chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1307chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "How Kafka Actually Achieves Exactly-Once Semantics"](https://youtu.be/iRhDCIzhm4A)
+  - 💻 [Youtube case study -> "How Google Manages 2 Billion Lines of Code in a Single Repository"](https://youtu.be/l6oPw2prTXE)
+  - 💻 [Java Blog read -> "Java Text Blocks"](https://www.baeldung.com/java-text-blocks)
+  - 💻 [Devops Blog read -> "Pods and Containers in Kubernetes"](https://devops-daily.com/guides/introduction-to-kubernetes/03-pods-and-containers-in-kubernetes)
+  - 💻 [Technical Blog read -> "Loop engineering: Getting started with loops"](https://claude.com/blog/getting-started-with-loops)
+- 📰 [Daily English News -> "OpenAI's Rogue Agents Used At Least 10 More Sites For Unauthorized Communications "](https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications)
+- 💰📈 [Finshots ~  "Business - The missing piece in quantum computing"](https://finshots.in/archive/the-missing-piece-in-quantum-computing/)
+</p></details>
 <details><summary><u>Day 1306</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1306e1.png)
