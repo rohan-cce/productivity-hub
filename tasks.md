@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1307 days (13/02/2023 to 12/09/2026)
+Learning Progress Till Now -> 1308 days (13/02/2023 to 13/09/2026)
 <details><summary><u>Day 1301 - Day 1310 ~ Septermber 06, 2026 - September 15, 2026</u></summary><p>
+<details><summary><u>Day 1308</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1308e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1308ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1308b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1308chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1308chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1308chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1308chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "OpenAI's Secret Chip: Is GPT-6 Astra Actually AGI?"](https://www.youtube.com/watch?v=TL3cWILYr6I)
+  - 💻 [Java Blog read -> "String Interpolation in Java"](https://www.baeldung.com/java-string-interpolation)
+  - 💻 [Devops Blog read -> "Deployments and ReplicaSets"](https://devops-daily.com/guides/introduction-to-kubernetes/04-deployments-and-replicasets)
+  - 💻 [Technical Blog read -> "Choosing a Claude model and effort level in Claude Code"](https://claude.com/blog/claude-model-and-effort-level-in-claude-code)
+- 📰 [Daily English News -> "Apple's New iPhone Camera Mode Promises to Prove Your Photo Isn't AI"](https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai)
+- 💰📈 [Finshots ~ "If OPEC still matters, why is the UAE leaving?"](https://finshots.in/archive/if-opec-still-matters-why-is-the-uae-leaving/)
+</p></details>
 <details><summary><u>Day 1307</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1307e1.png)
@@ -636,7 +654,7 @@ Learning Progress Till Now -> 1307 days (13/02/2023 to 12/09/2026)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1253chs4.png)
 - 💻 Technical / Curiosity Learning
   - 💻 [Youtube case study -> "Why GPUs Weren’t Enough for AI"](https://www.youtube.com/watch?v=vgrBYtPMfw0)
-  - 💻 [Java Blog read -> "Java Multi-line String"](https://www.baeldung.com/java-multiline-string)
+  - 💻 [Java Blog read -> "Java Text Blocks"](https://www.baeldung.com/java-text-blocks)
 - 💰📈 [Finshots ~  "Economy - The economics of space exploration"](https://finshots.in/archive/the-economics-of-space-exploration/)
 </p></details>
 <details><summary><u>Day 1252</u></summary><p>
