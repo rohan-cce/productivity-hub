@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1308 days (13/02/2023 to 13/09/2026)
+Learning Progress Till Now -> 1309 days (13/02/2023 to 14/09/2026)
 <details><summary><u>Day 1301 - Day 1310 ~ Septermber 06, 2026 - September 15, 2026</u></summary><p>
+<details><summary><u>Day 1309</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1309e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1309ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1309b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1309chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1309chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1309chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1309chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "The Billion-Dollar Monastery | How Bhutan Fought Poverty With Bitcoins"](https://youtu.be/Pb9KiLgqahY)
+  - 💻 [Java Blog read -> "Checking for Empty or Blank Strings in Java"](https://www.baeldung.com/java-blank-empty-strings)
+  - 💻 [Devops Blog read -> "Deployments and ReplicaSets"](https://devops-daily.com/guides/introduction-to-kubernetes/04-deployments-and-replicasets)
+  - 💻 [Technical Blog read -> "Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents"](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
+- 📰 [Daily English News -> "UK Government Rejects 'Kill Switch' Idea For Dangerous AI"](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai)
+- 💰📈 [Finshots ~ "Business - Inside India’s response to the global helium shortage"](https://finshots.in/archive/inside-indias-response-to-the-global-helium-shortage/)
+</p></details>
 <details><summary><u>Day 1308</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1308e1.png)
