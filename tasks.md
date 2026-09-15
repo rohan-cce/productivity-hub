@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1309 days (13/02/2023 to 14/09/2026)
+Learning Progress Till Now -> 1310 days (13/02/2023 to 15/09/2026)
 <details><summary><u>Day 1301 - Day 1310 ~ Septermber 06, 2026 - September 15, 2026</u></summary><p>
+<details><summary><u>Day 1310</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1310e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1310ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1310b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1310chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1310chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1310chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1310chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "7 Coding Laws of Senior Developer"](https://www.youtube.com/watch?v=JcYMtYbNUhU)
+  - 💻 [Java Blog read -> "Split a String in Java"](https://www.baeldung.com/java-split-string)
+- 📰 [Daily English News -> "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds"](https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds)
+- 💰📈 [Finshots ~ "Policy - What happens when India runs out of urea"](https://finshots.in/archive/what-happens-when-india-runs-out-of-urea/)
+</p></details>
 <details><summary><u>Day 1309</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1309e1.png)
