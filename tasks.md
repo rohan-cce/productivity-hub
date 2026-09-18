@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1312 days (13/02/2023 to 17/09/2026)
+Learning Progress Till Now -> 1313 days (13/02/2023 to 18/09/2026)
 <details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+<details><summary><u>Day 1313</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1313e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1313ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1313b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1313chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1313chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1313chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1313chs4.png)
+- 💻 Technical / Curiosity Learning
+    - 💻 [Java Blog read -> "How to Remove the Last Character of a String?"](https://www.baeldung.com/java-remove-last-character-of-string)
+- 📰 [Daily English News -> "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)"](https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?sbsrc=md)
+- 💰📈 [Finshots ~ "Policy - India's FDI opens a small window for China"](https://finshots.in/archive/indias-fdi-opens-a-small-window-for-china/)
+</p></details>
 <details><summary><u>Day 1312</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1312e1.png)
