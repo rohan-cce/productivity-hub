@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1314 days (13/02/2023 to 19/09/2026)
+Learning Progress Till Now -> 1315 days (13/02/2023 to 20/09/2026)
 <details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+<details><summary><u>Day 1315</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1315e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1315ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1315b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1315chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1315chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1315chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1315chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "How the Melting Arctic Could Shift Power Toward Russia"](https://youtu.be/PK4Ty_cyCMI)
+  - 💻 [Java Blog read -> "How to Reverse a String in Java"](https://www.baeldung.com/java-reverse-string)
+- 📰 [Daily English News -> "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit"](https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit)
+- 💰📈 [Finshots ~ "Business - What GameStop sees in eBay"](https://finshots.in/archive/what-gamestop-sees-in-ebay/)
+</p></details>
 <details><summary><u>Day 1314</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1314e1.png)
