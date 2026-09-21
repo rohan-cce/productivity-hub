@@ -1,6 +1,25 @@
 # productivity-hub
-Learning Progress Till Now -> 1315 days (13/02/2023 to 20/09/2026)
+Learning Progress Till Now -> 1316 days (13/02/2023 to 21/09/2026)
 <details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+<details><summary><u>Day 1316</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1316e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1316ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1316b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1316chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1316chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1316chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1316chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Why Your Database Forgets Everything — Event Sourcing Explained"](https://youtu.be/MWrUhTmSC2U)
+  - 💻 [Java Blog read -> "Check If a String Is Numeric in Java"](https://www.baeldung.com/java-check-string-number)
+  - 💻 [Devops Blog read -> "Services and Networking"](https://devops-daily.com/guides/introduction-to-kubernetes/05-services-and-networking)
+  - 💻 [Technical Blog read -> "The Language Instinct of Computers - Part I"](https://kirupakkirisamy.substack.com/p/the-language-instinct-of-computers)
+  - 💻 [Technical Blog read -> "DHH is both a curse and a blessing"](https://www.tsukie.com/en/indie/dhh-is-both-a-curse-and-a-blessing/?ref=dailydev)
+- 📰 [Daily English News -> "The Brain Is Actually Two Completely Separate Organs"](https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs)
+- 💰📈 [Finshots ~ "What is the appeal of orbital data centres?"](https://finshots.in/archive/what-is-the-appeal-of-orbital-data-centres/)
+</p></details>
 <details><summary><u>Day 1315</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1315e1.png)
