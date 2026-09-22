@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1316 days (13/02/2023 to 21/09/2026)
+Learning Progress Till Now -> 1317 days (13/02/2023 to 22/09/2026)
 <details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+<details><summary><u>Day 1317</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1317e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1317ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1317b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1317chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1317chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1317chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1317chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Java Blog read -> "Check If a String Is a Valid Date in Java"](https://www.baeldung.com/java-string-valid-date)
+- 📰 [Daily English News -> "Bit flips: How cosmic rays grounded a fleet of "](https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft)
+- 💰📈 [Finshots ~ "SEBI’s buyback overhaul explained"](https://finshots.in/archive/sebis-buyback-overhaul-explained/)
+</p></details>
 <details><summary><u>Day 1316</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1316e1.png)
