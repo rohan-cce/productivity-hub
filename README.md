@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1317 days (13/02/2023 to 22/09/2026)
+Learning Progress Till Now -> 1318 days (13/02/2023 to 23/09/2026)
 <details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+<details><summary><u>Day 1318</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1318e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1318ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1318b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1318chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1318chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1318chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1318chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Java Blog read -> "Capitalize the First Letter of a String in Java"](https://www.baeldung.com/java-string-uppercase-first-letter)
+- 📰 [Daily English News -> "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform (thehackernews.com)"](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform)
+- 💰📈 [Finshots ~ "Policy - Why do state governments want data centres?"](https://finshots.in/archive/why-do-state-governments-want-data-centres/)
+</p></details>
 <details><summary><u>Day 1317</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1317e1.png)
