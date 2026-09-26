@@ -1,6 +1,19 @@
 # productivity-hub
-Learning Progress Till Now -> 1320 days (13/02/2023 to 25/09/2026)
-<details><summary><u>Day 1311 - Day 1320 ~ Septermber 16, 2026 - September 25, 2026</u></summary><p>
+Learning Progress Till Now -> 1321 days (13/02/2023 to 25/09/2026)
+<details><summary><u>Day 1321 - Day 1320 ~ September 26, 2026 - October 05, 2026</u></summary><p>
+<details><summary><u>Day 1321</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1321e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1321ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1320b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1321chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1321chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1321chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1321chs4.png)
+</p></details>
+</p></details>
+<details><summary><u>Day 1311 - Day 1320 ~ September 16, 2026 - September 25, 2026</u></summary><p>
 <details><summary><u>Day 1320</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1320e1.png)
@@ -149,7 +162,7 @@ Learning Progress Till Now -> 1320 days (13/02/2023 to 25/09/2026)
 - 💰📈 [Finshots ~ "Policy - The problem with lithium discoveries"](https://finshots.in/archive/the-problem-with-lithium-discoveries/)
 </p></details>
 </p></details>
-<details><summary><u>Day 1301 - Day 1310 ~ Septermber 06, 2026 - September 15, 2026</u></summary><p>
+<details><summary><u>Day 1301 - Day 1310 ~ September 06, 2026 - September 15, 2026</u></summary><p>
 <details><summary><u>Day 1310</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1310e1.png)
