@@ -1,6 +1,24 @@
 # productivity-hub
-Learning Progress Till Now -> 1321 days (13/02/2023 to 26/09/2026)
+Learning Progress Till Now -> 1322 days (13/02/2023 to 27/09/2026)
 <details><summary><u>Day 1321 - Day 1320 ~ September 26, 2026 - October 05, 2026</u></summary><p>
+<details><summary><u>Day 1322</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1322e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1322ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1322b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1322chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1322chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1322chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1322chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "The Truth About SWIFT: Why It's Still King of Finance"](https://www.youtube.com/watch?v=SgFYe9zS5Ek)
+  - 💻 [Java Blog read -> "Remove Whitespace From a String in Java"](https://www.baeldung.com/java-string-remove-whitespace)
+  - 💻 [Devops Blog read -> "Persistent Storage in Kubernetes"](https://devops-daily.com/guides/introduction-to-kubernetes/07-persistent-storage-in-kubernetes)
+  - 💻 [Technical Blog read -> "The Language Instinct of Computers - Part II"](https://kirupakkirisamy.substack.com/p/the-language-instinct-of-computers-cd2)
+- 💰📈 [Finshots ~ "Business - Why Royal Enfield didn’t really leave Tamil Nadu"](https://finshots.in/archive/why-royal-enfield-didnt-really-leave-tamil-nadu/)
+- 📰 [Daily English News -> "Microsoft revamps Copilot with code generation, agentic AI tools"](https://www.reuters.com/technology/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-2026-09-25/)
+</p></details>
 <details><summary><u>Day 1321</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1321e1.png)
