@@ -1,6 +1,23 @@
 # productivity-hub
-Learning Progress Till Now -> 1322 days (13/02/2023 to 27/09/2026)
+Learning Progress Till Now -> 1323 days (13/02/2023 to 28/09/2026)
 <details><summary><u>Day 1321 - Day 1320 ~ September 26, 2026 - October 05, 2026</u></summary><p>
+<details><summary><u>Day 1323</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1323e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1323ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1322b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1323chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1323chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1323chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1323chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "BETRAYAL OF SAUDI ARABIA? | Why America Abandoned Saudi Arabia in Its Darkest Hour?"](https://youtu.be/UY9H83yQnzc)
+  - 💻 [Java Blog read ->  "String Concatenation in Java"](https://www.baeldung.com/java-string-concatenation)
+  - 💻 [Devops Blog read -> "Persistent Storage in Kubernetes"](https://devops-daily.com/guides/introduction-to-kubernetes/07-persistent-storage-in-kubernetes)
+- 💰📈 [Finshots ~ "Economics - FPE #1: Why economics can explain your love life"](https://finshots.in/archive/why-economics-can-explain-your-love-life-search-theory/)
+- 📰 [Daily English News -> "Nvidia releases AI safety software it says could have stopped Hugging Face hack"](https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/)
+</p></details>
 <details><summary><u>Day 1322</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1322e1.png)
