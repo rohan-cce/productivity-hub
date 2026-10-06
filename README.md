@@ -1,5 +1,18 @@
 # productivity-hub
-Learning Progress Till Now -> 1330 days (13/02/2023 to 05/10/2026)
+Learning Progress Till Now -> 1331 days (13/02/2023 to 05/10/2026)
+<details><summary><u>Day 1331 - Day 1340 ~ October 06, 2026 - October 15, 2026</u></summary><p>
+<details><summary><u>Day 1331</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1331e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1331ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1331b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1331chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1331chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1331chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1331chs4.png)
+</p></details>
+</p></details>
 <details><summary><u>Day 1321 - Day 1320 ~ September 26, 2026 - October 05, 2026</u></summary><p>
 <details><summary><u>Day 1330</u></summary><p>
 
