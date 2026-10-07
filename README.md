@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1331 days (13/02/2023 to 05/10/2026)
+Learning Progress Till Now -> 1332 days (13/02/2023 to 07/10/2026)
 <details><summary><u>Day 1331 - Day 1340 ~ October 06, 2026 - October 15, 2026</u></summary><p>
+<details><summary><u>Day 1332</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1332e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1332ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1332b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1332chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1332chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1332chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1332chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "JEV Deep Dive: The AI Model That Doesn't Generate Text"](https://youtu.be/77owx_9zLvY)
+  - 💻 [Java Blog read ->  "Difference Between String isEmpty() and isBlank()"](https://www.baeldung.com/java-string-isempty-vs-isblank)
+- 💰📈 [Finshots ~ "What are capital controls anyway?"](https://finshots.in/archive/what-are-capital-controls-anyway/)
+- 📰 [Daily English News -> "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"](https://www.reuters.com/business/retail-consumer/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-2026-10-02/)
+</p></details>
 <details><summary><u>Day 1331</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1331e1.png)
