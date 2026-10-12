@@ -1,6 +1,21 @@
 # productivity-hub
-Learning Progress Till Now -> 1336 days (13/02/2023 to 11/10/2026)
+Learning Progress Till Now -> 1337 days (13/02/2023 to 12/10/2026)
 <details><summary><u>Day 1331 - Day 1340 ~ October 06, 2026 - October 15, 2026</u></summary><p>
+<details><summary><u>Day 1337</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1337e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1337ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1337b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1337chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1337chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1337chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1337chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Java Blog read ->  "Check if a String Is a Palindrome in Java"](https://www.baeldung.com/java-palindrome)
+- 💰📈 [Finshots ~ "FPE #2: Economics can explain if AI can snatch your job"](https://finshots.in/archive/fpe-2-luddite-fallacy-can-explain-if-ai-can-snatch-your-job/)
+- 📰 [Daily English News -> "Amazon launches first Android tablets, raising prices and incorporating Alexa"](https://www.reuters.com/business/retail-consumer/amazon-launches-first-android-tablets-raising-prices-incorporating-alexa-2026-10-08/)
+</p></details>
 <details><summary><u>Day 1336</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1336e1.png)
