@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1352 days (13/02/2023 to 27/10/2026)
+Learning Progress Till Now -> 1353 days (13/02/2023 to 28/10/2026)
 <details><summary><u>Day 1351 - Day 1360 ~ October 26, 2026 - November 04, 2026</u></summary><p>
+<details><summary><u>Day 1353</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1353e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1353ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1353b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1353chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1353chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1353chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1353chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Why AI Infrastructure Is Moving to Rust"](https://youtu.be/2j4_iPG5Aqk)
+  - 💻 [Java Blog read -> "Splitting a Java String by Multiple Delimiters"](https://www.baeldung.com/java-string-split-multiple-delimiters)
+- 💰📈 [Finshots ~ "How Wockhardt solved a problem Indian pharma couldn't"](https://finshots.in/archive/how-wockhardt-solved-a-problem-indian-pharma-couldnt/)
+- 📰 [Daily English News -> "China's new export curbs draw a line around its AI crown jewels"](https://www.reuters.com/business/retail-consumer/chinas-new-export-curbs-draw-line-around-its-ai-crown-jewels-2026-10-28/)
+</p></details>
 <details><summary><u>Day 1352</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1352e1.png)
