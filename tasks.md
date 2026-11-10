@@ -72,6 +72,7 @@ Learning Progress Till Now -> 1366 days (13/02/2023 to 10/11/2026)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1361chs3.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1361chs4.png)
 </p></details>
+</p></details>
 <details><summary><u>Day 1351 - Day 1360 ~ October 26, 2026 - November 04, 2026</u></summary><p>
 <details><summary><u>Day 1360</u></summary><p>
 
