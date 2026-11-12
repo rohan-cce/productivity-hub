@@ -1,11 +1,27 @@
 # productivity-hub
-Learning Progress Till Now -> 1367 days (13/02/2023 to 11/11/2026)
+Learning Progress Till Now -> 1368 days (13/02/2023 to 12/11/2026)
 <details><summary><u>Day 1361 - Day 1370 ~ November 05, 2026 - November 14, 2026</u></summary><p>
+<details><summary><u>Day 1368</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1368-D1500/d1368e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1368-D1500/d1368ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1368-D1500/d1368b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1368chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1368chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1368chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1368chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "bfs"](https://youtu.be/UyJWUiYcG1Q)
+  - 💻 [Java Blog read -> "Java StringJoiner"](https://www.baeldung.com/java-string-joiner)
+- 💰📈 [Finshots ~ "Why MSC wants a stake in Vizhinjam Port"](https://finshots.in/archive/why-msc-wants-a-stake-in-vizhinjam-port/)
+- 📰 [Daily English News -> "Chinese university bought Nvidia H200 chips despite US blacklist"](https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/)
+</p></details>
 <details><summary><u>Day 1367</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1201-D1300/d1367e1.png)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1201-D1300/d1367ls1.png)
-- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1366b1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1201-D1800/d1367b1.png)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1367chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1201-D1300/d1367chs2.png)
