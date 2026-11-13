@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1368 days (13/02/2023 to 13/11/2026)
+Learning Progress Till Now -> 1369 days (13/02/2023 to 13/11/2026)
 <details><summary><u>Day 1361 - Day 1370 ~ November 05, 2026 - November 14, 2026</u></summary><p>
+<details><summary><u>Day 1369</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1368-D1500/d1369e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1368-D1500/d1369ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1368-D1500/d1369b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1369chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1369chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1369chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1369chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "Did AI Just Solve an 'Impossible' Problem? | Full Breakdown"](https://youtu.be/7cFV4oDfwIc)
+  - 💻 [Java Blog read -> "String Operations with Java Streams"](https://www.baeldung.com/java-stream-operations-on-strings)
+- 💰📈 [Finshots ~ "Why you’re paying for flights you never took"](https://finshots.in/archive/why-youre-paying-for-flights-you-never-took/)
+- 📰 [Daily English News -> "Malaysia probing whether chips linked to Megaspeed unit were re-exported"](https://www.reuters.com/world/asia-pacific/malaysia-says-it-is-investigating-if-any-chips-linked-speedmatrix-were-re-2026-11-13/)
+</p></details>
 <details><summary><u>Day 1368</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1368-D1500/d1368e1.png)
