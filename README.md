@@ -1,6 +1,22 @@
 # productivity-hub
-Learning Progress Till Now -> 1371 days (13/02/2023 to 15/11/2026)
+Learning Progress Till Now -> 1372 days (13/02/2023 to 16/11/2026)
 <details><summary><u>Day 1371 - Day 1380 ~ November 05, 2026 - November 14, 2026</u></summary><p>
+<details><summary><u>Day 1372</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1368-D1500/d1372e1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/productivity-hub/blob/main/images/lumosity/D1368-D1500/d1372ls1.png)
+- ✔️ [Completed One Challenge in Brilliant](https://github.com/rohan-cce/productivity-hub/blob/main/images/brilliant/D1368-D1500/d1372b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1372chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1372chs2.png)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1372chs3.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/productivity-hub/blob/main/images/chess/D1368-D1500/d1372chs4.png)
+- 💻 Technical / Curiosity Learning
+  - 💻 [Youtube case study -> "10,000 Users Hit One Server and It Dies. Here's What Actually Fixes It."](https://www.youtube.com/watch?v=79GIGeDA8_k)
+  - 💻 [Java Blog read -> "String Operations with Java Streams"](https://www.baeldung.com/java-stream-operations-on-strings)
+- 💰📈 [Finshots ~ "How close are we to Universal Basic Income?"](https://finshots.in/archive/how-close-are-we-to-universal-basic-income/)
+- 📰 [Daily English News -> "US, allies team up to protect AI tech and infrastructure amid China rivalry"](https://www.reuters.com/world/china/us-allies-team-up-protect-ai-tech-infrastructure-amid-china-rivalry-2026-11-16/)
+</p></details>
 <details><summary><u>Day 1371</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/productivity-hub/blob/main/images/elevate/D1368-D1500/d1371e1.png)
